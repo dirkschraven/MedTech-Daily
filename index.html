@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Medtech Daily</title>
+<style>
+  :root {
+    --bg: #faf9f6;
+    --surface: #ffffff;
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-muted: #888780;
+    --border: #e5e3db;
+    --accent-bg: #e6f1fb;
+    --accent-text: #0c447c;
+    --success-bg: #eaf3de;
+    --success-text: #27500a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    line-height: 1.6;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+  header { padding-bottom: 1.25rem; border-bottom: 1px solid var(--border); margin-bottom: 1.5rem; }
+  h1 { font-size: 26px; font-weight: 600; margin: 0; }
+  .subtitle { color: var(--text-secondary); font-size: 14px; margin: 4px 0 0; }
+  .date-badge { display: inline-block; margin-top: 10px; font-size: 12px; background: var(--accent-bg); color: var(--accent-text); padding: 3px 10px; border-radius: 6px; }
+  .feature { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem; }
+  .feature-label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent-text); margin: 0 0 8px; }
+  .feature-title { font-size: 20px; font-weight: 600; margin: 0 0 12px; }
+  .feature-summary { color: var(--text-secondary); margin: 0; }
+  .highlights { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-top: 1.25rem; }
+  .highlight { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; }
+  .highlight-label { font-size: 11px; color: var(--accent-text); font-weight: 600; margin: 0 0 4px; }
+  .highlight-text { font-size: 13px; margin: 0; }
+  .section-title { font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.07em; color: var(--text-secondary); margin: 2rem 0 1rem; }
+  .cat-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 1.25rem; }
+  .cat-tab { font-size: 12px; padding: 5px 12px; border-radius: 6px; border: 1px solid var(--border); background: var(--surface); color: var(--text-secondary); cursor: pointer; }
+  .cat-tab.active { background: var(--accent-bg); color: var(--accent-text); border-color: var(--accent-text); }
+  .article { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.1rem 1.3rem; margin-bottom: 0.85rem; }
+  .article-cat { font-size: 11px; font-weight: 600; border-radius: 4px; padding: 2px 8px; display: inline-block; margin-bottom: 8px; background: var(--accent-bg); color: var(--accent-text); }
+  .article-title { font-size: 16px; font-weight: 600; margin: 0 0 5px; }
+  .article-title a { color: inherit; text-decoration: none; }
+  .article-title a:hover { text-decoration: underline; }
+  .article-source { font-size: 12px; color: var(--text-muted); margin: 0 0 6px; }
+  .article-snippet { font-size: 14px; color: var(--text-secondary); margin: 0; }
+  .result-tag { font-size: 11px; background: var(--success-bg); color: var(--success-text); border-radius: 4px; padding: 3px 8px; display: inline-block; margin-top: 8px; }
+  .status { text-align: center; padding: 3rem 1rem; color: var(--text-secondary); }
+  footer { text-align: center; font-size: 12px; color: var(--text-muted); margin-top: 2.5rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Medtech Daily</h1>
+    <p class="subtitle">Implementation results in healthcare innovation, curated daily</p>
+    <span class="date-badge" id="date-badge"></span>
+  </header>
+  <main id="app">
+    <div class="status">Loading today's briefing…</div>
+  </main>
+  <footer>Generated automatically each morning via the Anthropic API and GitHub Actions.</footer>
+</div>
+
+<script>
+const CATS = [
+  "AI & Machine Learning", "Diagnostics & Imaging", "Digital Health",
+  "Robotics & Surgery", "Wearables & Monitoring",
+  "Genomics & Precision Medicine", "Drug Delivery & Therapeutics", "Other"
+];
+
+let allArticles = [];
+
+function renderArticles(list) {
+  if (!list.length) return '<p style="color:var(--text-muted)">No articles in this category today.</p>';
+  return list.map(a => `
+    <div class="article">
+      <span class="article-cat">${a.category}</span>
+      <p class="article-title"><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></p>
+      <p class="article-source">${a.source}</p>
+      <p class="article-snippet">${a.snippet}</p>
+      <span class="result-tag">${a.result}</span>
+    </div>
+  `).join('');
+}
+
+function filterCat(cat, btn) {
+  document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  const list = cat === 'All' ? allArticles : allArticles.filter(a => a.category === cat);
+  document.getElementById('articles-list').innerHTML = renderArticles(list);
+}
+
+fetch('briefing.json?t=' + Date.now())
+  .then(r => {
+    if (!r.ok) throw new Error('briefing.json not found yet');
+    return r.json();
+  })
+  .then(data => {
+    allArticles = data.articles || [];
+    document.getElementById('date-badge').textContent = data.date || '';
+    const cats = ['All', ...CATS.filter(c => allArticles.some(a => a.category === c))];
+    const f = data.feature || {};
+
+    document.getElementById('app').innerHTML = `
+      <div class="feature">
+        <p class="feature-label">Feature article</p>
+        <p class="feature-title">${f.title || ''}</p>
+        <p class="feature-summary">${f.summary || ''}</p>
+        <div class="highlights">
+          ${(f.highlights || []).map(h => `<div class="highlight"><p class="highlight-label">${h.label}</p><p class="highlight-text">${h.text}</p></div>`).join('')}
+        </div>
+      </div>
+      <p class="section-title">Today's articles</p>
+      <div class="cat-tabs">
+        ${cats.map(c => `<button class="cat-tab${c==='All'?' active':''}" onclick="filterCat('${c}', this)">${c}${c==='All' ? ' (' + allArticles.length + ')' : ' (' + allArticles.filter(a=>a.category===c).length + ')'}</button>`).join('')}
+      </div>
+      <div id="articles-list">${renderArticles(allArticles)}</div>
+    `;
+  })
+  .catch(err => {
+    document.getElementById('app').innerHTML =
+      '<div class="status">No briefing available yet. The first run happens on the next scheduled workflow, or you can trigger it manually from the Actions tab in GitHub.<br><br><small>' + err.message + '</small></div>';
+  });
+</script>
+</body>
+</html>

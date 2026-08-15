@@ -1,0 +1,9 @@
+{
+  "date": "not yet generated",
+  "feature": {
+    "title": "Your first briefing will appear here",
+    "summary": "Once the GitHub Actions workflow runs (on its daily schedule, or triggered manually from the Actions tab), this page will show today's medtech implementation news.",
+    "highlights": []
+  },
+  "articles": []
+}
