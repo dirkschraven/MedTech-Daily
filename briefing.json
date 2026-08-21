@@ -1,9 +1,112 @@
 {
-  "date": "not yet generated",
+  "date": "2026-08-21",
   "feature": {
-    "title": "Your first briefing will appear here",
-    "summary": "Once the GitHub Actions workflow runs (on its daily schedule, or triggered manually from the Actions tab), this page will show today's medtech implementation news.",
-    "highlights": []
+    "title": "Medtech's Results Era Arrives: Robotic Blood Draws, First-Ever Gene Therapy Approvals, and AI Deployed at 2,000 Hospitals Signal a Historic Week",
+    "summary": "The week of August 19, 2026 stands as one of the most consequential in recent medtech history, with the FDA authorizing the first autonomous robotic blood-draw device, granting the first-ever gene therapy for a rare metabolic disease, and backing a novel first-in-class orexin agonist for narcolepsy. Meanwhile, J&J's OTTAVA surgical robot has formally broken Intuitive Surgical's two-decade soft-tissue monopoly following FDA De Novo clearance, and AI radiology platforms have crossed 2,000-hospital deployments with measurable clinical outcomes. Across oncology, robotics, AI diagnostics, and drug delivery, 2026 is decisively the year the medtech industry shifted from promising pilots to validated, deployable results. Gene therapy, surgical robotics, and hospital AI are each printing proof points that will shape procurement and clinical practice for the next decade.",
+    "highlights": [
+      {
+        "label": "Biggest story",
+        "text": "FDA authorized the Aletta robotic blood-draw device on August 19 — the first of its kind — with clinical data showing success rates comparable to or better than trained human phlebotomists."
+      },
+      {
+        "label": "Key trend",
+        "text": "Gene therapy is graduating from promise to approved product: two separate FDA approvals in the same week (Genglycos for GSD1a and Tudriqev for advanced melanoma) mark a landmark moment for precision medicine."
+      },
+      {
+        "label": "To watch",
+        "text": "J&J's OTTAVA surgical robot, now FDA-cleared for 10 general surgery procedures, begins its phased commercial launch — the first real competitive threat to Intuitive Surgical's da Vinci in over 20 years."
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "FDA Authorizes First-Of-Its-Kind Robotic Blood Draw Device, the Aletta",
+      "source": "FDA / GlobeNewswire",
+      "category": "Robotics & Surgery",
+      "snippet": "The FDA on August 19, 2026, authorized the Aletta (Vitestro), the first standalone robotic device that can draw blood from a patient's arm without hands-on operator intervention, cleared for adults in outpatient settings. Clinical testing showed the Aletta achieved successful blood-draw rates comparable to or better than trained human phlebotomists, and a single phlebotomy supervisor can oversee up to three devices simultaneously — directly addressing the U.S. phlebotomist shortage.",
+      "result": "Blood-draw success rate ≥ trained human phlebotomists; 1 tech oversees 3 units",
+      "url": "https://www.globenewswire.com/news-release/2026/08/19/3347964/0/en/fda-authorizes-first-of-its-kind-robotic-blood-draw-device.html"
+    },
+    {
+      "title": "FDA Grants Accelerated Approval to Ultragenyx's Genglycos — First-Ever Gene Therapy for Glycogen Storage Disease Type Ia",
+      "source": "HCPLive / Ultragenyx",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "The FDA on August 19, 2026, granted accelerated approval for Genglycos (pariglasgene brecaparvovec-opnr, Ultragenyx), the first-ever approved treatment for glycogen storage disease type Ia, a rare metabolic disorder requiring lifelong cornstarch supplementation. The approval is based on a randomized, double-blind, placebo-controlled Phase 3 GlucoGene study in 46 patients aged 8 and older, which demonstrated a statistically significant 31% mean reduction in daily cornstarch intake versus placebo over 48 weeks (p<0.001).",
+      "result": "31% reduction in daily cornstarch intake vs. placebo at 48 weeks (p<0.001)",
+      "url": "https://www.hcplive.com/view/fda-approves-gene-therapy-for-glycogen-storage-disease-type-1a"
+    },
+    {
+      "title": "Replimune's Tudriqev (RP1 + Nivolumab) Wins FDA Accelerated Approval for Advanced Melanoma After Advisory Committee 10-3 Vote",
+      "source": "BioPharm International / FDA",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA granted accelerated approval on August 6, 2026, to Tudriqev (vusolimogene oderparepvec-wtpg, Replimune) in combination with nivolumab for adults with unresectable advanced cutaneous melanoma who progressed on prior anti-PD-1 therapy. In the pivotal IGNYTE trial (n=91 efficacy-evaluable patients), the combination achieved a 24.2% objective response rate with a median duration of response of 14.1 months, overcoming two prior complete response letters.",
+      "result": "24.2% objective response rate; 14.1-month median duration of response in IGNYTE trial",
+      "url": "https://www.biopharminternational.com/view/fda-grants-accelerated-approval-replimune-tudriqev-nivolumab-melanoma"
+    },
+    {
+      "title": "Takeda's Orzeyful Approved as First Drug to Treat the Full Symptom Range of Narcolepsy Type 1",
+      "source": "American Academy of Sleep Medicine / Takeda",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA approved Orzeyful (oveporexton, Takeda) on August 5, 2026, as the first oral orexin receptor 2 agonist and the first medicine indicated to treat narcolepsy type 1 as a complete disorder rather than individual symptoms. Two randomized, double-blind, placebo-controlled 12-week Phase 3 studies (FirstLight and RadiantLight) enrolling 273 adults demonstrated statistically significant improvements across the full symptom range — including excessive daytime sleepiness, cataplexy reduction, and health-related quality of life — versus placebo.",
+      "result": "Significant improvements across all NT1 symptoms vs. placebo in 273-patient Phase 3 program",
+      "url": "https://aasm.org/fda-approves-orzeyful-for-narcolepsy-type-1-in-adults/"
+    },
+    {
+      "title": "J&J's OTTAVA Surgical Robot Wins FDA De Novo Authorization, Breaking da Vinci's 20-Year Soft-Tissue Monopoly",
+      "source": "TechTimes / Johnson & Johnson",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson received FDA De Novo authorization for its OTTAVA Robotic Surgical System on July 22, 2026, cleared for 10 upper-abdominal general surgery procedures including Roux-en-Y gastric bypass, sleeve gastrectomy, and hiatal hernia repair. In the pivotal FORTE study, all 30 patients completed their gastric bypass procedures robotically without conversion to non-robotic surgery, and average weight loss by 30 days post-procedure was 30 pounds; J&J has begun a phased U.S. commercial launch.",
+      "result": "100% procedure completion without conversion; 30 lbs average weight loss at 30 days",
+      "url": "https://www.techtimes.com/articles/321555/20260725/jj-ottava-fda-clearance-breaks-da-vincis-two-decade-soft-tissue-monopoly.htm"
+    },
+    {
+      "title": "Eli Lilly Retatrutide Phase 3 TRIUMPH-1 Delivers 28.3% Weight Loss — Approaching Bariatric Surgery Thresholds",
+      "source": "Quartz / Pharmaceutical Journal",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Eli Lilly on May 21, 2026, released topline Phase 3 TRIUMPH-1 results for retatrutide (GIP/GLP-1/glucagon triple agonist) in 2,339 adults with obesity or overweight, with all three tested doses meeting primary and key secondary endpoints at 80 weeks. The 12 mg dose produced an average 28.3% body weight reduction (70.3 lbs), with 45.3% of patients achieving ≥30% weight loss — a threshold historically associated only with bariatric surgery; a 104-week extension subgroup reached 30.3% average weight loss.",
+      "result": "28.3% average weight loss at 80 weeks; 45.3% of patients achieved ≥30% loss",
+      "url": "https://qz.com/eli-lilly-retatrutide-phase-3-obesity-trial-results-052126"
+    },
+    {
+      "title": "Aidoc's Clinical AI Platform Crosses 120 Million Patient Cases Analyzed Across Nearly 2,000 Hospitals",
+      "source": "MobiHealthNews",
+      "category": "AI & Machine Learning",
+      "snippet": "Aidoc's FDA-cleared clinical AI platform — now holding more than 31 FDA clearances and deployed across nearly 2,000 hospitals worldwide — has analyzed over 120 million patient cases and receives a second FDA Breakthrough Device Designation for its First Read tool, designed to generate preliminary radiology report text from chest X-rays. Its January 2026 CARE foundation model body CT triage solution covering 14 emergency conditions achieved 97% mean sensitivity and 98% mean specificity in the pivotal FDA study, representing the first foundation model-powered multi-condition AI triage device cleared by the FDA.",
+      "result": "97% sensitivity / 98% specificity across 14 conditions; deployed in ~2,000 hospitals",
+      "url": "https://www.mobihealthnews.com/news/aidoc-lands-fda-breakthrough-status-ai-drafts-radiology-reports"
+    },
+    {
+      "title": "Viz.ai Demonstrates 44% Reduction in Stroke Transfer Times at Real-World Hospital Deployment",
+      "source": "BusinessWire / Viz.ai",
+      "category": "AI & Machine Learning",
+      "snippet": "Real-world data presented at the 2026 International Stroke Conference demonstrated a 44% reduction in door-in-door-out (DIDO) time for large vessel occlusion (LVO) stroke patients at Adventist Health + Rideout following deployment of the Viz.ai AI platform. Average DIDO times fell from 202 minutes to 113 minutes, exceeding the Joint Commission's 120-minute national benchmark, with CTA-to-detection time reduced by 84% and care-team notification time cut from 45 minutes to 7 minutes.",
+      "result": "DIDO time: 202 min → 113 min (44% reduction); notification time cut from 45 to 7 min",
+      "url": "https://www.businesswire.com/news/home/20260305970976/en/Viz.ai-Study-Demonstrates-44-Reduction-in-Interfacility-Stroke-Transfer-Times"
+    },
+    {
+      "title": "12 Major U.S. Hospital Systems Form Diagnostic AI Consortium Backed by Aidoc's 60-Million-Case Platform",
+      "source": "Radiology Business",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Twelve prominent U.S. hospital systems announced on August 11, 2026, the formation of a Diagnostic AI consortium focused on improving safety, quality, and speed of diagnostic care through AI, partnering with Aidoc as technical infrastructure provider. Aidoc's technology, already deployed across nearly 2,000 hospitals and analyzing approximately 60 million patient cases annually, will underpin shared AI-backed workflows as member health systems measure and replicate successful implementation approaches across institutions.",
+      "result": "60 million cases/year analyzed; 12 major health systems formally committing to shared AI rollout",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/12-leading-hospital-systems-team-advance-radiology-ai"
+    },
+    {
+      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis From Class III to Class II, Widening Access to 3D Mammography",
+      "source": "Federal Register / FDA CDRH",
+      "category": "Diagnostics & Imaging",
+      "snippet": "The FDA published a proposed order on August 10, 2026, to reclassify digital breast tomosynthesis (DBT) systems from Class III (requiring full premarket approval) to Class II (special controls with 510(k) notification), citing sufficient real-world evidence of safety and effectiveness. The move is expected to significantly lower the regulatory burden for DBT device makers, facilitating broader clinical deployment of a technology that has shown reductions in false-positive recalls and increased cancer detection rates in large-scale screening programs.",
+      "result": "Reclassification from Class III to Class II proposed; broader DBT market access enabled",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
+    },
+    {
+      "title": "FDA PMA Approvals Surge in 2026 Despite Longer Review Times, 510(k) Clearances Up 2.5% Year-Over-Year",
+      "source": "MedTech Dive",
+      "category": "Other",
+      "snippet": "A mid-year BTIG analysis of FDA data shows that original premarket approvals (PMAs) reached 23 through June 2026 — up 10 from the same period in 2025 — and 510(k) clearances hit 1,669 through June, trending 2.5% ahead year-over-year. However, the average time to PMA approval has lengthened substantially to approximately 599 days compared to 402 days in 2025, a dynamic analysts attribute partly to staffing challenges at the FDA.",
+      "result": "23 PMAs approved H1 2026 (+10 YoY); 1,669 510(k) clearances through June 2026",
+      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
+    }
+  ],
+  "generated_at": "2026-08-21T19:13:00.239554+00:00"
 }
