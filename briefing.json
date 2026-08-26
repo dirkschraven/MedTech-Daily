@@ -1,120 +1,120 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "feature": {
-    "title": "Robot Draws Blood, AI Clears Melanoma Hurdle, and Surgical Bots Prove Their Worth: MedTech's Results-Driven Week",
-    "summary": "This week's medtech landscape is defined by landmark FDA authorizations backed by real clinical data — most notably the world's first robotic blood-draw device and a viral immunotherapy that achieved a 25% response rate in treatment-resistant melanoma. Surgical robotics continues to accumulate outcome evidence, with J&J's OTTAVA system completing a 30-patient bariatric cohort with zero conversions to open surgery, while AI-assisted robotic surgery meta-analyses confirm 25–30% reductions in operative time and complications across 25 studies. Wearable cardiology is also maturing from consumer gadget to clinical standard, with the Apple Watch outperforming traditional patch monitors in a prospective pediatric arrhythmia trial, and AliveCor's Kardia 12L reaching 39 FDA-cleared determinations after identifying over 4,000 real-world MI events. Underpinning all of this is a regulatory shift: 71% of non-federal acute-care hospitals now run predictive AI integrated into EHRs, and the FDA's new real-world evidence guidance is accelerating deployment of devices with population-level data.",
+    "title": "mRNA Cancer Vaccine Hits Phase 3 as Robotic Surgery, AI Scribes, and Autonomous Blood Draw Mark a Landmark Week in MedTech Deployment",
+    "summary": "The week ending August 26, 2026 stands as one of the most consequential in recent MedTech history, anchored by Moderna and Merck's Phase 3 INTerpath-001 trial proving their personalized mRNA cancer vaccine (intismeran) meaningfully delays melanoma recurrence alongside Keytruda — the first time mRNA technology has succeeded in a late-stage cancer trial. Simultaneously, the FDA authorized the world's first autonomous robotic blood-draw device (Aletta), granted De Novo clearance to J&J's table-integrated OTTAVA surgical robot, and cleared DeepHealth's AI breast ultrasound platform backed by multi-reader clinical validation data. Across hospital systems, real-world AI scribe deployments at Cleveland Clinic posted 97% clinician satisfaction and 70% utilization rates at one-year follow-up, while the Medtronic Hugo surgical robot continued its U.S. commercial rollout. Taken together, these developments signal that 2026 is the year MedTech crossed from pilots and promises to measurable, deployed patient outcomes at scale.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "The FDA authorized Vitestro's Aletta — the world's first standalone robotic blood-draw device — after clinical trials showed success rates comparable to or better than trained human phlebotomists."
+        "text": "Moderna and Merck's personalized mRNA cancer vaccine (intismeran + Keytruda) succeeded in its first-ever Phase 3 trial in 1,137 melanoma patients, meeting primary recurrence-free survival and distant metastasis-free survival endpoints — a historic first for mRNA oncology."
       },
       {
         "label": "Key trend",
-        "text": "Wearables are graduating from wellness trackers to clinical diagnostics, with the Apple Watch capturing twice as many arrhythmia events in children as traditional patch monitors in a prospective Stanford-led study."
+        "text": "Autonomous and AI-assisted devices achieved a trifecta of FDA authorization this month — a robot that draws blood without hands-on intervention, an AI system that reads and reports breast ultrasounds with 98%+ lesion localization accuracy, and a table-integrated soft-tissue surgical robot — signaling regulatory confidence in real-world autonomous clinical tools."
       },
       {
         "label": "To watch",
-        "text": "Insilico Medicine's AI-designed drug rentosertib heads toward Phase 3 for idiopathic pulmonary fibrosis after positive Phase 2a results — the most advanced clinical evidence yet for a fully AI-generated molecule."
+        "text": "Cleveland Clinic's published one-year ambient AI scribe data (97% satisfaction, 60% of users more likely to stay in practice) is becoming the industry benchmark for enterprise clinical AI deployment, and health systems that cannot match this execution standard risk falling behind on both workforce retention and competitive differentiation."
       }
     ]
   },
   "articles": [
     {
-      "title": "FDA Authorizes First-of-Its-Kind Robotic Blood Draw Device",
-      "source": "U.S. Food and Drug Administration",
+      "title": "Moderna and Merck's Personalized mRNA Cancer Vaccine Succeeds in First-Ever Phase 3 Melanoma Trial",
+      "source": "STAT News / Merck Press Release",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "The Phase 3 INTerpath-001 trial enrolling 1,137 patients with completely resected stage IIB–IV melanoma met its co-primary endpoints of recurrence-free survival (RFS) and distant metastasis-free survival (DMFS), with intismeran autogene plus Keytruda outperforming Keytruda alone with statistically significant and clinically meaningful improvements. This is the first mRNA-based cancer treatment to demonstrate success in a randomized late-stage trial, building on Phase 2b 5-year data presented at ASCO 2026 that showed a hazard ratio of 0.51 for recurrence or death versus pembrolizumab monotherapy.",
+      "result": "Phase 3 met RFS + DMFS endpoints; 1,137-patient trial",
+      "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/"
+    },
+    {
+      "title": "FDA Authorizes Vitestro's Aletta — World's First Autonomous Robotic Blood Draw Device",
+      "source": "FDA.gov / Becker's Hospital Review",
       "category": "Robotics & Surgery",
-      "snippet": "The FDA granted De Novo marketing authorization to Vitestro's Aletta on August 19, 2026 — the first standalone robotic device cleared to draw blood from adult patients without hands-on operator intervention. Clinical testing demonstrated that Aletta achieved successful blood-draw rates comparable to or better than trained human phlebotomists, with testing across patients of diverse health conditions, skin tones, and difficult vein access; device-related adverse events were uncommon and mild.",
-      "result": "Blood-draw success rate matches or exceeds trained phlebotomists",
+      "snippet": "The FDA granted De Novo marketing authorization to Aletta, a standalone device by Dutch firm Vitestro that uses near-infrared light and Doppler ultrasound to locate veins, then autonomously applies a tourniquet, prepares skin, inserts and disposes of the needle, swaps collection tubes, and applies a bandage — all without hands-on operator intervention. Clinical testing demonstrated successful blood-draw rates comparable to or better than trained human phlebotomists across a broad patient cohort including those with difficult-to-access veins, and one phlebotomist can now oversee up to three devices simultaneously.",
+      "result": "Blood-draw success rate ≥ trained human phlebotomists in clinical testing",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device"
     },
     {
-      "title": "FDA Approves New Engineered Viral Immunotherapy for Treatment-Resistant Advanced Melanoma",
-      "source": "U.S. Food and Drug Administration",
+      "title": "Cleveland Clinic AI Scribe Deployment Reaches 97% Clinician Satisfaction and 70% Encounter Utilization at One Year",
+      "source": "MedCity News / npj Health Systems",
+      "category": "AI & Machine Learning",
+      "snippet": "A peer-reviewed paper published in npj Health Systems documents how Cleveland Clinic onboarded more than 4,000 ambulatory care clinicians onto the Ambience Healthcare ambient AI scribe in just 4 months using a four-pillar governance framework. One-year follow-up data showed 97% clinician satisfaction and 70% encounter-level utilization among established users, with 60% of clinicians reporting the tool increased their likelihood of remaining in practice — a crucial metric given ongoing physician workforce shortages.",
+      "result": "97% satisfaction; 60% of clinicians more likely to stay in practice",
+      "url": "https://medcitynews.com/2026/08/cleveland-clinic-ai-healthcare-ambient-scribes/"
+    },
+    {
+      "title": "DeepHealth Receives FDA 510(k) Clearance for AI Breast Ultrasound — 37% Reduction in Radiologist Interpretation Time",
+      "source": "MedTech Dive / HIT Consultant",
+      "category": "AI & Machine Learning",
+      "snippet": "DeepHealth (a RadNet subsidiary) received FDA 510(k) clearance for an AI platform that automates breast ultrasound lesion detection, characterization, and report generation. A multi-reader multi-case clinical validation study involving 16 U.S. board-certified radiologists demonstrated greater than 98% lesion localization accuracy, an 8% sensitivity boost in cancer detection, and a 37% reduction in radiologist interpretation time; RadNet plans to deploy the platform across its national outpatient network by end of 2026, impacting an estimated 700,000+ annual breast ultrasound exams.",
+      "result": ">98% lesion accuracy; 8% sensitivity boost; 37% faster reads",
+      "url": "https://hitconsultant.net/2026/08/03/deephealth-receives-fda-clearance-ai-breast-ultrasound-radnet/"
+    },
+    {
+      "title": "FDA Grants De Novo Authorization to J&J's OTTAVA — World's First Table-Integrated Soft-Tissue Surgical Robot",
+      "source": "Johnson & Johnson / Fierce Biotech",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson received FDA De Novo authorization for OTTAVA, the world's first table-integrated soft-tissue robotic surgical system cleared for multiple general surgery procedures including Roux-en-Y gastric bypass, gastrectomy, and cholecystectomy. The pivotal 30-patient multicenter clinical study met all primary safety and performance endpoints through 30 days post-procedure with no conversions to non-robotic approaches, and patients lost an average of 30 pounds by 30 days after gastric bypass surgery.",
+      "result": "30-patient study: 0 conversions; avg. 30 lbs lost at 30 days",
+      "url": "https://www.fiercebiotech.com/medtech/jjs-ottava-surgical-robot-meets-primary-endpoints-gastric-bypass-study"
+    },
+    {
+      "title": "Medtronic Hugo Surgical Robot Now in Commercial Use at U.S. Hospitals After 98.5% Success Rate in Pivotal Trial",
+      "source": "Medaptly / Medtronic Newsroom",
+      "category": "Robotics & Surgery",
+      "snippet": "The Medtronic Hugo robotic-assisted surgery system, which earned FDA clearance for urologic procedures in December 2025 based on a 137-patient Expand URO pivotal study showing a 98.5% surgical success rate, completed its first U.S. commercial prostatectomy at Cleveland Clinic on February 17, 2026. The system — the first new soft-tissue surgical robotics platform to enter the U.S. market in over two decades — has since expanded to Duke University Hospital and Atrium Health Wake Forest Baptist, and Medtronic submitted additional 510(k) filings in June 2026 to cover general and gynecologic surgery indications.",
+      "result": "98.5% surgical success rate; first commercial U.S. case complete",
+      "url": "https://www.medaptly.com/news/surgery/medtronic-hugo-robotic-surgery-us-launch/"
+    },
+    {
+      "title": "FDA Approves Tudriqev — First Oncolytic Viral Immunotherapy for Treatment-Resistant Advanced Melanoma",
+      "source": "FDA.gov / Moffitt Cancer Center",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "On August 6, 2026, the FDA granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg, Replimune) in combination with nivolumab for adults with unresectable advanced cutaneous melanoma who progressed on anti-PD-1 therapy. The IGNYTE trial enrolled 140 patients, and clinical data showed that one in four patients responded to treatment, with responses lasting a median of nearly 14 months.",
-      "result": "25% objective response rate; median response duration ~14 months",
+      "snippet": "The FDA granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg) by Replimune for adult patients with unresectable advanced cutaneous melanoma who progressed on anti-PD-1 therapy, in combination with nivolumab. The approval was supported by clinical trial data showing a 25% objective response rate with responses lasting a median of nearly 14 months, offering a meaningful new option for patients who had exhausted standard immunotherapy.",
+      "result": "25% response rate; median response duration ~14 months",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma"
     },
     {
-      "title": "J&J's OTTAVA Robotic Surgical System Passes Pivotal Clinical Study",
-      "source": "Johnson & Johnson / Medical Economics",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced results from the first clinical study of the investigational OTTAVA Robotic Surgical System — a prospective, multicenter study evaluating safety and performance in Roux-en-Y gastric bypass procedures. In a 30-patient cohort, the study met its primary safety and performance endpoints through 30 days post-procedure, all procedures were completed robotically without conversion to a non-robotic approach, and average patient weight loss reached 30 pounds by 30 days.",
-      "result": "100% robotic procedure completion; 30-lb average weight loss at 30 days",
-      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
-    },
-    {
-      "title": "Apple Watch Captures Twice as Many Arrhythmias as Patch Monitors in Pediatric Study (PAWS Trial)",
-      "source": "Medscape / Heart Rhythm Society 2026",
-      "category": "Wearables & Monitoring",
-      "snippet": "The Pediatric Apple Watch Study (PAWS), a prospective trial of 107 children aged 6–18 with symptomatic palpitations, found the Apple Watch captured arrhythmia events in 48% of patients versus 19% for the standard Zio patch monitor (P < .0001), presented at Heart Rhythm 2026 in Chicago. Additionally, 79% of Apple Watch ECG tracings recorded during tachyarrhythmia episodes were rated good or excellent in quality by electrophysiologists, demonstrating reliable clinical interpretability.",
-      "result": "Apple Watch detected arrhythmias in 48% vs. 19% for patch monitor (p<.0001)",
-      "url": "https://www.medscape.com/viewarticle/apple-watch-heart-rhythm-monitoring-feasible-symptomatic-2026a1000ec2"
-    },
-    {
-      "title": "AliveCor Kardia 12L Reaches 39 FDA-Cleared Cardiac Determinations, Identifies 4,000+ Real-World MI Cases",
-      "source": "HIT Consultant / GlobeNewswire",
+      "title": "GE HealthCare Launches Invenia ABUS Prime with FDA 510(k) Clearance — 40% Faster Scans, 33% Faster Reads for Dense Breast Screening",
+      "source": "HIT Consultant / Business Wire",
       "category": "Diagnostics & Imaging",
-      "snippet": "AliveCor received FDA clearance in January 2026 for five additional cardiac determinations on its KAI 12L AI engine, bringing the Kardia 12L handheld ECG system to a total of 39 cleared determinations — and the system has now been deployed across more than 250 clinical practices. Real-world use on tens of thousands of patients has surfaced over 4,000 cases of myocardial infarction and ischemia, while a peer-reviewed study in Heart Rhythm O2 confirmed the system reduces ECG acquisition time by 29% versus conventional equipment.",
-      "result": "4,000+ MI/ischemia cases identified; ECG acquisition time cut 29%",
-      "url": "https://hitconsultant.net/2026/01/14/cardiology-alivecor-kai-12l-fda-clearance-39-determinations-2026/"
+      "snippet": "GE HealthCare launched the Invenia ABUS Prime and ABUS StreamVue (FDA 510(k) cleared and CE marked) for supplemental 3D ultrasound screening in women with dense breasts — approximately 40% of U.S. and European women. The system's Fast Scan tool reduces acquisition time by up to 40%, while embedded QVCAD AI triage reduces radiologist interpretation time by 33% while maintaining 93% lesion detection sensitivity; BeSound in Los Angeles is among the first U.S. clinical installations, with a mobile screening unit planned for community outreach.",
+      "result": "40% faster scans; 33% faster reads; 93% lesion detection sensitivity",
+      "url": "https://hitconsultant.net/2026/08/03/ge-healthcare-launches-invenia-abus-prime-streamvue-dense-breast-screening/"
     },
     {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Faster, 30% Fewer Complications Across 25 Studies",
-      "source": "PMC / The Rise of Robotics and AI-Assisted Surgery",
+      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis from Class III to Class II, Signaling Proven Safety Record",
+      "source": "Federal Register / Alston & Bird Health Law",
+      "category": "Diagnostics & Imaging",
+      "snippet": "On August 7–10, 2026, the FDA published a proposed rule to reclassify digital breast tomosynthesis (DBT) systems from Class III (requiring premarket approval) to Class II (special controls with 510(k) notification), citing sufficient PMA safety data accumulated over more than a decade of clinical deployment. The reclassification, open for public comment until October 9, 2026, would significantly lower the regulatory burden for future DBT entrants and reflects FDA's recognition that the safety and effectiveness profile of 3D mammography is now well established in clinical practice.",
+      "result": "Downclass from PMA to 510(k) based on proven clinical safety record",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
+    },
+    {
+      "title": "AI in Clinical Trials — 86.5% of Early Adopters Report Above-Expectation Results in High-Volume Workflows: Medidata 2026 Report",
+      "source": "Medidata Solutions",
+      "category": "AI & Machine Learning",
+      "snippet": "Medidata's second annual State of AI in Clinical Trials report found that 86.5% of organizations using AI in high-volume, rules-based workflows are seeing measurable improvements, with early adopters reporting above-expectation results at nearly double the rate of late-movers across key performance indicators including site selection accuracy and protocol deviation rates. The report marks a clear shift from the 'exploration' phase, with a documented performance gap now emerging between organizations that have scaled AI on modern infrastructure versus those stalled on legacy systems.",
+      "result": "86.5% of AI-mature clinical orgs report above-expectation workflow results",
+      "url": "https://www.medidata.com/en/life-science-resources/medidata-blog/how-is-ai-being-used-in-clinical-trials-5-key-statistics-for-2026/"
+    },
+    {
+      "title": "Medtronic Hugo Expands Indications: Gynecology Enrollment Complete, General Surgery 510(k) Filed",
+      "source": "Medtronic Newsroom / MedTech Intelligence",
       "category": "Robotics & Surgery",
-      "snippet": "A systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted robotic procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical techniques. Surgical precision improved by 40% in tumor resections and implant placements, patient recovery times shortened by an average of 15%, and healthcare costs fell by approximately 10% versus conventional approaches.",
-      "result": "25% faster OR time, 30% fewer complications, 15% shorter recovery",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
+      "snippet": "Medtronic announced in June 2026 that it had completed patient enrollment in its Embrace Gynecology IDE clinical study for the Hugo RAS system and simultaneously submitted 510(k) filings for both general surgery (including hernia repair) and gynecologic surgery indications in the U.S. The company also received FDA clearance for its ProGrip Advanced mesh for robotic-assisted ventral hernia repair — a product whose predecessor has been used in more than 6 million procedures globally — underscoring a disciplined expansion strategy for Hugo's U.S. footprint.",
+      "result": "Gynecology trial enrollment complete; general surgery 510(k) filed",
+      "url": "https://news.medtronic.com/2026-06-03-Medtronic-submits-510-k-filings-to-expand-Hugo-TM-robotic-assisted-surgery-system-into-general-and-gynecologic-specialties-in-the-United-States"
     },
     {
-      "title": "Insilico Medicine's AI-Designed Drug Rentosertib Shows Positive Phase 2a Results for Pulmonary Fibrosis",
-      "source": "Drug Discovery Trends / PubMed (Nature Medicine)",
-      "category": "AI & Machine Learning",
-      "snippet": "Rentosertib (formerly ISM001-055), designed entirely by generative AI and targeting an AI-discovered TNIK pathway, improved lung function by 98.4 mL in a 71-patient double-blind, placebo-controlled Phase 2a trial for idiopathic pulmonary fibrosis, published in Nature Medicine. This marks the first peer-reviewed Phase 2a clinical result for a molecule whose both target and structure were discovered and generated entirely by AI, achieved in under 18 months from candidate nomination to human trials.",
-      "result": "98.4 mL lung function improvement vs. placebo in Phase 2a RCT",
-      "url": "https://www.drugdiscoverytrends.com/insilicos-ai-designed-rentosertib-shows-promise-in-first-phase-2a-trial-results/"
-    },
-    {
-      "title": "UChicago Stretchable AI Patch Achieves 99.6% Accuracy for Cardiac Wavefront Detection On-Body",
-      "source": "TechXplore / University of Chicago PME",
-      "category": "Wearables & Monitoring",
-      "snippet": "Researchers at the University of Chicago Pritzker School of Molecular Engineering developed a skin-like computing patch that runs AI inference directly on the body in milliseconds without cloud connectivity — validating cardiac wavefront position detection at 99.6% accuracy using real donor human heart data. A secondary test showed the device assessed heart attack risk at 83.5% accuracy by analyzing cholesterol, blood sugar, max heart rate, and ECG readings simultaneously, all while the patch was stretched to 1.5× its normal length.",
-      "result": "99.6% cardiac wavefront accuracy; 83.5% heart attack risk accuracy on-body",
-      "url": "https://techxplore.com/news/2026-05-ai-powered-stretchable-patch-algorithms.html"
-    },
-    {
-      "title": "Microsoft DAX Copilot Deployed Across 150+ Health Systems; Randomized Trial Confirms Documentation Benefits",
-      "source": "Deepgram / SOAP Note AI (NEJM AI RCT)",
-      "category": "AI & Machine Learning",
-      "snippet": "Microsoft's DAX Copilot ambient AI documentation tool has reached mainstream adoption across more than 150 health systems, with a landmark 238-physician randomized controlled trial across 14 specialties confirming that ambient AI scribes significantly reduce after-hours documentation time and burnout indicators compared to usual care. Stanford Health Care's deployment data show 96% physician satisfaction and an average savings of two hours per day in documentation time.",
-      "result": "2 hrs/day documentation time saved; 96% physician satisfaction at Stanford",
-      "url": "https://www.soapnoteai.com/soap-note-guides-and-example/ambient-ai-scribe-adoption-2026/"
-    },
-    {
-      "title": "71% of U.S. Acute-Care Hospitals Now Deploy Predictive AI Integrated Into EHRs",
-      "source": "Deepgram / Uvik AI in Healthcare Statistics 2026",
+      "title": "NVIDIA's 2026 Healthcare Survey: 70% of Health Organizations Have Deployed AI, But Most Lack Systematic Impact Metrics",
+      "source": "OneSynergy / NVIDIA Healthcare Survey 2026",
       "category": "Digital Health",
-      "snippet": "According to cross-survey analyses, 71% of non-federal acute-care hospitals in the United States now use predictive AI integrated directly into their electronic health records, demonstrating broad organizational readiness for clinical AI deployment. Approximately 80% of hospitals report using AI in at least one clinical or operational function, though most deployments remain at early maturity stages rather than embedded in core clinical pathways.",
-      "result": "71% of U.S. acute-care hospitals running EHR-integrated predictive AI",
-      "url": "https://uvik.net/blog/ai-in-healthcare-statistics-2026/"
-    },
-    {
-      "title": "COMPOSER Sepsis AI Deployed at UC San Diego Cuts In-Hospital Mortality by 17% in Prospective Study",
-      "source": "npj Digital Medicine / European Society of Medicine",
-      "category": "AI & Machine Learning",
-      "snippet": "A prospective before-and-after quasi-experimental study at UC San Diego Health evaluated COMPOSER, a deep learning sepsis prediction model, across two emergency departments over a five-month post-deployment period. Results showed a 17% relative reduction in in-hospital sepsis mortality and a 10% relative increase in sepsis bundle compliance, equating to 22 additional survivors during the intervention window.",
-      "result": "17% relative reduction in sepsis mortality; 22 additional survivors in 5 months",
-      "url": "https://esmed.org/ai-in-sepsis-management-predicting-icu-outcomes/"
-    },
-    {
-      "title": "Radiology AI Crosses 299 CE-Marked Solutions as Deployment Shifts from Pilots to Core Infrastructure",
-      "source": "ScienceDirect / Deployment Process for AI in Radiology",
-      "category": "Diagnostics & Imaging",
-      "snippet": "As of February 2026, the Health AI Register lists 299 CE-marked AI solutions for radiology, and FDA AI/ML clearances for radiology now exceed 1,000 — yet structured deployment frameworks are emerging as the critical gap between clearance and real clinical value. A peer-reviewed deployment process study published in a 2026 journal confirms that phased rollout with QA monitoring, KPI tracking, and user feedback loops is associated with sustainable workflow improvements and measurable clinical gains.",
-      "result": "299 CE-marked radiology AI tools live; 1,000+ FDA clearances in radiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1120179726001778"
+      "snippet": "NVIDIA's 2026 healthcare AI survey found that 70% of health organizations have deployed artificial intelligence in at least one operational area, a finding corroborated by WHO/Europe data showing 74% of European hospitals using AI in diagnostics. However, the survey reveals a critical execution gap: most organizations can report which AI tools are deployed but lack cross-functional measurement infrastructure to quantify clinical and financial value, with siloed deployments in radiology, ED, and pharmacy producing local metrics that do not compound into system-wide insight.",
+      "result": "70% of health orgs have deployed AI; majority cannot measure ROI",
+      "url": "https://www.onesynergy.eu/2026/06/04/healthcare-ai-deployment-value-gap-2026/"
     }
   ],
-  "generated_at": "2026-08-25T08:12:21.065110+00:00"
+  "generated_at": "2026-08-26T08:12:16.403960+00:00"
 }
