@@ -1,120 +1,120 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "feature": {
-    "title": "Robots Draw Blood, AI Breathes for Patients, and the NHS Goes All-In: Medtech's Implementation Week in Review",
-    "summary": "The week of August 28, 2026 marks a decisive shift from medtech hype to measurable deployment, anchored by the FDA's historic authorization of the world's first autonomous robotic phlebotomy device and a landmark JAMA trial proving AI-managed oxygen therapy outperforms clinicians. The NHS Midlands simultaneously rolled out ambient AI scribing to 70,000 clinicians backed by hard productivity data, while a bombshell PLOS Digital Health study revealed that only 3 of 1,357 FDA-cleared AI medical devices have ever been tested on actual patient outcomes — throwing the entire regulatory validation model into question. Europe's own AI diagnostics market is consolidating around specialist clinical models, with Corti's medical coding AI outperforming Big Tech on real hospital data, and J&J's OTTAVA robot achieving full FDA market authorization for general surgery. Across every category, the gap between regulatory clearance and clinical evidence is narrowing — but remains the sector's defining fault line.",
+    "title": "Robots Draw Blood, AI Runs on Your Skin, and Gene Therapy Cures Its First Rare Disease: MedTech's Big August",
+    "summary": "The final weeks of August 2026 delivered a cluster of landmark implementation milestones across medtech, anchored by the FDA's first-ever authorization of a standalone robotic phlebotomy device and the first gene therapy approval for glycogen storage disease type Ia. Hospital AI rollouts are scaling rapidly — NHS England is deploying ambient voice scribing to 70,000 clinicians backed by £10 billion in funding, with pilot data showing 47-minute-per-shift documentation savings. Meanwhile, the SAVE-O2 AI randomized clinical trial published in JAMA Internal Medicine proved that autonomous oxygen titration can keep hospitalized patients in their target oxygen range 35% more often than manual care, signaling that closed-loop clinical AI is ready for real deployment.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "FDA grants De Novo authorization to Vitestro's Aletta — the world's first standalone robotic blood draw device — allowing one phlebotomist to supervise up to three units simultaneously, addressing a national staffing crisis with clinical testing showing success rates comparable to trained human phlebotomists."
+        "text": "FDA authorized Vitestro's Aletta — the world's first standalone robotic blood-draw device — on August 19, with clinical data showing success rates comparable to or better than trained human phlebotomists."
       },
       {
         "label": "Key trend",
-        "text": "Ambient AI voice scribing has crossed from pilot to system-wide NHS infrastructure, with hard data showing 80% documentation time reduction and a 23.5% increase in direct patient care time, driving procurement of 70,000 clinician licenses across the English Midlands alone."
+        "text": "NHS England's ambient voice AI scribing rollout to 70,000 Midlands clinicians and four south-west London trusts represents the largest real-world deployment of clinical documentation AI ever attempted, backed by measurable pilot results of 47 minutes saved per clinician per shift."
       },
       {
         "label": "To watch",
-        "text": "A peer-reviewed PLOS Digital Health study found only 3 of 1,357 FDA-cleared AI medical devices have been evaluated on patient outcomes, setting the stage for a major regulatory reckoning over evidence standards for AI clearance."
+        "text": "A landmark PLOS Digital Health study revealed that of 1,357 FDA-cleared AI medical devices, only 3 have been evaluated for patient-centered outcomes like mortality or readmission — a validation gap that regulators and payers are increasingly unlikely to tolerate."
       }
     ]
   },
   "articles": [
     {
       "title": "FDA Authorizes First-Of-Its-Kind Robotic Blood Draw Device",
-      "source": "U.S. Food and Drug Administration",
+      "source": "FDA / GlobeNewswire",
       "category": "Robotics & Surgery",
-      "snippet": "The FDA granted De Novo marketing authorization to Vitestro's Aletta, the first standalone robotic phlebotomy device that draws blood from adults in outpatient settings without hands-on operator intervention, using near-infrared light and Doppler ultrasound to locate veins. FDA-reviewed clinical testing found blood-draw success rates comparable to or better than trained human phlebotomists, and one supervisor can oversee up to three devices simultaneously — directly addressing the U.S. phlebotomist shortage.",
-      "result": "Blood-draw success rate matches or exceeds trained human phlebotomists",
+      "snippet": "The FDA granted De Novo marketing authorization on August 19, 2026 to Vitestro's Aletta — the first standalone robotic device that draws blood from a patient's arm without hands-on operator intervention. Clinical testing demonstrated that Aletta achieves successful blood-draw rates comparable to or better than trained human phlebotomists, and a single supervising phlebotomist can oversee up to three devices simultaneously.",
+      "result": "Blood-draw success rate ≥ trained phlebotomists; 3:1 device-to-supervisor ratio",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device"
     },
     {
-      "title": "SAVE-O2 AI RCT: Autonomous Oxygen Titration Increases Time in Target Range from 63% to 85%",
+      "title": "SAVE-O2 AI Randomized Clinical Trial: Autonomous Oxygen Titration Raises On-Target Time from 63% to 85%",
       "source": "JAMA Internal Medicine / GlobeNewswire",
       "category": "AI & Machine Learning",
-      "snippet": "The multicenter SAVE-O2 AI randomized clinical trial, enrolling 300 hospitalized adults across four U.S. hospitals, found that the O2matic PRO100 autonomous oxygen titration system kept patients within their prescribed oxygen range 85% of the time versus 63% for standard clinician-managed care — a 35% relative improvement. Published in JAMA Internal Medicine on August 3, 2026, the trial demonstrated simultaneous reductions in both under-oxygenation and over-oxygenation, with investigators calling for broad adoption in civilian and military medicine.",
-      "result": "Target oxygen range adherence: 85% (AI) vs. 63% (manual care)",
-      "url": "https://www.globenewswire.com/news-release/2026/8/3/3337829/0/en/Randomized-U-S-Trial-Finds-Autonomous-System-Improves-Precision-of-Hospital-Oxygen-Therapy.html"
+      "snippet": "The multicenter SAVE-O2 AI trial, led by University of Colorado Anschutz and published in JAMA Internal Medicine, enrolled 300 hospitalized adults across four U.S. hospitals and found that the O2matic PRO100 autonomous oxygen titration system kept patients within their prescribed SpO₂ range 85% of the time versus 63% for standard clinician-managed care. The system also reduced time in hypoxemia by 45% and time in hyperoxemia by 68% compared to manual management.",
+      "result": "On-target oxygen time: 85% vs. 63% (35% relative improvement)",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337829/0/en/Randomized-U-S-Trial-Finds-Autonomous-System-Improves-Precision-of-Hospital-Oxygen-Therapy.html"
     },
     {
-      "title": "NHS Midlands Deploys Ambient Voice AI to 70,000 Clinicians After Pilots Show 80% Documentation Reduction",
+      "title": "FDA Approves Genglycos: First-Ever Gene Therapy for Glycogen Storage Disease Type Ia",
+      "source": "FDA / Ultragenyx Pharmaceutical",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "On August 19, 2026, the FDA granted accelerated approval to Genglycos (pariglasgene brecaparvovec-opnr), a one-time AAV8 gene therapy developed by Ultragenyx, making it the first approved treatment targeting the root enzymatic cause of GSDIa in patients aged 8 and older. Clinical study data demonstrated reduced cornstarch dependence at 48 weeks in a Phase 3 study, offering the first alternative to life-long, around-the-clock dietary management for approximately 1,500–2,500 U.S. patients.",
+      "result": "First approved GSDIa treatment; cornstarch intake reduced at 48 weeks in Phase 3",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia"
+    },
+    {
+      "title": "NHS Midlands Deploys Ambient AI Scribing to 70,000 Clinicians Across 1,239 GP Practices",
       "source": "Digital Health / NHS England",
       "category": "Digital Health",
-      "snippet": "NHS England's Midlands region procured Heidi's ambient voice technology for 1,239 GP practices and 70,000 clinicians across 15 trusts, following pilots that delivered an 80% reduction in documentation time in same-day emergency care and cleared a six-month rheumatology letter backlog down to 14 days. An NHS England-sponsored study underpinning the procurement showed a 23.5% increase in direct patient interaction time and an 8.2% reduction in overall appointment length when AI scribes were deployed.",
-      "result": "80% documentation time cut; 23.5% more patient interaction time",
+      "snippet": "NHS England in the Midlands procured ambient voice technology (AVT) for 70,000 clinicians across 1,239 GP practices and 15 acute and community trusts, the largest regional clinical AI rollout in NHS history. An NHS England-sponsored study showed a 23.5% increase in direct patient interaction time and an 8.2% reduction in overall appointment length when AI scribes were used, while a pilot at St George's Hospital saved clinicians an average of 47 minutes per shift.",
+      "result": "23.5% more patient face-time; 47 min/shift saved at St George's pilot",
       "url": "https://www.digitalhealth.net/2026/07/midlands-procures-ambient-voice-technology-for-70000-clinicians/"
     },
     {
-      "title": "Walsall and Wolverhampton NHS Trusts Go Live with Heidi Health AVT After Successful 8-Month ED Pilot",
-      "source": "Walsall Healthcare NHS Trust",
+      "title": "UpDoc Enters Major Health Systems as First FDA-Cleared Patient-Facing Clinical LLM for Diabetes",
+      "source": "STAT News / HLTH",
       "category": "Digital Health",
-      "snippet": "Following an 8-month pilot across the Emergency Department, Same Day Emergency Care, Dermatology, ENT, Audiology, and Obstetrics and Gynaecology at Walsall Manor Hospital, The Royal Wolverhampton and Walsall Healthcare NHS Trusts formally selected Heidi Health as their preferred ambient voice technology provider and began trust-wide rollout. The pilot — shortlisted for a 2026 HSJ Award in AI Care Quality — demonstrated that AI-generated consultation notes reduced administrative burden and improved clinician focus on patient interactions.",
-      "result": "Full NHS trust rollout following 8-month multi-specialty validated pilot",
-      "url": "https://www.walsallhealthcare.nhs.uk/news/2026/08/25/new-digital-ambient-voice-technology-avt/"
+      "snippet": "UpDoc, a Stanford spinout, publicly announced its FDA 510(k)-cleared (K253281) insulin management platform on June 25, 2026, and is now entering initial deployments at Cleveland Clinic, AHN, and UCSF. The device — cleared as the first medical software using a patient-facing large language model — delivers insulin titration guidance by voice or text within a physician-specified protocol, supported by a 32-patient randomized trial published in JAMA Network Open.",
+      "result": "Live at Cleveland Clinic, AHN, UCSF; first FDA-cleared patient-facing LLM device",
+      "url": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/"
     },
     {
-      "title": "Only 3 of 1,357 FDA-Cleared AI Medical Devices Have Ever Been Tested on Patient Outcomes",
-      "source": "PLOS Digital Health",
+      "title": "J&J OTTAVA Robotic Surgical System Clears Pivotal Trial: 100% Procedure Completion, 30 lbs Lost at 30 Days",
+      "source": "Johnson & Johnson / MD+DI",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson released results from the first clinical study of its OTTAVA robotic surgical system at the 2026 ASMBS Annual Meeting: in a 30-patient multicenter cohort undergoing Roux-en-Y gastric bypass, all procedures were completed robotically with no conversions, and patients achieved an average 30-pound weight loss by 30 days post-procedure. The system was successfully installed and operated in ORs as small as 243 square feet across all six participating hospitals, and data have been submitted to FDA for De Novo classification.",
+      "result": "100% robotic completion rate; avg. 30 lbs weight loss at 30 days in 6-site trial",
+      "url": "https://www.mddionline.com/robotics/johnson-johnson-hits-critical-milestone-for-ottava-robotic-surgical-system"
+    },
+    {
+      "title": "PLOS Digital Health Study: Only 3 of 1,357 FDA-Cleared AI Medical Devices Tested on Patient Outcomes",
+      "source": "PLOS Digital Health / Medical Xpress",
       "category": "AI & Machine Learning",
-      "snippet": "A systematic analysis published August 19, 2026 in PLOS Digital Health by University of Toronto and MIT Critical Data researchers found that of 1,357 FDA-cleared or approved AI/ML-enabled medical devices, only 34 (2.5%) were linked to registered prospective trials, and only 3 (0.2%) had been evaluated on patient-centered outcomes such as mortality, hospital readmissions, or quality of life. Radiology applications dominate the cleared device landscape at 78%, yet evidence that these tools improve patient health remains almost entirely absent.",
-      "result": "Only 0.2% of 1,357 FDA-cleared AI devices tested on patient outcomes",
+      "snippet": "A University of Toronto-led systematic analysis published August 19, 2026 in PLOS Digital Health found that of 1,357 FDA-cleared AI/ML-enabled medical devices, only 34 (2.5%) were linked to registered prospective trials, only 12 posted results, and only 3 (0.2%) were evaluated for patient-centered outcomes such as mortality, morbidity, or readmissions. The study found most evidence relied on observational designs with small, homogenous cohorts, revealing a profound validation gap between regulatory clearance and real-world clinical proof.",
+      "result": "Only 0.2% of 1,357 cleared AI devices tested for patient-centered outcomes",
       "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001597"
     },
     {
-      "title": "J&J OTTAVA Robotic Surgical System Receives FDA De Novo Authorization for General Surgery",
-      "source": "Johnson & Johnson",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson received FDA De Novo authorization for the OTTAVA™ Robotic Surgical System on July 22, 2026 — the world's first table-integrated soft tissue robotic platform — cleared for 10 general surgery procedures including Roux-en-Y gastric bypass, cholecystectomy, and gastrectomy. Pivotal clinical study data in 30 patients met all primary safety and performance endpoints through 30 days post-procedure, with all procedures completed robotically without conversion to a non-robotic approach and an average patient weight loss of 30 pounds at 30 days.",
-      "result": "100% robotic procedure completion, all safety endpoints met in 30-patient trial",
-      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-receives-fda-market-authorization-in-the-u-s-for-its-ottava-robotic-surgical-system"
+      "title": "UChicago Stretchable AI Cardiac Patch Achieves 99.6% Arrhythmia Detection Accuracy On-Body",
+      "source": "TechXplore / University of Chicago News",
+      "category": "Wearables & Monitoring",
+      "snippet": "Researchers at the University of Chicago Pritzker School of Molecular Engineering published validation results in Nature Electronics for a skin-like neuromorphic computing patch that runs cardiac AI algorithms entirely on the body without cloud connectivity. Using real donor human heart data, the device mapped cardiac wavefronts with 99.6% accuracy even while stretched to 1.5x its normal length, and assessed heart attack risk with 83.5% accuracy from combined vital signs and clinical data.",
+      "result": "99.6% cardiac wavefront accuracy; 83.5% heart attack risk accuracy, fully on-body",
+      "url": "https://techxplore.com/news/2026-05-ai-powered-stretchable-patch-algorithms.html"
     },
     {
-      "title": "GE HealthCare Launches Invenia ABUS Prime: AI Breast Ultrasound Shows 40% Faster Scans and 93% Lesion Detection Sensitivity",
-      "source": "Diagnostic Imaging / GE HealthCare",
-      "category": "Diagnostics & Imaging",
-      "snippet": "GE HealthCare launched the FDA-cleared Invenia ABUS Prime automated breast ultrasound platform and ABUS StreamVue remote enterprise viewer, targeting supplemental screening for the 40% of women with dense breast tissue. AI tools embedded in the system have demonstrated a 40% increase in scan speed and up to a 93% sensitivity rate for breast lesion detection, along with a 33% reduction in radiologist reading time, with initial clinical deployment underway at BeSound in Los Angeles.",
-      "result": "40% faster scans; 93% lesion sensitivity; 33% reduced reading time",
-      "url": "https://www.diagnosticimaging.com/view/ge-healthcare-emphasizes-new-advances-breast-ultrasound"
-    },
-    {
-      "title": "ImpediMed SOZO Platform Receives FDA 510(k) Clearance for Sarcopenia Risk Assessment in Cancer Patients",
-      "source": "ImpediMed",
-      "category": "Diagnostics & Imaging",
-      "snippet": "ImpediMed announced on August 18, 2026 that its SOZO Digital Health Platform received FDA 510(k) clearance for a new sarcopenia risk assessment indication, making it the only FDA-cleared bioimpedance spectroscopy solution for this purpose. Sarcopenia affects roughly one in three breast cancer patients during chemotherapy and is associated with worse survival and reduced chemotherapy tolerance, yet goes largely undetected because reference-standard tools like DXA and CT are not designed for rapid serial monitoring — a gap SOZO's 256-frequency non-invasive scan is designed to fill.",
-      "result": "First and only FDA-cleared BIS device for clinical sarcopenia risk assessment",
-      "url": "https://www.impedimed.com/sozo-digital-health-platform-receives-fda-clearance-for-sarcopenia-risk-assessment/"
-    },
-    {
-      "title": "Corti Symphony AI Medical Coding Outperforms OpenAI, Anthropic, and Google by Up to 25% — Now Adopted Across European Hospital Networks",
+      "title": "Corti Symphony AI Medical Coding Outperforms OpenAI, Google by 25%+ in Clinical Accuracy Benchmarks",
       "source": "Fierce Healthcare / Corti",
       "category": "AI & Machine Learning",
-      "snippet": "Corti's Symphony for Medical Coding, validated on 5.8 million patient encounters and benchmarked against ICD-10 real-world data, outperformed medical coding models from OpenAI, Anthropic, Amazon, Oracle, and Google by up to 25% in clinical accuracy. As of August 28, 2026, European health systems across the UK, Germany, and the Nordics are actively shifting procurement toward Corti's domain-specific model over general-purpose LLMs, accelerating adoption of vertical healthcare AI in hospital coding workflows.",
-      "result": "25% accuracy edge over Big Tech models; deployed across 200+ clinical teams",
+      "snippet": "Corti shipped Symphony for Medical Coding in April 2026, an agentic model now deployed across more than 200 healthcare teams in the U.S., that benchmarked at 74% F1 accuracy — outperforming OpenAI (48%), Google (45%), Anthropic (59%), and Amazon (58%) on clinical coding tasks. In a real-world Danish patient data study, Corti's model identified three times as many suicide attempts as had been manually coded, demonstrating the clinical stakes of coding accuracy.",
+      "result": "74% F1 accuracy vs. next-best 59%; 3x more missed events identified vs. manual coding",
       "url": "https://www.fiercehealthcare.com/health-tech/cortis-new-agentic-model-medical-coding-outperforms-openai-and-others"
     },
     {
-      "title": "ABILITY Neurotech Completes First-In-Human BCI Procedure at TU Munich, Generating First Human Neural Dataset",
-      "source": "MassDevice / Ability Neurotech",
-      "category": "Other",
-      "snippet": "ABILITY Neurotech completed the first-in-human procedure for its fully implantable, batteryless brain-computer interface at the TU Munich University Hospital Rechts der Isar, with initial patients achieving successful end-to-end system validation and neural signal acquisition under general anesthesia. The intraoperative study, capturing 20–30 minutes of neural data per patient across up to five individuals undergoing brain tumor surgery, marks the company's entry into clinical-stage validation, with chronic long-term implantation in ALS patients approved for Q4 2026 in the Netherlands and Austria.",
-      "result": "Successful first-in-human neural signal acquisition validated in live surgical setting",
-      "url": "https://www.massdevice.com/ability-neurotech-first-human-bci-procedure/"
+      "title": "Epitel Closes $26M Series B to Scale FDA-Cleared REMI Wearable EEG Seizure Monitor Nationally",
+      "source": "HIT Consultant / Business Wire",
+      "category": "Wearables & Monitoring",
+      "snippet": "Epitel closed a $26 million Series B in July 2026 to expand commercial deployment of its REMI Remote EEG Monitoring System, a wireless wearable that captures up to 30 days of continuous brain activity for seizure detection — addressing a gap where only 27% of U.S. hospitals have dedicated EEG capacity and 40% of the estimated 9.2 million Americans with seizures lack basic EEG access. The platform holds five FDA 510(k) clearances covering patients as young as one year old, with AI-assisted event detection cleared for patients aged six and older.",
+      "result": "5 FDA clearances; targets 40% of 9.2M U.S. seizure patients with no EEG access",
+      "url": "https://hitconsultant.net/2026/08/04/epitel-secures-26m-series-b-remote-wireless-eeg-monitoring/"
     },
     {
-      "title": "Heidi AI Scribe Cuts NHS Paperwork by 86%, Returns 4 Million Clinician Hours Across 15 Million Patient Visits",
-      "source": "Intelligent Health / Heidi UK Impact Report",
+      "title": "NHS England Backs £10bn AI Rollout: AVT Proven to Free Clinicians for 9,000+ Extra A&E Consultations Daily",
+      "source": "NHS England",
       "category": "Digital Health",
-      "snippet": "Heidi's UK Impact Report, drawing on data from more than 15 million patient visits, found its ambient voice technology cut NHS clinical documentation time by 86% and returned over 4 million hours of clinical capacity to frontline staff, with 95% of clinicians reporting reduced burnout. The results underpin NHS England's mandate for integrated care boards and providers to adopt ambient voice technology from April 2026 as part of a £10 billion national tech investment over three years.",
-      "result": "86% paperwork reduction; 4M+ clinical hours returned; 95% burnout reduction reported",
-      "url": "https://www.intelligenthealth.tech/2026/05/07/four-million-hours-back-heidi-turns-nhs-paperwork-into-patient-time/"
+      "snippet": "NHS England announced its accelerated AI rollout on July 4, 2026, backed by £10 billion in technology investment over three years, including a national scale-up of ambient voice technology (AVT) starting with hospital outpatient settings. A major NHS study led by Great Ormond Street Hospital found that AI notetaking frees clinicians to spend nearly 25% more time with patients, and projected that scaling the technology to over 11,000 A&E clinicians in England could create capacity for more than 9,000 additional A&E consultations each day.",
+      "result": "25% more patient time per clinician; potential for 9,000+ extra A&E consults/day",
+      "url": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/"
     },
     {
-      "title": "UpDoc Becomes First FDA-Cleared Generative AI Medical Device: Voice-Interactive Insulin Dose Calculator",
-      "source": "Mintz / FDA in Flux August 2026",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "UpDoc announced in June 2026 that its AI-enabled insulin dose calculator — the first generative AI-based medical device to receive FDA clearance — allows patients to interact via voice or text chat to receive treatment instructions adhering to a physician-specified dosing plan. The clearance marks a regulatory first: the FDA had not previously authorized any medical device with generative AI functionality, creating an entirely new category of AI-interactive drug management tools.",
-      "result": "First-ever FDA-cleared generative AI medical device for patient-facing insulin management",
-      "url": "https://www.mintz.com/insights-center/viewpoints/2791/2026-08-12-fda-flux-august-2026-newsletter"
+      "title": "Apple Watch Outperforms Traditional Patch Monitors for Pediatric Arrhythmia Detection in 13,000-Patient Study",
+      "source": "DAIC / Heart Rhythm 2026",
+      "category": "Wearables & Monitoring",
+      "snippet": "A study presented as an oral abstract at Heart Rhythm 2026 in Chicago analyzed data from more than 13,000 patients and found that the Apple Watch can capture arrhythmia events more effectively than traditional ambulatory patch rhythm monitors in children. The findings extend prior adult-focused validation data and reinforce consumer wearables as clinically relevant monitoring tools for pediatric cardiac care.",
+      "result": "Apple Watch captures pediatric arrhythmias more effectively than patch monitors in 13,000+ patients",
+      "url": "https://www.dicardiology.com/content/researchers-find-wearable-technology-helps-capture-pediatrics-arrhythmia-events-compared"
     }
   ],
-  "generated_at": "2026-08-28T21:30:23.787027+00:00"
+  "generated_at": "2026-08-29T06:08:36.113466+00:00"
 }
