@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "feature": {
-    "title": "From Labs to Wards: Medtech's Proof-of-Reality Moment Arrives in 2026",
-    "summary": "The medtech sector in 2026 has decisively crossed from promise to measurable proof, with AI adoption among U.S. physicians more than doubling in three years and real-world deployments now producing quantified outcomes. Landmark results include a NEJM-published brain-computer interface restoring vision to 84% of AMD patients and FDA clearance for the first AI-guided DVT ultrasound system backed by a 1,691-patient trial. Surgical robotics entered a new competitive era as Medtronic's Hugo cleared the FDA with a 98.5% surgical success rate, while GRAIL's multi-cancer blood test generated some of the largest screening trial data in history across 174,000+ participants. The overarching theme is governance: health systems are racing to validate tools already in production, with the Joint Commission launching its first Responsible AI in Healthcare certification.",
+    "title": "From Pilot to Proof: Medtech's Implementation Era Arrives With Hard Numbers Across AI, Robotics, and Diagnostics",
+    "summary": "The medtech landscape in mid-to-late 2026 is defined by a decisive shift from speculation to measurable clinical proof. AI ambient scribes are now deployed across 150+ U.S. health systems with documented time savings, while multi-cancer early detection tests have completed landmark RCTs involving more than 140,000 patients. Surgical robotics continue to post superior outcome data over conventional techniques, and AI radiology triage has crossed 1,000 live hospital sites with validated sensitivity above 97%. The era of 'promising pilot' is giving way to enterprise-scale deployments backed by peer-reviewed results.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Science Corp.'s PRIMA brain-computer interface commercially launched in Europe after NEJM trial data showed 84% of blinded AMD patients could read letters, numbers, and words again."
+        "text": "GRAIL's Galleri multi-cancer blood test reported a substantial reduction in Stage IV cancer diagnoses across 140,000+ NHS participants, the world's first RCT result for a multi-cancer early detection test."
       },
       {
         "label": "Key trend",
-        "text": "AMA data confirms 81% of U.S. physicians now use AI professionally — more than double the 2023 rate — but fewer than half of health systems have adequate infrastructure to validate the tools they've deployed."
+        "text": "AI ambient scribes like Microsoft Dragon Copilot are now deployed at 150+ health systems with published JAMA data showing 16 minutes of documentation time saved per encounter and a 27% reduction in note time at Intermountain Health."
       },
       {
         "label": "To watch",
-        "text": "GRAIL's Galleri multi-cancer blood test has a PMA submission before the FDA; Medicare coverage legislation is already in place pending approval, which could trigger the largest diagnostic rollout in U.S. history."
+        "text": "Aidoc's FDA-cleared CARE foundation model — the industry's first multi-condition body CT triage AI — is rolling out across 1,000+ hospital sites with 97% sensitivity and an order-of-magnitude reduction in false alerts."
       }
     ]
   },
   "articles": [
     {
-      "title": "Science Corp.'s PRIMA Brain-Computer Interface Commercially Launches in Europe After NEJM Trial Confirms 84% Vision Restoration Rate",
-      "source": "Business Wire / Ophthalmology Times Europe",
+      "title": "GRAIL's NHS-Galleri RCT Reports Substantial Reduction in Stage IV Cancer Diagnoses Across 142,000 Participants",
+      "source": "GRAIL / BioSpace",
       "category": "Diagnostics & Imaging",
-      "snippet": "Science Corporation announced the European commercial launch of PRIMA, the first CE-marked brain-computer interface approved for form vision restoration in patients with geographic atrophy due to AMD. A multi-center trial published in the New England Journal of Medicine across 38 patients at 17 sites in five countries showed 84% of participants regained the ability to read letters, numbers, and words, with a mean improvement of 25.5 letters on the ETDRS chart and 80% achieving significant visual acuity gains at 12 months.",
-      "result": "84% of patients restored functional reading vision at 12 months",
-      "url": "https://www.businesswire.com/news/home/20260722965902/en/Science-Corp.-Announces-European-Commercial-Launch-of-PRIMA-the-Only-Treatment-to-Restore-Functional-Central-Vision-to-Patients-with-Geographic-Atrophy-Caused-by-Age-Related-Macular-Degeneration-a-Leading-Cause-of-Blindness"
+      "snippet": "The NHS-Galleri trial — the world's first and only randomized controlled trial of a multi-cancer early detection (MCED) test — enrolled more than 142,000 participants and reported a substantial decrease in Stage IV cancer diagnoses when the Galleri blood test was added to standard NHS screening. Full results were presented at the 2026 ASCO Annual Meeting, with GRAIL simultaneously reporting PATHFINDER 2 data from 35,000+ participants showing the test substantially increased cancer detection and achieved greater than 20% reduction in Stage IV diagnoses.",
+      "result": ">20% reduction in Stage IV cancer diagnoses vs. standard care",
+      "url": "https://www.biospace.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting"
     },
     {
-      "title": "ThinkSono Wins FDA 510(k) Clearance for First AI-Powered DVT Ultrasound Guidance Software, Backed by 1,691-Patient Multicenter Trial",
-      "source": "HIT Consultant / AuntMinnie / Venous News",
+      "title": "Published JAMA Study: AI Ambient Scribes Cut EHR Documentation Time by 16 Minutes Across Five Academic Medical Centers",
+      "source": "American Hospital Association / AHA Center for Health Innovation",
       "category": "AI & Machine Learning",
-      "snippet": "ThinkSono received FDA 510(k) clearance for its AI-guided DVT ultrasound software, enabling non-ultrasound-trained clinicians to acquire diagnostic vascular scans after just 60–90 minutes of training. In a prospective, double-blinded, 1,691-patient multicenter study across 24 U.S. and international sites, non-expert operators achieved adequate diagnostic image quality in 87.1% of cases, with sensitivity of 92.9% and specificity of 97.1%, with a median scan time of just 5 minutes 24 seconds.",
-      "result": "92.9% sensitivity, 97.1% specificity achieved by non-expert operators",
-      "url": "https://hitconsultant.net/2026/07/29/thinksono-receives-fda-clearance-ai-dvt-ultrasound-guidance/"
+      "snippet": "A peer-reviewed study published in JAMA found that AI-powered ambient scribes — including Microsoft Dragon Copilot, Abridge, and Ambience — decreased total EHR time by 13.4 minutes and documentation time by 16.0 minutes across five academic medical centers. Clinicians using AI scribes also saw 0.49 more patient visits per week, with Cooper University Healthcare saving 4.15 minutes per patient and Intermountain Health achieving a 27% reduction in time spent on notes per appointment.",
+      "result": "16 min/encounter documentation reduction; 27% note-time drop at Intermountain",
+      "url": "https://www.aha.org/aha-center-health-innovation-market-scan/2026-04-14-6-health-systems-enhancing-care-delivery-ambient-ai-scribes"
     },
     {
-      "title": "Medtronic Hugo Robotic Surgery System Clears FDA With 98.5% Surgical Success Rate in Largest-Ever U.S. Urologic Robot Trial",
-      "source": "Urology Times / Medaptly / MedTech Dive",
+      "title": "Aidoc Receives FDA Clearance for Healthcare's First Multi-Condition Foundation Model AI Triage, Now Live at 1,000+ Hospital Sites",
+      "source": "Aidoc / PR Newswire",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Aidoc secured FDA clearance in January 2026 for the industry's first comprehensive AI triage solution powered by its CARE foundation model, covering 14 acute body CT indications in a single workflow. In a pivotal FDA-reviewed study the system achieved mean sensitivity of 97% and specificity of 98%, with roughly an order-of-magnitude reduction in false alerts versus single-condition tools; Aidoc aiOS is now deployed at more than 1,000 hospital sites, powering clinical decisions for over 60 million patients annually.",
+      "result": "97% sensitivity, 98% specificity; 1,000+ live hospital deployments",
+      "url": "https://www.aidoc.com/about/news/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai/"
+    },
+    {
+      "title": "J&J OTTAVA Robotic Surgical System Posts Pivotal Clinical Trial Results: 100% Procedure Completion, 30-lb Average Weight Loss in Bariatric Cohort",
+      "source": "Johnson & Johnson",
       "category": "Robotics & Surgery",
-      "snippet": "The FDA cleared Medtronic's Hugo robotic-assisted surgery system for urologic procedures based on the Expand URO IDE study — the largest multi-port robotic-assisted urological surgery trial ever conducted in the U.S. — enrolling 137 patients across prostatectomy, cystectomy, and partial nephrectomy. The surgical success rate hit 98.5% (95% CI: 94.8%–99.8%), far exceeding the 85% performance goal, with the first U.S. case performed at Cleveland Clinic in February 2026 and Medtronic now pursuing additional clearances in hernia repair and gynecology.",
-      "result": "98.5% surgical success rate vs. 85% performance goal",
-      "url": "https://www.urologytimes.com/view/hugo-robot-assisted-surgery-system-launches-on-us-market"
+      "snippet": "Johnson & Johnson announced pivotal clinical study results for the investigational OTTAVA Robotic Surgical System at the 2026 ASMBS Annual Meeting, drawing from a prospective 30-patient multicenter study of Roux-en-Y gastric bypass procedures. The study met all primary safety and performance endpoints through 30 days post-procedure, with investigators completing every procedure robotically without conversion to a non-robotic approach; average patient weight loss was 30 pounds by day 30.",
+      "result": "100% robotic completion rate; 30 lbs average weight loss at 30 days",
+      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system"
     },
     {
-      "title": "GRAIL's Galleri Multi-Cancer Blood Test Cuts Stage IV Diagnoses and Detects Cancers 6.5× More Often in Landmark 174,000-Patient Trial Readout at ASCO 2026",
-      "source": "GRAIL / BioSpace / STAT News",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "At the 2026 ASCO Annual Meeting, GRAIL presented results from both the NHS-Galleri trial (142,250 participants) and PATHFINDER 2 (35,000+ participants), showing that adding the Galleri multi-cancer early detection blood test to standard screening increased cancer detection 6.5-fold, with 71% of newly detected cancers found at Stages I–III. The NHS-Galleri RCT demonstrated a substantial decrease in Stage IV cancers, though the combined Stage III/IV primary endpoint did not reach statistical significance within the 1-year follow-up window, with further follow-up ongoing.",
-      "result": "6.5× increase in screen-detected cancers; 71% found at Stages I–III",
-      "url": "https://grail.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-a/"
-    },
-    {
-      "title": "AMA 2026 Survey: U.S. Physician AI Use Doubles to 81%, Averaging 2.3 Clinical Use Cases Per Doctor",
-      "source": "American Medical Association / Fierce Healthcare",
-      "category": "AI & Machine Learning",
-      "snippet": "The AMA's 2026 Physician Survey on Augmented Intelligence, covering 1,692 doctors, found that 81% now use AI professionally — more than double the 38% recorded in 2023 — with the average physician reporting 2.3 separate use cases, up from 1.1 in 2023. The most common applications are clinical documentation and medical research summarization, and more than three-quarters of physicians believe AI improves their ability to care for patients, though 86% cite robust safety validation as critical for broader adoption.",
-      "result": "81% of U.S. physicians use AI professionally, up from 38% in 2023",
-      "url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-ai-usage-among-doctors-doubles-confidence-technology-grows"
-    },
-    {
-      "title": "Report: 90%+ of U.S. Health Systems Have Deployed Third-Party AI, But Fewer Than Half Can Properly Test and Validate Them",
-      "source": "MedCity News / UPMC",
-      "category": "Digital Health",
-      "snippet": "A new report published in late August 2026 found that while more than 90% of health systems have deployed third-party AI tools in patient care workflows, fewer than half have the infrastructure to properly test and validate those tools before they become embedded in clinical practice. The AMA's own data shows clinician AI use nearly doubled from 2023 to 2026, outpacing the development of standardized evaluation frameworks and equity-auditing processes.",
-      "result": ">90% of health systems deploy AI; <50% have validation infrastructure",
-      "url": "https://medcitynews.com/2026/08/upmc-ai-testing-hospital-tech/"
-    },
-    {
-      "title": "RingConn Smart Ring Study in npj Digital Medicine: Bilateral Wearable Sensing Cuts Heart Rate Error by 70% in 1,810-Participant Trial",
-      "source": "npj Digital Medicine (Nature Portfolio) / Manila Times",
-      "category": "Wearables & Monitoring",
-      "snippet": "A joint research team from Ninenovo/RingConn, Shanghai Jiao Tong University, and Mianyang Central Hospital published the first large-scale bilateral ring-PPG benchmark in npj Digital Medicine, analyzing 97,559 valid PPG samples from 1,810 participants. Synchronized dual-hand tracking reduced heart rate mean absolute error from 10.65 bpm at population baseline down to 3.21 bpm, with performance gains consistent across 12 distinct AI model architectures.",
-      "result": "Heart rate MAE reduced from 10.65 bpm to 3.21 bpm via bilateral sensing",
-      "url": "https://www.nature.com/articles/s41746-026-03036-z"
-    },
-    {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Reduction in Operative Time and 30% Fewer Intraoperative Complications Across 25 Studies",
-      "source": "NCBI / PubMed Central",
+      "title": "Meta-Analysis of MAKO Robotic TKA vs. Conventional Surgery: Significantly Higher Knee Function Scores and Superior Alignment Across 937 Patients",
+      "source": "Frontiers in Bioengineering and Biotechnology",
       "category": "Robotics & Surgery",
-      "snippet": "A systematic review and meta-analysis synthesizing 25 recent peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures delivered a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual methods. Surgical precision improved by 40%, patient recovery times shortened by an average of 15%, and surgeon workflow efficiency increased by 20%, supporting broad calls for expanded clinical adoption.",
-      "result": "25% less operative time; 30% fewer intraoperative complications vs. manual",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
+      "snippet": "A July 2026 systematic review and meta-analysis published in Frontiers in Bioengineering and Biotechnology pooled data from nine comparative studies covering 937 patients undergoing MAKO robot-assisted versus conventional total knee arthroplasty. Results showed MAKO significantly reduced hip-knee-ankle angle deviation (MD = −0.96, p<0.0001) and delivered significantly higher knee function scores (SMD = 0.46, p=0.04), providing the strongest pooled evidence to date for robotic-arm superiority in alignment and functional outcomes.",
+      "result": "Significantly higher knee function scores and superior alignment vs. conventional TKA",
+      "url": "https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2026.1892225/full"
     },
     {
-      "title": "European Health Systems Pivot to Domain-Specific Clinical AI as Corti's Specialized Model Outperforms General LLMs on Diagnostic Accuracy",
-      "source": "Healthcare.Digital (European HealthTech Weekly)",
+      "title": "Aidoc Real-World PE Triage Study: AI Cuts Radiologist Report Turnaround Time by 32% During Peak Hours Across 11,252 CT Cases",
+      "source": "Aidoc Clinical Studies",
       "category": "AI & Machine Learning",
-      "snippet": "Health systems across the UK, Germany, and the Nordics are shifting procurement away from general-purpose large language models toward domain-specific clinical AI, according to the August 28, 2026 European HealthTech weekly roundup. Danish AI diagnostics firm Corti's specialized clinical coding model demonstrated measurably higher diagnostic and administrative accuracy than frontier general models in real hospital network deployments, accelerating European adoption of vertical healthcare AI and prompting regulatory bodies to fast-track AI sandboxing under the EU AI Act.",
-      "result": "Corti domain-specific model outperforms general LLMs in live hospital networks",
-      "url": "https://www.healthcare.digital/single-post/this-week-in-european-healthtech-medtech-and-health-ai-28th-august-2026"
+      "snippet": "A retrospective study analyzing 11,252 adult CT pulmonary angiography exams for suspected pulmonary embolism at a single center compared pre- and post-AI deployment periods using Aidoc's FDA-cleared BriefCase triage tool. During work hours, mean turnaround time dropped from 68.9 minutes to 46.7 minutes for PE-positive cases, a 32% reduction, demonstrating that AI-based triage significantly improved reporting efficiency during peak clinical demand without adverse effects on off-hours performance.",
+      "result": "Radiology turnaround time cut from 68.9 to 46.7 minutes for PE-positive cases",
+      "url": "https://www.aidoc.com/learn/clinical-studies/impact-of-artificial-intelligence-triage-on-radiologist-report-turnaround-time-real-world-time-savings-and-insights-from-model-predictions/"
     },
     {
-      "title": "FDA Authorizes 23 High-Risk Medical Devices in First Half of 2026 — Up 10 From Last Year — Despite Substantially Longer Review Times",
-      "source": "MedTech Dive / Medical Design and Outsourcing",
+      "title": "FDA Authorizes More Medical Devices in H1 2026 Than Ever Before, But PMA Timelines Surge to 599 Days",
+      "source": "MedTech Dive",
       "category": "Other",
-      "snippet": "An analysis of FDA data by BTIG found that the agency granted 23 original premarket approvals (PMAs) through June 2026, an increase of 10 from the same period in 2025, and 510(k) clearances are trending up 2.5% year-over-year with 1,669 granted through June. However, the average time to PMA approval increased substantially to nearly 599 days in the first half of 2026, up from approximately 402 days last year, attributed in part to FDA staffing disruptions.",
-      "result": "23 PMAs granted in H1 2026, up 10 YoY; approval time hit 599 days avg.",
+      "snippet": "A mid-year BTIG analysis of FDA data found that original premarket approvals reached 23 in the first half of 2026, up 10 from the same period last year, and 510(k) clearances rose 2.5% year-over-year to 1,669 devices cleared through June. However, average time to PMA approval climbed sharply to 599 days versus 402 days in 2025, raising capital runway concerns for smaller medtech innovators.",
+      "result": "23 PMAs approved H1 2026 (+10 YoY); avg. approval time 599 days",
       "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
     },
     {
-      "title": "AI Fracture Detection in Emergency Departments: Real-World Deployment Achieves 93.3% Specificity and Cuts Reporting Time From 3.3 Hours to 10.6 Seconds",
-      "source": "JMIR Medical Informatics / PubMed Central",
-      "category": "Diagnostics & Imaging",
-      "snippet": "A prospective observational study published in JMIR Medical Informatics evaluated an AI-assisted rib fracture detection model deployed in a high-volume emergency department, processing 23,251 real-world chest radiographs. The system achieved 93.3% specificity and 99.2% negative predictive value, while reducing median inference time to 10.6 seconds versus 3.3 hours for standard radiologist reports, demonstrating strong real-time feasibility without disrupting existing clinical workflows.",
-      "result": "AI inference in 10.6 sec vs. 3.3-hour radiologist turnaround; 93.3% specificity",
-      "url": "https://medinform.jmir.org/2026/1/e77965"
+      "title": "AI-Assisted Robotic Surgery Meta-Review: 25% Reduction in Operative Time, 30% Fewer Intraoperative Complications vs. Manual Techniques",
+      "source": "PMC / NCBI — NIH",
+      "category": "Robotics & Surgery",
+      "snippet": "A systematic review and meta-analysis of 25 peer-reviewed studies on AI-driven robotic surgery published in 2026 found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual methods. Surgical precision improved by 40% as measured by targeting accuracy in tumor resections and implant placements, and patient recovery times were shortened by an average of 15%.",
+      "result": "25% less operative time; 30% fewer intraoperative complications vs. manual surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
     },
     {
-      "title": "Stanford Health Care Reports 96% Physician Satisfaction With AI Documentation Tools as Hospital AI Scribe Adoption Surges Toward 42%",
-      "source": "John Snow Labs / HealthTech Magazine",
+      "title": "MAKO Robotic Hip Arthroplasty Propensity-Matched Study: 98.1% of Implants in Safe Zone vs. 82.7% with Conventional Surgery",
+      "source": "PubMed Central / NCBI",
+      "category": "Robotics & Surgery",
+      "snippet": "A propensity-score-matched retrospective study published in 2026 comparing MAKO robotic-arm-assisted versus conventional dual-incision total hip arthroplasty found robotic-assisted placement achieved deviations from planned anteversion of just 1.15° versus 3.0° for conventional surgery (p<0.001), with 98.1% of cups placed within the Lewinnek safe zone compared to 82.7% conventionally. The study confirmed that greater radiographic precision independently predicted better patient-reported outcomes.",
+      "result": "98.1% vs. 82.7% implant placement accuracy within safe zone",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12841923/"
+    },
+    {
+      "title": "Stanford-Harvard State of Clinical AI Report: Physicians Spending 83% Less Time Writing Notes at Some Systems; 112% ROI Reported",
+      "source": "Stanford HAI — 2026 AI Index Report",
       "category": "Digital Health",
-      "snippet": "As large-scale hospital AI deployments accelerate in 2026, Stanford Health Care reported 96% physician satisfaction with AI-powered documentation tools that save an average of two hours per day in clinical charting. A randomized controlled trial on Microsoft's DAX Copilot found a +2.8 point improvement on the Mini-Z burnout scale and a 39.9-point reduction in physician task load, while HCA Healthcare has deployed ambient AI documentation across all 188+ hospitals and seen contract labor costs fall 25.7%.",
-      "result": "96% physician satisfaction; 2 hrs/day saved at Stanford Health Care",
-      "url": "https://www.johnsnowlabs.com/preparing-hospitals-for-large-scale-ai-deployments-in-2026/"
+      "snippet": "The 2026 Stanford HAI AI Index Report on medicine found that across multiple hospital systems, physicians reported spending up to 83% less time writing notes after deploying AI ambient documentation tools, with significant reductions in burnout. One hospital system reported a 112% return on investment from clinical AI documentation deployment, and multi-agent diagnostic AI frameworks demonstrated accuracy gains of 7% to over 60% compared to single-agent baselines.",
+      "result": "Up to 83% less note-writing time; 112% ROI documented at one health system",
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/medicine"
+    },
+    {
+      "title": "JMIR Systematic Review of Wearable Sensors: High Validity for Gait, Mobility, and Disease Progression Monitoring Across 30 Clinical Studies",
+      "source": "JMIR mHealth and uHealth",
+      "category": "Wearables & Monitoring",
+      "snippet": "A 2026 PRISMA-compliant systematic review across 30 eligible studies published in JMIR mHealth found that wearable sensors demonstrated high agreement with gold-standard clinical instruments for mobility monitoring — including intraclass correlation coefficients above 0.8 between FeetMe and GAITRite systems in multiple sclerosis patients — and reliably detected significant gait differences in Parkinson's disease patients versus healthy controls (p<0.05). The review validated wearable sensors across clinical, rehabilitation, and real-world deployment settings.",
+      "result": "ICC >0.8 vs. gold standard; significant gait detection in Parkinson's (p<0.05)",
+      "url": "https://mhealth.jmir.org/2026/1/e76084"
+    },
+    {
+      "title": "Masimo Radius VSM Validated in CONSTANT Trial: 99.5% HR Agreement and 96.3% RR Agreement in High-Risk Surgical Patients",
+      "source": "MDPI Sensors",
+      "category": "Wearables & Monitoring",
+      "snippet": "The Masimo Radius VSM wearable was assessed in the CONSTANT clinical validation trial on high-risk surgical patients, demonstrating clinically acceptable agreement for heart rate at 99.5% and for respiratory rate at 96.3% in procedures longer than 1.5 hours. The ongoing RECORD study at the University Medical Center Groningen is further evaluating the device's reliability and accuracy during perioperative and early postoperative periods, with completion scheduled for December 2026.",
+      "result": "99.5% HR accuracy, 96.3% RR accuracy in high-risk surgical validation trial",
+      "url": "https://www.mdpi.com/1424-8220/25/20/6472"
     }
   ],
-  "generated_at": "2026-09-01T06:16:59.331763+00:00"
+  "generated_at": "2026-09-02T06:21:15.417663+00:00"
 }
