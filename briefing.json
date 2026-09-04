@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "feature": {
-    "title": "Cancer Detection, AI Triage & Robotic Surgery: Medtech's Biggest Implementation Wave of 2026",
-    "summary": "The medtech landscape in September 2026 is defined by a shift from pilots to proven, deployed systems delivering measurable patient outcomes. Multi-cancer blood tests backed by landmark RCT data from 140,000+ NHS participants are now before FDA panels, while FDA-cleared AI tools for sepsis prediction are actively reducing mortality by 18% across dozens of U.S. hospitals. Precision oncology MRD tests published in JAMA Oncology are reshaping chemotherapy decision-making, and the diabetes device sector posted its strongest clinical data haul in years at ADA 2026. Across every category—from breast imaging AI reclassification to robotic bariatric surgery—2026 is the year real-world evidence has caught up with medtech ambition.",
+    "title": "From Pilot to Practice: 2026's Medtech Landscape Shifts to Proven Clinical Outcomes at Scale",
+    "summary": "The medtech industry in 2026 has decisively crossed the threshold from AI experimentation to measurable real-world deployment, with ambient AI scribes operating across 150+ health systems, robotic surgery data reshaping outcomes benchmarks, and the FDA's new RAPID pathway compressing the approval-to-Medicare-coverage gap from over a year to 60 days. The GRAIL Galleri multi-cancer blood test goes before an FDA advisory panel this month backed by data from more than 95,000 study participants, marking a potential paradigm shift in population-level cancer screening. Meanwhile, Insilico Medicine's AI-designed drug Rentosertib has advanced to a 320-patient Phase III trial after Phase IIa data showed lung function improvement of +98.4 mL versus a placebo decline of -20.3 mL. The regulatory and clinical infrastructure for AI-driven medicine is no longer speculative — it is being tested, measured, and deployed at hospital scale.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "GRAIL's NHS-Galleri RCT (142,250 participants) showed a >20% reduction in Stage IV cancer diagnoses, propelling a Sept. 23 FDA advisory committee review of its multi-cancer early detection PMA application."
+        "text": "GRAIL's Galleri multi-cancer blood test faces its pivotal FDA advisory panel on September 23, backed by data from 25,490 PATHFINDER 2 participants and over 70,000 NHS-Galleri trial enrollees."
       },
       {
         "label": "Key trend",
-        "text": "FDA-cleared AI clinical decision tools are moving from single-hospital pilots to system-wide deployments, with the Johns Hopkins/Bayesian Health sepsis AI now live across dozens of U.S. hospitals with an 18% mortality reduction."
+        "text": "CMS and FDA's new RAPID coverage pathway collapses the approval-to-Medicare-reimbursement timeline from 12+ months to as little as 60 days for breakthrough devices, with ~40–60 devices immediately eligible."
       },
       {
         "label": "To watch",
-        "text": "FDA's proposed reclassification of digital breast tomosynthesis (DBT) systems from Class III to Class II could dramatically ease market entry for next-generation AI-powered mammography platforms."
+        "text": "Insilico Medicine's Phase III trial of Rentosertib — the first AI-discovered, AI-designed drug to reach late-stage development — will be a defining test of whether generative AI drug discovery produces durable clinical results."
       }
     ]
   },
   "articles": [
     {
-      "title": "GRAIL's NHS-Galleri RCT Full Results Show >20% Drop in Stage IV Cancer Diagnoses at ASCO 2026",
-      "source": "GRAIL / PRNewswire",
+      "title": "GRAIL Galleri Multi-Cancer Blood Test Goes Before FDA Advisory Panel September 23",
+      "source": "GRAIL / PR Newswire",
       "category": "Diagnostics & Imaging",
-      "snippet": "The landmark 142,250-participant NHS-Galleri randomized controlled trial—the first and only RCT of a multi-cancer early detection (MCED) test—showed that annual Galleri blood testing reduced Stage IV diagnoses by more than 20% in the second and third screening rounds and increased Stage I–II cancer detection by 16% when added to standard of care. The trial did not meet its combined Stage III–IV primary endpoint, but secondary endpoint data were compelling enough to drive GRAIL's January 2026 PMA submission and an FDA advisory committee meeting now scheduled for September 23, 2026.",
-      "result": ">20% Stage IV reduction; 16% more early-stage cancers detected",
-      "url": "https://www.prnewswire.com/news-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting-302786216.html"
+      "snippet": "The FDA's Molecular and Clinical Genetics Panel is scheduled to review GRAIL's Premarket Approval application for the Galleri multi-cancer early detection test on September 23, 2026. The PMA submission is anchored in safety and performance data from 25,490 PATHFINDER 2 participants and over 70,000 participants from the NHS-Galleri randomized controlled trial — the largest RCT of any multi-cancer early detection test in an intended-use population.",
+      "result": "Data from 95,000+ participants; FDA panel review Sept 23",
+      "url": "https://www.prnewswire.com/news-releases/grail-announces-fda-advisory-committee-meeting-to-review-premarket-approval-application-for-the-galleri-multi-cancer-early-detection-test-302846154.html"
     },
     {
-      "title": "FDA-Cleared Johns Hopkins / Bayesian Health TREWS Sepsis AI Cuts Hospital Mortality 18% Across Dozens of U.S. Hospitals",
-      "source": "JHU Hub / Sepsis-Woundcare Conference",
-      "category": "AI & Machine Learning",
-      "snippet": "The Targeted Real-Time Early Warning System (TREWS), developed at Johns Hopkins and commercialized by Bayesian Health, received FDA clearance in May 2026 and is now live at health systems including Cleveland Clinic, MemorialCare, and the University of Rochester Medical Center, detecting sepsis 2–48 hours earlier than traditional methods. Real-world deployment data show an 18% reduction in sepsis-related mortality across enrolled hospitals, against a disease that claims more than 250,000 U.S. lives annually.",
-      "result": "18% sepsis mortality reduction across multi-hospital deployment",
-      "url": "https://hub.jhu.edu/2026/05/12/fda-approves-early-warning-system-for-sepsis/"
+      "title": "CMS and FDA Launch RAPID Pathway, Cutting Medicare Coverage Wait for Breakthrough Devices to 60 Days",
+      "source": "CMS.gov / FDA.gov",
+      "category": "Digital Health",
+      "snippet": "On April 23, 2026, CMS and FDA jointly announced the Regulatory Alignment for Predictable and Immediate Device (RAPID) coverage pathway, designed to issue a proposed national coverage determination the same day a breakthrough device receives FDA authorization. For eligible Class II and III breakthrough devices, this compresses the traditional 12-month-plus gap between FDA clearance and Medicare payment to as little as 60–90 days, with approximately 40–60 devices immediately eligible.",
+      "result": "Coverage timeline cut from 12+ months to ~60 days",
+      "url": "https://www.cms.gov/newsroom/press-releases/cms-fda-announce-rapid-coverage-pathway-accelerate-patient-access-life-changing-medical-devices"
     },
     {
-      "title": "Natera Signatera MRD Test Predicts Overall Survival Benefit From Chemo in Colorectal Liver Metastases — JAMA Oncology",
-      "source": "BusinessWire / JAMA Oncology",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "Published in JAMA Oncology and presented at the 2026 ESMO GI Congress, the 298-patient GALAXY/CIRCULATE-Japan analysis showed that MRD-positive patients who received adjuvant chemotherapy after resection of colorectal liver metastases had a 48-month overall survival of 65.3% vs. 32.9% for observation alone (adjusted HR 0.27; P=0.03). Critically, MRD-negative patients derived no meaningful survival benefit from chemotherapy, establishing Signatera as a tool to individualize treatment decisions—the first such large-cohort OS demonstration in this indication.",
-      "result": "48-month OS 65.3% (MRD+/chemo) vs. 32.9% (MRD+/observation)",
-      "url": "https://www.businesswire.com/news/home/20260706515913/en/Signatera-MRD-Test-Predicted-Overall-Survival-Benefit-from-Chemotherapy-in-Resected-Metastatic-Colorectal-Cancer"
+      "title": "Insilico Medicine Initiates Phase III Trial for Rentosertib, World's First AI-Discovered Drug to Reach Late-Stage Development",
+      "source": "Insilico Medicine / BioSpace",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Insilico Medicine launched a 320-patient, randomized, double-blind, placebo-controlled Phase III trial for Rentosertib (formerly ISM001-055), an oral TNIK inhibitor for idiopathic pulmonary fibrosis fully discovered and designed by generative AI. The Phase IIa GENESIS-IPF study that unlocked Phase III demonstrated a mean forced vital capacity improvement of +98.4 mL at 12 weeks in the 60 mg once-daily arm versus a decline of -20.3 mL in the placebo group, meeting its primary safety endpoint.",
+      "result": "+98.4 mL FVC gain vs. -20.3 mL placebo at 12 weeks",
+      "url": "https://www.biospace.com/press-releases/insilico-initiates-phase-iii-clinical-trial-for-rentosertib-its-ai-empowered-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis"
     },
     {
-      "title": "Tandem Diabetes Care Control-IQ+ Wins CE Mark Expansion; Posts 0.9% A1C Reduction in Type 2 Pivotal Trial",
-      "source": "MedTech Dive / Diatribe",
-      "category": "Wearables & Monitoring",
-      "snippet": "At ADA 2026's 86th Scientific Sessions, Tandem Diabetes Care received an expanded CE mark allowing its t:slim X2 and Mobi pumps to be used by pregnant patients with Type 1 diabetes and adults with Type 2 diabetes across Europe. Clinical trial data showed Control-IQ+ users achieved a 0.9% A1C reduction versus 0.3% in controls, and pregnant Type 1 patients spent 12.6 percentage points more time in the pregnancy glucose target range compared with standard therapy.",
-      "result": "0.9% A1C reduction vs. 0.3% control; +12.6pp time-in-range in pregnancy",
-      "url": "https://www.medtechdive.com/news/top-medtech-stories-from-adas-scientific-sessions/822808/"
-    },
-    {
-      "title": "Insulet Omnipod 6 Trial: 77% Time-in-Range vs. 73% on Omnipod 5 in 132-Patient Crossover Study",
-      "source": "Diatribe / MedTech Dive",
-      "category": "Wearables & Monitoring",
-      "snippet": "A new randomized crossover study of 132 adults and children with Type 1 or Type 2 diabetes presented at ADA 2026 found that Insulet's next-generation Omnipod 6 automated insulin delivery system increased time in range to 77% for Type 1 patients aged 14+ versus 73% on the current Omnipod 5, with similar improvements seen in Type 2 patients. The Omnipod 6 uses a lower default glucose target of 100 mg/dL and an enhanced algorithm that delivers more insulin when needed.",
-      "result": "77% time-in-range (Omnipod 6) vs. 73% (Omnipod 5)",
-      "url": "https://diatribe.org/diabetes-technology/diabetes-technology-highlights-ada-2026"
-    },
-    {
-      "title": "Johnson & Johnson OTTAVA Robotic System Pivotal Trial: All 30 Gastric Bypass Procedures Completed Without Conversion, 30-lb Avg Weight Loss at 30 Days",
-      "source": "Johnson & Johnson / ASMBS 2026",
+      "title": "J&J OTTAVA Robotic Surgical System Meets All Primary Safety Endpoints in 30-Patient Gastric Bypass Clinical Study",
+      "source": "Johnson & Johnson MedTech / MDDI Online",
       "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson presented first clinical results from the OTTAVA Robotic Surgical System's pivotal multicenter study at the 2026 American Society for Metabolic and Bariatric Surgery Annual Meeting. In the 30-patient gastric bypass cohort, all primary safety and performance endpoints were met through 30 days, zero procedures were converted to a non-robotic approach, and average patient weight loss was 30 pounds by day 30.",
-      "result": "100% robotic procedure completion; 30 lbs avg weight loss at 30 days",
-      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system"
+      "snippet": "Johnson & Johnson announced first-ever clinical study results for its investigational OTTAVA robotic surgical system — a prospective, multicenter study in Roux-en-Y gastric bypass procedures. In the 30-patient cohort, all procedures were completed robotically without conversion to a non-robotic approach, meeting primary safety and performance endpoints through 30 days, with average patient weight loss of 30 pounds by day 30. These data were submitted to FDA in support of a De Novo classification application.",
+      "result": "100% robotic completion rate; 30 lbs avg. weight loss at 30 days",
+      "url": "https://www.mddionline.com/robotics/johnson-johnson-hits-critical-milestone-for-ottava-robotic-surgical-system"
     },
     {
-      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis from Class III to Class II — A Market-Opening Regulatory Shift",
-      "source": "Federal Register / Alston & Bird",
+      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis from Class III to Class II, Citing 94% U.S. Facility Adoption and 2.6M-Patient Evidence Base",
+      "source": "Federal Register / FDA",
       "category": "Diagnostics & Imaging",
-      "snippet": "On August 7–10, 2026, the FDA published a proposed rule to reclassify digital breast tomosynthesis (DBT) systems from Class III devices requiring premarket approval (PMA) down to Class II with special controls subject only to 510(k) notification. The FDA cited sufficient PMA data demonstrating safety and effectiveness as the basis for the change, with public comments due by October 9, 2026—a move that would dramatically accelerate deployment of AI-enhanced DBT platforms.",
-      "result": "DBT reclassification from PMA Class III to 510(k) Class II proposed",
+      "snippet": "The FDA proposed in August 2026 to reclassify digital breast tomosynthesis (DBT) systems from Class III (premarket approval) to Class II (special controls), citing an extensive evidence base spanning more than 2.6 million patients across 42 studies and an absence of major safety issues in postmarket data. As of July 8, 2026, 94% of the 9,107 certified U.S. mammography facilities have DBT units — a deployment milestone that anchors the reclassification rationale.",
+      "result": "94% of 9,107 U.S. certified facilities already deploy DBT",
       "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
     },
     {
-      "title": "NHS Trust Deploys AI Chest X-Ray Triage as UK Government Commits £20M to Nationwide Rollout by 2029",
-      "source": "ResultSense / NHS",
+      "title": "FDA Expands TEMPO Digital Health Pilot, Adding Remote Hypertension Platform and AI Mental Health Voice Tool",
+      "source": "Holland & Knight / Mondaq",
+      "category": "Digital Health",
+      "snippet": "The FDA continued expanding its Technology-Enabled Meaningful Patient Outcomes (TEMPO) pilot in August 2026, selecting three additional digital health technologies: a remote hypertension management platform, a clinician-supervised AI voice tool for mental healthcare delivery, and a chronic disease management tool. TEMPO is specifically designed to evaluate how digital health technologies generate real-world patient outcome evidence in clinical settings, directly informing FDA regulatory frameworks.",
+      "result": "3 new real-world deployment programs added in August 2026",
+      "url": "https://www.mondaq.com/unitedstates/healthcare/1838240/holland-knight-health-dose-september-1-2026"
+    },
+    {
+      "title": "Roche Deploys 3,500 NVIDIA Blackwell GPUs — Pharma Industry's Largest AI Factory — for Diagnostics and Drug Discovery",
+      "source": "Roche / GlobeNewswire",
       "category": "AI & Machine Learning",
-      "snippet": "Queen Victoria Hospital NHS Trust became the latest UK trust to deploy AI chest X-ray triage, joining a growing network of NHS organisations using the technology to prioritise radiology worklists while ensuring each film is still reviewed by a qualified clinician. The UK government separately committed £20 million in June 2026 to deploy AI chest X-ray analysis to every NHS England trust by 2029, covering upwards of four million films per year.",
-      "result": "£20M NHS national rollout funded; AI triage live across multiple trusts",
-      "url": "https://www.resultsense.com/news/2026-08-26-qvh-chest-xray-ai/"
+      "snippet": "In March 2026, Roche formally launched a large-scale AI factory featuring 2,176 high-performance NVIDIA Blackwell GPUs on-premises across the U.S. and Europe, bringing its total to over 3,500 GPUs — the largest announced GPU footprint in the pharmaceutical industry. The infrastructure is actively deployed across digital pathology (scanning large image volumes to detect subtle disease patterns), genomic analytics via NVIDIA Parabricks, and manufacturing digital twins using NVIDIA Omniverse.",
+      "result": "3,500+ Blackwell GPUs live across US/Europe diagnostics pipeline",
+      "url": "https://www.globenewswire.com/news-release/2026/03/16/3256740/0/en/roche-launches-nvidia-ai-factory-to-accelerate-the-development-of-new-therapeutics-and-diagnostics-solutions.html"
     },
     {
-      "title": "Robotic-Assisted Endometrial Cancer Surgery: 67% Reduction in Open Laparotomy, 25% Shorter Hospital Stay in Tertiary Center Cohort",
-      "source": "PMC / NCBI",
-      "category": "Robotics & Surgery",
-      "snippet": "A retrospective cohort study of 122 endometrial carcinoma patients at a tertiary care center published in 2026 found that introducing robotic-assisted surgery in September 2023 reduced laparotomy rates from 36.4% to 11.9% (a 67% reduction; P<0.001), completely eliminated open surgery in FIGO Stage I disease, and cut average hospital stay from 4 to 3 days. Sentinel lymph node mapping success rose dramatically from 54.5% to 91.0%, with complication rates remaining comparable.",
-      "result": "67% laparotomy reduction; lymph node mapping success 54.5%→91%",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12524232/"
-    },
-    {
-      "title": "AI in Clinical Trials: 86.5% of Adopters Report Improvements in High-Volume Workflows — Medidata's 2026 Annual Report",
-      "source": "Medidata Solutions",
+      "title": "Microsoft Dragon Copilot (DAX) Deployed Across 150+ Health Systems; NEJM Trial Quantifies Burnout and Documentation Impact",
+      "source": "NEJM AI / Deepgram",
       "category": "AI & Machine Learning",
-      "snippet": "Medidata's second annual State of AI in Clinical Trials report, published mid-2026, found that 86.5% of survey respondents saw measurable improvements in high-volume, rules-based workflows after deploying AI, while early adopters reported above-expectation results in key performance indicators at roughly 1.4–1.5× the rate of late movers. The report documented a clear performance gap between organizations scaling AI and those constrained by legacy infrastructure.",
-      "result": "86.5% of AI adopters report measurable workflow improvements",
-      "url": "https://www.medidata.com/en/life-science-resources/medidata-blog/how-is-ai-being-used-in-clinical-trials-5-key-statistics-for-2026/"
+      "snippet": "Microsoft's ambient AI clinical documentation tool — Dragon Copilot (formerly DAX Copilot) — is now operational across more than 150 U.S. health systems integrated with Epic EHR. A parallel-group pragmatic randomized trial published in NEJM AI enrolled 238 outpatient physicians across 14 specialties, with DAX used in 33.5% of 24,696 visits, finding improvements in physician burnout scores, though documentation time reduction did not reach statistical significance compared to controls.",
+      "result": "Deployed in 150+ health systems; burnout improved in RCT",
+      "url": "https://ai.nejm.org/doi/abs/10.1056/AIoa2501000"
     },
     {
-      "title": "Medtronic Hugo RAS Expand URO Trial: 3.7% Grade ≥3 Complication Rate vs. 20% Performance Goal in Multi-Port Robotic Urology",
-      "source": "Yazamaz — AI in Healthcare",
+      "title": "Zimmer Biomet ROSA Knee with OptimiZe Reaches Commercial U.S. Availability, Reducing Surgical Planning Time by 46%",
+      "source": "Zimmer Biomet / Yahoo Finance",
       "category": "Robotics & Surgery",
-      "snippet": "Following FDA clearance of the Medtronic Hugo robotic-assisted surgery system for urologic procedures in December 2025, the Expand URO pivotal IDE trial results (n=137 across prostatectomy, cystectomy, and nephrectomy) showed a Grade ≥3 complication rate of just 3.7% in the prostatectomy arm—far below the 20% performance goal (P=0.0006). The trial was described as the largest completed IDE study for multi-port robotic urology in the U.S.",
-      "result": "3.7% Grade ≥3 complications vs. 20% performance benchmark",
-      "url": "https://yazamaz.com/en/surgical-robotics/surgical-robotics-ai"
+      "snippet": "Zimmer Biomet's ROSA Knee with OptimiZe — cleared by the FDA via 510(k) in November 2025 — achieved broad commercial U.S. availability in Q1 2026 as planned. The system's proprietary OptimiZe Planning algorithm generates personalized surgical plans that reduce planning time by an average of 46%, and its motion-sensitive tracking and automated kinematic alignment tools are designed to reduce surgeon-to-surgeon variability in total knee replacement outcomes.",
+      "result": "46% reduction in surgical planning time; Q1 2026 commercial rollout",
+      "url": "https://www.yahoo.com/news/articles/zimmer-biomet-secures-fda-approval-092256145.html"
     },
     {
-      "title": "Natera Latitude Tissue-Free MRD Test Validated in npj Precision Oncology: 84.4% Sensitivity, 97.2% Specificity in 195 CRC Patients",
-      "source": "Natera / npj Precision Oncology",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "Natera published full clinical validation of its Latitude tissue-free MRD assay in npj Precision Oncology in January 2026, analyzing 1,230 timepoints from 195 colorectal cancer patients in the GALAXY arm of CIRCULATE-Japan. The assay achieved longitudinal sensitivity of 84.4% with a median 4.6-month lead time ahead of radiographic recurrence, and 97.2% sample-level specificity—results cited as sufficient to support CMS MolDX reimbursement submission.",
-      "result": "84.4% sensitivity; 4.6-month lead time vs. radiographic recurrence",
-      "url": "https://investor.natera.com/news/news-details/2026/Natera-Publishes-Clinical-Validation-of-Latitude-Tissue-Free-MRD-Test-in-Colorectal-Cancer/default.aspx"
+      "title": "71% of U.S. Non-Federal Acute-Care Hospitals Now Use Predictive AI Embedded in EHRs, With Measurable Readmission Reductions",
+      "source": "ONC Health IT / Glorium Technologies",
+      "category": "AI & Machine Learning",
+      "snippet": "Federal analysis of American Hospital Association survey data shows 71% of U.S. non-federal acute-care hospitals now use predictive AI integrated into their electronic health records — up from 66% the prior year. A published real-world deployment at one large health system showed readmission rates fall from 27.9% to 23.9%, with a racial equity improvement in readmission gaps and $7.2 million retained in at-risk pay-for-performance funding against a $1 million build cost.",
+      "result": "Readmissions dropped 27.9% → 23.9%; $7.2M pay-for-performance retained",
+      "url": "https://healthit.gov/data/data-briefs/hospital-trends-use-evaluation-and-governance-predictive-ai-2023-2024/"
+    },
+    {
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Reduction in Operative Time, 30% Drop in Intraoperative Complications",
+      "source": "PubMed Central / NCBI",
+      "category": "Robotics & Surgery",
+      "snippet": "A systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical methods. Surgical precision improved by 40% as measured by targeting accuracy in tumor resections and implant placements, with patient recovery times shortened by an average of 15%.",
+      "result": "25% faster ops, 30% fewer intraop complications vs. manual surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
+    },
+    {
+      "title": "Osaka University AI Models Achieve 98.5–99.3% Accuracy Auto-Correcting Mislabeled Hospital X-Ray Datasets",
+      "source": "Crescendo AI / European Radiology",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Researchers at Osaka Metropolitan University developed two AI models — Xp-Bodypart-Checker and CXp-Projection-Rotation-Checker — that automatically detect and correct mislabeled X-ray images in hospital datasets, addressing a systemic quality problem that corrupts AI diagnostic training sets. Published in European Radiology, the models achieved accuracy rates of 98.5% for body-part classification and projection detection, and 99.3% for rotation identification across multi-institutional datasets.",
+      "result": "98.5–99.3% accuracy correcting mislabeled X-rays across hospitals",
+      "url": "https://www.crescendo.ai/news/ai-in-healthcare-news"
     }
   ],
-  "generated_at": "2026-09-03T06:17:37.926516+00:00"
+  "generated_at": "2026-09-04T06:16:02.775152+00:00"
 }
