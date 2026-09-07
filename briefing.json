@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-07",
   "feature": {
-    "title": "From Pilot to Practice: 2026's Medtech Landscape Shifts to Proven Clinical Outcomes at Scale",
-    "summary": "The medtech industry in 2026 has decisively crossed the threshold from AI experimentation to measurable real-world deployment, with ambient AI scribes operating across 150+ health systems, robotic surgery data reshaping outcomes benchmarks, and the FDA's new RAPID pathway compressing the approval-to-Medicare-coverage gap from over a year to 60 days. The GRAIL Galleri multi-cancer blood test goes before an FDA advisory panel this month backed by data from more than 95,000 study participants, marking a potential paradigm shift in population-level cancer screening. Meanwhile, Insilico Medicine's AI-designed drug Rentosertib has advanced to a 320-patient Phase III trial after Phase IIa data showed lung function improvement of +98.4 mL versus a placebo decline of -20.3 mL. The regulatory and clinical infrastructure for AI-driven medicine is no longer speculative — it is being tested, measured, and deployed at hospital scale.",
+    "title": "From Pilots to Proof: Medtech's Real-World Results Era Arrives in 2026",
+    "summary": "The medtech landscape in 2026 has definitively crossed the threshold from experimentation to enterprise-scale deployment, with measurable clinical outcomes now backing AI scribes, surgical robots, sepsis prediction systems, and precision oncology platforms. Ambient AI documentation tools have reached 600+ healthcare organizations with documented reductions in physician burnout and note-writing time; robotic surgery meta-analyses confirm 25–51% improvements in key clinical endpoints; and the first AI-designed drug has validated Phase IIa trial results. Abbott's $21B acquisition of Exact Sciences, Tempus AI's 36% revenue growth driven by oncology genomics deployment, and a peer-reviewed wearable telemonitoring study enabling 48-hour earlier hospital discharge round out a field defined this year by hard numbers over headlines. Regulators are moving in step: the FDA's finalized real-world evidence guidance for medical devices is actively reshaping how submissions are made, and over 1,300 AI-enabled devices now carry FDA clearance.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "GRAIL's Galleri multi-cancer blood test faces its pivotal FDA advisory panel on September 23, backed by data from 25,490 PATHFINDER 2 participants and over 70,000 NHS-Galleri trial enrollees."
+        "text": "Abbott's $21B Exact Sciences acquisition closed in March 2026, creating a dominant cancer diagnostics platform performing over 5 million tests annually and posting 40%+ diagnostics sales growth in Q2."
       },
       {
         "label": "Key trend",
-        "text": "CMS and FDA's new RAPID coverage pathway collapses the approval-to-Medicare-reimbursement timeline from 12+ months to as little as 60 days for breakthrough devices, with ~40–60 devices immediately eligible."
+        "text": "Ambient AI clinical documentation has crossed the mainstream threshold, with 600+ organizations deploying tools like Microsoft DAX Copilot and hospital systems reporting physicians spending up to 83% less time on post-visit notes."
       },
       {
         "label": "To watch",
-        "text": "Insilico Medicine's Phase III trial of Rentosertib — the first AI-discovered, AI-designed drug to reach late-stage development — will be a defining test of whether generative AI drug discovery produces durable clinical results."
+        "text": "Tempus AI's FDA-cleared ECG-PH tool and its ASCO 2026 multi-center study showing real-world biomarker testing improvements in lung cancer signal that AI-CDSS platforms are moving from research to routine clinical use."
       }
     ]
   },
   "articles": [
     {
-      "title": "GRAIL Galleri Multi-Cancer Blood Test Goes Before FDA Advisory Panel September 23",
-      "source": "GRAIL / PR Newswire",
+      "title": "Abbott's $21B Exact Sciences Acquisition Closes, Combining Cologuard, Oncotype DX, and Cancerguard into One Cancer Diagnostics Platform",
+      "source": "MedDeviceGuide / Abbott Newsroom",
       "category": "Diagnostics & Imaging",
-      "snippet": "The FDA's Molecular and Clinical Genetics Panel is scheduled to review GRAIL's Premarket Approval application for the Galleri multi-cancer early detection test on September 23, 2026. The PMA submission is anchored in safety and performance data from 25,490 PATHFINDER 2 participants and over 70,000 participants from the NHS-Galleri randomized controlled trial — the largest RCT of any multi-cancer early detection test in an intended-use population.",
-      "result": "Data from 95,000+ participants; FDA panel review Sept 23",
-      "url": "https://www.prnewswire.com/news-releases/grail-announces-fda-advisory-committee-meeting-to-review-premarket-approval-application-for-the-galleri-multi-cancer-early-detection-test-302846154.html"
+      "snippet": "Abbott completed its $21 billion acquisition of Exact Sciences on March 23, 2026 — the largest medtech transaction of the year — adding Cologuard, Oncotype DX, Oncodetect, and Cancerguard to its portfolio. The deal fueled more than 40% growth in Abbott's diagnostics sales in Q2 2026, with Exact Sciences performing over 5 million tests annually at the time of close, establishing Abbott as leader in the $60B U.S. cancer screening market.",
+      "result": "40%+ diagnostics sales growth; 5M+ annual tests at close",
+      "url": "https://meddeviceguide.com/blog/abbott-exact-sciences-21b-acquisition-cancer-diagnostics-guide"
     },
     {
-      "title": "CMS and FDA Launch RAPID Pathway, Cutting Medicare Coverage Wait for Breakthrough Devices to 60 Days",
-      "source": "CMS.gov / FDA.gov",
-      "category": "Digital Health",
-      "snippet": "On April 23, 2026, CMS and FDA jointly announced the Regulatory Alignment for Predictable and Immediate Device (RAPID) coverage pathway, designed to issue a proposed national coverage determination the same day a breakthrough device receives FDA authorization. For eligible Class II and III breakthrough devices, this compresses the traditional 12-month-plus gap between FDA clearance and Medicare payment to as little as 60–90 days, with approximately 40–60 devices immediately eligible.",
-      "result": "Coverage timeline cut from 12+ months to ~60 days",
-      "url": "https://www.cms.gov/newsroom/press-releases/cms-fda-announce-rapid-coverage-pathway-accelerate-patient-access-life-changing-medical-devices"
-    },
-    {
-      "title": "Insilico Medicine Initiates Phase III Trial for Rentosertib, World's First AI-Discovered Drug to Reach Late-Stage Development",
-      "source": "Insilico Medicine / BioSpace",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Insilico Medicine launched a 320-patient, randomized, double-blind, placebo-controlled Phase III trial for Rentosertib (formerly ISM001-055), an oral TNIK inhibitor for idiopathic pulmonary fibrosis fully discovered and designed by generative AI. The Phase IIa GENESIS-IPF study that unlocked Phase III demonstrated a mean forced vital capacity improvement of +98.4 mL at 12 weeks in the 60 mg once-daily arm versus a decline of -20.3 mL in the placebo group, meeting its primary safety endpoint.",
-      "result": "+98.4 mL FVC gain vs. -20.3 mL placebo at 12 weeks",
-      "url": "https://www.biospace.com/press-releases/insilico-initiates-phase-iii-clinical-trial-for-rentosertib-its-ai-empowered-tnik-inhibitor-for-idiopathic-pulmonary-fibrosis"
-    },
-    {
-      "title": "J&J OTTAVA Robotic Surgical System Meets All Primary Safety Endpoints in 30-Patient Gastric Bypass Clinical Study",
-      "source": "Johnson & Johnson MedTech / MDDI Online",
+      "title": "J&J OTTAVA Robotic System Pivotal Trial: All 30 Gastric Bypass Procedures Completed Without Conversion, Average 30-lb Weight Loss at 30 Days",
+      "source": "Johnson & Johnson / Medical Economics",
       "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced first-ever clinical study results for its investigational OTTAVA robotic surgical system — a prospective, multicenter study in Roux-en-Y gastric bypass procedures. In the 30-patient cohort, all procedures were completed robotically without conversion to a non-robotic approach, meeting primary safety and performance endpoints through 30 days, with average patient weight loss of 30 pounds by day 30. These data were submitted to FDA in support of a De Novo classification application.",
+      "snippet": "Johnson & Johnson announced results from the first clinical study of its investigational OTTAVA robotic surgical system at the 2026 ASMBS Annual Meeting, covering 30 patients undergoing Roux-en-Y gastric bypass. The prospective multicenter trial met all primary safety and performance endpoints through 30 days, with no procedures requiring conversion to a non-robotic approach and an average patient weight loss of 30 pounds — data used to support an FDA De Novo classification application.",
       "result": "100% robotic completion rate; 30 lbs avg. weight loss at 30 days",
-      "url": "https://www.mddionline.com/robotics/johnson-johnson-hits-critical-milestone-for-ottava-robotic-surgical-system"
+      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
     },
     {
-      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis from Class III to Class II, Citing 94% U.S. Facility Adoption and 2.6M-Patient Evidence Base",
-      "source": "Federal Register / FDA",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The FDA proposed in August 2026 to reclassify digital breast tomosynthesis (DBT) systems from Class III (premarket approval) to Class II (special controls), citing an extensive evidence base spanning more than 2.6 million patients across 42 studies and an absence of major safety issues in postmarket data. As of July 8, 2026, 94% of the 9,107 certified U.S. mammography facilities have DBT units — a deployment milestone that anchors the reclassification rationale.",
-      "result": "94% of 9,107 U.S. certified facilities already deploy DBT",
-      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
+      "title": "Wearable Telemonitoring Enables Safe 48-Hour Earlier Discharge After Robot-Assisted Uro-Oncologic Surgery, Cutting Unscheduled Hospital Visits by 91%",
+      "source": "PubMed / Journal of Robotic Surgery",
+      "category": "Wearables & Monitoring",
+      "snippet": "A multicenter prospective study published August 31, 2026 enrolled 86 patients undergoing robot-assisted prostatectomy or nephrectomy, randomizing them to standard care or an early-discharge wearable telemonitoring protocol using a sensor-equipped shirt tracking heart rate, respiratory rate, temperature, and ECG. Wearable-group patients were discharged 48 hours earlier (2.8 vs. 4.7 days, p<0.001), with unscheduled hospital access dropping from 25.6% to just 2.3% (p<0.01), and a mean user satisfaction score of 95.3/100.",
+      "result": "48h earlier discharge; unscheduled visits fell from 25.6% to 2.3%",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671715/"
     },
     {
-      "title": "FDA Expands TEMPO Digital Health Pilot, Adding Remote Hypertension Platform and AI Mental Health Voice Tool",
-      "source": "Holland & Knight / Mondaq",
-      "category": "Digital Health",
-      "snippet": "The FDA continued expanding its Technology-Enabled Meaningful Patient Outcomes (TEMPO) pilot in August 2026, selecting three additional digital health technologies: a remote hypertension management platform, a clinician-supervised AI voice tool for mental healthcare delivery, and a chronic disease management tool. TEMPO is specifically designed to evaluate how digital health technologies generate real-world patient outcome evidence in clinical settings, directly informing FDA regulatory frameworks.",
-      "result": "3 new real-world deployment programs added in August 2026",
-      "url": "https://www.mondaq.com/unitedstates/healthcare/1838240/holland-knight-health-dose-september-1-2026"
-    },
-    {
-      "title": "Roche Deploys 3,500 NVIDIA Blackwell GPUs — Pharma Industry's Largest AI Factory — for Diagnostics and Drug Discovery",
-      "source": "Roche / GlobeNewswire",
+      "title": "AI Sepsis Prediction Model BIAlert Cuts ICU Admissions from 34.4% to 30.4% in Prospective Economic Evaluation",
+      "source": "PLOS Global Public Health (PubMed)",
       "category": "AI & Machine Learning",
-      "snippet": "In March 2026, Roche formally launched a large-scale AI factory featuring 2,176 high-performance NVIDIA Blackwell GPUs on-premises across the U.S. and Europe, bringing its total to over 3,500 GPUs — the largest announced GPU footprint in the pharmaceutical industry. The infrastructure is actively deployed across digital pathology (scanning large image volumes to detect subtle disease patterns), genomic analytics via NVIDIA Parabricks, and manufacturing digital twins using NVIDIA Omniverse.",
-      "result": "3,500+ Blackwell GPUs live across US/Europe diagnostics pipeline",
-      "url": "https://www.globenewswire.com/news-release/2026/03/16/3256740/0/en/roche-launches-nvidia-ai-factory-to-accelerate-the-development-of-new-therapeutics-and-diagnostics-solutions.html"
+      "snippet": "A prospective economic evaluation published August 31, 2026 assessed the BIAlert-Sepsis AI model in a Spanish hospital, comparing clinical and cost outcomes before and after deployment. During the AI period, ICU admissions fell from 34.4% to 30.4% (adjusted p=0.001), with significant reductions of 0.35 ICU days and 0.59 ward days per patient, with economic modeling indicating early breakeven and positive financial returns.",
+      "result": "ICU admissions down 4 percentage points; 0.35 fewer ICU days/patient",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42672083/"
     },
     {
-      "title": "Microsoft Dragon Copilot (DAX) Deployed Across 150+ Health Systems; NEJM Trial Quantifies Burnout and Documentation Impact",
-      "source": "NEJM AI / Deepgram",
+      "title": "Insilico Medicine AI-Designed IPF Drug ISM001-055 Phase IIa: +98.4 mL Lung Function Gain vs. -20.3 mL Placebo Decline",
+      "source": "Insilico Medicine / IntuitionLabs",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The first clinical readout of a drug entirely discovered and designed by generative AI, ISM001-055 (rentosertib), delivered landmark Phase IIa results in 71 patients with idiopathic pulmonary fibrosis across 21 sites: patients receiving 60mg once-daily achieved a mean FVC increase of +98.4 mL from baseline at 12 weeks, while the placebo group declined by -20.3 mL, meeting both primary safety and secondary efficacy endpoints. The double-blind, placebo-controlled results suggest the drug may halt or even reverse IPF progression, a result rarely seen in this disease.",
+      "result": "+98.4 mL FVC gain (60mg) vs. -20.3 mL placebo decline",
+      "url": "https://intuitionlabs.ai/articles/ins018-055-phase-2a-results-ai-designed-drug"
+    },
+    {
+      "title": "Microsoft DAX Copilot Deployed Across 600+ Healthcare Organizations; Physicians Report Up to 83% Less Note-Writing Time",
+      "source": "Becker's Hospital Review / Stanford HAI 2026 AI Index",
       "category": "AI & Machine Learning",
-      "snippet": "Microsoft's ambient AI clinical documentation tool — Dragon Copilot (formerly DAX Copilot) — is now operational across more than 150 U.S. health systems integrated with Epic EHR. A parallel-group pragmatic randomized trial published in NEJM AI enrolled 238 outpatient physicians across 14 specialties, with DAX used in 33.5% of 24,696 visits, finding improvements in physician burnout scores, though documentation time reduction did not reach statistical significance compared to controls.",
-      "result": "Deployed in 150+ health systems; burnout improved in RCT",
-      "url": "https://ai.nejm.org/doi/abs/10.1056/AIoa2501000"
+      "snippet": "Microsoft's DAX Copilot ambient AI documentation tool has reached 600+ healthcare organizations as of mid-2026, making it the most widely deployed enterprise AI scribe in healthcare. Across multiple hospital systems, physicians reported spending up to 83% less time writing notes, with one health system reporting a 112% return on investment; a 30-clinician pilot at Overlake Medical Center found 81% reported reduced cognitive burden and 77% reported improved documentation quality.",
+      "result": "83% reduction in note time; 112% ROI reported at one health system",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/400-healthcare-organizations-adopt-microsofts-dax-copilot/"
     },
     {
-      "title": "Zimmer Biomet ROSA Knee with OptimiZe Reaches Commercial U.S. Availability, Reducing Surgical Planning Time by 46%",
-      "source": "Zimmer Biomet / Yahoo Finance",
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Faster Operations, 30% Fewer Intraoperative Complications Across 25 Studies",
+      "source": "PMC / NCBI — The Rise of Robotics and AI-Assisted Surgery",
       "category": "Robotics & Surgery",
-      "snippet": "Zimmer Biomet's ROSA Knee with OptimiZe — cleared by the FDA via 510(k) in November 2025 — achieved broad commercial U.S. availability in Q1 2026 as planned. The system's proprietary OptimiZe Planning algorithm generates personalized surgical plans that reduce planning time by an average of 46%, and its motion-sensitive tracking and automated kinematic alignment tools are designed to reduce surgeon-to-surgeon variability in total knee replacement outcomes.",
-      "result": "46% reduction in surgical planning time; Q1 2026 commercial rollout",
-      "url": "https://www.yahoo.com/news/articles/zimmer-biomet-secures-fda-approval-092256145.html"
-    },
-    {
-      "title": "71% of U.S. Non-Federal Acute-Care Hospitals Now Use Predictive AI Embedded in EHRs, With Measurable Readmission Reductions",
-      "source": "ONC Health IT / Glorium Technologies",
-      "category": "AI & Machine Learning",
-      "snippet": "Federal analysis of American Hospital Association survey data shows 71% of U.S. non-federal acute-care hospitals now use predictive AI integrated into their electronic health records — up from 66% the prior year. A published real-world deployment at one large health system showed readmission rates fall from 27.9% to 23.9%, with a racial equity improvement in readmission gaps and $7.2 million retained in at-risk pay-for-performance funding against a $1 million build cost.",
-      "result": "Readmissions dropped 27.9% → 23.9%; $7.2M pay-for-performance retained",
-      "url": "https://healthit.gov/data/data-briefs/hospital-trends-use-evaluation-and-governance-predictive-ai-2023-2024/"
-    },
-    {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Reduction in Operative Time, 30% Drop in Intraoperative Complications",
-      "source": "PubMed Central / NCBI",
-      "category": "Robotics & Surgery",
-      "snippet": "A systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical methods. Surgical precision improved by 40% as measured by targeting accuracy in tumor resections and implant placements, with patient recovery times shortened by an average of 15%.",
-      "result": "25% faster ops, 30% fewer intraop complications vs. manual surgery",
+      "snippet": "A 2026 systematic review and meta-analysis synthesizing 25 peer-reviewed studies from 2024–2025 on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications versus manual methods. Surgical precision improved by 40% in targeting accuracy during tumor resections and implant placements, patient recovery times shortened by an average of 15%, and healthcare costs fell by approximately 10%.",
+      "result": "25% faster ops; 30% fewer intraoperative complications; 15% shorter recovery",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
     },
     {
-      "title": "Osaka University AI Models Achieve 98.5–99.3% Accuracy Auto-Correcting Mislabeled Hospital X-Ray Datasets",
-      "source": "Crescendo AI / European Radiology",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Researchers at Osaka Metropolitan University developed two AI models — Xp-Bodypart-Checker and CXp-Projection-Rotation-Checker — that automatically detect and correct mislabeled X-ray images in hospital datasets, addressing a systemic quality problem that corrupts AI diagnostic training sets. Published in European Radiology, the models achieved accuracy rates of 98.5% for body-part classification and projection detection, and 99.3% for rotation identification across multi-institutional datasets.",
-      "result": "98.5–99.3% accuracy correcting mislabeled X-rays across hospitals",
-      "url": "https://www.crescendo.ai/news/ai-in-healthcare-news"
+      "title": "Robotic-Assisted Total Hip Arthroplasty Shows 51% Reduction in Perioperative Complications vs. Manual Techniques in 15-Study Meta-Analysis",
+      "source": "Cureus / NCBI",
+      "category": "Robotics & Surgery",
+      "snippet": "A systematic review and meta-analysis published January 22, 2026 analyzed 15 comparative studies of robotic-assisted versus manual total hip arthroplasty. Robotic-assisted procedures demonstrated a clinically meaningful 51% reduction in overall perioperative complications (low heterogeneity), attributed to enhanced precision in component positioning, real-time haptic feedback, and improved soft tissue preservation, though operative times were modestly longer by a mean of 8.43 minutes.",
+      "result": "51% reduction in perioperative complications vs. manual THA",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12924498/"
+    },
+    {
+      "title": "Tempus AI Reports 36% Revenue Growth Driven by Oncology Genomics Deployments; Northwestern Medicine Expands System-Wide Access",
+      "source": "Tempus AI Investor Relations",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "Tempus AI reported Q1 2026 revenue growth of 36% year-over-year, driven by its oncology diagnostic business and its data/AI modeling segment which grew 44.1%. The company was selected by Northwestern Medicine to expand genomic testing access across the entire health system — leveraging DNA, RNA, liquid biopsy, and MRD tests — and presented a multi-center ASCO 2026 study showing clinically meaningful improvements in biomarker testing rates for early-stage non-small cell lung cancer after deploying its Next AI clinical decision support platform across 662 patients at six sites.",
+      "result": "36% revenue growth; biomarker testing rates improved across 662 eNSCLC patients",
+      "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-first-quarter-2026-results"
+    },
+    {
+      "title": "Doximity 2026 State of AI in Medicine: 75% of Physician AI Users Report Reduced Administrative Burden; 69% Report Better Patient Outcomes",
+      "source": "Doximity",
+      "category": "Digital Health",
+      "snippet": "Doximity's 2026 State of AI in Medicine Report surveyed 3,151 U.S. physicians across 15 specialties and found that three-quarters of physician AI users reported the technology has already reduced administrative burden and improved job satisfaction. Notably, 69% of physician AI users reported better patient care and outcomes as a direct result of applying AI in their clinical work, with 94% of all physicians surveyed currently using AI or interested in doing so — double the adoption rate of three years ago.",
+      "result": "75% of AI-using physicians report reduced burden; 69% report better patient outcomes",
+      "url": "https://www.doximity.com/reports/state-of-ai-medicine-report/2026"
+    },
+    {
+      "title": "FDA Finalizes Real-World Evidence Guidance for Medical Devices, Operationalized February 2026: Over 250 Premarket Authorizations Already Include RWE",
+      "source": "FDA / Hogan Lovells",
+      "category": "Other",
+      "snippet": "The FDA finalized its updated guidance on the Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices on December 18, 2025, with full industry operationalization required from February 17, 2026. The guidance removes previous barriers requiring individual patient-level data, opens access to de-identified databases with millions of records (including national cancer registries and EHR networks), and reflects a landscape where over 250 premarket authorizations have already incorporated RWE — though that rate had plateaued under prior policy.",
+      "result": "250+ prior device authorizations used RWE; de-identified mega-databases now eligible",
+      "url": "https://www.hlc.com/en/publications/fda-finalizes-realworld-evidence-guidance-for-device-sponsors"
+    },
+    {
+      "title": "Stanford-Harvard 'State of Clinical AI 2026' Identifies Three Enterprise-Scale Tools With Documented Outcomes: AI Scribes, Sepsis Prediction, and EHR-Embedded Generative AI",
+      "source": "Stanford Medicine / ARISE Network",
+      "category": "AI & Machine Learning",
+      "snippet": "The ARISE Network's January 2026 State of Clinical AI report, led by Stanford and Harvard physicians, identified ambient AI documentation, sepsis prediction, and EHR-embedded generative AI as the three categories that moved from pilot to enterprise scale in 2025 with verifiable outcomes, while cautioning that many other tools show only benchmark performance rather than real-world clinical gains. The report found clinicians in deployed health systems spending up to 83% less time on notes and several major systems reporting significant reductions in ICU transfers from AI-powered early warning systems.",
+      "result": "3 categories confirmed enterprise-scale; 83% note time reduction documented",
+      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
     }
   ],
-  "generated_at": "2026-09-04T06:16:02.775152+00:00"
+  "generated_at": "2026-09-07T06:17:59.008471+00:00"
 }
