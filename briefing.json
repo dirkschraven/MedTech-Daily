@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-20",
   "feature": {
-    "title": "Medtech's Implementation Era: Robots in the OR, Blood Tests for Alzheimer's, and AI Embedded in 150+ Health Systems",
-    "summary": "2026 marks a decisive shift from medtech pilot programs to scaled clinical deployment, with surgical robots breaking decade-old monopolies, AI diagnostic tools earning FDA clearances backed by real patient data, and ambient AI scribes now embedded across more than 150 health systems. The Roche Elecsys pTau217 Alzheimer's blood test earning both CE Mark and FDA clearance represents a landmark diagnostics moment, while Medtronic's Hugo robot—backed by a 137-patient pivotal trial—has launched commercially at Cleveland Clinic and beyond. Simultaneously, Abbott's acquisition of Exact Sciences and its Lingo-Google partnership signal that consumer metabolic health and cancer diagnostics are converging. The sector's defining challenge, flagged by ECRI as the #1 patient safety concern of 2026, remains navigating responsible AI diagnostic adoption at scale.",
+    "title": "AI Moves From Pilot to Production: Hospital Consortia, Cancer Screening Trials, and Robotic Surgery Mark 2026 as Medtech's Execution Year",
+    "summary": "September 2026 marks a clear inflection point where medical AI has shifted from speculation to measurable, scaled deployment. Multi-cancer early detection trials reported landmark real-world outcomes in 142,000+ NHS participants, while 12 major U.S. health systems united under a single diagnostic AI consortium covering nearly 20 million patients annually. Meanwhile, robotic surgery volumes continue their double-digit climb, ambient AI documentation has crossed 150+ health systems, and specialized clinical AI models are demonstrably outperforming general-purpose LLMs in EHR workflows. The era of proof-of-concept is over — results are in.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Roche's Elecsys pTau217 Alzheimer's blood test received FDA clearance in August 2026, offering a routine blood draw alternative to PET scans and CSF tests across Roche's 4,500+ US lab instruments."
+        "text": "GRAIL's NHS-Galleri RCT across 142,000 participants showed a four-fold increase in cancer detection rate and a 25% reduction in emergency cancer presentations when added to standard screening."
       },
       {
         "label": "Key trend",
-        "text": "AI is transitioning from hospital pilots to enterprise-scale deployment, with 71% of non-federal acute-care hospitals now using predictive AI integrated into their EHRs and Microsoft Dragon Copilot live in 150+ health systems."
+        "text": "Specialized, domain-trained clinical AI models — from Corti's medical coding engine to Aidoc's diagnostic consortium infrastructure — are consistently outperforming general foundation models in real hospital EHR environments."
       },
       {
         "label": "To watch",
-        "text": "Abbott and Google's real-world metabolic health study combining Lingo CGM data with AI coaching could become the largest wearable health dataset ever assembled, with prediabetes detection as a key outcome target."
+        "text": "The FDA's proposed reclassification of Digital Breast Tomosynthesis systems from Class III to Class II could dramatically accelerate market access for next-generation AI-powered mammography platforms."
       }
     ]
   },
   "articles": [
     {
-      "title": "Roche Elecsys pTau217 Alzheimer's Blood Test Earns FDA Clearance, Deployable Across 4,500 US Lab Instruments",
-      "source": "Roche / Medical Device Network",
+      "title": "NHS-Galleri RCT: Multi-Cancer Blood Test Delivers Four-Fold Cancer Detection Rate in 142,000-Patient Trial",
+      "source": "GRAIL / PR Newswire",
       "category": "Diagnostics & Imaging",
-      "snippet": "Roche received FDA clearance on August 24, 2026 for its Elecsys pTau217 plasma blood test for Alzheimer's disease pathology assessment, following CE Mark approval in May 2026. The test is designed for broad implementation across Roche's installed base of more than 4,500 cobas laboratory instruments in the US, using the same validated cutoffs in both primary and specialty care settings to rule in or rule out amyloid pathology.",
-      "result": "FDA-cleared; deployable on 4,500+ US cobas instruments immediately",
-      "url": "https://diagnostics.roche.com/us/en/news-listings/2026/fda-elecsys-ptau217-alzheimers-blood-test.html"
+      "snippet": "The landmark NHS-Galleri randomized controlled trial — the first and only RCT of a multi-cancer early detection (MCED) test — enrolled 142,250 demographically representative participants aged 50–77 across England over three years. Adding the Galleri test to standard-of-care screening produced a four-fold improvement in overall cancer detection rate, a 16% increase in Stage I–II diagnoses, and a 25% reduction in cancers diagnosed through emergency presentations.",
+      "result": "4x cancer detection rate; 25% fewer emergency cancer diagnoses",
+      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/"
     },
     {
-      "title": "Medtronic Hugo Robot Launches Commercially at Cleveland Clinic with 98.5% Surgical Success Rate in Pivotal 137-Patient Trial",
-      "source": "Medaptly / MedTech Dive",
-      "category": "Robotics & Surgery",
-      "snippet": "Medtronic's Hugo robotic-assisted surgery system received FDA clearance in December 2025 and performed its first US commercial case—a robotic prostatectomy with next-day patient discharge—at Cleveland Clinic on February 17, 2026. The clearance was supported by the Expand URO pivotal study, the largest US multi-center robotic urological surgery trial, which enrolled 137 patients and demonstrated a 98.5% surgical success rate across prostatectomy, nephrectomy, and cystectomy procedures.",
-      "result": "98.5% surgical success rate across 137 patients; patient discharged next day",
-      "url": "https://www.medaptly.com/news/surgery/medtronic-hugo-robotic-surgery-us-launch/"
+      "title": "PATHFINDER 2: Galleri Test Hits 69.8% Sensitivity for Top 12 Lethal Cancers in 35,000-Person U.S. Study",
+      "source": "GRAIL / BioSpace",
+      "category": "Diagnostics & Imaging",
+      "snippet": "GRAIL's PATHFINDER 2 prospective trial — presented at the 2026 ASCO Annual Meeting — enrolled more than 35,000 U.S. participants and evaluated the Galleri multi-cancer early detection test under real-world screening conditions. The Galleri test demonstrated 69.8% episode sensitivity for the 12 cancers responsible for two-thirds of U.S. cancer deaths, a false positive rate below 0.4%, and a cancer signal origin prediction accuracy exceeding 90%.",
+      "result": "69.8% sensitivity for top-12 lethal cancers; <0.4% false positive rate",
+      "url": "https://www.biospace.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35-000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-asco-annual-meeting"
     },
     {
-      "title": "Labcorp Deploys PathAI's FDA-Cleared AISight Dx Digital Pathology Platform Across Its National Lab Network",
-      "source": "Labcorp / MedTech Dive",
+      "title": "12 U.S. Health Systems Form Aidoc Diagnostic AI Consortium to Standardize Hospital AI at Scale",
+      "source": "Healthcare IT News / University Hospitals",
       "category": "AI & Machine Learning",
-      "snippet": "Labcorp announced in February 2026 the nationwide rollout of PathAI's AISight Dx, an FDA-cleared digital pathology platform, across its full national network of anatomic pathology labs and hospital collaborations. The cloud-based deployment enables fully digital workflows for case management, slide review, and AI-assisted diagnostics, aiming to deliver faster and more consistent pathology results at national scale.",
-      "result": "National rollout across Labcorp's full US anatomic pathology lab network",
-      "url": "https://ir.labcorp.com/news-releases/news-release-details/labcorp-expands-collaboration-pathai-deploy-fda-cleared-digital"
+      "snippet": "Twelve major U.S. health systems — including Cedars-Sinai, Northwell Health, Northwestern Medicine, and Mount Sinai — formed the Diagnostic AI Consortium with Aidoc, collectively caring for nearly 20 million patients annually. The consortium will co-design AI-enabled diagnostic workflows, measure their impact on safety, quality, and speed to diagnosis across member sites, and develop shared governance practices, with Aidoc deploying its CARE clinical AI foundation model and aiOS operating system already running in nearly 2,000 hospitals analyzing 60 million cases per year.",
+      "result": "20M patients covered; AI active in ~2,000 hospitals analyzing 60M cases/year",
+      "url": "https://www.healthcareitnews.com/news/aidoc-teams-12-health-systems-tackle-issues-around-diagnostics"
     },
     {
-      "title": "Johnson & Johnson OTTAVA Robotic System Meets All Safety Endpoints in 30-Patient Gastric Bypass Trial; Patients Lost 30 lbs in 30 Days",
-      "source": "Johnson & Johnson / Medical Economics",
+      "title": "Intuitive Surgical Posts 16% da Vinci Procedure Growth in Q2 2026 With 11,710 Systems Globally Installed",
+      "source": "Intuitive Surgical / MedTech Dive",
       "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson presented pivotal clinical results for its investigational OTTAVA robotic surgical system at the 2026 American Society for Metabolic and Bariatric Surgery annual meeting, with all 30 patients completing procedures robotically without conversion to a non-robotic approach. The 30-patient multicenter study met primary safety and performance endpoints through 30 days post-procedure, with average patient weight loss reaching 30 pounds by day 30.",
-      "result": "100% robotic procedure completion; avg. 30 lbs weight loss at 30 days",
-      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
+      "snippet": "Intuitive Surgical reported Q2 2026 results showing da Vinci procedures grew approximately 15% and Ion endoluminal procedures grew 36%, with Q2 revenue rising 19% year-over-year to $2.89 billion. The company's da Vinci installed base reached 11,710 systems globally as of June 30, 2026 — a 12% increase year-on-year — while 246 da Vinci 5 systems were placed in the quarter alone, up from 180 in Q2 2025.",
+      "result": "11,710 systems installed globally; 15% da Vinci procedure growth Q2 2026",
+      "url": "https://www.medtechdive.com/news/intuitive-surgical-lifts-2026-outlook-for-da-vinci-robot-procedure-growth/818193/"
     },
     {
-      "title": "Insilico Medicine's AI-Designed Drug Rentosertib (ISM001-055) Phase IIa Results Published in Nature Medicine — First Proof-of-Concept for Generative AI Drug Discovery",
-      "source": "Insilico Medicine / GEN Engineering & Biotechnology News",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Insilico Medicine's rentosertib, the first drug both discovered and designed by generative AI, demonstrated positive Phase IIa results in a 71-patient, double-blind, placebo-controlled trial for idiopathic pulmonary fibrosis, published in Nature Medicine in June 2025 and advancing to pivotal study planning in 2026. Patients receiving 60 mg once daily achieved a mean forced vital capacity increase of +98.4 mL from baseline at 12 weeks, versus a decline of −20.3 mL in the placebo group.",
-      "result": "+98.4 mL FVC improvement at 12 weeks vs. −20.3 mL placebo decline",
-      "url": "https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi"
-    },
-    {
-      "title": "Microsoft Dragon Copilot (DAX) Deployed in 150+ Health Systems; Stanford Reports 96% Physician Satisfaction and 2 Hours Saved Daily",
-      "source": "Deepgram / AI Health Guide",
+      "title": "SimonMed Launches World's First Enterprise-Scale Integrated AI Lung Nodule Risk Assessment Workflow Across 175+ Imaging Centers",
+      "source": "SimonMed / AuntMinnie",
       "category": "AI & Machine Learning",
-      "snippet": "Microsoft's DAX Copilot ambient clinical documentation tool—now rebranded as Dragon Copilot—has achieved deployment across 150+ US health systems, becoming the most widely deployed enterprise AI scribe in healthcare. At Stanford Health Care, 96% of physicians reported satisfaction with AI-powered documentation tools, which saved an average of two hours per day per clinician.",
-      "result": "150+ health systems live; 96% physician satisfaction; 2 hrs/day saved",
-      "url": "https://ai-health-apps.com/reviews/nuance-dax-review/"
+      "snippet": "SimonMed partnered with Optellum to integrate the FDA-cleared Lung Cancer Prediction AI directly into its existing clinical workflow, creating what it describes as the world's first enterprise-scale automated lung nodule risk assessment system. Once fully deployed, the workflow will automatically evaluate pulmonary nodules across SimonMed's network of more than 175 outpatient imaging centers in 10 states, with every AI-generated LCP score reviewed by a board-certified radiologist before inclusion in the final report.",
+      "result": "175+ imaging centers; first enterprise-scale automated lung nodule AI workflow",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/15833200/simonmed-optellum-partner-on-ai-lung-nodule-risk-assessment"
     },
     {
-      "title": "Abbott Acquires Exact Sciences, Posts 13% Cancer Diagnostics Sales Growth as Cologuard and Cancerguard Multi-Cancer Test Ramp",
-      "source": "Abbott / Yahoo Finance",
+      "title": "Optellum AI Lung Nodule Platform Surpasses 250 Clinical Sites and 3 Million Cases Analyzed",
+      "source": "Optellum / PR Newswire",
       "category": "Diagnostics & Imaging",
-      "snippet": "Abbott closed its $21 billion acquisition of Exact Sciences on March 23, 2026, establishing itself as a leader in oncology diagnostics and reporting 13% comparable Cancer Diagnostics sales growth in Q1 2026, driven by mid-teens growth in Cologuard and high-teens growth in international markets. Abbott presented 11 cancer test abstracts at ASCO 2026, including new molecular residual disease data from its PARTNER study showing enhanced sensitivity in early triple-negative breast cancer.",
-      "result": "13% cancer diagnostics sales growth; Cologuard mid-teens growth in Q1",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/abbotts-diagnostics-unit-shaping-rest-124600675.html"
+      "snippet": "Optellum announced it has surpassed 250 clinical sites and analyzed more than 3 million lung nodule cases to date, with real-world evidence showing that guideline-concordant follow-up for detected nodules increased from 34% to 94% in AI-enabled workflows compared to standard practice. The company also secured NIHR funding for a multi-site NHS pilot and received TGA Class IIb approval in Australia, expanding its Virtual Nodule Clinic platform internationally.",
+      "result": "Guideline-concordant follow-up jumped from 34% to 94% with AI workflow",
+      "url": "https://www.prnewswire.com/news-releases/optellum-celebrates-accelerating-impact-in-lung-cancer-care-now-at-over-250-sites-and-growing-302791628.html"
     },
     {
-      "title": "GE HealthCare Launches Invenia ABUS Prime with AI Reducing Read Times by 33% and Scans by 40% for Dense Breast Cancer Screening",
-      "source": "HIT Consultant / GE HealthCare",
-      "category": "Diagnostics & Imaging",
-      "snippet": "GE HealthCare launched the Invenia ABUS Prime system in August 2026, featuring FDA 510(k)-cleared AI tools including QVCAD AI reading support that reduces radiologist read times by 33% and a Fast Scan tool that speeds up exam acquisition by up to 40%. The platform has already been clinically installed at Los Angeles-based imaging provider BeSound, which plans a mobile screening unit rollout targeting dense-breast patients for whom mammography alone can miss up to one-third of malignancies.",
-      "result": "33% read time reduction; 40% faster scan acquisition; 35.7% more cancers detected vs. mammography alone",
-      "url": "https://hitconsultant.net/2026/08/03/ge-healthcare-launches-invenia-abus-prime-streamvue-dense-breast-screening/"
+      "title": "Microsoft Dragon Copilot (DAX) Deployed Across 150+ Health Systems; Clinicians Report 50% Documentation Time Reduction and 70% Burnout Relief",
+      "source": "Nuance / Microsoft / Veroscribe",
+      "category": "Digital Health",
+      "snippet": "Microsoft's Dragon Copilot (formerly Nuance DAX Copilot) ambient AI documentation platform is now deployed across more than 150 health systems in the United States, with a UCLA Health RCT published in NEJM AI confirming a +2.8-point improvement on the Mini-Z burnout scale and a 39.9-point drop in physician task load. Self-reported data from more than 100,000 daily clinician users attributes 7 minutes saved per encounter and a 70% reduction in feelings of burnout and fatigue.",
+      "result": "150+ health systems deployed; 70% clinician burnout reduction reported",
+      "url": "https://www.veroscribe.com/blog/nuance-dax-review-2026"
     },
     {
-      "title": "Abbott Lingo CGM + Google Health AI Partnership Launches One of Largest-Ever Real-World Metabolic Health Studies",
-      "source": "MedTech Dive / Abbott Newsroom",
-      "category": "Wearables & Monitoring",
-      "snippet": "Abbott and Google announced a multi-year partnership in August 2026 to integrate Abbott's over-the-counter Lingo continuous glucose monitor with Google Health's Gemini-powered AI coaching platform, making personalized metabolic insights available at consumer scale. The partnership includes launching one of the largest real-world metabolic health studies ever conducted, combining continuous glucose, wearable, laboratory and survey data to identify early signs of prediabetes and inform personalized health guidance.",
-      "result": "Largest real-world metabolic study planned; Lingo-Google app rollout in 2026",
-      "url": "https://www.medtechdive.com/news/abbott-google-to-combine-glucose-data-with-ai-coaching/827680/"
+      "title": "Corti Symphony AI Medical Coding Outperforms OpenAI, Anthropic, and Google by 25%+ on Clinical Accuracy — Validated on 5.8M EHR Records",
+      "source": "Corti / Fierce Healthcare",
+      "category": "AI & Machine Learning",
+      "snippet": "Corti released Symphony for Medical Coding, an agentic AI model validated on 5.8 million electronic health records from 1.8 million patients, achieving a 74% F1 score on the ACI-Note benchmark versus 58% for the best competing fine-tuned model. The system outperformed offerings from OpenAI, Anthropic, Amazon, Oracle, and Google by more than 25% in clinical accuracy benchmarks under identical evaluation conditions, and was also validated on real-world clinical data from a large U.S. health system spanning emergency and outpatient settings.",
+      "result": "74% F1 score vs. 58% best competitor; 25%+ accuracy lead over all major AI labs",
+      "url": "https://www.fiercehealthcare.com/health-tech/cortis-new-agentic-model-medical-coding-outperforms-openai-and-others"
     },
     {
-      "title": "PMC Meta-Analysis: AI-Assisted Robotic Surgery Shows 25% Reduction in Operative Time, 30% Fewer Intraoperative Complications vs. Manual Methods",
-      "source": "PMC / NCBI — The Rise of Robotics and AI-Assisted Surgery",
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Less Operative Time, 30% Fewer Complications Across 25 Peer-Reviewed Studies",
+      "source": "Journal of Robotic Surgery / PubMed Central",
       "category": "Robotics & Surgery",
-      "snippet": "A 2026 systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical techniques. Surgical precision improved by 40% in targeting accuracy during tumor resections and implant placements, and patient recovery times were shortened by an average of 15%.",
-      "result": "25% less operative time; 30% fewer complications; 15% faster recovery",
+      "snippet": "A systematic review and meta-analysis synthesizing findings from 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual techniques. Surgical precision improved by 40%, patient recovery times shortened by an average of 15%, and studies reported a 20% increase in surgeon workflow efficiency and a 10% reduction in healthcare costs.",
+      "result": "25% less operative time; 30% fewer intraoperative complications vs. manual surgery",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
     },
     {
-      "title": "71% of Non-Federal Acute-Care US Hospitals Now Run Predictive AI Integrated Directly in EHRs",
-      "source": "Deepgram / Uvik AI Healthcare Statistics 2026",
-      "category": "Digital Health",
-      "snippet": "As of 2026, 71% of non-federal acute-care hospitals in the United States have deployed predictive AI integrated into their electronic health records, reflecting a rapid maturation from experimentation to routine clinical use. The FDA has cleared over 1,300 AI and ML-enabled medical devices as of 2026, with radiology dominating the regulatory landscape, while approximately 80% of hospitals now use AI in at least one clinical or operational function.",
-      "result": "71% of US acute-care hospitals running EHR-integrated predictive AI",
-      "url": "https://uvik.net/blog/ai-in-healthcare-statistics-2026/"
+      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis From Class III to Class II — Signaling Market-Wide Deployment Acceleration",
+      "source": "FDA / Federal Register",
+      "category": "Diagnostics & Imaging",
+      "snippet": "The FDA published a proposed order in August 2026 to reclassify Digital Breast Tomosynthesis (DBT) systems from Class III (requiring full premarket approval) to Class II (subject to special controls and 510(k) premarket notification), citing sufficient PMA data demonstrating safety and efficacy. The comment period closes October 9, 2026, and if finalized, the move is expected to substantially lower the regulatory barrier for AI-enhanced DBT systems — a category that already includes iCAD's ProFound AI showing 50% improved detection in dense breast tissue.",
+      "result": "DBT downclassified to Class II; expected to accelerate AI mammography deployment",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
     },
     {
-      "title": "Medtronic Files 510(k) for Hugo General and Gynecologic Surgery Expansion; Completes Embrace Gynecology Trial Enrollment",
-      "source": "Medtronic / MedTech Intelligence",
+      "title": "Insilico Medicine's AI-Designed IPF Drug Rentosertib Advances to Phase III After Positive Phase IIa Results Published in Nature Medicine",
+      "source": "Insilico Medicine / Pulmonary Fibrosis Foundation",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Insilico Medicine's rentosertib (ISM001-055) — the first drug discovered and designed end-to-end using generative AI to target an AI-identified disease target — met its primary safety endpoint and demonstrated dose-dependent improvement in forced vital capacity (FVC) in a double-blind, placebo-controlled Phase IIa trial across 71 IPF patients at 22 sites in China, with full results published in Nature Medicine. The drug progressed from target discovery through Phase I clinical trials in under 30 months, and Insilico has now initiated a Phase III trial.",
+      "result": "Phase IIa met safety endpoint; dose-dependent FVC improvement confirmed; Phase III initiated",
+      "url": "https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi"
+    },
+    {
+      "title": "Robotic Hip Arthroplasty Meta-Analysis: 51% Reduction in Perioperative Complications vs. Manual Technique in 15-Study Review",
+      "source": "Cureus / PubMed Central",
       "category": "Robotics & Surgery",
-      "snippet": "Medtronic submitted 510(k) filings in June 2026 to expand the Hugo robotic-assisted surgery system into general surgery (including hernia repair) and gynecologic surgery in the US, building on its December 2025 FDA clearance for urology. The company also completed patient enrollment in its Embrace Gynecology IDE clinical study and received FDA clearance for ProGrip Advanced, a next-generation self-gripping mesh for robotic-assisted ventral hernia repair.",
-      "result": "510(k) filed for general and gynecologic surgery; hernia mesh cleared",
-      "url": "https://medtechintelligence.com/news_article/medtronic-advances-hugo-robotic-surgery-platform-with-key-fda-filings-and-product-approvals/"
+      "snippet": "A systematic review and meta-analysis of 15 comparative studies evaluating robotic-assisted versus manual total hip arthroplasty found that robotic procedures delivered a clinically meaningful 51% reduction in overall perioperative complications with low heterogeneity across studies. Researchers attributed the gains to enhanced precision in component positioning, real-time haptic feedback preventing inadvertent bone resection, and improved soft tissue preservation, though robotic cases averaged 8.43 minutes longer in operative time.",
+      "result": "51% reduction in perioperative complications vs. manual hip arthroplasty",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12924498/"
     }
   ],
-  "generated_at": "2026-09-08T10:43:39.181241+00:00"
+  "generated_at": "2026-09-20T16:18:03.117732+00:00"
 }
