@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "feature": {
-    "title": "AI Moves From Pilot to Production: Hospital Consortia, Cancer Screening Trials, and Robotic Surgery Mark 2026 as Medtech's Execution Year",
-    "summary": "September 2026 marks a clear inflection point where medical AI has shifted from speculation to measurable, scaled deployment. Multi-cancer early detection trials reported landmark real-world outcomes in 142,000+ NHS participants, while 12 major U.S. health systems united under a single diagnostic AI consortium covering nearly 20 million patients annually. Meanwhile, robotic surgery volumes continue their double-digit climb, ambient AI documentation has crossed 150+ health systems, and specialized clinical AI models are demonstrably outperforming general-purpose LLMs in EHR workflows. The era of proof-of-concept is over — results are in.",
+    "title": "From Pilots to Proof: Medtech's Results Reckoning Arrives as Robots, Blood Tests, and AI Tools Post Hard Numbers",
+    "summary": "September 2026 marks a clear inflection point in medtech, with real-world deployment data and pivotal trial outcomes arriving across every major category simultaneously. The FDA's advisory panel review of GRAIL's Galleri multi-cancer blood test — backed by 95,000+ participants across two landmark trials — is the week's defining regulatory moment, while J&J's OTTAVA and Medtronic's Hugo robotic systems have both moved from clinical studies to live commercial cases. Hospital AI is no longer theoretical: a Johns Hopkins–derived sepsis tool posted an 18% mortality reduction across major health systems, and specialized clinical AI platforms like Corti are outperforming Big Tech general-purpose models by measurable margins in production settings. The overarching theme is accountability — the industry is being asked, and is beginning to answer, whether its technologies actually change patient outcomes.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "GRAIL's NHS-Galleri RCT across 142,000 participants showed a four-fold increase in cancer detection rate and a 25% reduction in emergency cancer presentations when added to standard screening."
+        "text": "The FDA's Molecular and Clinical Genetics Advisory Panel convenes September 23 to review GRAIL's Galleri multi-cancer blood test, backed by data from over 95,000 participants across the PATHFINDER 2 and NHS-Galleri randomized trials."
       },
       {
         "label": "Key trend",
-        "text": "Specialized, domain-trained clinical AI models — from Corti's medical coding engine to Aidoc's diagnostic consortium infrastructure — are consistently outperforming general foundation models in real hospital EHR environments."
+        "text": "Specialized, domain-trained clinical AI models are demonstrably outperforming general-purpose LLMs in production hospital settings, accelerating procurement shifts toward vertical medtech AI platforms."
       },
       {
         "label": "To watch",
-        "text": "The FDA's proposed reclassification of Digital Breast Tomosynthesis systems from Class III to Class II could dramatically accelerate market access for next-generation AI-powered mammography platforms."
+        "text": "Histotripsy's CE Mark in Europe — based on 90% tumor control at 12 months in the HOPE4LIVER trial — signals the first non-invasive ultrasound ablation platform ready for broad commercial oncology rollout beyond the U.S."
       }
     ]
   },
   "articles": [
     {
-      "title": "NHS-Galleri RCT: Multi-Cancer Blood Test Delivers Four-Fold Cancer Detection Rate in 142,000-Patient Trial",
-      "source": "GRAIL / PR Newswire",
+      "title": "FDA Advisory Panel Set to Review GRAIL Galleri Multi-Cancer Blood Test, Backed by 95,000-Participant Trial Data",
+      "source": "CLPmag / GRAIL Press Releases",
       "category": "Diagnostics & Imaging",
-      "snippet": "The landmark NHS-Galleri randomized controlled trial — the first and only RCT of a multi-cancer early detection (MCED) test — enrolled 142,250 demographically representative participants aged 50–77 across England over three years. Adding the Galleri test to standard-of-care screening produced a four-fold improvement in overall cancer detection rate, a 16% increase in Stage I–II diagnoses, and a 25% reduction in cancers diagnosed through emergency presentations.",
-      "result": "4x cancer detection rate; 25% fewer emergency cancer diagnoses",
-      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/"
+      "snippet": "The FDA's Molecular and Clinical Genetics Panel meets September 23, 2026 to review GRAIL's Premarket Approval application for the Galleri multi-cancer early detection test. The PMA is grounded in performance and safety data from 25,490 participants in the US-based PATHFINDER 2 study and over 70,000 participants from the intervention arm of the NHS-Galleri trial — the largest randomized controlled trial of any multi-cancer early detection test ever conducted.",
+      "result": "4x higher cancer detection rate; quadrupled screen-detected cancers vs. baseline",
+      "url": "https://clpmag.com/disease-states/cancer/fda-advisory-committee-review-grail-multi-cancer-blood-test/"
     },
     {
-      "title": "PATHFINDER 2: Galleri Test Hits 69.8% Sensitivity for Top 12 Lethal Cancers in 35,000-Person U.S. Study",
-      "source": "GRAIL / BioSpace",
+      "title": "NHS-Galleri Randomized Trial: Substantial Reduction in Stage IV Cancer Diagnoses Across 142,000 Participants",
+      "source": "GRAIL Inc.",
       "category": "Diagnostics & Imaging",
-      "snippet": "GRAIL's PATHFINDER 2 prospective trial — presented at the 2026 ASCO Annual Meeting — enrolled more than 35,000 U.S. participants and evaluated the Galleri multi-cancer early detection test under real-world screening conditions. The Galleri test demonstrated 69.8% episode sensitivity for the 12 cancers responsible for two-thirds of U.S. cancer deaths, a false positive rate below 0.4%, and a cancer signal origin prediction accuracy exceeding 90%.",
-      "result": "69.8% sensitivity for top-12 lethal cancers; <0.4% false positive rate",
-      "url": "https://www.biospace.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35-000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-asco-annual-meeting"
+      "snippet": "GRAIL announced topline results from the landmark 3-year NHS-Galleri randomized controlled trial, which evaluated annual multi-cancer screening in 142,000 demographically representative participants aged 50–77. The trial demonstrated a substantial reduction in Stage IV cancer diagnoses and a four-fold higher cancer detection rate vs. standard of care, with increased detection of deadly cancers at Stages I and II.",
+      "result": "4x higher cancer detection; substantial reduction in Stage IV diagnoses at population scale",
+      "url": "https://grail.com/press-releases/landmark-nhs-galleri-trial-demonstrates-a-substantial-reduction-in-stage-iv-cancer-diagnoses-increased-stage-i-and-ii-detection-of-deadly-cancers-and-four-fold-higher-cancer-detection-rate/"
     },
     {
-      "title": "12 U.S. Health Systems Form Aidoc Diagnostic AI Consortium to Standardize Hospital AI at Scale",
-      "source": "Healthcare IT News / University Hospitals",
-      "category": "AI & Machine Learning",
-      "snippet": "Twelve major U.S. health systems — including Cedars-Sinai, Northwell Health, Northwestern Medicine, and Mount Sinai — formed the Diagnostic AI Consortium with Aidoc, collectively caring for nearly 20 million patients annually. The consortium will co-design AI-enabled diagnostic workflows, measure their impact on safety, quality, and speed to diagnosis across member sites, and develop shared governance practices, with Aidoc deploying its CARE clinical AI foundation model and aiOS operating system already running in nearly 2,000 hospitals analyzing 60 million cases per year.",
-      "result": "20M patients covered; AI active in ~2,000 hospitals analyzing 60M cases/year",
-      "url": "https://www.healthcareitnews.com/news/aidoc-teams-12-health-systems-tackle-issues-around-diagnostics"
-    },
-    {
-      "title": "Intuitive Surgical Posts 16% da Vinci Procedure Growth in Q2 2026 With 11,710 Systems Globally Installed",
-      "source": "Intuitive Surgical / MedTech Dive",
+      "title": "J&J OTTAVA Robotic System Earns FDA De Novo Authorization; Pivotal Bariatric Trial Met All Endpoints With Zero Conversions",
+      "source": "Johnson & Johnson MedTech",
       "category": "Robotics & Surgery",
-      "snippet": "Intuitive Surgical reported Q2 2026 results showing da Vinci procedures grew approximately 15% and Ion endoluminal procedures grew 36%, with Q2 revenue rising 19% year-over-year to $2.89 billion. The company's da Vinci installed base reached 11,710 systems globally as of June 30, 2026 — a 12% increase year-on-year — while 246 da Vinci 5 systems were placed in the quarter alone, up from 180 in Q2 2025.",
-      "result": "11,710 systems installed globally; 15% da Vinci procedure growth Q2 2026",
-      "url": "https://www.medtechdive.com/news/intuitive-surgical-lifts-2026-outlook-for-da-vinci-robot-procedure-growth/818193/"
+      "snippet": "Johnson & Johnson announced FDA De Novo market authorization for OTTAVA, the world's first table-integrated soft tissue robotic system, covering 10 general surgery procedures including gastric bypass and cholecystectomy. In the pivotal 30-patient FORTE clinical study evaluating Roux-en-Y gastric bypass, all primary safety and performance endpoints were met through 30 days, zero procedures required conversion to non-robotic approaches, and average patient weight loss was 30 pounds by day 30.",
+      "result": "100% procedure completion; 0 conversions; 30-lb average weight loss at 30 days",
+      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-receives-fda-market-authorization-in-the-u-s-for-its-ottava-robotic-surgical-system"
     },
     {
-      "title": "SimonMed Launches World's First Enterprise-Scale Integrated AI Lung Nodule Risk Assessment Workflow Across 175+ Imaging Centers",
-      "source": "SimonMed / AuntMinnie",
+      "title": "Medtronic Hugo RAS Makes US Commercial Debut at Cleveland Clinic, Supported by Largest-Ever Urologic Robotics IDE Study",
+      "source": "Medtronic / MedTech Dive",
+      "category": "Robotics & Surgery",
+      "snippet": "Medtronic's Hugo robotic-assisted surgery system completed its first US commercial cases at Cleveland Clinic, Duke University Hospital, and Atrium Health Wake Forest Baptist, following FDA clearance for urologic procedures. The launch is supported by the Expand URO IDE study — the largest multi-port robotic-assisted urological surgery trial in US history — which demonstrated Hugo met primary safety and effectiveness endpoints with outcomes consistent with published literature. The first patient, who underwent robotic prostatectomy, was discharged the day after surgery.",
+      "result": "Primary safety/effectiveness endpoints met; patient discharged day 1 post-prostatectomy",
+      "url": "https://news.medtronic.com/2026-02-17-Medtronic-announces-first-surgery-with-Hugo-TM-robotic-assisted-surgery-system-in-the-U-S-performed-at-Cleveland-Clinic"
+    },
+    {
+      "title": "FDA Clears AI-Powered Sepsis Early Warning System (TREWS); Deployed Hospitals Report 18% Mortality Reduction",
+      "source": "JHU Hub / Sepsis-WoundCare",
       "category": "AI & Machine Learning",
-      "snippet": "SimonMed partnered with Optellum to integrate the FDA-cleared Lung Cancer Prediction AI directly into its existing clinical workflow, creating what it describes as the world's first enterprise-scale automated lung nodule risk assessment system. Once fully deployed, the workflow will automatically evaluate pulmonary nodules across SimonMed's network of more than 175 outpatient imaging centers in 10 states, with every AI-generated LCP score reviewed by a board-certified radiologist before inclusion in the final report.",
-      "result": "175+ imaging centers; first enterprise-scale automated lung nodule AI workflow",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/15833200/simonmed-optellum-partner-on-ai-lung-nodule-risk-assessment"
+      "snippet": "The FDA cleared the Targeted Real-Time Early Warning System (TREWS) for sepsis, developed by Johns Hopkins researchers and commercialized by Bayesian Health — one of the first AI-based medical tools to receive such clearance. Clinical deployments at Cleveland Clinic, MemorialCare, and the University of Rochester Medical Center demonstrated an 18% reduction in sepsis-related in-hospital mortality, along with reduced length of stay, with the system detecting sepsis hours earlier than traditional clinical methods.",
+      "result": "18% reduction in sepsis mortality; detection hours ahead of clinical suspicion",
+      "url": "https://hub.jhu.edu/2026/05/12/fda-approves-early-warning-system-for-sepsis/"
     },
     {
-      "title": "Optellum AI Lung Nodule Platform Surpasses 250 Clinical Sites and 3 Million Cases Analyzed",
-      "source": "Optellum / PR Newswire",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Optellum announced it has surpassed 250 clinical sites and analyzed more than 3 million lung nodule cases to date, with real-world evidence showing that guideline-concordant follow-up for detected nodules increased from 34% to 94% in AI-enabled workflows compared to standard practice. The company also secured NIHR funding for a multi-site NHS pilot and received TGA Class IIb approval in Australia, expanding its Virtual Nodule Clinic platform internationally.",
-      "result": "Guideline-concordant follow-up jumped from 34% to 94% with AI workflow",
-      "url": "https://www.prnewswire.com/news-releases/optellum-celebrates-accelerating-impact-in-lung-cancer-care-now-at-over-250-sites-and-growing-302791628.html"
+      "title": "Natera Signatera ctDNA Test Achieves 100% Positive Predictive Value in Landmark Lymphoma Validation Study",
+      "source": "Natera Inc. / CancerNetwork",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "Natera published new data in Blood Neoplasia validating the Signatera MRD test in 144 newly diagnosed or relapsed/refractory lymphoma patients across 14 subtypes, with 1,105 plasma samples analyzed prospectively in real-world clinical settings. Signatera demonstrated 100% positive predictive value for treatment response assessment, detected recurrence months earlier than imaging, and end-of-treatment positivity was the strongest independent predictor of event-free survival (adjusted HR: 45.33; p<0.0001).",
+      "result": "100% PPV for treatment response; recurrence detected months ahead of imaging",
+      "url": "https://investor.natera.com/news/news-details/2026/New-Publication-Establishes-Strong-Clinical-Validation-of-Signatera-for-MRD-Assessment-in-Lymphoma/default.aspx"
     },
     {
-      "title": "Microsoft Dragon Copilot (DAX) Deployed Across 150+ Health Systems; Clinicians Report 50% Documentation Time Reduction and 70% Burnout Relief",
-      "source": "Nuance / Microsoft / Veroscribe",
-      "category": "Digital Health",
-      "snippet": "Microsoft's Dragon Copilot (formerly Nuance DAX Copilot) ambient AI documentation platform is now deployed across more than 150 health systems in the United States, with a UCLA Health RCT published in NEJM AI confirming a +2.8-point improvement on the Mini-Z burnout scale and a 39.9-point drop in physician task load. Self-reported data from more than 100,000 daily clinician users attributes 7 minutes saved per encounter and a 70% reduction in feelings of burnout and fatigue.",
-      "result": "150+ health systems deployed; 70% clinician burnout reduction reported",
-      "url": "https://www.veroscribe.com/blog/nuance-dax-review-2026"
+      "title": "Natera Signatera MRD Guides Chemotherapy Decisions in Colorectal Liver Metastases; Published in JAMA Oncology",
+      "source": "Medical Device Network / Grafa",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "Natera published Signatera MRD data in JAMA Oncology and presented findings at the 2026 ESMO GI Congress in Munich, analyzing 298 patients from the GALAXY/CIRCULATE-Japan trial with 43-month median follow-up. MRD-positive patients who received adjuvant chemotherapy after surgery for resected colorectal liver metastases showed significantly improved overall survival and disease-free survival compared to those under observation alone.",
+      "result": "Significant OS and DFS benefit for MRD-guided chemo in 298-patient CRLM cohort",
+      "url": "https://www.medicaldevice-network.com/news/natera-demonstrates-mrd-test-benefit-in-colorectal-cancer-patients/"
     },
     {
-      "title": "Corti Symphony AI Medical Coding Outperforms OpenAI, Anthropic, and Google by 25%+ on Clinical Accuracy — Validated on 5.8M EHR Records",
-      "source": "Corti / Fierce Healthcare",
+      "title": "HistoSonics Edison Histotripsy System Earns CE Mark in Europe; HOPE4LIVER Trial Shows 90% Tumor Control at 12 Months",
+      "source": "Focused Ultrasound Foundation / RSNA",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "HistoSonics' Edison non-invasive histotripsy system received CE Mark approval for liver tumor treatment across Europe, following pivotal HOPE4LIVER trial data showing 95% technical success in 44 patients with 49 targeted tumors within 36 hours of treatment and a major complication rate of only 6.8%. At 12-month follow-up, participants experienced a 90% rate of local tumor control across all tumor types, with overall survival of 73.3% for primary liver cancer and 48.6% for metastatic disease.",
+      "result": "90% local tumor control at 12 months; 95% technical success rate at 36 hours",
+      "url": "https://www.fusfoundation.org/posts/histotripsy-for-liver-tumors-earns-regulatory-approval-in-europe/"
+    },
+    {
+      "title": "Corti Symphony AI for Medical Coding Outperforms OpenAI, Anthropic, and Google by 25%+ in Clinical Accuracy Benchmarks",
+      "source": "Fierce Healthcare / Corti",
       "category": "AI & Machine Learning",
-      "snippet": "Corti released Symphony for Medical Coding, an agentic AI model validated on 5.8 million electronic health records from 1.8 million patients, achieving a 74% F1 score on the ACI-Note benchmark versus 58% for the best competing fine-tuned model. The system outperformed offerings from OpenAI, Anthropic, Amazon, Oracle, and Google by more than 25% in clinical accuracy benchmarks under identical evaluation conditions, and was also validated on real-world clinical data from a large U.S. health system spanning emergency and outpatient settings.",
-      "result": "74% F1 score vs. 58% best competitor; 25%+ accuracy lead over all major AI labs",
+      "snippet": "Clinical AI lab Corti released Symphony for Medical Coding, an agentic model validated on real-world clinical data from a large US health system spanning emergency and outpatient care settings, outperforming OpenAI GPT-5.4, Anthropic Claude Opus 4.6, and Google Gemini 3.1 Pro by over 25% in clinical accuracy benchmarks under identical, reproducible test conditions. The product builds on Corti's Symphony model, already deployed across over 100 million patient encounters annually including across NHS health systems.",
+      "result": ">25% accuracy advantage over leading general-purpose LLMs on clinical coding benchmarks",
       "url": "https://www.fiercehealthcare.com/health-tech/cortis-new-agentic-model-medical-coding-outperforms-openai-and-others"
     },
     {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Less Operative Time, 30% Fewer Complications Across 25 Peer-Reviewed Studies",
-      "source": "Journal of Robotic Surgery / PubMed Central",
-      "category": "Robotics & Surgery",
-      "snippet": "A systematic review and meta-analysis synthesizing findings from 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual techniques. Surgical precision improved by 40%, patient recovery times shortened by an average of 15%, and studies reported a 20% increase in surgeon workflow efficiency and a 10% reduction in healthcare costs.",
-      "result": "25% less operative time; 30% fewer intraoperative complications vs. manual surgery",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
-    },
-    {
-      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis From Class III to Class II — Signaling Market-Wide Deployment Acceleration",
-      "source": "FDA / Federal Register",
+      "title": "FDA Proposes Reclassification of Digital Breast Tomosynthesis Systems From Class III to Class II, Signaling Proven Safety at Scale",
+      "source": "Federal Register / FDA CDRH",
       "category": "Diagnostics & Imaging",
-      "snippet": "The FDA published a proposed order in August 2026 to reclassify Digital Breast Tomosynthesis (DBT) systems from Class III (requiring full premarket approval) to Class II (subject to special controls and 510(k) premarket notification), citing sufficient PMA data demonstrating safety and efficacy. The comment period closes October 9, 2026, and if finalized, the move is expected to substantially lower the regulatory barrier for AI-enhanced DBT systems — a category that already includes iCAD's ProFound AI showing 50% improved detection in dense breast tissue.",
-      "result": "DBT downclassified to Class II; expected to accelerate AI mammography deployment",
+      "snippet": "The FDA published a proposed rule to reclassify digital breast tomosynthesis (DBT) systems from Class III (premarket approval) to Class II (special controls with 510(k) notification), citing sufficient accumulated PMA evidence of safety and effectiveness to support this lower regulatory burden. The reclassification, open for public comment until October 9, 2026, reflects broad real-world deployment validation of DBT platforms across thousands of US radiology facilities.",
+      "result": "Class III→Class II reclassification proposed; PMA data deemed sufficient for special controls",
       "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
     },
     {
-      "title": "Insilico Medicine's AI-Designed IPF Drug Rentosertib Advances to Phase III After Positive Phase IIa Results Published in Nature Medicine",
-      "source": "Insilico Medicine / Pulmonary Fibrosis Foundation",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Insilico Medicine's rentosertib (ISM001-055) — the first drug discovered and designed end-to-end using generative AI to target an AI-identified disease target — met its primary safety endpoint and demonstrated dose-dependent improvement in forced vital capacity (FVC) in a double-blind, placebo-controlled Phase IIa trial across 71 IPF patients at 22 sites in China, with full results published in Nature Medicine. The drug progressed from target discovery through Phase I clinical trials in under 30 months, and Insilico has now initiated a Phase III trial.",
-      "result": "Phase IIa met safety endpoint; dose-dependent FVC improvement confirmed; Phase III initiated",
-      "url": "https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi"
+      "title": "18-Month Real-World AI Deployment at 3,300-Bed Chinese Tertiary Hospital: 27,000+ Patient Encounters Across Three Clinical Pathways",
+      "source": "PMC / Dove Medical Press (Risk Management and Healthcare Policy)",
+      "category": "AI & Machine Learning",
+      "snippet": "A peer-reviewed study published in Risk Management and Healthcare Policy documented 18 months of real-world clinical AI implementation at the First Hospital of Hebei Medical University (China), covering over 27,000 patient encounters, 850 multidisciplinary tumor decision-support cases, and 320 therapeutic drug-monitoring episodes across three deployed AI pathways including an intelligent pre-consultation system, a tumor decision-support system, and a drug-monitoring pathway. The study found sustained operational use, cross-specialty workflow integration, and measurable improvements in selected workflow quality indicators versus a pre-implementation baseline.",
+      "result": "27,000+ encounters logged; sustained cross-specialty clinical AI integration at 18 months",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245460/"
     },
     {
-      "title": "Robotic Hip Arthroplasty Meta-Analysis: 51% Reduction in Perioperative Complications vs. Manual Technique in 15-Study Review",
-      "source": "Cureus / PubMed Central",
-      "category": "Robotics & Surgery",
-      "snippet": "A systematic review and meta-analysis of 15 comparative studies evaluating robotic-assisted versus manual total hip arthroplasty found that robotic procedures delivered a clinically meaningful 51% reduction in overall perioperative complications with low heterogeneity across studies. Researchers attributed the gains to enhanced precision in component positioning, real-time haptic feedback preventing inadvertent bone resection, and improved soft tissue preservation, though robotic cases averaged 8.43 minutes longer in operative time.",
-      "result": "51% reduction in perioperative complications vs. manual hip arthroplasty",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12924498/"
+      "title": "Hospital AI Adoption Data: 71% of US Hospitals Now Use Predictive AI in EHRs; Early Adopters Report $3.20 ROI Per Dollar",
+      "source": "American Hospital Association / John Snow Labs",
+      "category": "Digital Health",
+      "snippet": "AHA Health IT supplemental survey data show the portion of US hospitals utilizing predictive AI tools integrated with electronic health records rose from 66% in 2023 to 71% in 2024, with a strong upward trajectory continuing into 2026. Separately, John Snow Labs reports that hospitals with mature AI deployments are achieving a return of $3.20 per dollar invested, often within 14 months, driven by reduced administrative burden and improved clinical throughput.",
+      "result": "71% US hospital EHR-AI adoption; $3.20 ROI per dollar within 14 months",
+      "url": "https://www.aha.org/aha-center-health-innovation-market-scan/2026-05-12-4-health-systems-transforming-care-ai"
     }
   ],
-  "generated_at": "2026-09-20T16:18:03.117732+00:00"
+  "generated_at": "2026-09-21T12:10:18.299099+00:00"
 }
