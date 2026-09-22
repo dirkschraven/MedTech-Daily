@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "feature": {
-    "title": "From Pilots to Proof: Medtech's Results Reckoning Arrives as Robots, Blood Tests, and AI Tools Post Hard Numbers",
-    "summary": "September 2026 marks a clear inflection point in medtech, with real-world deployment data and pivotal trial outcomes arriving across every major category simultaneously. The FDA's advisory panel review of GRAIL's Galleri multi-cancer blood test — backed by 95,000+ participants across two landmark trials — is the week's defining regulatory moment, while J&J's OTTAVA and Medtronic's Hugo robotic systems have both moved from clinical studies to live commercial cases. Hospital AI is no longer theoretical: a Johns Hopkins–derived sepsis tool posted an 18% mortality reduction across major health systems, and specialized clinical AI platforms like Corti are outperforming Big Tech general-purpose models by measurable margins in production settings. The overarching theme is accountability — the industry is being asked, and is beginning to answer, whether its technologies actually change patient outcomes.",
+    "title": "Gene Therapy Firsts, Surgical Robot Rollouts & AI Scribe Proof Points: Medtech's Results Era Is Here",
+    "summary": "September 2026 marks a decisive shift from medtech promise to medtech proof, with FDA approvals of first-ever gene therapies, multi-cancer detection trials reporting landmark NHS-scale outcomes, and robotic surgery systems posting real clinical data across multiple specialties. Ambient AI documentation is no longer a pilot — a JAMA-published multi-center study now quantifies 16 minutes saved per clinical encounter across five academic medical centers. Meanwhile, today's headlines include HighLife's CE-marked transcatheter mitral valve entering limited European commercial release backed by two-year feasibility data, and Dialybrid's novel Silkothane hemodialysis graft completing its first-in-human implant in Italy. The industry consensus is clear: investors, hospitals, and regulators are demanding measurable outcomes, and the field is increasingly delivering them.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "The FDA's Molecular and Clinical Genetics Advisory Panel convenes September 23 to review GRAIL's Galleri multi-cancer blood test, backed by data from over 95,000 participants across the PATHFINDER 2 and NHS-Galleri randomized trials."
+        "text": "Ultragenyx's Fayuvi became the first-ever FDA-approved treatment for Sanfilippo syndrome Type A on Sept. 17, with pediatric Phase 1/2/3 trial data showing a 23.2-point cognitive score improvement (p<0.0001) versus natural history."
       },
       {
         "label": "Key trend",
-        "text": "Specialized, domain-trained clinical AI models are demonstrably outperforming general-purpose LLMs in production hospital settings, accelerating procurement shifts toward vertical medtech AI platforms."
+        "text": "Ambient AI scribes have crossed from pilot to proven infrastructure, with a five-center JAMA study documenting 16 minutes of documentation time saved per patient encounter and 0.49 additional visits per clinician per week."
       },
       {
         "label": "To watch",
-        "text": "Histotripsy's CE Mark in Europe — based on 90% tumor control at 12 months in the HOPE4LIVER trial — signals the first non-invasive ultrasound ablation platform ready for broad commercial oncology rollout beyond the U.S."
+        "text": "HighLife's transseptal mitral valve replacement system, newly CE-marked and entering limited European commercial release today backed by $90M in fresh capital, is beginning its US pivotal study — a potential category-defining moment for structural heart disease."
       }
     ]
   },
   "articles": [
     {
-      "title": "FDA Advisory Panel Set to Review GRAIL Galleri Multi-Cancer Blood Test, Backed by 95,000-Participant Trial Data",
-      "source": "CLPmag / GRAIL Press Releases",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The FDA's Molecular and Clinical Genetics Panel meets September 23, 2026 to review GRAIL's Premarket Approval application for the Galleri multi-cancer early detection test. The PMA is grounded in performance and safety data from 25,490 participants in the US-based PATHFINDER 2 study and over 70,000 participants from the intervention arm of the NHS-Galleri trial — the largest randomized controlled trial of any multi-cancer early detection test ever conducted.",
-      "result": "4x higher cancer detection rate; quadrupled screen-detected cancers vs. baseline",
-      "url": "https://clpmag.com/disease-states/cancer/fda-advisory-committee-review-grail-multi-cancer-blood-test/"
-    },
-    {
-      "title": "NHS-Galleri Randomized Trial: Substantial Reduction in Stage IV Cancer Diagnoses Across 142,000 Participants",
-      "source": "GRAIL Inc.",
-      "category": "Diagnostics & Imaging",
-      "snippet": "GRAIL announced topline results from the landmark 3-year NHS-Galleri randomized controlled trial, which evaluated annual multi-cancer screening in 142,000 demographically representative participants aged 50–77. The trial demonstrated a substantial reduction in Stage IV cancer diagnoses and a four-fold higher cancer detection rate vs. standard of care, with increased detection of deadly cancers at Stages I and II.",
-      "result": "4x higher cancer detection; substantial reduction in Stage IV diagnoses at population scale",
-      "url": "https://grail.com/press-releases/landmark-nhs-galleri-trial-demonstrates-a-substantial-reduction-in-stage-iv-cancer-diagnoses-increased-stage-i-and-ii-detection-of-deadly-cancers-and-four-fold-higher-cancer-detection-rate/"
-    },
-    {
-      "title": "J&J OTTAVA Robotic System Earns FDA De Novo Authorization; Pivotal Bariatric Trial Met All Endpoints With Zero Conversions",
-      "source": "Johnson & Johnson MedTech",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced FDA De Novo market authorization for OTTAVA, the world's first table-integrated soft tissue robotic system, covering 10 general surgery procedures including gastric bypass and cholecystectomy. In the pivotal 30-patient FORTE clinical study evaluating Roux-en-Y gastric bypass, all primary safety and performance endpoints were met through 30 days, zero procedures required conversion to non-robotic approaches, and average patient weight loss was 30 pounds by day 30.",
-      "result": "100% procedure completion; 0 conversions; 30-lb average weight loss at 30 days",
-      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-receives-fda-market-authorization-in-the-u-s-for-its-ottava-robotic-surgical-system"
-    },
-    {
-      "title": "Medtronic Hugo RAS Makes US Commercial Debut at Cleveland Clinic, Supported by Largest-Ever Urologic Robotics IDE Study",
-      "source": "Medtronic / MedTech Dive",
-      "category": "Robotics & Surgery",
-      "snippet": "Medtronic's Hugo robotic-assisted surgery system completed its first US commercial cases at Cleveland Clinic, Duke University Hospital, and Atrium Health Wake Forest Baptist, following FDA clearance for urologic procedures. The launch is supported by the Expand URO IDE study — the largest multi-port robotic-assisted urological surgery trial in US history — which demonstrated Hugo met primary safety and effectiveness endpoints with outcomes consistent with published literature. The first patient, who underwent robotic prostatectomy, was discharged the day after surgery.",
-      "result": "Primary safety/effectiveness endpoints met; patient discharged day 1 post-prostatectomy",
-      "url": "https://news.medtronic.com/2026-02-17-Medtronic-announces-first-surgery-with-Hugo-TM-robotic-assisted-surgery-system-in-the-U-S-performed-at-Cleveland-Clinic"
-    },
-    {
-      "title": "FDA Clears AI-Powered Sepsis Early Warning System (TREWS); Deployed Hospitals Report 18% Mortality Reduction",
-      "source": "JHU Hub / Sepsis-WoundCare",
-      "category": "AI & Machine Learning",
-      "snippet": "The FDA cleared the Targeted Real-Time Early Warning System (TREWS) for sepsis, developed by Johns Hopkins researchers and commercialized by Bayesian Health — one of the first AI-based medical tools to receive such clearance. Clinical deployments at Cleveland Clinic, MemorialCare, and the University of Rochester Medical Center demonstrated an 18% reduction in sepsis-related in-hospital mortality, along with reduced length of stay, with the system detecting sepsis hours earlier than traditional clinical methods.",
-      "result": "18% reduction in sepsis mortality; detection hours ahead of clinical suspicion",
-      "url": "https://hub.jhu.edu/2026/05/12/fda-approves-early-warning-system-for-sepsis/"
-    },
-    {
-      "title": "Natera Signatera ctDNA Test Achieves 100% Positive Predictive Value in Landmark Lymphoma Validation Study",
-      "source": "Natera Inc. / CancerNetwork",
+      "title": "FDA Approves Ultragenyx's Fayuvi Gene Therapy — First-Ever Treatment for Sanfilippo Syndrome Type A",
+      "source": "MedCity News / Ultragenyx IR",
       "category": "Genomics & Precision Medicine",
-      "snippet": "Natera published new data in Blood Neoplasia validating the Signatera MRD test in 144 newly diagnosed or relapsed/refractory lymphoma patients across 14 subtypes, with 1,105 plasma samples analyzed prospectively in real-world clinical settings. Signatera demonstrated 100% positive predictive value for treatment response assessment, detected recurrence months earlier than imaging, and end-of-treatment positivity was the strongest independent predictor of event-free survival (adjusted HR: 45.33; p<0.0001).",
-      "result": "100% PPV for treatment response; recurrence detected months ahead of imaging",
-      "url": "https://investor.natera.com/news/news-details/2026/New-Publication-Establishes-Strong-Clinical-Validation-of-Signatera-for-MRD-Assessment-in-Lymphoma/default.aspx"
+      "snippet": "On September 17, 2026, the FDA granted standard full approval to Fayuvi (rebisufligene etisparvovec), a single-dose intravenous AAV9 gene therapy, making it the first disease-modifying treatment ever approved for MPS IIIA (Sanfilippo syndrome Type A), a fatal pediatric neurodegenerative disorder. The pivotal Transpher A study's subgroup of 17 patients treated under age two showed a Bayley-III cognitive raw score treatment effect of 23.2 points versus natural history (p<0.0001), with commercial supply expected to reach Qualified Treatment Centers within 30–60 days.",
+      "result": "23.2-pt cognitive gain vs. natural history (p<0.0001); first-ever approval",
+      "url": "https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/"
     },
     {
-      "title": "Natera Signatera MRD Guides Chemotherapy Decisions in Colorectal Liver Metastases; Published in JAMA Oncology",
-      "source": "Medical Device Network / Grafa",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "Natera published Signatera MRD data in JAMA Oncology and presented findings at the 2026 ESMO GI Congress in Munich, analyzing 298 patients from the GALAXY/CIRCULATE-Japan trial with 43-month median follow-up. MRD-positive patients who received adjuvant chemotherapy after surgery for resected colorectal liver metastases showed significantly improved overall survival and disease-free survival compared to those under observation alone.",
-      "result": "Significant OS and DFS benefit for MRD-guided chemo in 298-patient CRLM cohort",
-      "url": "https://www.medicaldevice-network.com/news/natera-demonstrates-mrd-test-benefit-in-colorectal-cancer-patients/"
-    },
-    {
-      "title": "HistoSonics Edison Histotripsy System Earns CE Mark in Europe; HOPE4LIVER Trial Shows 90% Tumor Control at 12 Months",
-      "source": "Focused Ultrasound Foundation / RSNA",
+      "title": "HighLife Raises $90M, Announces CE-Marked Mitral Valve in Limited European Commercial Launch Backed by 2-Year Trial Data",
+      "source": "GlobeNewswire",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "HistoSonics' Edison non-invasive histotripsy system received CE Mark approval for liver tumor treatment across Europe, following pivotal HOPE4LIVER trial data showing 95% technical success in 44 patients with 49 targeted tumors within 36 hours of treatment and a major complication rate of only 6.8%. At 12-month follow-up, participants experienced a 90% rate of local tumor control across all tumor types, with overall survival of 73.3% for primary liver cancer and 48.6% for metastatic disease.",
-      "result": "90% local tumor control at 12 months; 95% technical success rate at 36 hours",
-      "url": "https://www.fusfoundation.org/posts/histotripsy-for-liver-tumors-earns-regulatory-approval-in-europe/"
+      "snippet": "HighLife SAS today announced a $90M+ financing round and confirmed its Transcatheter Mitral Valve Replacement (TMVR) system received CE Mark approval in January 2026, enabling a limited European commercial release, while a next-generation Clarity Valve received CE Mark in July 2026 targeting LVOT obstruction risk. Published two-year feasibility data in JACC: Cardiovascular Interventions on the first 30 consecutive patients demonstrated durable valve performance with no serious related adverse events, supporting the concurrent launch of a US pivotal clinical study.",
+      "result": "CE Mark granted; 2-yr feasibility data published; US pivotal study initiated",
+      "url": "https://www.globenewswire.com/news-release/2026/09/22/3365967/0/en/highlife-raises-90-million-to-start-its-us-pivotal-study-and-accelerate-commercial-expansion-in-europe.html"
     },
     {
-      "title": "Corti Symphony AI for Medical Coding Outperforms OpenAI, Anthropic, and Google by 25%+ in Clinical Accuracy Benchmarks",
-      "source": "Fierce Healthcare / Corti",
+      "title": "Dialybrid Completes First-in-Human Implant of Silkothane Arteriovenous Graft for Hemodialysis — Secures €15M Series A",
+      "source": "GlobeNewswire",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Italian medtech Dialybrid today announced the successful first-in-human implantation of its Silkothane Arteriovenous Graft — a hybrid silk fibroin/polyurethane device designed for durable hemodialysis vascular access — performed by Prof. Matteo Tozzi at ASST Sette Laghi in Varese, Italy, as part of an enrolling pilot clinical trial. The company simultaneously closed a €15 million Series A led by XGEN Venture, with participation from CDP Venture Capital, to fund the ongoing clinical program targeting end-stage kidney disease patients.",
+      "result": "First patient successfully implanted; pilot trial now enrolling in Italy",
+      "url": "https://www.globenewswire.com/news-release/2026/09/22/3365978/0/en/dialybrid-secures-15-million-series-a-round-and-announces-successful-first-in-human-implant-of-novel-silkothane-arteriovenous-graft-for-vascular-access-in-hemodialysis.html"
+    },
+    {
+      "title": "JAMA Multi-Center Study: Ambient AI Scribes Cut Clinician Documentation Time by 16 Minutes Per Encounter",
+      "source": "2 Minute Medicine / JAMA (April 2026)",
       "category": "AI & Machine Learning",
-      "snippet": "Clinical AI lab Corti released Symphony for Medical Coding, an agentic model validated on real-world clinical data from a large US health system spanning emergency and outpatient care settings, outperforming OpenAI GPT-5.4, Anthropic Claude Opus 4.6, and Google Gemini 3.1 Pro by over 25% in clinical accuracy benchmarks under identical, reproducible test conditions. The product builds on Corti's Symphony model, already deployed across over 100 million patient encounters annually including across NHS health systems.",
-      "result": ">25% accuracy advantage over leading general-purpose LLMs on clinical coding benchmarks",
-      "url": "https://www.fiercehealthcare.com/health-tech/cortis-new-agentic-model-medical-coding-outperforms-openai-and-others"
+      "snippet": "A large real-world study published in JAMA in April 2026 and conducted across five academic medical centers found that ambient AI scribes reduced total EHR time by 13.4 minutes per encounter and documentation time specifically by 16 minutes per visit — reflecting actual clinical deployment, not a controlled pilot. Clinicians also gained an average of 0.49 additional patient visits per week, providing the first robust multi-site evidence that ambient AI documentation delivers measurable productivity gains at scale.",
+      "result": "16 min/encounter documentation time saved; +0.49 visits/clinician/week",
+      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
     },
     {
-      "title": "FDA Proposes Reclassification of Digital Breast Tomosynthesis Systems From Class III to Class II, Signaling Proven Safety at Scale",
+      "title": "GRAIL NHS-Galleri RCT: 142,250-Patient Trial Shows Substantial Reduction in Stage IV Cancer Diagnoses",
+      "source": "GRAIL Inc. / ASCO 2026",
+      "category": "Diagnostics & Imaging",
+      "snippet": "GRAIL presented full results from the NHS-Galleri trial at ASCO 2026 — the first and only randomized controlled trial of a multi-cancer early detection (MCED) test — enrolling 142,250 demographically representative NHS participants aged 50–77 over three years of annual screening. The trial demonstrated a substantial reduction in Stage IV cancer diagnoses in the Galleri arm, with no serious related adverse events reported, while the companion PATHFINDER 2 study of 35,878 US/Canada participants showed Galleri detected nearly three times as many cancers when added to standard-of-care screening.",
+      "result": "Substantial Stage IV reduction; 3x more cancers detected vs. standard-of-care",
+      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/"
+    },
+    {
+      "title": "J&J OTTAVA Robotic System Clears Primary Safety Endpoints in 30-Patient Bariatric Surgery Trial",
+      "source": "Medical Economics / J&J MedTech",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson announced results from the first multicenter clinical study of its OTTAVA Robotic Surgical System in Roux-en-Y gastric bypass procedures: in a 30-patient cohort, all primary safety and performance endpoints were met through 30 days post-procedure, and all procedures were completed robotically without conversion to a non-robotic approach. Average patient weight loss reached 30 pounds by 30 days post-surgery, and J&J submitted these data alongside a De Novo classification application to the FDA for multi-procedure general surgery indications.",
+      "result": "100% robotic completion; safety endpoints met; avg. 30 lbs lost at 30 days",
+      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
+    },
+    {
+      "title": "Medtronic Hugo RAS Makes US Commercial Debut at Cleveland Clinic After Landmark Expand URO Trial",
+      "source": "Today's Medical Developments / Medtronic",
+      "category": "Robotics & Surgery",
+      "snippet": "Medtronic's Hugo robotic-assisted surgery system completed its first US commercial surgical case at Cleveland Clinic following FDA clearance in December 2025, grounded in the Expand URO trial — the largest multi-port robotic-assisted urological surgery trial conducted in the US — which met primary safety and effectiveness endpoints with outcomes consistent with published literature. Medtronic subsequently filed additional 510(k) submissions in June 2026 to expand Hugo into general and gynecologic surgery specialties in the United States.",
+      "result": "First US commercial case completed; Expand URO primary endpoints met",
+      "url": "https://www.todaysmedicaldevelopments.com/news/medtronic-hugo-robotic-assisted-surgery-system-makes-us-debut/"
+    },
+    {
+      "title": "Wearable Telemonitoring Enables Safe 48-Hour Early Discharge After Robot-Assisted Uro-Oncologic Surgery",
+      "source": "Journal of Robotic Surgery (Springer, Aug. 2026)",
+      "category": "Wearables & Monitoring",
+      "snippet": "A multicenter prospective study published in the Journal of Robotic Surgery enrolled 86 patients undergoing robot-assisted prostatectomy, nephrectomy, or partial nephrectomy, randomizing them to standard care or wearable-enabled early discharge using a sensor-equipped shirt monitoring heart rate, respiratory rate, temperature, and ECG. Patients discharged 48 hours earlier (2.8 vs. 4.7 days, p<0.001) had significantly fewer unscheduled hospital visits, comparable postoperative complication rates, and a mean Mobile App Usability score of 95.3/100, demonstrating both safety and high patient acceptance.",
+      "result": "48-hr earlier discharge; 2.8 vs. 4.7 days LOS (p<0.001); MAUQ 95.3/100",
+      "url": "https://link.springer.com/article/10.1007/s11701-026-03696-9"
+    },
+    {
+      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis from Class III to Class II, Signaling Maturity of 3D Mammography",
       "source": "Federal Register / FDA CDRH",
       "category": "Diagnostics & Imaging",
-      "snippet": "The FDA published a proposed rule to reclassify digital breast tomosynthesis (DBT) systems from Class III (premarket approval) to Class II (special controls with 510(k) notification), citing sufficient accumulated PMA evidence of safety and effectiveness to support this lower regulatory burden. The reclassification, open for public comment until October 9, 2026, reflects broad real-world deployment validation of DBT platforms across thousands of US radiology facilities.",
-      "result": "Class III→Class II reclassification proposed; PMA data deemed sufficient for special controls",
+      "snippet": "The FDA published a proposed order in August 2026 to reclassify digital breast tomosynthesis (DBT) systems from Class III (premarket approval) to Class II (special controls with 510(k) notification), citing sufficient accumulated PMA safety and efficacy data to support a lower regulatory burden. The reclassification — open for public comment until October 9, 2026 — would substantially streamline market entry for next-generation AI-enhanced DBT platforms and reduce barriers for community health systems to deploy 3D mammography.",
+      "result": "Proposed Class III → Class II downgrade; comment period closes Oct. 9, 2026",
       "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system"
     },
     {
-      "title": "18-Month Real-World AI Deployment at 3,300-Bed Chinese Tertiary Hospital: 27,000+ Patient Encounters Across Three Clinical Pathways",
-      "source": "PMC / Dove Medical Press (Risk Management and Healthcare Policy)",
-      "category": "AI & Machine Learning",
-      "snippet": "A peer-reviewed study published in Risk Management and Healthcare Policy documented 18 months of real-world clinical AI implementation at the First Hospital of Hebei Medical University (China), covering over 27,000 patient encounters, 850 multidisciplinary tumor decision-support cases, and 320 therapeutic drug-monitoring episodes across three deployed AI pathways including an intelligent pre-consultation system, a tumor decision-support system, and a drug-monitoring pathway. The study found sustained operational use, cross-specialty workflow integration, and measurable improvements in selected workflow quality indicators versus a pre-implementation baseline.",
-      "result": "27,000+ encounters logged; sustained cross-specialty clinical AI integration at 18 months",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245460/"
+      "title": "Consumer Wearables Connected to EHR Show 82% Patient Engagement at 3 Months in Real-World Academic Center Study",
+      "source": "Frontiers in Digital Health (2026)",
+      "category": "Wearables & Monitoring",
+      "snippet": "A Frontiers in Digital Health study analyzed data from 843 patients (mean age 48) who voluntarily connected consumer wearable devices — primarily Apple Watch (56%), Oura Ring (7.7%), and Fitbit (4.6%) — to the EHR of a large US academic medical center outside any formal study protocol between 2023 and 2025. Survival analysis found 82% of patients remained actively connected at three months, providing the first large-scale, non-study-setting evidence of sustained real-world wearable-EHR engagement.",
+      "result": "82% of 843 patients remained engaged with wearable-EHR link at 3 months",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1784621/full"
     },
     {
-      "title": "Hospital AI Adoption Data: 71% of US Hospitals Now Use Predictive AI in EHRs; Early Adopters Report $3.20 ROI Per Dollar",
-      "source": "American Hospital Association / John Snow Labs",
-      "category": "Digital Health",
-      "snippet": "AHA Health IT supplemental survey data show the portion of US hospitals utilizing predictive AI tools integrated with electronic health records rose from 66% in 2023 to 71% in 2024, with a strong upward trajectory continuing into 2026. Separately, John Snow Labs reports that hospitals with mature AI deployments are achieving a return of $3.20 per dollar invested, often within 14 months, driven by reduced administrative burden and improved clinical throughput.",
-      "result": "71% US hospital EHR-AI adoption; $3.20 ROI per dollar within 14 months",
-      "url": "https://www.aha.org/aha-center-health-innovation-market-scan/2026-05-12-4-health-systems-transforming-care-ai"
+      "title": "Corti Clinical AI Validation: Domain-Specific Medical Models Outperform General LLMs in Hospital EHR Environments",
+      "source": "Healthcare.Digital / Nelson Advisors (Sept. 11, 2026)",
+      "category": "AI & Machine Learning",
+      "snippet": "Clinical validation data released by Danish AI company Corti demonstrated that specialized diagnostic and administrative coding engines substantially outperform broader foundation models when deployed in hospital electronic health record environments, reinforcing a procurement shift across UK, German, and Nordic health networks toward vertical medical AI. The data underpins a broader institutional trend in European hospital procurement explicitly favoring domain-specific clinical models over general-purpose LLMs for EHR-integrated workflows.",
+      "result": "Vertical medical AI outperforms general LLMs in live hospital EHR deployment",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-11th-september-2026"
+    },
+    {
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Reduction in Operative Time, 30% Fewer Intraoperative Complications",
+      "source": "PubMed / PMC (2026)",
+      "category": "AI & Machine Learning",
+      "snippet": "A 2026 systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found AI-assisted systems demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical techniques across retrospective trials and cohort studies. The analysis also documented a 40% improvement in surgical precision, a 15% shorter average patient recovery time, and a 10% reduction in healthcare costs versus conventional procedures.",
+      "result": "25% less operative time; 30% fewer complications; 40% precision improvement",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
     }
   ],
-  "generated_at": "2026-09-21T12:10:18.299099+00:00"
+  "generated_at": "2026-09-22T11:05:28.831899+00:00"
 }
