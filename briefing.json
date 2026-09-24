@@ -1,120 +1,120 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "feature": {
-    "title": "From Bench to Bedside: Medtech's Evidence Moment — Real-World Data Now Drives AI, Robotics, and Genomics Deployment",
-    "summary": "September 2026 marks a decisive shift in medtech from promise to proof: landmark multi-site studies, Nature Medicine publications, and FDA clearance milestones are now backed by measurable patient outcomes rather than pilot projections. The GRAIL NHS-Galleri trial across 142,000+ participants and the I3LUNG AI oncology tool published in Nature Medicine both demonstrate that clinical AI can deliver statistically significant, population-scale results. Simultaneously, surgical robotics (Medtronic Hugo, J&J OTTAVA) are generating their first U.S. clinical data, while the largest-ever ambient AI scribe study quantified real EHR time savings across five health systems. The sector's central tension — between rapid deployment and rigorous safety oversight — is now being adjudicated in peer-reviewed journals, FDA advisory panels, and hospital boardrooms simultaneously.",
+    "title": "Surgical Robotics Wars, AI Diagnostics Breakthroughs & Regulatory Milestones Reshape MedTech in 2026",
+    "summary": "The medtech landscape in 2026 is defined by three converging forces: a fiercely competitive surgical robotics market where J&J's OTTAVA and Medtronic's Hugo have both earned FDA clearance with real clinical outcome data, an AI diagnostics wave now delivering measurable mortality and detection improvements in live hospital deployments, and regulatory rigor catching up with the pace of innovation—from EU MDR Class IIa certifications for AI scribes to FDA approvals backed by multi-thousand-patient RCTs. Multi-cancer early detection hit a landmark milestone with GRAIL's 142,000-person NHS trial and 35,878-patient PATHFINDER 2 study demonstrating tangible stage-shift results, while Mayo Clinic's REDMOD model doubled specialist sensitivity for pancreatic cancer on routine CT scans. Across the board, 2026 is the year that medtech AI moved decisively from bench to bedside—with measurable outcome data to prove it.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "GRAIL's NHS-Galleri RCT across 142,000 participants demonstrated a substantial reduction in Stage IV cancer diagnoses, the first randomized controlled trial of a multi-cancer early detection test to report population-scale results."
+        "text": "GRAIL's NHS-Galleri RCT (142,250 patients) and PATHFINDER 2 (35,878 patients) together showed the Galleri multi-cancer blood test reduced Stage IV cancer diagnoses by over 20% and increased detection 6.5-fold when added to standard screenings."
       },
       {
         "label": "Key trend",
-        "text": "AI ambient scribes are moving from hype to hard data — a JAMA study of 8,581 clinicians across five health systems found 16 minutes saved per encounter in documentation time, with modest but real productivity gains."
+        "text": "Surgical robotics competition intensified dramatically as J&J's OTTAVA earned FDA De Novo authorization and Medtronic's Hugo launched commercially at Cleveland Clinic, both backed by prospective multicenter clinical data—breaking Intuitive Surgical's two-decade U.S. monopoly."
       },
       {
         "label": "To watch",
-        "text": "The FDA's Molecular and Clinical Genetics Advisory Panel convenes today (Sept 23) to review GRAIL's Galleri premarket approval application, a decision that could open national coverage for multi-cancer blood screening."
+        "text": "Enovis's €155M binding offer to acquire eCential Robotics (September 1, 2026) signals that orthopedic robotics is the next major battleground, with a knee robot slated for late 2028 and a shoulder robot for 2029."
       }
     ]
   },
   "articles": [
     {
-      "title": "GRAIL's NHS-Galleri Trial Reports Full Results: Substantial Reduction in Stage IV Cancer Diagnoses Across 142,000 Participants",
-      "source": "GRAIL / ASCO 2026 Annual Meeting",
+      "title": "GRAIL Presents PATHFINDER 2 Results: Galleri Test Increased Cancer Detection 6.5-Fold Across 35,878 Participants",
+      "source": "GRAIL, Inc. / PRNewswire",
       "category": "Genomics & Precision Medicine",
-      "snippet": "The world's first randomized controlled trial of a multi-cancer early detection test, conducted across 142,000 NHS participants aged 50–77, reported a substantial reduction in Stage IV cancer diagnoses with no serious related adverse events. The trial — a three-year, annual-screening study — demonstrated that MCED testing is feasible at population scale within a national health system and can increase the number of cancers detected through screening, including types with no existing screening program.",
-      "result": "Substantial Stage IV cancer reduction; 142,000-participant RCT met endpoints",
-      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/"
+      "snippet": "The PATHFINDER 2 registrational study—the largest MCED interventional study in North America—showed that the Galleri multi-cancer early detection test increased cancer detection 6.5-fold when added to recommended standard-of-care screenings for breast, colorectal, cervical, and lung cancer. Seventy-one percent of the new cancers detected by Galleri were in Stages I–III, with no serious related adverse events reported, underscoring both efficacy and safety across a broad, intended-use population of adults aged 50 and older.",
+      "result": "6.5× cancer detection increase; 71% caught in Stages I–III",
+      "url": "https://investors.grail.com/news-releases/news-release-details/grail-presents-pathfinder-2-results-more-35000-participants"
     },
     {
-      "title": "I3LUNG Multimodal AI Outperforms PD-L1 Biomarkers in Lung Cancer Immunotherapy Prediction — Nature Medicine",
-      "source": "Nature Medicine / University of Chicago Medicine",
+      "title": "NHS-Galleri RCT Full Results: Blood Test Cuts Stage IV Cancer Diagnoses by Over 20% in 142,250-Patient Trial",
+      "source": "GRAIL / ASCO 2026",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "The NHS-Galleri trial—the first and only randomized controlled trial of a multi-cancer early detection test—evaluated annual Galleri screening over three years in 142,250 demographically representative NHS participants aged 50–77. Results showed the test reduced Stage IV diagnoses by more than 20% after the first year of screening across all stageable cancers, while increasing overall cancer detection fourfold versus standard care alone, with no serious related adverse events.",
+      "result": ">20% Stage IV reduction; 4× detection rate vs. standard care",
+      "url": "https://investors.grail.com/news-releases/news-release-details/grail-reports-full-results-nhs-galleri-trial-demonstrating"
+    },
+    {
+      "title": "Johnson & Johnson Receives FDA De Novo Authorization for OTTAVA™—World's First Table-Integrated Soft Tissue Surgical Robot",
+      "source": "Johnson & Johnson / MassDevice",
+      "category": "Robotics & Surgery",
+      "snippet": "The FDA granted J&J De Novo authorization for OTTAVA on July 22, 2026, for 10 upper-abdominal general surgery procedures including Roux-en-Y gastric bypass, gastrectomy, and cholecystectomy. The pivotal 30-patient multicenter clinical study met all primary safety and performance endpoints with zero cases requiring conversion from robotic to non-robotic approach, and patients achieved an average of 30 pounds of weight loss by 30 days post-surgery.",
+      "result": "0/30 robotic conversions; all primary endpoints met",
+      "url": "https://www.massdevice.com/johnson-johnson-fda-approval-ottava-surgical-robot/"
+    },
+    {
+      "title": "Medtronic Hugo RAS System Launches Commercially at Cleveland Clinic Following FDA Clearance; 98.5% Surgical Success in Pivotal Trial",
+      "source": "Urology Times / Medaptly",
+      "category": "Robotics & Surgery",
+      "snippet": "Following FDA clearance in December 2025, Medtronic's Hugo robotic-assisted surgery system completed its first U.S. commercial case—a prostatectomy at Cleveland Clinic—on February 17, 2026, with the patient discharged on postoperative day 1. The pivotal Expand URO IDE study enrolled 137 patients across prostatectomy, cystectomy, and nephrectomy procedures, reporting a 98.5% surgical success rate and meeting all primary safety and efficacy endpoints in the largest U.S. multi-port robotic urologic surgery trial to date.",
+      "result": "98.5% surgical success rate across 137 patients",
+      "url": "https://www.medaptly.com/news/surgery/medtronic-hugo-robotic-surgery-us-launch/"
+    },
+    {
+      "title": "Mayo Clinic's REDMOD AI Doubles Pancreatic Cancer Early Detection Sensitivity on Routine CT Scans",
+      "source": "Mayo Clinic News Network / ASCO Post",
       "category": "AI & Machine Learning",
-      "snippet": "The I3LUNG project, enrolling 2,396 patients across six international centers (Italy, Germany, Greece, Israel, Spain, U.S.), published validated results in Nature Medicine showing that a multimodal AI model outperformed established PD-L1 biomarkers for predicting immunotherapy outcomes in advanced non-small cell lung cancer. In a clinical usability study with 20 physicians, access to the AI tool improved sensitivity for identifying immunotherapy responders from an AUC of 0.72 to 0.87.",
-      "result": "AUC improved from 0.72 to 0.87; AI outperformed standard biomarkers",
-      "url": "https://www.nature.com/articles/s41591-026-04488-2"
+      "snippet": "Published in the journal Gut, the REDMOD (Radiomics-based Early Detection Model) study analyzed nearly 2,000 CT scans and identified 73% of prediagnostic pancreatic cancers at a median of 16 months before clinical diagnosis—nearly double the 38.9% detection rate achieved by specialist radiologists reviewing the same scans without AI. In scans taken more than two years before diagnosis, REDMOD identified nearly three times as many early cancers, with the model now entering prospective clinical testing through the AI-PACED trial.",
+      "result": "73% vs. 39% specialist sensitivity; ~16-month median lead time",
+      "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-helps-specialists-detect-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/"
     },
     {
-      "title": "Landmark JAMA Study: AI Ambient Scribes Cut EHR Documentation Time by 16 Minutes Across 8,581 Clinicians at Five Health Systems",
-      "source": "JAMA / UCSF & Mass General Brigham (ACDC Collaborative)",
+      "title": "Viz.ai Demonstrates 44% Reduction in Stroke Transfer Times in Real-World Hub-and-Spoke Network Deployment",
+      "source": "Viz.ai / American Heart Association ISC 2026",
+      "category": "AI & Machine Learning",
+      "snippet": "New clinical data presented at the AHA's International Stroke Conference (ISC) 2026 showed that deploying the Viz.ai AI care coordination platform at Adventist Health + Rideout reduced door-in-door-out (DIDO) time for large vessel occlusion stroke patients by 44%—achieving nearly a 90-minute reduction versus historical performance and aligning with AHA Get With The Guidelines transfer standards. The platform, now deployed in over 1,700 hospitals, replaces manual transfer workflows with automated real-time coordination, enabling faster access to endovascular reperfusion therapy.",
+      "result": "44% DIDO time reduction; ~90-minute absolute improvement",
+      "url": "https://www.viz.ai/news/viz-ai-study-demonstrates-44-reduction-in-interfacility-stroke-transfer-times"
+    },
+    {
+      "title": "LivaNova aura6000 Wins FDA Premarket Approval for Sleep Apnea; OSPREY RCT Shows 65% Responder Rate at 12 Months",
+      "source": "LivaNova PLC / Med-Tech Insights",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA granted premarket approval to LivaNova's aura6000 System on March 19, 2026, making it the first hypoglossal nerve stimulation device approved without contraindications related to complete concentric collapse. The OSPREY randomized controlled trial demonstrated that 65% of patients met responder criteria at 12 months, with median apnea-hypopnea index dropping from 34.3 to 11.0 events per hour, representing clinically significant and durable improvements in moderate-to-severe obstructive sleep apnea.",
+      "result": "65% responder rate; AHI dropped from 34.3 to 11.0 events/hour",
+      "url": "https://investor.livanova.com/news-releases/news-release-details/livanova-receives-us-food-and-drug-administration-premarket"
+    },
+    {
+      "title": "Tandem Health AI Scribe Achieves EU MDR Class IIa Certification; Deployed to 10,000 NHS Clinicians With 29% Admin Time Cut",
+      "source": "Tandem Health / Healthcare.digital",
       "category": "Digital Health",
-      "snippet": "The largest real-world evaluation of AI ambient scribes to date tracked 8,581 ambulatory clinicians — 1,809 adopters and 6,772 controls — across Mass General Brigham, Emory, UCSF, Yale New Haven, and UC Davis from June 2023 to August 2025. AI scribe adoption was associated with 13.4 fewer minutes of total EHR time and 16.0 fewer minutes of documentation time per eight scheduled patient hours, along with 0.49 additional patient visits per week.",
-      "result": "16 min/day documentation saved; 0.49 extra visits/week across 5 systems",
-      "url": "https://hitconsultant.net/2026/04/01/jama-ai-scribe-study-ehr-time-savings-burnout-reality-check/"
+      "snippet": "Stockholm-based Tandem Health became the first AI scribe in Europe to receive EU MDR Class IIa certification (May 21, 2026) following independent notified body assessment, with its Coding Assistant reaching the same milestone in February 2026. Peer-reviewed studies reported a 29% reduction in administrative time and a 30% gain in job satisfaction among deployed clinicians; the platform now serves 10,000 care organizations across 14 markets including a four-year multi-trust NHS agreement covering 10,000 clinicians.",
+      "result": "29% admin time cut; 30% clinician job satisfaction gain",
+      "url": "https://tandemhealth.ai/resources/news/tandem-s-ai-scribe-is-now-mdr-class-iia-certified"
     },
     {
-      "title": "Medtronic Receives FDA Clearance for LigaSure Vessel-Sealing on Hugo Robot, Expanding Surgical Indication Portfolio",
-      "source": "MedTech Dive",
-      "category": "Robotics & Surgery",
-      "snippet": "Medtronic secured FDA clearance for its LigaSure RAS Maryland instrument on the Hugo soft tissue robotic surgery platform, bringing a technology used in more than 45 million procedures worldwide into its robotic-assisted surgery workflow. The clearance, disclosed September 17, 2026, follows Hugo's December 2025 FDA clearance for urologic procedures — where it met safety and effectiveness endpoints in the largest U.S. robotic urological surgery study — and positions Medtronic to expand into general and gynecologic indications.",
-      "result": "LigaSure cleared on Hugo; urologic trial met all primary endpoints",
-      "url": "https://www.medtechdive.com/news/fda-clears-vessel-sealing-device-for-medtronics-hugo-robot/830625/"
-    },
-    {
-      "title": "J&J OTTAVA Robotic System Passes First Clinical Trial: 30 Patients, Zero Conversions, 30-Lb Average Weight Loss at 30 Days",
-      "source": "Johnson & Johnson / MD+DI",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced results from the first multicenter clinical study of the investigational OTTAVA Robotic Surgical System in Roux-en-Y gastric bypass procedures at the 2026 ASMBS Annual Meeting. In the 30-patient cohort, all procedures were completed robotically with zero conversions to non-robotic approach; the study met its primary safety and performance endpoints through 30 days, with average patient weight loss of 30 pounds.",
-      "result": "30/30 procedures completed robotically; 30-lb average weight loss at 30 days",
-      "url": "https://www.mddionline.com/robotics/johnson-johnson-hits-critical-milestone-for-ottava-robotic-surgical-system"
-    },
-    {
-      "title": "Wearable Telemonitoring Enables 48-Hour Earlier Discharge After Robotic Cancer Surgery With 90% Reduction in Unscheduled Hospital Access",
-      "source": "Journal of Robotic Surgery / Springer Nature",
+      "title": "MIT Publishes Clinical Validation of Needle-Free Raman Spectroscopy CGM Matching Invasive Sensor Accuracy",
+      "source": "Journal of Diabetes Science and Technology (PubMed)",
       "category": "Wearables & Monitoring",
-      "snippet": "A multicenter prospective study of 86 patients undergoing robot-assisted prostatectomy or nephrectomy found that a wearable sensor-equipped shirt and smartphone app enabled patients to be discharged 48 hours earlier than standard care (2.8 vs. 4.7 days) while maintaining comparable postoperative outcomes. Early unscheduled hospital access was dramatically lower in the wearable group (2.3% vs. 25.6%, p<0.01), with no major complications in either arm.",
-      "result": "48-hr earlier discharge; unscheduled readmissions cut from 25.6% to 2.3%",
-      "url": "https://link.springer.com/article/10.1007/s11701-026-03696-9"
+      "snippet": "MIT researchers published in September 2026 clinical validation of a portable, non-invasive continuous glucose monitor based on transdermal band-pass Raman spectroscopy. Across six participants during oral glucose tolerance tests, the device achieved a mean absolute relative difference of 11.34%—statistically indistinguishable from two commercial needle-based CGM sensors (10.42% and 12.93%)—with all readings falling within clinically acceptable zones A and B of the Parkes error grid and no adverse skin reactions.",
+      "result": "11.34% MARD; statistically equivalent to needle-based CGMs",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060693/"
     },
     {
-      "title": "AI Radiology Tool Doubles Incidental Pulmonary Embolism Detection Rate in Real-World Hospital CT Deployment",
-      "source": "European Medical Journal / British Journal of Radiology",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Researchers evaluated 11,690 contrast-enhanced CT examinations at a large tertiary hospital before and after deployment of a commercial AI tool for incidental pulmonary embolism detection. Following AI implementation, the iPE detection rate nearly doubled from 0.35% to 0.63%, with segmental PE detection rising from 0.08% to 0.42% — a more than fivefold increase in this clinically critical sub-category.",
-      "result": "iPE detection rate nearly doubled (0.35% → 0.63%) post-AI deployment",
-      "url": "https://www.emjreviews.com/radiology/news/ai-boosts-incidental-pulmonary-embolism-detection-on-ct/"
-    },
-    {
-      "title": "18-Month Chinese Hospital AI Deployment: 27,000 Patient Encounters, 40% Efficiency Gain, Wait Times Cut by 28%",
-      "source": "Risk Management and Healthcare Policy (Dove Medical Press)",
+      "title": "Bayesian Health TREWS Sepsis Algorithm Deployed Across Five Johns Hopkins Hospitals: 18% Relative Mortality Reduction",
+      "source": "AI Weekly / Medical Device Network",
       "category": "AI & Machine Learning",
-      "snippet": "A peer-reviewed real-world study from a 3,300-bed provincial teaching hospital in Hebei, China tracked 18 months of clinical AI deployment across three pathways: an intelligent pre-consultation system, a multidisciplinary tumor decision-support system, and a drug-monitoring pathway. Across 127 clinicians and 53 specialties, the platform handled 27,000+ patient encounters; patient wait times fell from 18 to 13 minutes, satisfaction rose from 95.4% to 98.9%, and consultation efficiency improved approximately 40%.",
-      "result": "Patient wait times: 18 → 13 min; 40% efficiency gain across 27,000 encounters",
-      "url": "https://www.dovepress.com/clinical-artificial-intelligence-implementation-in-routine-care-real-w-peer-reviewed-fulltext-article-RMHP"
+      "snippet": "Five Johns Hopkins hospitals prospectively validated the Bayesian Health TREWS algorithm, which runs continuously against live EHR streams to flag sepsis before clinicians act. The system demonstrated 82% sensitivity and a documented 18% relative mortality reduction when alerts were acted upon within one hour of notification—a real-world outcome rarely demonstrated by deployed clinical AI.",
+      "result": "82% sensitivity; 18% relative mortality reduction when alerted within 1 hour",
+      "url": "https://aiweekly.co/ai-use-cases/industry/healthcare"
     },
     {
-      "title": "PATHFINDER 2: Galleri Multi-Cancer Test Substantially Increases Cancer Detection in 35,878 North American Participants",
-      "source": "GRAIL / ASCO 2026 Annual Meeting",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "GRAIL presented PATHFINDER 2 results at ASCO 2026 covering 35,878 evaluable participants aged 50+, making it the largest interventional multi-cancer early detection study in North America to date. Results showed the Galleri test substantially increased cancer detection beyond recommended standard-of-care screening with robust performance and a highly favorable safety profile in the intended-use population.",
-      "result": "Cancer detection substantially increased vs. standard care; 35,878 participants",
-      "url": "https://grail.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-a/"
-    },
-    {
-      "title": "FDA Authorizes 1,600+ AI Medical Devices; Advisory Panel Convenes Today on GRAIL Galleri PMA",
-      "source": "FDA CDRH / MedTech Dive",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The FDA has now authorized over 1,600 AI-enabled medical devices for U.S. marketing as of September 2026, with 510(k) clearances trending up 2.5% year-over-year. Today — September 23, 2026 — the FDA's Molecular and Clinical Genetics Advisory Panel convenes to review the Premarket Approval Application for the Galleri multi-cancer early detection test, a decision with major implications for national cancer screening policy.",
-      "result": "1,600+ AI devices authorized; PMA panel vote today on GRAIL Galleri",
-      "url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/cdrh-new-news-and-updates"
-    },
-    {
-      "title": "AI Scribe Safety Alert: Peer-Reviewed Study Flags Hallucinations and Medication Errors Propagating Through Hospital EHR Systems",
-      "source": "JMIR Medical Informatics",
-      "category": "Digital Health",
-      "snippet": "A JMIR Medical Informatics study published August 2026 argues that AI scribe safety must be measured downstream — not just at the moment of note generation — because errors in signed clinical notes are copied, summarized, coded, and re-ingested by other clinical systems. Parallel real-world reporting from deployed hospital systems documented AI scribes misidentifying conditions and substituting medications for similar-sounding alternatives, with errors entering patient records.",
-      "result": "AI scribe errors documented propagating downstream through live EHR systems",
-      "url": "https://doi.org/10.2196/103162"
-    },
-    {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Less Operative Time, 30% Fewer Intraoperative Complications vs. Manual Methods",
-      "source": "PMC / NCBl — Rise of Robotics and AI-Assisted Surgery in Modern Healthcare",
+      "title": "Enovis Acquires eCential Robotics for €155M to Build Next-Generation Orthopedic Surgical Robot Platform",
+      "source": "MedTech Dive / Enovis / GlobeNewswire",
       "category": "Robotics & Surgery",
-      "snippet": "A systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical methods. Surgical precision improved by 40% and patient recovery times were shortened by an average of 15%, with a 20% increase in surgeon workflow efficiency.",
-      "result": "25% less operative time; 30% fewer intraoperative complications vs. manual surgery",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12181090/"
+      "snippet": "On September 1, 2026, Enovis entered a binding offer to acquire France-based eCential Robotics—developer of the FDA 510(k)-cleared Op.n navigation-robotics platform and co-developer of J&J's Velys Spine robot—for €155M upfront plus up to €35M in milestones. The deal formally closes Enovis's competitive gap in orthopedic robotics, adding robotic automation to its ASTRA enabling technology platform with a knee robot targeted for late 2028 and a shoulder robot for 2029.",
+      "result": "€155M acquisition; knee robot launch targeted late 2028",
+      "url": "https://www.medtechdive.com/news/enovis-inks-ecential-takeover-to-develop-surgical-ortho-robots/829391/"
+    },
+    {
+      "title": "El Camino Health Deploys da Vinci Robotic CABG, Cutting Cognitive Burden and Improving Care Consistency in Real-World OR",
+      "source": "The Robot Report (September 2026 Issue)",
+      "category": "Robotics & Surgery",
+      "snippet": "The September 2026 issue of The Robot Report documented how clinicians at El Camino Health and Heart Vascular Institute implemented Intuitive Surgical's da Vinci system for coronary artery bypass grafting in a real-world hospital setting. The deployment reduced cognitive burden on surgical staff while improving consistency and accessibility of care, demonstrating that precise robotic motion control in minimally invasive cardiac procedures translates to measurable staff and patient-level outcomes.",
+      "result": "Reduced staff cognitive burden; improved care consistency in live CABG cases",
+      "url": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/"
     }
   ],
-  "generated_at": "2026-09-23T10:54:37.826860+00:00"
+  "generated_at": "2026-09-24T11:14:18.993137+00:00"
 }
