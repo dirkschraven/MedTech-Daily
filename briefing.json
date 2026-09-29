@@ -1,120 +1,112 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "feature": {
-    "title": "Surgical Robotics Wars, AI Scribes Proven, and Multi-Cancer Blood Tests: Medtech's Biggest Implementation Year Yet",
-    "summary": "2026 has proven to be a landmark year for medtech moving from pilot to production: Johnson & Johnson's OTTAVA earned FDA authorization in July, ending Intuitive Surgical's two-decade soft-tissue robotics monopoly, while Medtronic's Hugo system completed its first U.S. commercial prostatectomy at Cleveland Clinic in February. On the diagnostics front, GRAIL's NHS-Galleri trial of 142,000+ participants delivered the world's first RCT results for a multi-cancer early detection blood test, showing a meaningful reduction in Stage IV diagnoses. Meanwhile, AI ambient scribes have crossed from pilot to widespread rollout — UW Health deployed to 800 clinicians after a randomized trial showed 30 minutes of daily documentation saved per provider — and a prospective hospital study of the BIAlert-Sepsis AI delivered a 528% projected ROI and a 26–31% reduction in admission costs at a tertiary center.",
+    "title": "AI Billing Blowback, $775M VA Scribe Contract, and a New Era of Surgical Robotics Define This Week's Medtech Reckoning",
+    "summary": "The week ending September 29, 2026 marks an inflection point where medtech AI has moved decisively from pilot to systemic scale — with measurable consequences on all fronts. The Blue Cross Blue Shield Association's bombshell finding that hospital AI coding tools added $942 million to insurer costs over two years without a corresponding rise in care complexity is forcing a reckoning over whether clinical AI is improving medicine or gaming it. Simultaneously, the VA's $775.72M enterprise ambient scribe contract with Abridge — live at 75+ medical centers — and Cleveland Clinic's 4,000-clinician Ambience rollout (60% of users say it increased their likelihood of staying in practice) show that ambient AI's real-world footprint is now too large to ignore. On the hardware side, J&J's FDA-authorized OTTAVA robot is entering operating rooms as Intuitive Surgical posts 15–16% da Vinci procedure growth, and GRAIL's landmark NHS-Galleri RCT of 142,000 patients continues to shape the future of multi-cancer blood screening.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "J&J's FDA-cleared OTTAVA robotic system — the world's first table-integrated soft-tissue surgical robot — officially entered the U.S. market in July 2026, creating a new device class and directly challenging Intuitive Surgical's da Vinci dominance across ten general surgery procedures."
+        "text": "BCBSA quantifies that hospital AI coding and ambient scribe tools added $942M in healthcare costs over two years — the first major real-world financial reckoning for clinical AI at scale."
       },
       {
         "label": "Key trend",
-        "text": "AI ambient documentation scribes have transitioned from research curiosity to standard clinical infrastructure, with randomized trials and large-scale hospital rollouts confirming statistically significant reductions in physician burnout, after-hours charting, and documentation time across hundreds of institutions."
+        "text": "Ambient AI scribes have crossed the deployment tipping point: the VA, Cleveland Clinic, and hundreds of health systems now operate these tools at enterprise scale with measurable clinician retention and workflow data."
       },
       {
         "label": "To watch",
-        "text": "GRAIL's Galleri multi-cancer detection test is now before an FDA advisory committee for premarket approval review — following its landmark 142,942-person NHS RCT — with a positive ruling set to reshape population cancer screening globally."
+        "text": "GRAIL's Galleri FDA premarket approval application — incorporating NHS-Galleri RCT data from 142,000 patients — is under active FDA review, with an advisory committee convening this month; a decision could reshape how all 50+ cancer types are screened nationwide."
       }
     ]
   },
   "articles": [
     {
-      "title": "Johnson & Johnson Receives FDA Market Authorization for OTTAVA™ Robotic Surgical System — World's First Table-Integrated Soft-Tissue Robot",
-      "source": "Johnson & Johnson Investor Relations / MedTech Dive",
-      "category": "Robotics & Surgery",
-      "snippet": "The FDA granted De Novo authorization on July 22, 2026 for J&J's OTTAVA system across ten upper-abdomen general surgery procedures including gastric bypass, cholecystectomy, and hiatal hernia repair — the most significant regulatory event in soft-tissue surgical robotics in over two decades. The table-integrated design occupies 30–50% less operating room space than traditional boom-mounted systems, and the pivotal IDE gastric bypass study showed all 30 procedures completed robotically without conversion, with average 30-pound patient weight loss at 30 days.",
-      "result": "FDA De Novo cleared; 30/30 procedures with zero conversions",
-      "url": "https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-Receives-FDA-Market-Authorization-in-the-U-S--for-its-OTTAVA-Robotic-Surgical-System/default.aspx"
+      "title": "Hospital AI Coding Tools Added $942 Million to Blue Cross Costs, Insurer Study Finds",
+      "source": "HealthSystemCIO / Technology.org",
+      "category": "AI & Machine Learning",
+      "snippet": "A Blue Cross Blue Shield Association claims analysis published September 24, 2026 found that AI-driven hospital coding tools — including ambient scribes and automated EHR scanners — added an estimated $942 million in costs to member plans over 2023–2025, with no corresponding change in actual care delivery. More than 60% of hospital systems now use AI coding tools, and secondary diagnoses (which shift claims into higher-reimbursement tiers) accounted for roughly 70% of the added cost, or over $650 million.",
+      "result": "$942M in added insurer costs; no rise in patient treatments",
+      "url": "https://healthsystemcio.com/2026/09/29/hospital-ai-coding-audit-trail/"
     },
     {
-      "title": "Medtronic Hugo™ RAS System Performs First U.S. Commercial Surgery at Cleveland Clinic — Patient Discharged Next Day",
-      "source": "Medtronic Newsroom / MedTech Dive",
-      "category": "Robotics & Surgery",
-      "snippet": "Following FDA clearance in December 2025, Medtronic's Hugo robotic-assisted surgery system completed its first U.S. commercial prostatectomy at Cleveland Clinic on February 17, 2026, with the patient discharged the day after surgery. The pivotal Expand URO study — the largest multi-port robotic urological surgery IDE trial ever conducted in the U.S. — showed a 98.5% surgical success rate across 137 patients, meeting all primary safety and effectiveness endpoints, and Duke University Hospital and Atrium Health Wake Forest Baptist are among the first additional sites now installing the platform.",
-      "result": "98.5% surgical success rate; patient discharged post-op day 1",
-      "url": "https://news.medtronic.com/2026-02-17-Medtronic-announces-first-surgery-with-Hugo-TM-robotic-assisted-surgery-system-in-the-U-S-performed-at-Cleveland-Clinic"
+      "title": "Abridge Selected for $775.72M VA Enterprise Ambient AI Contract, Already Live at 75+ Medical Centers",
+      "source": "Nextgov/FCW",
+      "category": "AI & Machine Learning",
+      "snippet": "The U.S. Department of Veterans Affairs awarded Abridge a seat on a $775.72 million, five-year enterprise ambient AI scribe contract on September 22, 2026, following a successful nationwide pilot that launched in October 2025. Abridge is already fully operational on both VA EHR systems — VistA/CPRS and Oracle Federal EHR — across more than 75 VA medical centers, serving thousands of clinicians in primary care, behavioral health, and 12 medical and surgical specialties.",
+      "result": "Live at 75+ VA centers; $775.72M federal contract awarded",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140/"
     },
     {
-      "title": "GRAIL's NHS-Galleri Trial of 142,942 Participants Delivers World-First RCT Results for Multi-Cancer Blood Test",
-      "source": "GRAIL / ASCO Annual Meeting 2026",
+      "title": "Cleveland Clinic's 4,000-Clinician AI Scribe Rollout: 60% Say It Increased Likelihood of Staying in Practice",
+      "source": "MedCity News",
+      "category": "AI & Machine Learning",
+      "snippet": "A paper published in npj Health Systems in August 2026 reported that Cleveland Clinic onboarded more than 4,000 ambulatory care clinicians onto Ambience Healthcare's ambient scribing platform in just four months, with 60% of users agreeing the tool increased their likelihood of remaining in practice. Of 6,130 eligible clinicians, 4,826 used the scribe at least once, and the platform logged over 1 million patient encounters — with active users relying on it for 76% of scheduled visits and saving an average of 14 minutes of documentation time per day.",
+      "result": "60% retention lift; 14 min/day saved; 1M encounters logged",
+      "url": "https://medcitynews.com/2026/08/cleveland-clinic-ai-healthcare-ambient-scribes/"
+    },
+    {
+      "title": "GRAIL's NHS-Galleri RCT of 142,000 Patients: Stage IV Cancer Diagnoses Cut by 22–26% After Annual Blood Test",
+      "source": "GRAIL / PR Newswire",
       "category": "Diagnostics & Imaging",
-      "snippet": "The NHS-Galleri trial — the first and only randomized controlled trial of a multi-cancer early detection (MCED) test — reported full results at ASCO 2026, covering over 142,000 demographically representative UK participants aged 50–77 screened annually for three years. The trial demonstrated a substantial reduction in Stage IV cancer diagnoses, with no serious related adverse events, and GRAIL simultaneously presented PATHFINDER 2 data from 35,878 North American participants showing the Galleri test substantially increased cancer detection beyond standard recommended screening.",
-      "result": "Substantial Stage IV cancer reduction; 52% positive predictive value confirmed",
-      "url": "https://grail.com/press-releases/grail-reports-full-results-from-nhs-galleri-trial-demonstrating-substantial-reduction-in-stage-iv-cancer-diagnoses-at-2026-asco-annual-meeting/"
+      "snippet": "GRAIL presented full results from the NHS-Galleri trial at the 2026 ASCO Annual Meeting, reporting that annual Galleri multi-cancer early detection blood testing in 142,250 participants aged 50–77 reduced Stage IV diagnoses of 12 prespecified cancers by 22% in the second screening round and 26% in the third. Although the combined Stage III/IV primary endpoint was not met overall, no serious related adverse events were reported, and over 70% of new cancers detected by the test were caught at Stages I–III when curative treatment is more often possible.",
+      "result": "Stage IV cancer diagnoses cut 22–26% in rounds 2 and 3",
+      "url": "https://investors.grail.com/news-releases/news-release-details/grail-reports-full-results-nhs-galleri-trial-demonstrating"
     },
     {
-      "title": "UW Health Deploys Ambient AI Scribe to 800 Clinicians After Randomized Trial Shows 30 Minutes Saved Per Provider Per Day",
-      "source": "UW School of Medicine and Public Health / NEJM AI",
-      "category": "AI & Machine Learning",
-      "snippet": "A pragmatic randomized trial published in NEJM AI found that ambient AI notetaking at UW Health reduced documentation time by 30 minutes per provider per day, improved billing accuracy, and produced a clinically meaningful reduction in burnout scores. Following the successful trial — which ran from August 2024 through March 2025 — UW Health rolled out the system to approximately 800 physicians and advanced practice providers across clinics and hospitals in Wisconsin and Illinois.",
-      "result": "30 min/day saved; burnout scores clinically meaningfully reduced; 800 clinicians deployed",
-      "url": "https://www.med.wisc.edu/news/ambient-ai-improves-practitioner-well-being/"
-    },
-    {
-      "title": "BIAlert-Sepsis AI Delivers 528% ROI and 26–31% Admission Cost Reduction in Prospective Hospital Study",
-      "source": "PLOS Global Public Health",
-      "category": "AI & Machine Learning",
-      "snippet": "A prospective quasi-experimental before-after study published in PLOS Global Public Health evaluated BIAlert-Sepsis — a machine-learning system predicting sepsis up to 24 hours before clinical recognition — across more than 8,000 septic patients at a tertiary hospital. During the AI implementation period, ICU admissions fell from 34.4% to 30.4%, mean admission costs declined significantly (adjusted 26.1–31.1% reduction), and a 5-year economic model projected a cumulative net benefit of €3.55 million and a 528% ROI.",
-      "result": "ICU admissions −4 pts; costs down 26–31%; 528% projected ROI",
-      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0006059"
-    },
-    {
-      "title": "Advocate Health Expands AI Imaging Deployment to Project 63,000 Patient Benefit Per Year Across 22 Sites",
-      "source": "American Hospital Association",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Advocate Health embedded FDA-approved AI imaging models into diagnostic workflows across 22 sites in Wisconsin and North Carolina following a successful October 2024 pilot, with the AI assisting radiologists in identifying pulmonary embolisms, intracranial hemorrhages, rib fractures, cervical spine fractures, pneumothorax, and brain aneurysms. Based on internal modeling and early pilot results, Advocate projected the expanded deployment will benefit approximately 63,000 patients per year through earlier diagnoses and faster clinical prioritization.",
-      "result": "Projected 63,000 patients/year benefiting; 22 sites deployed",
-      "url": "https://www.aha.org/aha-center-health-innovation-market-scan/2026-05-12-4-health-systems-transforming-care-ai"
-    },
-    {
-      "title": "Continuous Glucose Monitoring Cuts Hypoglycemic Events Up to 79% and Boosts Time-in-Range by 3.6+ Hours Daily in Peer-Reviewed Meta-Analysis",
-      "source": "PMC / Advances in Internal Medicine Research",
-      "category": "Wearables & Monitoring",
-      "snippet": "A June 2026 peer-reviewed review synthesizing outcomes from major CGM platforms — Dexcom, Medtronic MiniMed 780G, and FreeStyle Libre — found hypoglycemic events were substantially reduced, including a 72% reduction in the HypoDE trial and up to 79% in the DIAMOND trial, with rtCGM trials reporting time-in-range increases of up to 15.2%, equating to approximately 3.6–3.8 additional hours per day in target range. Medtronic's MiniMed 780G achieved mean TIR values approaching 78.8% with optimal settings through automated insulin delivery.",
-      "result": "Up to 79% fewer hypoglycemic events; 3.8 extra hours/day in glucose target range",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13268403/"
-    },
-    {
-      "title": "Osaka University AI Models Achieve 98.5–99.3% Accuracy Correcting Mislabeled Hospital X-Rays Across Multi-Institutional Datasets",
-      "source": "Crescendo AI / Healthcare AI News",
-      "category": "AI & Machine Learning",
-      "snippet": "Researchers at Osaka Metropolitan University deployed two AI models — Xp-Bodypart-Checker and CXp-Projection-Rotation-Checker — to automatically detect and correct mislabeled X-ray images in hospital datasets, a pervasive quality problem that undermines deep-learning diagnostic tool performance. Validated across multi-institutional datasets, the models achieved 98.5% accuracy for body-part classification and projection detection, and 99.3% accuracy for rotation identification, with immediate standardization benefits for diagnostic consistency.",
-      "result": "98.5% body-part accuracy; 99.3% rotation identification across multi-institution data",
-      "url": "https://www.crescendo.ai/news/ai-in-healthcare-news"
-    },
-    {
-      "title": "JAMA Network Open Study of 185,924 Robotic Surgery Patients Quantifies Surgeon Volume Impact on Outcomes",
-      "source": "JAMA Network Open / Johns Hopkins Medicine",
+      "title": "Johnson & Johnson's OTTAVA Gets FDA De Novo Authorization — World's First Table-Integrated Soft Tissue Surgical Robot",
+      "source": "MedTech Dive",
       "category": "Robotics & Surgery",
-      "snippet": "A May 2026 JAMA Network Open study by Johns Hopkins Medicine and Intuitive Surgical researchers analyzed 185,924 patients (137,879 elective and 48,045 emergency) undergoing robotic general surgery procedures, finding that higher annual surgeon volume was significantly associated with lower conversion-to-open rates, fewer postoperative complications, shorter ICU admissions, and reduced hospital length of stay. Emergency robotic surgery showed smaller volume-related benefits, requiring higher surgeon experience thresholds due to anatomical complexity and time constraints.",
-      "result": "Higher-volume surgeons: fewer complications, shorter stays, lower conversion rates",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13162076/"
+      "snippet": "On July 22, 2026, the FDA granted De Novo authorization to J&J's OTTAVA Robotic Surgical System for multiple general surgery procedures including Roux-en-Y gastric bypass, cholecystectomy, gastrectomy, and hiatal hernia repair — making it the world's first table-integrated soft tissue robotic system and the second major soft tissue robot cleared in under a year following Medtronic's Hugo. The authorization was supported by pivotal clinical data showing all 30 patients in the gastric bypass study completed procedures without conversion to non-robotic approach, with an average 30-lb weight loss at 30 days.",
+      "result": "FDA authorized; 30/30 gastric bypass cases completed robotically",
+      "url": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/"
     },
     {
-      "title": "AI in Clinical Trials: Early Adopters Show 40.5% Above-Expectation Protocol Deviation Reduction vs. 26.5% for Others — Medidata Annual Report",
-      "source": "Medidata Solutions",
+      "title": "GE HealthCare and Mass General Brigham Gen-AI Radiation Therapy Collaboration — Built on Proven 30-Day-to-8-Day Intake Result",
+      "source": "MedTech Dive",
       "category": "AI & Machine Learning",
-      "snippet": "Medidata's second annual State of AI in Clinical Trials report, published in July 2026 with data from the current year, found that organizations with 18+ months of AI deployment experience report above-expectation results at significantly higher rates than newer adopters across nearly every performance metric. For the hardest-to-move KPI — protocol deviation reduction — early AI adopters achieved above-expectation results at 40.5% versus only 26.5% for the broader population, with 86.5% of all organizations reporting improvements in high-volume, rules-based workflows.",
-      "result": "Early adopters: 40.5% above-expectation on protocol deviations vs. 26.5% industry average",
-      "url": "https://www.medidata.com/en/ai-report-2nd-edition/"
+      "snippet": "GE HealthCare announced on September 23, 2026 a new generative AI research collaboration with Mass General Brigham to query structured and unstructured data — clinical notes, images, and treatment plans — for radiation oncology teams. The collaboration builds on a prior deployment across more than 11,000 MGH treatment plans that cut patient intake-to-treatment start time from as long as 30 days down to 8 days, a result now embedded in GE HealthCare's commercial Intelligent Radiation Therapy (iRT) platform.",
+      "result": "Prior deployment cut intake-to-treatment from 30 days to 8",
+      "url": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
     },
     {
-      "title": "Emory Healthcare Ambient AI Scribe Drives 30.7-Point Absolute Increase in Clinicians Reporting Positive Documentation Well-Being",
-      "source": "Veradigm",
-      "category": "Digital Health",
-      "snippet": "At Emory Healthcare, deployment of ambient AI scribe technology was associated with a 30.7% absolute increase (from 1.6% to 32.3%) in the proportion of clinicians reporting a positive impact of documentation practice on individual well-being, based on a qualitative and quantitative survey analysis. A broader UCLA randomized clinical trial of two LLM-powered ambient AI scribes across 238 physicians in 14 specialties confirmed improvements in burnout, work exhaustion, and task load relative to controls, with a dose-response effect showing greater benefit at higher usage rates.",
-      "result": "30.7-point absolute improvement in clinician documentation well-being at Emory",
-      "url": "https://veradigm.com/veradigm-news/ambient-ai-scribe-technology-physician-burnout/"
+      "title": "Intuitive Surgical Posts 15–16% da Vinci Procedure Growth in H1 2026; Installed Base Hits 11,710 Systems",
+      "source": "Intuitive Surgical / SEC",
+      "category": "Robotics & Surgery",
+      "snippet": "Intuitive Surgical reported Q2 2026 worldwide da Vinci procedure growth of approximately 15%, with Ion endoluminal procedures growing 36%, driven by expanded adoption in general surgery and gynecology beyond urology. The company's da Vinci installed base reached 11,710 systems globally as of June 30, 2026 — a 12% year-over-year increase — as it placed 246 da Vinci 5 systems in Q2 alone, up from 180 in the same period of 2025.",
+      "result": "15% procedure growth; 11,710 systems globally deployed",
+      "url": "https://isrg.intuitive.com/news-releases/news-release-details/intuitive-announces-second-quarter-earnings-6"
     },
     {
-      "title": "Digital Therapeutics Reach Medicare Mainstream: CMS Expands HCPCS Reimbursement Codes for ADHD DTx Under CY 2026 Physician Fee Schedule",
-      "source": "MedDeviceGuide / FDA Digital Health",
-      "category": "Digital Health",
-      "snippet": "The U.S. digital therapeutics market reached a structural inflection point in 2026 as CMS expanded HCPCS codes G0552–G0554 to cover ADHD digital therapeutics under the CY 2026 Medicare Physician Fee Schedule, and Medicare coverage for DTx broadly expanded — driving healthcare providers and insurers to account for nearly 48% of market share. Germany's DiGA reimbursement program simultaneously opened to Class IIb higher-risk digital therapeutics, with 20% of reimbursement now tied to demonstrated performance outcomes, signaling a global shift to outcome-based DTx payment models.",
-      "result": "CMS Medicare DTx reimbursement expanded; 48% of market now B2B clinical/insurer-driven",
-      "url": "https://meddeviceguide.com/blog/digital-therapeutics-regulatory-pathway-guide"
+      "title": "GRAIL PATHFINDER 2: Galleri Test Detects Cancer 6.5x More Often When Added to Standard Screenings in 35,000 Patients",
+      "source": "GRAIL",
+      "category": "Diagnostics & Imaging",
+      "snippet": "GRAIL's PATHFINDER 2 registrational study, presented at 2026 ASCO and covering more than 35,000 U.S. participants aged 50+, showed the Galleri multi-cancer early detection test increased cancer detection 6.5-fold when added to recommended standard screenings for breast, colorectal, cervical, and lung cancer. More than 53% of new cancers detected by Galleri were Stage I or II, and over 70.9% were caught at Stages I–III — with 71.3% of those having no existing USPSTF-recommended screening pathway.",
+      "result": "6.5x cancer detection increase; 53% caught at Stage I or II",
+      "url": "https://grail.com/press-releases/grail-presents-pathfinder-2-results-of-more-than-35000-participants-showing-the-galleri-test-substantially-increased-cancer-detection-with-robust-performance-and-favorable-safety-at-2026-a/"
+    },
+    {
+      "title": "FDA Proposes Reclassifying Digital Breast Tomosynthesis from Class III to Class II — Backed by 42-Study Meta-Analysis of 2.6M Patients",
+      "source": "Federal Register / Mammologix",
+      "category": "Diagnostics & Imaging",
+      "snippet": "The FDA published a proposed rule on August 10, 2026 to reclassify digital breast tomosynthesis (DBT) systems from Class III (premarket approval) to Class II (special controls with 510(k) review), citing sufficient safety and efficacy evidence including a 42-study meta-analysis covering 2,606,269 patients that demonstrated improvements in cancer detection rates. As of July 21, 2026, 94% of MQSA-certified mammography facilities — 9,107 sites — already have DBT units installed, underscoring the real-world deployment breadth supporting the reclassification.",
+      "result": "94% of 9,107 mammography sites already using DBT; reclassification proposed",
+      "url": "https://mammologix.com/mammolibrary/fda-dbt-reclassification-proposed-rule-2026"
+    },
+    {
+      "title": "Median Technologies' eyonis LCS Gets FDA 510(k) Clearance: 93.3% Sensitivity, 99.9% NPV for AI Lung Cancer Screening",
+      "source": "Business Wire / Diagnostic Imaging",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Median Technologies received FDA 510(k) clearance in February 2026 for eyonis LCS, the first AI-powered device capable of both detecting and characterizing lung cancer in low-dose CT scans, with validated performance of 93.3% sensitivity, 92.4% specificity, and a 99.9% negative predictive value — equivalent to just 1 false positive per 1,000 scans. The tool integrates directly into existing hospital PACS systems and is targeted at the 14.5 million Americans currently eligible for lung cancer screening, with a phased U.S. commercial rollout prioritizing highest-volume screening sites.",
+      "result": "93.3% sensitivity, 99.9% NPV; targets 14.5M eligible patients",
+      "url": "https://www.diagnosticimaging.com/view/fda-510-k-clearance-ai-powered-lung-cancer-detection-low-dose-ct-scans"
+    },
+    {
+      "title": "Multi-Center Analysis: Ambient AI Scribes Cut Documentation Time 16 Min Per Encounter, Add Half a Patient Visit Per Week",
+      "source": "JAMA Network Open / WebAndITNews",
+      "category": "AI & Machine Learning",
+      "snippet": "A May 2026 analysis across five academic medical centers found that ambient AI scribes reduced clinician documentation time by an average of 16 minutes per encounter and total EHR time by 13.4 minutes, with clinicians gaining capacity for nearly half an additional patient visit per week. A separate multicenter quality improvement study across six health systems (263 clinicians) published in JAMA Network Open found that burnout in ambulatory settings fell from 51.9% to 38.8% after 30 days of ambient AI scribe use — a 74% reduction in odds of burnout.",
+      "result": "Burnout dropped 51.9% to 38.8%; 16 min/encounter saved",
+      "url": "https://www.webanditnews.com/2026/06/03/cleveland-clinics-ambience-ai-scribe-delivers-measurable-relief-to-physicians/"
     }
   ],
-  "generated_at": "2026-09-28T13:05:47.612342+00:00"
+  "generated_at": "2026-09-29T12:16:21.061676+00:00"
 }
