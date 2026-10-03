@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "feature": {
-    "title": "FDA Clears World's First Expandable Pediatric Heart Valve as Medtech's Real-World Results Era Accelerates",
-    "summary": "October 2, 2026 marks a landmark day for medtech implementation, headlined by the FDA's approval of Edwards Lifesciences' Autus valve — the first surgical heart valve designed to grow with pediatric patients, eliminating repeat open-heart surgeries. Across the broader landscape, AI tools have moved firmly from pilot to production: a landmark JAMA multi-system study quantified AI scribe gains across five major U.S. hospitals, on-premise clinical AI agents are now hitting 90% diagnostic accuracy in Nature Medicine benchmarks, and a Mount Sinai–led trial confirmed multi-agent AI architectures sustain accuracy at clinical scale where single agents collapse. Device hardware is also delivering real firsts: Vitestro's Aletta robotic phlebotomy system — authorized by the FDA in August — is now in active outpatient deployment, while J&J's OTTAVA surgical robot completed its pivotal bariatric study. The overarching theme is convergence: AI software, autonomous robotics, and novel implantable hardware are all generating measurable patient outcomes simultaneously, not just promises.",
+    "title": "From Promise to Proof: Medtech's Real-World Reckoning Delivers Wins, Warnings, and Watershed Devices",
+    "summary": "October 2026 marks a pivotal inflection point in medtech, where years of AI and device investment are now yielding concrete, measurable outcomes across hospitals, operating rooms, and clinics. Landmark approvals — including the first pediatric heart valve designed to grow with children and the first autonomous blood-draw robot — stand alongside robust multi-center clinical trial results for AI scribes, AI-ECG diagnosis, and prostate cancer pathology tools. At the same time, sobering negative trials and a $942 million BCBSA billing analysis reveal that deploying AI into clinical workflows does not automatically translate into better patient outcomes or lower costs. The field's emerging consensus: implementation design and clinical pathway integration are as critical as the algorithm itself.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "FDA approves Edwards Lifesciences' Autus size-adjustable pediatric heart valve — the first implant engineered to expand inside a child's body, backed by a 62-patient pivotal study across 12 U.S. sites with zero deaths or strokes."
+        "text": "The FDA approved the Autus Size-Adjustable Valve on October 1, 2026 — the first heart valve engineered to expand inside a child's body post-surgery, potentially eliminating repeat open-heart operations across a pivotal 62-patient, 12-site clinical study."
       },
       {
         "label": "Key trend",
-        "text": "Multi-system JAMA data and a new Nature Medicine study confirm that AI clinical tools are past the pilot phase, delivering measurable but bounded gains: 16 minutes of daily documentation saved, and on-premise diagnostic agents reaching 90% accuracy."
+        "text": "Real-world AI deployments are splitting into clear winners (ambient scribes saving 16 min/day of documentation, AI-ECG lifting cardiac diagnoses 36%) and cautionary negatives (ML-triggered AKI nephrology consults showing zero improvement in kidney outcomes)."
       },
       {
         "label": "To watch",
-        "text": "ARPA-H's newly launched SURPASS program will fund AI-augmented adaptive clinical trial designs starting this fall, potentially compressing future trial timelines by 30–50%."
+        "text": "BCBSA's quantified $942 million claim that hospital AI coding tools inflated insurer costs over two years — without changing care delivery — is setting up a high-stakes payer-provider AI governance battle heading into 2027."
       }
     ]
   },
   "articles": [
     {
-      "title": "FDA Approves First Heart Valve Designed to Grow With Children",
-      "source": "Cardiovascular Business / Contemporary Pediatrics",
+      "title": "FDA Approves First Heart Valve Designed to Grow with Children",
+      "source": "FDA / MedTech Dive",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "The FDA approved Edwards Lifesciences' Autus Size-Adjustable Valve, the first surgical pulmonary valve for pediatric congenital heart disease that can be expanded post-implant via balloon catheter as a child grows — eliminating the need for repeated open-heart surgeries. The approval is based on a pivotal study of 62 pediatric patients across 12 U.S. sites, with all implantations successful and no deaths or strokes recorded; the valve can be implanted as small as 13 mm and expanded up to 22 mm, comparable to an adult pulmonary valve.",
-      "result": "62-patient trial: 0 deaths, 0 strokes; all implants successful",
-      "url": "https://cardiovascularbusiness.com/topics/congenital-heart-disease/fda-approves-first-heart-valve-grows-children"
+      "snippet": "The FDA approved Edwards Lifesciences' Autus Size-Adjustable Valve on October 1, 2026 — the first surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease that can be expanded post-surgery via balloon catheter as the child grows. The pivotal study enrolled 62 pediatric patients across 12 U.S. sites, with six-month data on the first 60 patients demonstrating a clean safety record and functional valve performance, potentially eliminating the need for repeat open-heart surgeries.",
+      "result": "First expandable pediatric heart valve; 62-patient trial, 12 U.S. sites",
+      "url": "https://www.medtechdive.com/news/edwards-adjustable-heart-valve-for-children-lands-fda-approval/832028/"
     },
     {
-      "title": "FDA Authorizes Vitestro Aletta: First Standalone Robotic Blood Draw Device",
-      "source": "The Next Web / CAP Today / Forbes",
+      "title": "FDA Authorizes First-Of-Its-Kind Autonomous Robotic Blood Draw Device (Aletta)",
+      "source": "FDA / U.S. News & World Report",
       "category": "Robotics & Surgery",
-      "snippet": "On August 19, 2026, the FDA granted De Novo authorization to Vitestro's Aletta, the first autonomous robotic phlebotomy device, cleared for adult outpatients with one trained phlebotomist able to supervise up to three units simultaneously. Clinical trial data from the A.D.O.P.T. trial run across Dutch hospitals showed a 95% first-stick success rate, a haemolysis rate of 0.6% (well below the 2% best-practice ceiling), and mild adverse events in only 1.3% of participants with no serious events recorded.",
-      "result": "95% first-stick success; 0.6% haemolysis; no serious adverse events",
-      "url": "https://thenextweb.com/news/vitestro-aletta-fda-robotic-blood-draw"
+      "snippet": "Vitestro's Aletta received FDA De Novo authorization in August 2026 as the first standalone robotic device capable of drawing blood from a patient's arm without hands-on operator intervention, cleared for adults in outpatient settings. Clinical data from the multicenter ADOPT trial, published in Clinical Chemistry, showed Aletta's successful puncture rates were comparable to or better than trained human phlebotomists, with device-related adverse events described as uncommon and mild; 90% of patients rated pain comparable to or less than a manual draw, and one phlebotomist can supervise up to three devices simultaneously.",
+      "result": "Success rate ≥ trained phlebotomists; 90% patient pain satisfaction",
+      "url": "https://www.usnews.com/news/health-news/articles/2026-08-21/fda-clears-first-robot-that-draws-blood-on-its-own"
     },
     {
-      "title": "JAMA Study: AI Scribes Deliver Measurable EHR Time Savings Across 5 Major Health Systems",
-      "source": "MedicalXpress / HIT Consultant (JAMA, 2026)",
+      "title": "JAMA Multisite Study: AI Ambient Scribes Cut Documentation Time 16 Minutes Per Day Across 5 Academic Medical Centers",
+      "source": "JAMA / Telehealth.org",
       "category": "AI & Machine Learning",
-      "snippet": "A landmark study co-led by Mass General Brigham and UCSF tracked ambient AI scribe adoption across five U.S. hospitals for more than two years, covering over 1,800 clinician adopters, finding a daily reduction of 13 minutes in total EHR time and 16 minutes in documentation time per 8-hour shift. Frequent users — those applying the scribe in more than 50% of visits — achieved twice the EHR time reduction and three times the documentation savings, though only 32% of adopters reached that threshold.",
-      "result": "16 min/day documentation saved; 0.5 additional patient visits/week",
-      "url": "https://medicalxpress.com/news/2026-04-ai-scribes-linked-modest-reductions.html"
+      "snippet": "The largest controlled real-world evaluation of AI ambient scribes to date, published in JAMA in April 2026, enrolled 8,581 ambulatory clinicians across UCSF, Yale New Haven, Mass General Brigham, Emory, and UC Davis, finding that AI scribe adoption reduced total EHR time by 13.4 minutes and documentation time by 16.0 minutes per 8-hour day. Heavy users (≥50% of visits) saved 27.3 minutes of documentation time daily, and scribe adoption was linked to approximately 0.49 additional patient visits per week and roughly $167 in added monthly billing revenue per clinician.",
+      "result": "16 min/day doc time saved; +0.49 visits/week across 8,581 clinicians",
+      "url": "https://telehealth.org/news/large-jama-study-finds-ai-scribes-cut-documentation-time-for-ambulatory-clinicians/"
     },
     {
-      "title": "Johnson & Johnson OTTAVA Robotic System Meets All Primary Endpoints in Pivotal Bariatric Study",
-      "source": "Medical Economics / J&J Press Release",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced results from the FORTE study — a prospective, multicenter trial of its investigational OTTAVA Robotic Surgical System across six U.S. sites in 30 patients undergoing Roux-en-Y gastric bypass procedures. All 30 procedures were completed robotically with zero conversions to non-robotic approaches, all primary safety and performance endpoints were met at 30 days, and patients averaged 30 pounds of weight loss by one month post-surgery.",
-      "result": "30/30 robotic completions; 0 conversions; all safety endpoints met",
-      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
-    },
-    {
-      "title": "On-Premise Medical AI Agents Reach 90% Diagnostic Accuracy in Nature Medicine Benchmark",
-      "source": "Nature Medicine",
-      "category": "AI & Machine Learning",
-      "snippet": "A study published in Nature Medicine evaluated on-premise open-weight clinical AI agents across two MIMIC-IV-derived benchmarks, finding the best-performing on-premise model (Qwen-3.5) achieved 90.04% accuracy on a seven-disease diagnostic task — within 0.7 percentage points of the cloud baseline. At a high-consistency threshold, 49.4% of cases were handled autonomously at 98.9% accuracy, supporting a tiered framework where reliable cases are resolved without physician review.",
-      "result": "90% diagnostic accuracy on-premise; 98.9% at high-confidence threshold",
-      "url": "https://www.nature.com/articles/s41591-026-04609-x"
-    },
-    {
-      "title": "Mount Sinai Study: Orchestrated Multi-Agent AI Sustains Accuracy Under Clinical-Scale Workloads",
-      "source": "MedicalXpress / npj Health Systems",
-      "category": "AI & Machine Learning",
-      "snippet": "A Mount Sinai–led study published in npj Health Systems tested orchestrated multi-agent AI systems versus single agents across clinical tasks including information retrieval, data extraction, and medication dosing under up to 80 simultaneous real-world task loads. At 80 concurrent tasks, the single-agent system dropped to 16% accuracy while consuming 65 times more compute; the multi-agent orchestrator maintained superior accuracy and used far fewer resources.",
-      "result": "Multi-agent: sustained accuracy; single agent collapsed to 16% at scale",
-      "url": "https://medicalxpress.com/news/2026-03-orchestrated-multi-agent-ai-outperform.html"
-    },
-    {
-      "title": "Wearable AI Predicts In-Hospital Patient Deterioration Up to 17 Hours in Advance",
-      "source": "Feinstein Institutes / Nature Communications",
-      "category": "Wearables & Monitoring",
-      "snippet": "Researchers at Northwell Health's Feinstein Institutes published a validated deep-learning model using continuous vital sign data from wearable biosensors placed on 888 adult non-ICU inpatients across four hospitals, demonstrating that the system detected 100% of cardiac arrests, 100% of deaths, and 83.6% of unplanned ICU transfers. The AI model produced alerts up to 17 hours before an actual adverse clinical event, outperforming both standard EHR-based early warning scores and episodic monitoring tools across all outcome categories.",
-      "result": "100% cardiac arrest detection; alerts up to 17 hours in advance",
-      "url": "https://feinstein.northwell.edu/news/the-latest/feinstein-study-ai-wearable-predicts-patient-deterioration"
-    },
-    {
-      "title": "REQUEST Trial: Wearable Surgical Ward Monitoring Cuts Manual Spot Checks by 63%, Reduces Nursing Workload",
-      "source": "PMC / World Journal of Surgery",
-      "category": "Wearables & Monitoring",
-      "snippet": "The REQUEST Trial, published in the World Journal of Surgery, deployed reusable wearable monitoring devices on a surgical ward and found a statistically significant 62.7% reduction in manual vital-sign spot checks — from 4,686 expected checks down to 1,748 performed — saving 10.1 minutes of nursing time per patient per day. Nursing workload scores dropped significantly (IWS: 5.46 to 3.87, p<0.001) and system usability scores improved from 74.2 to 86.0.",
-      "result": "62.7% fewer manual checks; 10.1 min/patient/day saved",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13006771/"
-    },
-    {
-      "title": "AI Scribes Prove Enterprise-Scalable: Kaiser Permanente 7,260-Physician Rollout Across 2.5M Encounters",
-      "source": "Dove Press / Journal of Healthcare Leadership",
-      "category": "Digital Health",
-      "snippet": "A year-long enterprise rollout of ambient AI scribe technology at Kaiser Permanente Northern California, involving 7,260 physicians across more than 2.5 million patient encounters, demonstrated scalability of AI documentation tools at the health-system level. The rollout reduced after-hours documentation ('pajama time') from 50.6 to 35.4 minutes per workday, with the greatest savings concentrated among heavy users across multiple specialties.",
-      "result": "Pajama time cut from 50.6 to 35.4 min/day across 2.5M encounters",
-      "url": "https://www.dovepress.com/implementation-of-ambient-ai-scribes-in-hospitals-lessons-for-healthca-peer-reviewed-fulltext-article-JHL"
-    },
-    {
-      "title": "AI Radiology Triage Cuts Stroke Door-to-Treatment Time by 30 Minutes in Real-World Deployment",
-      "source": "XAID / Journal of Clinical Medicine",
+      "title": "Paige Prostate AI Suite Shows Real-World NHS Deployment Results: 5% Diagnosis Revision Rate Across 1,000+ Patients",
+      "source": "Tempus / Nature Digital Medicine",
       "category": "Diagnostics & Imaging",
-      "snippet": "A peer-reviewed before-and-after study published in the Journal of Clinical Medicine found that deploying an AI large-vessel-occlusion detection and notification tool at a stroke center reduced door-to-endovascular-therapy time by 30.2 minutes and CT-to-neurologist-exam time by 16.4 minutes. Separately, a 2025 systematic review pooling 23 studies found AI-assisted cancer detection on imaging raised pooled sensitivity from 0.67 to 0.79 and specificity from 0.82 to 0.87 versus radiologist-alone reads.",
-      "result": "30.2-min reduction in door-to-treatment time for stroke patients",
-      "url": "https://xaid.ai/blog/ai-in-radiology/"
+      "snippet": "Tempus highlighted results from the Articulate Pro study, published in Nature Digital Medicine in July 2026, evaluating the Paige Prostate Suite across three prominent NHS Trusts (Oxford University Hospitals, North Bristol NHS Trust, University Hospitals Coventry and Warwickshire) in real-world routine clinical workflows. AI-assisted review supported pathologists in re-assessing and updating the initial diagnosis or Grade Group for 5% of patients, with 1.3% of changes significant enough to potentially alter clinical management — validated on biopsies from more than 1,000 patients.",
+      "result": "5% diagnosis revision rate; 1.3% management-altering changes in 1,000+ NHS patients",
+      "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-highlights-landmark-publication-demonstrating-safe-real"
     },
     {
-      "title": "FDA Device Approvals Accelerate in 2026: 23 PMAs and 1,669 510(k) Clearances Through June",
-      "source": "MedTech Dive / MDDIonline (BTIG Analysis)",
-      "category": "Other",
-      "snippet": "A mid-year BTIG analysis of FDA data found 23 original premarket approvals (PMAs) granted through June 2026 — up 10 from the same period in 2025 — and 1,669 510(k) clearances, trending 3% above 2025 year-over-year. Despite volume gains, average PMA approval time increased sharply to 599 days, up 49% from 402 days in full-year 2025, raising capital-runway concerns for smaller device makers.",
-      "result": "23 PMAs approved H1 2026 (+10 vs. prior year); 1,669 510(k)s cleared",
-      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
+      "title": "AI-ECG RCT: Algorithm Lifts New Diagnoses of Heart Failure Indicator by 36% in 13,631-Patient Taiwan Trial",
+      "source": "BMC Medicine / GeneOnline",
+      "category": "AI & Machine Learning",
+      "snippet": "A pragmatic randomized controlled trial at an academic medical center in Taiwan randomized 13,631 inpatients to receive either AI-generated ECG results or standard care, finding that the intervention significantly increased detection of newly diagnosed low ejection fraction (1.5% vs. 1.1%, HR 1.50, P=0.023). The effect was more pronounced among AI-identified high-risk patients (13.0% vs. 8.9%, HR 1.55), with the intervention also improving the positive predictive value of echocardiograms for detecting low EF from 20.2% to 34.2%.",
+      "result": "Low EF detection increased 36%; PPV rose from 20.2% to 34.2%",
+      "url": "https://geneonline.com/ai-in-healthcare-2026-how-algorithms-moved-from-research-papers-into-everyday-care"
     },
     {
-      "title": "ARPA-H Launches SURPASS Program to Deploy AI-Augmented Adaptive Clinical Trials",
-      "source": "STAT News / Bank Info Security",
+      "title": "Reid Health AI Nursing Documentation Rollout: 45-Min After-Shift Charting Reduction, RN Vacancy Rate Halved",
+      "source": "MedCity News",
       "category": "Digital Health",
-      "snippet": "HHS's Advanced Research Projects Agency for Health (ARPA-H) announced the SURPASS program — Simulation-augmented, Real-time Platform Adaptive Seamless Trials — a five-year initiative launching this fall to fund cross-disciplinary teams designing AI-driven adaptive trial architectures. The program follows published evidence that AI integration in clinical trials has cut enrollment times by up to 65%, improved outcome forecast accuracy to 85%, and reduced trial costs by up to 40%.",
-      "result": "AI trials data: 65% faster enrollment, 30–50% shorter timelines reported",
-      "url": "https://statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program"
+      "snippet": "Rural Indiana health system Reid Health deployed Abridge's AI-powered documentation tool to nursing staff — the first hospital to extend it beyond physicians to CNAs and tech roles — reporting a 45-minute reduction in after-shift charting time and a nursing vacancy rate drop from an 18% crisis baseline to 8.6% with zero reliance on contract travel staff. Clinicians also reported a 60% reduction in after-hours documentation time and an 86% decrease in note-completion effort, with patient call response times cut by 87%.",
+      "result": "RN vacancy 18%→8.6%; 45-min charting reduction; 86% less documentation effort",
+      "url": "https://medcitynews.com/2026/06/documentation-abridge-nurse-tech-hospital/"
+    },
+    {
+      "title": "BCBSA Analysis: Hospital AI Coding Tools Added $942 Million in Insurer Costs Over Two Years With No Care Delivery Change",
+      "source": "CNBC / HealthSystemCIO",
+      "category": "AI & Machine Learning",
+      "snippet": "A Blue Cross Blue Shield Association claims analysis published September 24, 2026 found that the share of medically complex inpatient cases rose from 37% to 40% between 2023 and 2025, coinciding with the period when roughly 60% of hospital systems adopted AI coding tools — translating to an estimated $942 million in additional costs with no corresponding change in treatment intensity. Approximately 70% of the added cost ($653 million) stemmed from secondary diagnoses that shifted patients into higher-paying billing categories, with BCBSA noting that treatment metrics such as ICU utilization did not increase alongside billed severity.",
+      "result": "$942M added costs over 2 years; no care delivery change detected",
+      "url": "https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html"
+    },
+    {
+      "title": "ESTOP-AKI Randomized Trial: ML-Triggered Nephrology Consults Fail to Improve Kidney Outcomes in 180-Patient RCT",
+      "source": "JAMA Network Open / Medscape",
+      "category": "AI & Machine Learning",
+      "snippet": "The ESTOP-AKI trial, published in JAMA Network Open in 2026, randomized 180 high-risk hospitalized patients identified by a validated machine-learning AKI risk score at the University of Chicago and found that early nephrology consultation did not reduce the peak change in serum creatinine over 7 days compared to usual care (adjusted mean 0.04 mg/dL vs −0.03 mg/dL, P=.30). Consultation recommendations were followed only 41% of the time in the intervention arm, illustrating that a well-performing algorithm cannot substitute for a functioning clinical response pathway.",
+      "result": "Zero improvement in kidney outcomes; only 41% recommendation compliance",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2026.22554"
+    },
+    {
+      "title": "AI-Powered Wearable Predicts In-Hospital Patient Deterioration Up to 17 Hours in Advance (Nature Communications Validation)",
+      "source": "Northwell Feinstein Institutes / Nature Communications",
+      "category": "Wearables & Monitoring",
+      "snippet": "Researchers at Northwell Health's Feinstein Institutes published a deep learning model in Nature Communications trained on continuous wearable vital signs from 888 adult non-ICU inpatient visits, demonstrating the ability to predict clinical deterioration alerts up to 8–24 hours in advance and hard outcomes (ICU transfer, cardiac arrest) up to 17 hours in advance. The model outperformed standard episodic early warning scores and maintained performance across different patient cohorts, hospital settings, and clinical-grade wearable devices.",
+      "result": "Deterioration predicted up to 17 hours early; outperforms standard EWS",
+      "url": "https://www.nature.com/articles/s41467-025-65219-8"
+    },
+    {
+      "title": "NYU Langone Specialty Pharmacy Keeps 96% of GLP-1 Patients on Therapy at One Year",
+      "source": "The American Journal of Managed Care / Becker's Hospital Review",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "A real-world retrospective analysis of 2,943 treatment-naive adults starting injectable GLP-1 therapy (liraglutide, semaglutide, dulaglutide, or tirzepatide) through NYU Langone Health Specialty Pharmacy between August 2022 and May 2025 found a first-year discontinuation rate of just 3.9% — far below the ~33–50% rates reported in broader real-world studies. The results were attributed to a structured pharmacist service with clinical onboarding on day 1, reassessments at months 1 and 6, and ongoing care liaison engagement, with tirzepatide showing the lowest discontinuation rate at 1.8%.",
+      "result": "3.9% first-year discontinuation vs. 33–50% in broader real-world data",
+      "url": "https://www.beckershospitalreview.com/glp-1s/health-system-pharmacy-keeps-96-of-glp-1-patients-on-therapy/"
+    },
+    {
+      "title": "Stanford-Harvard State of Clinical AI Report: Hospital Wearable AI Predicts ICU Risk 8–24 Hours Early; Kenya AI Cuts Diagnostic Errors Across Tens of Thousands",
+      "source": "Stanford Medicine",
+      "category": "AI & Machine Learning",
+      "snippet": "A joint Stanford-Harvard State of Clinical AI report highlighted two major real-world AI implementations: a hospital-based wearable vital signs model that predicted patient deterioration 8–24 hours before standard hospital alerts for ICU transfer, cardiac arrest, or death; and a collaboration between Penda Health and OpenAI in Kenya that deployed a background AI system reviewing urgent care visits, reducing diagnostic and treatment errors across tens of thousands of patients. The report also confirmed that physicians using AI alongside standard medical resources made better treatment decisions than those using conventional tools alone.",
+      "result": "8–24h early ICU prediction; diagnostic error reduction across tens of thousands of patients",
+      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
+    },
+    {
+      "title": "Q3 2026 Digital Health Review: AI-Guided Ultrasound and LLM Clinical Decision Support Show Workflow Gains Without Matching Diagnostic Improvement",
+      "source": "micheledpierri.com (Q3 2026 AI & Digital Health Quarterly Review)",
+      "category": "Diagnostics & Imaging",
+      "snippet": "The ALLIANCE multicenter randomized trial evaluated Prof. Valmed, a certified LLM-based clinical decision support system, in 82 physicians assessing rheumatology cases and found that diagnostic accuracy improved — but equally with the LLM and with conventional resources (top-1 accuracy: 33.3% vs. 35.0%, no significant difference). However, case-processing time was dramatically faster with the LLM at 94 seconds versus 206 seconds with conventional resources, suggesting AI's near-term value in this domain may be speed and workflow efficiency rather than diagnostic uplift.",
+      "result": "LLM case processing 94s vs. 206s; no diagnostic accuracy advantage over conventional resources",
+      "url": "https://micheledpierri.com/2026/10/02/ai-digital-health-quarterly-review-2026q3"
     }
   ],
-  "generated_at": "2026-10-02T12:00:05.345207+00:00"
+  "generated_at": "2026-10-03T11:13:35.934035+00:00"
 }
