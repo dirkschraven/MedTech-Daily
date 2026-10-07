@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "feature": {
-    "title": "Medtech's Implementation Inflection Point: Pediatric Heart Valves, Robotic Phlebotomy, and AI at the Bedside Deliver Real-World Proof",
-    "summary": "This week's medtech landscape is defined by verifiable clinical outcomes rather than promises — from FDA approvals backed by patient-cohort data to randomized hospital deployments showing measurable efficiency gains. Edwards Lifesciences' Autus valve, cleared October 1st, marks the first pediatric heart valve designed to grow with its recipient, validated across 12 U.S. sites. In parallel, AI is demonstrating hard ROI across documentation, surgical planning, and sepsis detection, with multi-center JAMA data and an 8,240-patient Chinese RCT both showing statistically significant outcome improvements. Wearable sensors are also crossing the threshold from consumer gadget to clinical instrument, with Abbott's dual glucose-ketone Libre Duo and Northwell's deterioration-predicting wearable AI both grounded in clinical evidence.",
+    "title": "From Bench to Bedside: A Week of Landmark Medtech Results — Growing Heart Valves, Surgical Robot Milestones, and AI Proving Its Worth in the Clinic",
+    "summary": "The first week of October 2026 delivered a wave of concrete medtech implementation results, anchored by the FDA's landmark approval of the first pediatric heart valve designed to grow with children. Simultaneously, late-breaking vascular clinical trial data from VIVA/VEINS 2026 in Las Vegas showcased real-world efficacy for novel drug-eluting balloons and venous closure technologies. AI continued its march from pilot to production, with a massive 8,240-patient RCT of an orthopedic AI system demonstrating measurable hospital efficiency gains, while ambient AI scribes crossed into mainstream deployment backed by multi-site outcome data. The week's sobering counterpoint: a landmark PLOS Digital Health study confirmed that of 1,357 FDA-cleared AI medical devices, only three have ever been tested on whether patients actually live longer or better.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "FDA approved the Edwards Autus Size-Adjustable Valve on October 1 — the first pediatric heart valve designed to expand inside a child's body, backed by a 62-patient trial across 12 U.S. sites with zero deaths or strokes at 6 months."
+        "text": "FDA approved the Autus Size-Adjustable Valve on October 1 — the first heart valve designed to expand inside a child's body as they grow, potentially eliminating repeat open-heart surgeries for thousands of children born with congenital pulmonary valve disease."
       },
       {
         "label": "Key trend",
-        "text": "AI is graduating from pilot to proven infrastructure: a 5-center JAMA study quantified 16-minute documentation savings per encounter from ambient AI scribes, while a randomized 8,240-patient hospital deployment of OrthoPilot AI cut orthopedic length of stay and raised bed throughput by 9.7%."
+        "text": "Real-world AI deployment results are now commanding the conversation: from a 9.7% increase in hospital bed throughput with the OrthoPilot orthopedic AI to a 90.3% primary patency rate for a sirolimus drug-eluting balloon in the SELUTION4SFA US pivotal trial presented at VIVA 2026."
       },
       {
         "label": "To watch",
-        "text": "The VEINS 2026 vascular conference (Oct 3–6, Las Vegas) released late-breaking trial data on pulmonary embolism thrombectomy, venous stenting, and cyanoacrylate closure — with some trials showing 98% thrombus reduction and 88.1% ulcer healing rates at 24 months."
+        "text": "A landmark PLOS Digital Health analysis finding only 3 of 1,357 FDA-cleared AI devices have been tested on patient-centered outcomes is accelerating calls for mandatory post-market clinical outcome trials for AI medical software."
       }
     ]
   },
   "articles": [
     {
-      "title": "FDA Approves First Heart Valve Designed to Grow With Children",
-      "source": "AJMC / Clinical Advisor / FDA Press Release",
+      "title": "FDA Approves First Heart Valve Designed to Grow with Children",
+      "source": "U.S. Food and Drug Administration / AJMC",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "The FDA approved Edwards Lifesciences' Autus Size-Adjustable Valve on October 1, 2026 — the first surgically implanted pulmonary valve for pediatric patients with congenital heart disease that can be balloon-expanded post-implant as the child grows. In a 62-patient study across 12 U.S. sites, all procedures were successful with no deaths, strokes, or treated thrombosis, and acceptable hemodynamics at 6 months; the device expands from ~13mm to 22mm, potentially reducing repeat open-heart surgeries.",
-      "result": "Zero deaths/strokes in 62-patient trial; 0 procedure failures",
-      "url": "https://www.ajmc.com/view/fda-approves-first-heart-valve-to-keep-pace-with-children-s-growth"
+      "snippet": "The FDA approved the Autus Size-Adjustable Valve (Edwards Lifesciences) on October 1, 2026 — the first surgically implanted pulmonary heart valve for pediatric patients that can be balloon-expanded after implantation as the child grows, from ~13 mm up to 22 mm (adult size). In a 62-patient clinical study, implantation was successful with no deaths reported, and two children who began outgrowing their valves had them successfully widened non-surgically via balloon catheter.",
+      "result": "100% technical success; valve expanded in 2 patients without repeat surgery",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
     },
     {
-      "title": "FDA Authorizes First Robotic Blood-Draw Device (Vitestro Aletta) for Outpatient Use",
-      "source": "Forbes / Renal & Urology News / Obsidian Regulatory Intelligence",
-      "category": "Robotics & Surgery",
-      "snippet": "The FDA granted De Novo authorization on August 19, 2026 to Vitestro's Aletta — the first standalone robotic device to autonomously draw blood from an adult patient's arm without hands-on operator intervention. The device uses near-infrared light and Doppler ultrasound for vein identification, is authorized for adult outpatient settings, and allows one phlebotomist to supervise up to three units simultaneously; the maker noted it is already deployed in European hospitals and clinical trial data showed side effects were rare and mild.",
-      "result": "1 phlebotomist can now oversee 3 autonomous draws simultaneously",
-      "url": "https://www.forbes.com/sites/lesliekatz/2026/08/27/fda-authorizes-autonomous-blood-drawing-robot/"
+      "title": "SELUTION4SFA RCT: Sirolimus Drug-Eluting Balloon Achieves Highest-Ever 12-Month Patency in US PAD Pivotal Trial",
+      "source": "Vascular News / Financial Content (BusinessWire)",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Late-breaking 12-month results from the SELUTION4SFA randomized controlled trial — enrolling 300 patients with superficial femoral and proximal popliteal artery disease — were presented at VIVA 2026 in Las Vegas. The Cordis SELUTION SLR SUSTANE sirolimus drug-eluting balloon achieved a 90.3% primary patency rate, the highest ever reported in a US IDE pivotal trial for this indication, meeting its primary efficacy endpoint and demonstrating statistical superiority over plain balloon angioplasty (p=0.019).",
+      "result": "90.3% primary patency at 12 months; superiority to angioplasty confirmed (p=0.019)",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-6-the-cordis-selution-slr-sustane-pta-drug-eluting-balloon-achieves-highest-reported-primary-patency-in-us-ide-trial"
     },
     {
-      "title": "JAMA Multi-Center Study: Ambient AI Scribes Cut Documentation by 16 Minutes Per Encounter Across 5 Academic Medical Centers",
-      "source": "2 Minute Medicine / Textbook of Digital Health",
+      "title": "VEINS 2026: Cyanoacrylate Closure Delivers 88.1% Venous Ulcer Healing Rate at 24 Months in Spectrum Trial",
+      "source": "PR Newswire / VIVA Foundation",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Late-breaking results from the Spectrum trial, presented at The VEINS 2026 conference (October 3–4, Bellagio Las Vegas), showed that cyanoacrylate closure (CAC) in patients with C6 venous disease achieved an 88.1% ulcer healing rate through 24 months, with a median time to healing of 92 days. The anatomic vein closure rate was 78.0% at 24 months, with a recurrence rate of 22.9% and mean ulcer-free time exceeding 487 days.",
+      "result": "88.1% ulcer healing rate; 78% vein closure at 24 months",
+      "url": "https://www.prnewswire.com/news-releases/late-breaking-clinical-trial-results-announced-at-the-veins-2026-302897814.html"
+    },
+    {
+      "title": "OrthoPilot AI Deployed in 8,240-Patient RCT: 9.7% Bed Throughput Gain and Reduced Clinical Workload",
+      "source": "arXiv (Evidence-Grounded AI for Musculoskeletal Care)",
       "category": "AI & Machine Learning",
-      "snippet": "A large study published in JAMA in April 2026 — conducted across five academic medical centers including Mass General Brigham, Emory, UCSF, Yale New Haven, and UC Davis — found ambient AI scribes reduced total EHR time by 13.4 minutes and documentation time by 16 minutes per clinical encounter. Heavy users (using the scribe on ≥50% of visits) saved 27.3 minutes of documentation per 8-hour day, and clinicians added an average of 0.49 more patient visits per week; a companion JAMA Network Open study of 263 clinicians across six health systems found burnout dropped from 51.9% to 38.8% after 30 days.",
-      "result": "16 min/encounter documentation saved; burnout fell 51.9%→38.8%",
-      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
-    },
-    {
-      "title": "OrthoPilot AI Deployed in 8,240-Patient Randomized Trial at Ruijin Hospital, Raises Bed Throughput 9.7%",
-      "source": "arXiv (preprint) / Pith Science Review",
-      "category": "AI & Machine Learning",
-      "snippet": "A prospective randomized clinical deployment of the OrthoPilot LLM-based AI system at Ruijin Hospital (Sept 2025–Apr 2026) enrolled 8,240 consecutive musculoskeletal inpatients in a 1:1 standard-care vs. AI-assisted workflow. The AI-assisted arm raised cumulative cases per bed from 11.90 to 13.06 (9.7% increase), reduced physician and nursing documentation workload, and improved patient-reported access to health information; in a parallel crossover reader study of 1,870 complex cases, OrthoPilot improved full-chain management success from 16.6% to 27.2%.",
-      "result": "9.7% bed throughput increase; management success 16.6%→27.2%",
+      "snippet": "A prospective, randomized 8-month deployment study of the OrthoPilot LLM-based AI system at Ruijin Hospital enrolled 8,240 consecutive musculoskeletal inpatients in a 1:1 design. In a companion physician reader study covering 1,870 complex cases, OrthoPilot improved full-chain management success by 10.6%; in the full RCT deployment, it increased cumulative cases per hospital bed by 9.7%, reduced physician and nursing documentation workload, and improved patient-reported access to health information.",
+      "result": "9.7% more cases per bed; 10.6% management success improvement in 1,870-case study",
       "url": "https://arxiv.org/abs/2607.12527"
     },
     {
-      "title": "VEINS 2026 Late-Breaking Trials: Vascular Interventions Show 98% Thrombus Reduction and 88.1% Venous Ulcer Healing at 24 Months",
-      "source": "PR Newswire / VIVA Foundation / Morningstar",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The VIVA Foundation released late-breaking clinical trial results on October 4, 2026 at The VEINS 2026 conference in Las Vegas, covering 26 trials in vascular medicine. Highlights included a pulmonary embolism mechanical thrombectomy trial in 202 patients achieving 98.0% complete or near-complete thrombus reduction (p<0.001) with a 48-hour MAE rate of 3.1%, and a cyanoacrylate closure (CAC) trial in C6 venous disease showing an 88.1% ulcer healing rate through 24 months with a median healing time of 92 days.",
-      "result": "98% thrombus reduction; 88.1% ulcer healing at 24 months",
-      "url": "https://www.morningstar.com/news/pr-newswire/20261004dc63255/late-breaking-clinical-trial-results-announced-at-the-veins-2026"
+      "title": "J&J OTTAVA Robotic System Meets All Safety Endpoints in First Clinical Study of Soft-Tissue Surgery",
+      "source": "Johnson & Johnson / MDDIOnline",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson announced pivotal results from the FORTE study — a prospective, multicenter clinical trial of the investigational OTTAVA Robotic Surgical System in Roux-en-Y gastric bypass procedures — at the 2026 ASMBS Annual Meeting. All 30 procedures in the cohort were completed robotically without conversion to a non-robotic approach, primary safety and performance endpoints were met through 30 days, and average patient weight loss by 30 days was 30 pounds.",
+      "result": "100% robotic completion; all safety endpoints met; 30-lb average weight loss at 30 days",
+      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system"
     },
     {
-      "title": "Abbott's Libre Duo 10 Day — World's First Dual Glucose-Ketone Wearable — Receives FDA Authorization Based on 600-Patient Clinical Program",
-      "source": "Abbott Media Room / HCPLive / Endocrinology Advisor",
-      "category": "Wearables & Monitoring",
-      "snippet": "Abbott's Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System received FDA De Novo authorization on August 25, 2026 — becoming the first wearable device globally to continuously monitor both glucose and ketone levels from a single sensor, for patients aged 2 and older with diabetes. Authorization was supported by six clinical studies enrolling over 600 participants; results showed the device accurately tracked clinically meaningful ketone differences across its 10-day wear period and identified elevated ketone levels before the onset of diabetic ketoacidosis, with 84.1% of adult sensors lasting the full 10 days.",
-      "result": "Pre-DKA ketone detection validated across 600+ patients in 6 studies",
-      "url": "https://abbott.mediaroom.com/2026-08-25-Abbott-receives-FDA-authorization-for-worlds-first-dual-glucose-ketone-sensing-technology-for-people-with-diabetes"
-    },
-    {
-      "title": "Northwell AI Wearable Predicts Hospital Patient Deterioration Up to 17 Hours in Advance, Published in Nature Communications",
-      "source": "Feinstein Institutes for Medical Research / Nature Communications",
-      "category": "Wearables & Monitoring",
-      "snippet": "Researchers at Northwell Health's Feinstein Institutes published in Nature Communications a validated deep-learning model using continuous wearable vital sign monitoring to predict in-hospital patient deterioration up to 17 hours before adverse outcomes — outperforming standard EHR-based Modified Early Warning Scores by a wide margin. Prospective validation showed the model detected 83.6% of unplanned ICU transfers, 100% of intubations/mechanical ventilations, 100% of cardiac arrests, and 100% of in-hospital deaths from wearable data streams.",
-      "result": "100% of cardiac arrests detected; 17-hour advance warning achieved",
-      "url": "https://feinstein.northwell.edu/news/the-latest/feinstein-study-ai-wearable-predicts-patient-deterioration"
-    },
-    {
-      "title": "FDA Approves More Medical Devices in H1 2026 Than Any Comparable Period, But PMA Timelines Surge 49% to 599 Days",
-      "source": "MedTech Dive / MDDI Online",
-      "category": "Other",
-      "snippet": "A mid-year BTIG analysis of FDA databases found that 23 original PMAs were approved through June 2026 — up 10 from the same period in 2025 — and 510(k) clearances are trending up 2.5% year-over-year with 1,669 cleared through June. However, average time from PMA submission to approval ballooned to 599 days, a 49% increase from 402 days in full-year 2025, with analysts attributing delays in part to staffing reductions at the FDA under HHS Secretary RFK Jr.",
-      "result": "23 PMAs approved H1 2026 (+10 YoY); average review time +49%",
-      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
-    },
-    {
-      "title": "AI Sepsis Learning Health System Shows Reduced In-Hospital and 90-Day Mortality in Before-and-After Study (Nature npj Digital Medicine)",
-      "source": "Nature npj Digital Medicine",
+      "title": "1,357 AI Medical Devices Cleared — Only 3 Tested on Patient Outcomes: Landmark PLOS Digital Health Analysis",
+      "source": "PLOS Digital Health / MedicalXpress",
       "category": "AI & Machine Learning",
-      "snippet": "An AI-powered sepsis learning health system (SLHS) deployed in hospital wards demonstrated reduced in-hospital and 90-day mortality for AI-flagged sepsis patients compared to control wards in a before-and-after study published in Nature npj Digital Medicine, analyzing 97,559 stays in SLHS wards versus 25,851 in controls. The system improved time-to-antibiotics and enhanced detection of sepsis cases that would otherwise remain unrecognized — with mortality reduction trends in SLHS wards contrasting with stable outcomes in control wards.",
-      "result": "Reduced in-hospital and 90-day sepsis mortality vs. control wards",
+      "snippet": "A systematic analysis published in PLOS Digital Health (August 2026) reviewed all 1,357 FDA-cleared AI/ML-enabled medical devices through December 2025, finding that only 34 had registered clinical trials and just three had been evaluated for patient-centered outcomes such as mortality, stroke, hospitalization, or quality of life. Researchers from the University of Toronto called for a fundamental redesign of AI device authorization policy, proposing a three-phase framework requiring real-world outcome demonstration across diverse patient populations.",
+      "result": "Only 3 of 1,357 FDA-cleared AI devices tested on actual patient health outcomes",
+      "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001597"
+    },
+    {
+      "title": "Ambient AI Scribes Now Deployed Across 62.6% of Epic Hospitals: 15,791 Hours Saved Across 7,260 Physicians",
+      "source": "GlobalMed / Crescendo AI / JAMA Network Open",
+      "category": "Digital Health",
+      "snippet": "Real-world deployment data now covering 62.6% of Epic-using hospitals confirms ambient AI scribes are delivering measurable clinical results at scale. Across multi-site studies, ambient scribe use was associated with a 15% reduction in documentation time per consultation, an 8.5% reduction in total EHR time, and aggregate savings of 15,791 hours across 7,260 physicians, alongside reported reductions in after-hours documentation and cognitive burnout scores.",
+      "result": "15,791 hours saved; 15% documentation time reduction; 62.6% of Epic hospitals deployed",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839542"
+    },
+    {
+      "title": "Wearable AI Predicts In-Hospital Patient Deterioration Up to 24 Hours in Advance (Northwell/Nature Communications Validation)",
+      "source": "Nature Communications / Feinstein Institutes for Medical Research",
+      "category": "Wearables & Monitoring",
+      "snippet": "A validated clinical study from Northwell Health's Feinstein Institutes, published in Nature Communications, deployed wearable continuous monitoring (CM) across 888 patients in four hospitals. The deep learning model trained on CM data detected 100% of cardiac arrests, 100% of deaths, and 83.6% of unplanned ICU transfers — predicting deterioration 8 to 24 hours before a standard MEWS-based clinical alert and 17 hours before an actual clinical event, outperforming EHR-only and intermittent monitoring baselines.",
+      "result": "100% cardiac arrest/death detection; deterioration predicted up to 24h in advance",
+      "url": "https://www.nature.com/articles/s41467-025-65219-8"
+    },
+    {
+      "title": "Surgical Ward Wearable Monitoring (REQUEST Trial): 62.7% Reduction in Manual Spot Checks, 10 Minutes/Patient Saved",
+      "source": "PMC / World Journal of Surgery",
+      "category": "Wearables & Monitoring",
+      "snippet": "The REQUEST Trial, published in the World Journal of Surgery (February 2026), deployed reusable wearable monitoring devices on a surgical ward and measured real-world clinical impact. Nursing workload dropped significantly (IWS score from 5.46 to 3.87, p<0.001), manual spot checks fell 62.7% (from 4,686 expected to 1,748 performed), saving 10.1 minutes per patient per day, and usability scores improved markedly from 74.2 to 86.0 (p=0.025).",
+      "result": "62.7% fewer manual spot checks; 10.1 min/patient/day nursing time saved",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13006771/"
+    },
+    {
+      "title": "AI Sepsis Learning Health System Cuts In-Hospital and 90-Day Mortality in Real-World Hospital Deployment",
+      "source": "Nature Digital Medicine",
+      "category": "AI & Machine Learning",
+      "snippet": "A before-and-after study of the HERACLES AI-powered Sepsis Learning Health System (SLHS), published in npj Digital Medicine, analyzed 97,559 patient stays in SLHS wards versus 25,851 stays in control wards. In-hospital and 90-day mortality decreased for AI-flagged sepsis cases in SLHS wards while control wards showed no improvement — with control ward in-hospital mortality for flagged cases trending upward from 6.53% to 11.74% — demonstrating measurable outcome benefit from clinician-integrated AI deployment.",
+      "result": "Significant in-hospital and 90-day mortality decrease in AI-assisted wards vs. controls",
       "url": "https://www.nature.com/articles/s41746-025-02180-2"
     },
     {
-      "title": "AI Multi-Agent Diagnostic System Scores 85.5% on Complex Published Cases vs. 20% for Unaided Physicians",
-      "source": "Stanford HAI 2026 AI Index Report",
-      "category": "AI & Machine Learning",
-      "snippet": "The Stanford HAI 2026 AI Index Report documents that Microsoft's AI Diagnostic Orchestrator, paired with OpenAI's o3 in a multi-agent framework, scored 85.5% on complex published medical case studies compared to 20% for unaided physicians working without their usual tools. More broadly, multi-agent AI frameworks have demonstrated diagnostic accuracy gains ranging from 7% to over 60% above single-agent AI baselines across evaluated medical domains.",
-      "result": "85.5% vs. 20% accuracy on complex medical cases (multi-agent vs. unaided MD)",
-      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/medicine"
+      "title": "FDA Approves More Medical Devices in H1 2026 Than Any Prior Half-Year, but PMA Timelines Surge 49%",
+      "source": "MedTech Dive / Medical Design & Outsourcing",
+      "category": "Other",
+      "snippet": "A BTIG analysis of FDA data through June 2026 found the agency authorized more medical devices than in the same period of 2025 across all pathways — including 23 PMA approvals (up 10 year-over-year) and 1,669 510(k) clearances (trending 2.5% above 2025). However, the average time to PMA approval rose 49% to 599 days, raising concerns about capital runway for smaller device developers bringing novel technologies to market.",
+      "result": "23 PMA approvals in H1 (+10 YoY); average approval time up 49% to 599 days",
+      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
     },
     {
-      "title": "AI Diagnostic Imaging Deployment Achieves 94%+ Accuracy for Tumor/Fracture Detection and 25–30% Radiologist Throughput Gains",
-      "source": "Insoftex Insights / Data Pilot / Strategic Market Research",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Validated real-world deployments of AI in medical imaging in 2026 show AI systems achieving diagnostic accuracy exceeding 94% for tumor, fracture, and cardiovascular abnormality detection, with brain tumor MRI classification reaching 98.56% in published studies. Clinical deployment data also show a 25–30% increase in radiologist throughput with AI assistance while maintaining or improving diagnostic performance, and a 35–40% reduction in image analysis time — with AI triage now flagging urgent findings such as intracranial hemorrhage and pulmonary embolism for rapid clinician review in emergency settings.",
-      "result": ">94% tumor/fracture accuracy; 25–30% radiologist throughput gain",
-      "url": "https://insoftex.com/insights/medical-image-analysis-how-computer-vision-helps-diagnosticians/"
-    },
-    {
-      "title": "Ambient AI Scribe Pilot Across 23 Specialties: 21% Reduction in Daily Note Time, 76% Drop in After-Hours Documentation",
-      "source": "JMIR Medical Informatics",
-      "category": "Digital Health",
-      "snippet": "A published ambulatory implementation study in JMIR Medical Informatics covering 79 providers across 23 specialties and more than 25,000 AI-generated notes found that high-frequency AI scribe users achieved a 21% reduction in time spent on notes per day (−13.6 minutes) and a 13% reduction in after-hours 'pajama time.' The proportion of providers spending 8+ hours per week on notes outside clinic dropped 76% (from 31.6% to 7.6%), and 49.4% of physicians reported zero burnout symptoms — a 22-percentage-point improvement.",
-      "result": "76% drop in providers doing 8+ hrs/week of after-hours notes",
-      "url": "https://medinform.jmir.org/2026/1/e84104/"
+      "title": "REVA Medical's MOTIV Bioresorbable Scaffold Completes Live Case at VIVA 2026 and Reports BTK Pivotal Trial Data",
+      "source": "PR Newswire / REVA Medical",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "On October 6, 2026, REVA Medical announced the successful completion of a live MOTIV sirolimus-eluting bioresorbable vascular scaffold case demonstration at VIVA 2026, alongside the presentation of late-breaking clinical results from the MOTIV BTK (below-the-knee) pivotal trial for chronic limb-threatening ischemia. Both predefined primary effectiveness and safety endpoints were met in the BOLT sub-study, with treated patients experiencing a 100% median reduction in thrombus burden with low major adverse event and rethrombosis rates.",
+      "result": "100% median thrombus reduction; primary safety and efficacy endpoints met in BOLT",
+      "url": "https://www.prnewswire.com/news-releases/reva-medical-announces-successful-motiv-live-case-demonstration-and-late-breaking-btk-trial-results-at-viva26-302900013.html"
     }
   ],
-  "generated_at": "2026-10-06T12:53:28.150795+00:00"
+  "generated_at": "2026-10-07T12:47:19.970930+00:00"
 }
