@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "feature": {
-    "title": "AI Scribes, Robot Surgery FDA Wins & Stroke AI Cut Treatment Times: MedTech's Implementation Era Arrives",
-    "summary": "The medtech sector in 2026 has decisively crossed from pilot programs into large-scale clinical deployment, with measurable outcomes now backing the hype. Johnson & Johnson's OTTAVA robot earned FDA De Novo authorization in July after a pivotal 30-patient multicenter trial, ending Intuitive Surgical's two-decade soft-tissue monopoly. Ambient AI scribes have reached population scale—The Permanente Medical Group logged 2.5 million AI-assisted encounters, saving nearly 16,000 physician-hours—while stroke AI platforms like Viz.ai posted a 44% reduction in patient transfer times at real hospitals. Across radiology, wearables, and genomics, 2026's defining theme is that the evidence base is finally catching up with the deployment curve.",
+    "title": "GammaTile Redefines Brain Tumor Surgery, Stryker Bets $400M on Soft-Tissue Robotics, and Digital Therapeutics Breach Psychiatry's Last Frontier",
+    "summary": "October 12, 2026 marks a landmark week in medtech implementation: Phase 3 RCT data cementing GammaTile as a new standard of care in brain metastases, Stryker's blockbuster $400M alliance with CMR Surgical signaling full-scale entry into soft-tissue robotics, and the FDA's clearance of Motivista as the first-ever prescription digital therapeutic for schizophrenia's negative symptoms. Alongside these headline events, real-world deployment data continues to pour in across AI diagnostics, wearable cardiac monitoring, and venous disease — underscoring that the medtech industry's 2026 story is one of execution over experimentation. The FDA's approval of Edwards' AUTUS valve for growing children and Abbott's CardioMEMS patient app round out a week that demonstrates measurable clinical impact across virtually every device category.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "J&J's OTTAVA received FDA De Novo authorization on July 22, 2026—the world's first table-integrated soft-tissue surgical robot—backed by a multicenter pivotal trial meeting all 30-day safety endpoints across 10 general surgery procedures."
+        "text": "Stryker's $400M investment in CMR Surgical's Versius platform — already used in 45,000+ patients globally — creates the most credible challenger to Intuitive Surgical's dominance in soft-tissue robotics."
       },
       {
         "label": "Key trend",
-        "text": "Ambient AI scribes have moved from pilots to enterprise scale, with Kaiser Permanente's 7,260-physician rollout across 2.5 million encounters saving an estimated 15,791 hours of documentation time and a multicenter JAMA study confirming burnout dropped from 51.9% to 38.8% in 30 days."
+        "text": "FDA-cleared AI is transitioning from pilot to national deployment, with eyonis LCS targeting 14.5 million eligible U.S. lung cancer screening patients and AI ambient documentation already saving 15,791+ physician hours across Epic-using hospitals."
       },
       {
         "label": "To watch",
-        "text": "CHOP's personalized CRISPR therapy for infant KJ—the world's first N-of-1 gene editing treatment, developed in six months—is now one year post-treatment with the child walking, talking, and requiring less medication, signaling a blueprint for ultra-rare disease care."
+        "text": "Click Therapeutics' Motivista — the first prescription digital therapeutic for schizophrenia — heads into a reimbursement battle with Medicaid and Medicare coverage still unsettled, a test case for the entire digital therapeutics sector."
       }
     ]
   },
   "articles": [
     {
-      "title": "Johnson & Johnson's OTTAVA Wins FDA De Novo Authorization — Breaking da Vinci's Two-Decade Soft-Tissue Monopoly",
-      "source": "MassDevice / J&J Investor Relations",
+      "title": "Stryker Invests $400M in CMR Surgical, Becomes Exclusive U.S. Sales Agent for Versius Robotic Platform",
+      "source": "GlobeNewswire / Surgical Robotics Technology",
       "category": "Robotics & Surgery",
-      "snippet": "On July 22, 2026, the FDA granted De Novo authorization to J&J's OTTAVA Robotic Surgical System—the world's first table-integrated soft-tissue robot—for 10 general surgery procedures including gastric bypass, cholecystectomy, and hiatal hernia repair. The authorization followed the pivotal FORTE study, a prospective 30-patient multicenter trial in which all primary safety and performance endpoints were met through 30 days post-procedure with zero conversions to non-robotic approaches and an average 30-pound patient weight loss by day 30.",
-      "result": "FDA cleared; 0/30 conversions; 30-lb avg. weight loss at 30 days",
-      "url": "https://www.massdevice.com/johnson-johnson-fda-approval-ottava-surgical-robot/"
+      "snippet": "Stryker announced a $400 million preferred equity investment in CMR Surgical on October 12, 2026, gaining an exclusive option to acquire 100% of the company and serving as the exclusive U.S. commercial agent for the Versius Surgical Robotic System. CMR Surgical disclosed that Versius has already been used to treat more than 45,000 patients worldwide, positioning it as the second most widely used robotic surgery platform globally.",
+      "result": "45,000+ patients treated; $400M Stryker investment secures U.S. exclusivity",
+      "url": "https://www.globenewswire.com/news-release/2026/10/12/3378830/0/en/stryker-and-cmr-surgical-announce-strategic-alliance-to-advance-robotic-assisted-surgery.html"
     },
     {
-      "title": "Viz.ai Posts 44% Reduction in Stroke Transfer Times at ISC 2026 — CTA-to-Detection Cut by 84%",
-      "source": "Business Wire / Viz.ai",
-      "category": "AI & Machine Learning",
-      "snippet": "Real-world clinical data presented at the American Heart Association's 2026 International Stroke Conference showed Viz.ai's AI platform reduced door-in-door-out transfer times for large vessel occlusion (LVO) stroke patients from 202 minutes to 113 minutes—a 44% improvement exceeding the Joint Commission's 120-minute national benchmark. The gains were driven by an 84% reduction in time from CTA completion to LVO detection and care-team notification shrinking from 45 minutes to just 7 minutes at Adventist Health + Rideout.",
-      "result": "Transfer time: 202 → 113 min; notification: 45 → 7 min",
-      "url": "https://www.businesswire.com/news/home/20260305970976/en/Viz.ai-Study-Demonstrates-44-Reduction-in-Interfacility-Stroke-Transfer-Times"
-    },
-    {
-      "title": "Kaiser Permanente's 2.5-Million-Encounter Ambient AI Scribe Rollout Saves 15,791 Physician-Hours",
-      "source": "AMA / NEJM Catalyst",
-      "category": "Digital Health",
-      "snippet": "The Permanente Medical Group's landmark ambient AI scribe deployment across 7,260 physicians and over 2.5 million patient encounters (Oct 2023–Dec 2024) saved an estimated 15,791 hours of documentation time—roughly 1,800 eight-hour workdays—with 84% of surveyed clinicians reporting improved patient communication and 82% reporting greater job satisfaction. The deployment is the largest ambient AI scribe rollout published in the peer-reviewed record and demonstrated sustained adoption: the top third of users accounted for 89% of all encounters.",
-      "result": "15,791 physician-hours saved; 84% clinician satisfaction improvement",
-      "url": "https://www.ama-assn.org/practice-management/digital-health/ai-scribes-save-15000-hours-and-restore-human-side-medicine"
-    },
-    {
-      "title": "Multicenter JAMA Study: Ambient AI Scribes Cut Burnout from 51.9% to 38.8% in 30 Days Across 6 Health Systems",
-      "source": "JAMA Network Open",
-      "category": "Digital Health",
-      "snippet": "A multicenter quality improvement study of 263 physicians and advanced practice practitioners across six U.S. health systems found that after just 30 days using an ambient AI scribe, the proportion experiencing burnout dropped significantly from 51.9% to 38.8% (OR 0.26; 95% CI, 0.13–0.54). Secondary outcomes also improved, including reductions in note-related cognitive task load, after-hours documentation time, and gains in physicians' ability to give patients undivided attention.",
-      "result": "Burnout: 51.9% → 38.8% in 30 days across 6 health systems",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839542"
-    },
-    {
-      "title": "Aidoc CARE Foundation Model FDA-Cleared: 97% Sensitivity / 98% Specificity Across 14 CT Conditions at 2,000 Hospitals",
-      "source": "PR Newswire / Aidoc",
-      "category": "Diagnostics & Imaging",
-      "snippet": "In January 2026, Aidoc received FDA clearance for the healthcare industry's first comprehensive foundation-model AI triage solution, covering 14 acute abdomen CT indications—including aortic dissection, appendicitis, and bowel obstruction—in a single unified workflow. The FDA-reviewed pivotal study showed a mean sensitivity of 97% and specificity of 98%, with an order-of-magnitude reduction in false alerts compared to prior single-condition point solutions; the platform is now deployed across nearly 2,000 hospitals processing 60 million patient cases per year.",
-      "result": "97% sensitivity, 98% specificity; 10x fewer false alerts vs. prior tools",
-      "url": "https://www.prnewswire.com/news-releases/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai-302666640.html"
-    },
-    {
-      "title": "CHOP's Personalized CRISPR Therapy: One Year On, Infant KJ Is Walking and Talking After World's First N-of-1 Gene Edit",
-      "source": "Children's Hospital of Philadelphia (PR Newswire)",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "February 25, 2026 marked one year since infant KJ became the world's first patient to receive a personalized CRISPR base-editing therapy for CPS1 deficiency—a urea cycle disorder with 50% infant mortality. After three infusions developed and administered by CHOP and Penn Medicine in just six months, KJ has achieved meaningful clinical milestones including walking and talking, tolerates more dietary protein, requires less nitrogen-scavenging medication, and has recovered from childhood respiratory illnesses without dangerous ammonia buildup.",
-      "result": "Walking, talking at 1 year; better ammonia control; no serious adverse events",
-      "url": "https://www.prnewswire.com/news-releases/childrens-hospital-of-philadelphia-marks-one-year-anniversary-of-worlds-first-personalized-crispr-gene-therapy-for-child-with-rare-genetic-disease-302696376.html"
-    },
-    {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Faster Operations, 30% Fewer Intraoperative Complications vs. Manual",
-      "source": "NCBI / PMC (Peer-Reviewed Synthesis)",
-      "category": "Robotics & Surgery",
-      "snippet": "A synthesis of 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical techniques. Surgical precision improved by 40% in tumor resections and implant placements, patient recovery times shortened by an average of 15%, and healthcare costs fell approximately 10% over conventional procedures.",
-      "result": "25% faster ops; 30% fewer complications; 40% precision improvement",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
-    },
-    {
-      "title": "Northwell AI Wearable Model Predicts Hospital Patient Deterioration Up to 17 Hours in Advance — Published in Nature Communications",
-      "source": "Feinstein Institutes for Medical Research / Nature Communications",
-      "category": "Wearables & Monitoring",
-      "snippet": "Researchers at Northwell Health's Feinstein Institutes validated a deep learning model using continuous wearable vital signs from 888 hospitalized patients across four hospitals, finding it could predict patient deterioration (ICU transfer, cardiac arrest, intubation) up to 17–24 hours before a standard clinical alert. The wearable-based model detected 83.6% of unplanned ICU transfers, 100% of cardiac arrests, and 100% of deaths, substantially outperforming standard early warning scores and EHR-only models.",
-      "result": "100% cardiac arrests detected; alerts up to 17 hours early",
-      "url": "https://feinstein.northwell.edu/news/the-latest/feinstein-study-ai-wearable-predicts-patient-deterioration"
-    },
-    {
-      "title": "DarioEngage Digital Therapeutic Delivers 1.2% Greater HbA1c Reduction vs. Standard Diabetes Care in 6-Month Trial",
-      "source": "VT Gateway (DTx clinical data review)",
+      "title": "GammaTile Phase 3 ROADS Trial Published in JCO: 93% Reduction in Brain Tumor Recurrence vs. Standard Care",
+      "source": "Journal of Clinical Oncology / MedTech Dive",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "In a six-month randomized trial of the FDA-cleared DarioEngage digital therapeutic for type 2 diabetes, patients using the DTx alongside standard medication achieved a 1.2% greater reduction in HbA1c levels compared to those on medication alone—a clinically meaningful difference in diabetes management. The app delivers personalized guidance on diet, exercise, and insulin titration as a prescription-grade software treatment adjunct.",
-      "result": "1.2% greater HbA1c reduction vs. standard care at 6 months",
-      "url": "https://vtgateway.org/digital-therapeutics-and-medication-interactions-what-you-need-to-know-in"
+      "snippet": "The randomized, multicenter Phase 3 ROADS trial (230 patients, 32 centers) showed GammaTile cesium-131 intraoperative brachytherapy reduced surgical bed recurrence to 1.3% at 12 months versus 15.4% for standard stereotactic radiation — a 93% relative risk reduction. Median overall survival was 42.5 months for GammaTile patients versus 17.6 months for standard care, with comparable safety profiles in both arms.",
+      "result": "93% recurrence reduction; median OS 42.5 vs 17.6 months",
+      "url": "https://www.medtechdive.com/news/gt-medical-raises-100m-for-brain-tumor-tech-after-clinical-trial-success/822536/"
     },
     {
-      "title": "Viz.ai Enterprise Platform Reports 42% More Stroke Patients Receiving Thrombectomy and 74% Reduction in PE Mortality Risk",
-      "source": "Viz.ai (HLTH 2026 Clinical Data)",
-      "category": "AI & Machine Learning",
-      "snippet": "Viz.ai's enterprise clinical AI platform—now deployed across 1,700+ hospitals with 50+ FDA clearances—reports real-world outcomes including a 42% increase in LVO stroke patients receiving endovascular thrombectomy, a 74% reduction in in-hospital mortality risk for pulmonary embolism patients, and 8.4 times more patients receiving guideline-directed cardiac monitoring following platform adoption. A 2.5-day reduction in hospital length of stay has also been documented across its cardiac care deployments.",
-      "result": "42% more thrombectomies; 74% PE mortality risk reduction; 2.5-day LOS drop",
-      "url": "https://www.viz.ai/events/hlth-2026"
+      "title": "FDA Clears Motivista: First Prescription Digital Therapeutic for Negative Symptoms of Schizophrenia",
+      "source": "Healio / Click Therapeutics",
+      "category": "Digital Health",
+      "snippet": "The FDA granted 510(k) clearance to Motivista (CT-155), a smartphone-delivered 16-week CBT program for schizophrenia's negative symptoms — the first FDA-authorized treatment specifically targeting avolition, anhedonia, and asociality. In the pivotal Phase 3 CONVOKE trial (457 patients), Motivista produced a 6.8-point improvement on the CAINS-MAP scale versus 4.2 points for the digital control, representing a 62% relative improvement, with no serious treatment-related adverse events.",
+      "result": "62% relative symptom improvement vs. control; 70%+ sustained adherence",
+      "url": "https://www.healio.com/news/psychiatry/20261009/fda-clears-motivista-for-negative-symptoms-in-schizophrenia"
     },
     {
-      "title": "AI-Assisted Mammography Raises Cancer Detection Rates 5–9% While Cutting False Positives in Large-Scale Radiology Rollouts",
-      "source": "SQ Magazine (AI Imaging Statistics Compilation 2026)",
+      "title": "Edwards Lifesciences Wins FDA Approval for AUTUS: First Size-Adjustable Pediatric Pulmonary Valve",
+      "source": "FDA.gov / MassDevice",
+      "category": "Other",
+      "snippet": "The FDA approved the Edwards Lifesciences AUTUS Size-Adjustable Valve on October 1, 2026, the first heart valve designed to expand post-implant to accommodate a child's growth — and the first approved with synthetic polymeric leaflets rather than animal tissue. The pivotal study of 62 pediatric patients showed 100% free from device-related complications at 30 days, with favorable valve performance and no reinterventions through six months; 100% of one-year follow-up patients showed consistent hemodynamic outcomes.",
+      "result": "100% complication-free at 30 days; 0 reinterventions at 6 months in 62 patients",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
+    },
+    {
+      "title": "Medtronic VenaSeal Spectrum Study: 88.1% Venous Ulcer Healing at 24 Months, Coverage Reaches 96% of U.S. Insured Lives",
+      "source": "Clinical Trial Vanguard / Medtronic",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Medtronic presented 24-month results from its prospective, 17-site VenaSeal Spectrum Venous Leg Ulcer study at the 2026 VEINS conference, showing 88.1% ulcer healing among 125 patients with active venous ulcers, with a median healing time of 92 days. Alongside the clinical data, U.S. commercial and Medicare coverage for VenaSeal has now expanded to 96% of insured lives, enabling broad national deployment.",
+      "result": "88.1% ulcer healing at 24 months; 96% U.S. insurance coverage achieved",
+      "url": "https://www.clinicaltrialvanguard.com/news/venaseal-cyanoacrylate-closure-heals-88-of-venous-leg-ulcers-in-24-month-study/"
+    },
+    {
+      "title": "Abbott Gains FDA Approval for CardioMEMS CardioGuide HF App — Patients Now See Pulmonary Pressure Readings on Smartphones",
+      "source": "Abbott Mediaroom / Fierce Biotech",
+      "category": "Wearables & Monitoring",
+      "snippet": "Abbott received FDA approval on October 5, 2026 for updates to its CardioMEMS HF System, including the CardioGuide HF App — allowing heart failure patients to directly view pulmonary artery pressure data on their smartphones for the first time, along with personalized medication adjustment plans. The underlying CardioMEMS system, deployed for over a decade, has been clinically shown to reduce heart failure hospitalizations and mortality risk, with prior GUIDE-HF trial data demonstrating a 28% reduction in HF hospitalizations.",
+      "result": "Patient-facing PA pressure monitoring live; 28% hospitalization reduction in prior RCT",
+      "url": "https://abbott.mediaroom.com/2026-10-05-Abbott-receives-FDA-approval-for-new-CardioMEMS-HF-System-capabilities-that-help-patients-engage-in-the-care-of-their-heart-condition"
+    },
+    {
+      "title": "FDA Clears Cercare Medical CBCT Perfusion Software for Real-Time Stroke Imaging Inside Angio Suites",
+      "source": "Indian Pharma Post / Yesil Science / Neuronews International",
       "category": "Diagnostics & Imaging",
-      "snippet": "Analysis of enterprise-scale AI deployments in radiology across U.S. hospitals shows AI-assisted mammography consistently increases cancer detection rates by 5–9% while simultaneously reducing false positives, with combined human-AI reading improving overall sensitivity by 10–15% compared to either alone. Enterprise-scale radiology AI deployments have grown from under 10% of large health systems in 2020 to over 40% by 2025–2026, with 70–90% of U.S. hospitals now using some form of imaging AI.",
-      "result": "5–9% more cancers detected; 10–15% sensitivity gain with human+AI reading",
-      "url": "https://sqmagazine.co.uk/ai-in-medical-imaging-statistics/"
+      "snippet": "The FDA cleared Cercare Medical's Cone-Beam CT Perfusion solution (K253831) for qualitative brain perfusion assessment directly within the angiography suite during thrombectomy, eliminating the need to transfer acute stroke patients to a separate radiology suite. The technology generates CT-quality perfusion maps from standard C-arm imaging systems and measures advanced biomarkers including oxygen extraction fraction — with Siemens Healthineers partnering to integrate it into existing hospital systems.",
+      "result": "In-suite stroke perfusion mapping cleared; eliminates patient transport during thrombectomy",
+      "url": "https://www.indianpharmapost.com/medical-device/fda-clears-cercare-medicals-cbct-perfusion-technology-for-real-time-stroke-imaging-20413"
     },
     {
-      "title": "UK Multi-Site Robotic Cystectomy Trial: 2 Fewer Inpatient Days and 52% Readmission Reduction vs. Open Surgery",
-      "source": "SERMO / Peer-Reviewed Trial Data",
-      "category": "Robotics & Surgery",
-      "snippet": "A clinical trial involving 29 surgeons across nine UK hospitals found that patients receiving robot-assisted radical cystectomy stayed in hospital for an average of 8 days—two days fewer than traditional open surgery—while the study also demonstrated a 52% reduction in readmission rates. Data from 18 randomized controlled trials additionally confirmed that robotic-assisted radical prostatectomy yields fewer biochemical recurrences and improved short-term quality of recovery compared to open approaches.",
-      "result": "8 vs. 10 days LOS; 52% readmission reduction vs. open cystectomy",
-      "url": "https://www.sermo.com/resources/robotics-in-surgery/"
+      "title": "Median Technologies eyonis LCS: First AI Detection-and-Diagnosis Device for Lung Cancer Screening Advances to National Deployment",
+      "source": "Medscape / Median Technologies / BusinessWire",
+      "category": "AI & Machine Learning",
+      "snippet": "Following FDA 510(k) clearance in February 2026 and CE marking in July 2026, Median Technologies' eyonis LCS — the only AI device capable of both detecting and characterizing lung nodules in LDCT scans — is now deploying nationally via partnerships with Canon Medical/Olea Medical and Tempus AI. The platform achieved 93.3% sensitivity, 92.4% specificity, and 99.9% negative predictive value in validation, with a Medicare reimbursement pathway at $601–$700 per exam already in place for the 14.5 million eligible U.S. patients.",
+      "result": "93.3% sensitivity, 99.9% NPV; targeting 14.5M eligible U.S. patients",
+      "url": "https://www.medscape.com/viewarticle/fda-clears-ai-program-lung-cancer-screening-2026a10004a6"
+    },
+    {
+      "title": "Human-AI Collaboration Study: FDA-Approved PE Detection AI Doubles Radiologist Throughput With No Change in Mortality",
+      "source": "arXiv (Yale/University of Chicago)",
+      "category": "AI & Machine Learning",
+      "snippet": "A study tracking over 100,000 CT scans across nearly 400 radiologists during the real-world rollout of an FDA-approved pulmonary embolism AI platform found that per-radiologist monthly scan volumes nearly doubled despite a 16% increase in overall scan volume, while diagnostic speed remained stable. Critically, patient mortality showed no change, demonstrating that AI-driven throughput gains did not compromise care quality — and radiologist disagreement with AI-positive PE findings fell from 30% to 12% by year two.",
+      "result": "Radiologist throughput ~doubled; mortality unchanged across 100,000+ scans",
+      "url": "https://arxiv.org/pdf/2601.13379"
+    },
+    {
+      "title": "Lancet Digital Health RCT: AI Assistance Significantly Improves Sonographer Detection of Fetal Brain Malformations",
+      "source": "The Lancet Digital Health",
+      "category": "Diagnostics & Imaging",
+      "snippet": "A multicentre, self-crossover randomised controlled trial published in The Lancet Digital Health found that the PAICS AI system significantly improved sonographers' sensitivity for detecting fetal intracranial malformations while preserving specificity — without compromising detection of other fetal anomalies in high-risk pregnancies. The findings directly support real-world integration of real-time AI into clinical prenatal screening workflows.",
+      "result": "Significant sensitivity gain for fetal brain anomalies; specificity preserved in RCT",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00063-4/fulltext"
+    },
+    {
+      "title": "MRI2CT Wins FDA Clearance for NextMR: AI Platform Generates 3D Bone Visualization from Diagnostic MRI Alone",
+      "source": "ITN Online / MRI2CT",
+      "category": "Diagnostics & Imaging",
+      "snippet": "MRI2CT Inc. received FDA 510(k) clearance on October 7, 2026 for its NextMR AI-powered imaging platform, which generates accurate 3D bone visualization of the lumbar spine and sacrum directly from a patient's standard diagnostic MRI — eliminating the need for a separate CT scan in spine care workflows. The clearance advances the company's vision of MRI-only workflows that reduce patient radiation exposure and streamline surgical planning.",
+      "result": "FDA-cleared MRI-only 3D spine visualization; no CT scan required",
+      "url": "https://www.itnonline.com/content/mri2ct-receives-fda-clearance-ai-powered-imaging-platform"
+    },
+    {
+      "title": "AI Sepsis Detection Deployed Across Hospitals: In-Hospital Mortality Drops from 20.5% to 15.3%, Study Finds",
+      "source": "GlobalMed / Dialog Health AI Statistics 2026",
+      "category": "AI & Machine Learning",
+      "snippet": "Aggregated 2026 real-world deployment data shows that AI sepsis detection algorithms, now used by 71% of hospitals for inpatient risk prediction, have been associated with in-hospital mortality falling from 20.54% to 15.27% in a prospective 9-hospital evaluation — a 25.7% relative reduction. The Viz.ai stroke platform, deployed across 2,000 U.S. hospitals, separately demonstrated a 44% reduction in door-in-door-out time for large vessel occlusion patients in a 2026 study.",
+      "result": "Sepsis mortality: 20.54% → 15.27%; Viz.ai: 44% LVO door-time reduction",
+      "url": "https://www.globalmed.com/resources/the-future-of-ai-in-healthcare-2026-analysis"
     }
   ],
-  "generated_at": "2026-10-11T12:14:06.520861+00:00"
+  "generated_at": "2026-10-12T14:36:19.856747+00:00"
 }
