@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "feature": {
-    "title": "From Proof-of-Concept to Proof-of-Outcome: Medtech's Real-World Results Moment Has Arrived",
-    "summary": "October 2026 marks a pivotal inflection point where medtech deployments are generating measurable, real-world patient outcomes rather than just regulatory clearances or bench-level promises. Landmark FDA approvals — a first-ever pediatric heart valve designed to grow with the child, a dual-energy AFib catheter with 100% acute pulmonary vein isolation success, and a patient-facing heart failure monitoring app — are all backed by rigorous clinical trial data. Simultaneously, large-scale health system rollouts of ambient AI scribes, surgical robotics, and NHS operating theatre AI are producing quantified efficiency and burnout metrics at scale. The central theme: payers, health systems, and regulators are increasingly demanding evidence that devices work in real wards and real bodies — not just in controlled trials.",
+    "title": "From Pilots to Proof: 2026's Medtech Wave Delivers Measurable Patient Outcomes Across Cardiology, Robotics, and AI",
+    "summary": "October 2026 marks a decisive inflection point in medical technology, where years of pilot programs are now yielding hard clinical data — from FDA-approved heart valves that grow with children to AI tools cutting stroke transfer times by nearly half. Tempus AI alone earned four successive FDA clearances for ECG-based cardiac AI products, while Bayesian Health's sepsis platform achieved first-ever FDA clearance for continuous AI sepsis monitoring after validating 46% more case identification across major U.S. health systems. In surgical robotics, J&J's OTTAVA system and wearable telemonitoring protocols are demonstrating that patients can be discharged 48 hours earlier without compromising safety. The overarching theme: AI and medtech are no longer speculative — measurable ROI, mortality reductions, and patient outcome improvements are now the standard of proof demanded by health systems and regulators alike.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "The FDA's approval of the Autus Size-Adjustable Valve — the first pediatric heart valve engineered to expand as a child grows — was backed by a 62-patient pivotal study showing zero device-related complications at one month and normal hemodynamics in 60 of 62 patients at six months."
+        "text": "The FDA approved Edwards Lifesciences' AUTUS Size-Adjustable Valve — the first heart valve designed to expand inside a child's body as they grow — backed by a 62-patient clinical study showing zero deaths, no strokes, and successful non-surgical valve expansions in two patients who outgrew their device."
       },
       {
         "label": "Key trend",
-        "text": "Ambient AI scribes have crossed from pilot to institutional standard: real-world deployments at Mass General Brigham and Emory show 21–30% absolute reductions in physician burnout, while the University of Toledo slashed open chart backlog from 400+ to fewer than 30."
+        "text": "Tempus AI's rapid-fire series of four FDA-cleared ECG-AI cardiovascular tools (AFib, low ejection fraction, pulmonary hypertension, and now mitral regurgitation) signals a shift from single-condition AI diagnostics to a comprehensive, routine-ECG-based cardiac screening ecosystem."
       },
       {
         "label": "To watch",
-        "text": "The largest NHS surgical AI deployment ever — Proximie's Intelligence Suite across 104 operating theatres at 8 hospitals, targeting 20,000+ procedures — will generate its first comparative outcome data in mid-2027, making it the most consequential real-world test of OR AI efficiency to date."
+        "text": "VitVio's deployment of its 3D-native Vetro AI surgical operating system at UCK Gdańsk today — the first hospital in Poland to adopt the platform — represents the accelerating international expansion of OR automation AI beyond its US and UK origin markets."
       }
     ]
   },
   "articles": [
     {
       "title": "FDA Approves First Heart Valve Designed to Grow With Children",
-      "source": "HealthDay / U.S. Food and Drug Administration",
-      "category": "Robotics & Surgery",
-      "snippet": "The FDA approved the Autus Size-Adjustable Valve on October 1, 2026 — the first surgically implanted pulmonary valve that can be expanded with a balloon catheter from 13 mm to 22 mm as a pediatric patient grows, potentially eliminating repeat open-heart operations. A 62-patient pivotal study across 12 U.S. sites showed no device-related complications in the first month and normal hemodynamic indicators in 60 of 62 patients at six months.",
-      "result": "Zero device complications at 1 month; normal hemodynamics in 97% at 6 months",
-      "url": "https://www.usnews.com/news/health-news/articles/2026-10-02/a-heart-valve-that-grows-up-with-the-patient-wins-fda-approval"
-    },
-    {
-      "title": "Abbott TactiFlex Duo Ablation Catheter Wins FDA Approval With 100% Pulmonary Vein Isolation Success",
-      "source": "HCPLive / Managed Healthcare Executive",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Abbott's TactiFlex Duo, combining pulsed field ablation and radiofrequency energy in a single catheter, received FDA approval on September 8, 2026, supported by 12-month FlexPulse IDE study data from 180 patients at 24 sites in the U.S. and Europe. The study demonstrated 100% acute pulmonary vein isolation success and a primary safety endpoint event rate of just 1.7%, with 74.6% of patients free from arrhythmia recurrence, medication changes, or repeat procedures at 12 months.",
-      "result": "100% acute PVI success; 74.6% arrhythmia-free at 12 months",
-      "url": "https://www.hcplive.com/view/tactiflex-duo-ablation-catheter-receives-fda-approval-for-afib"
-    },
-    {
-      "title": "J&J Shockwave IVL Sustains Below-the-Knee PAD Gains at Two Years in DISRUPT BTK II",
-      "source": "MassDevice / Endovascular Today",
+      "source": "Becker's Hospital Review / FDA",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "Johnson & Johnson MedTech presented 24-month data from the DISRUPT PAD BTK II postmarket study at the VIVA 2026 conference, showing that Shockwave intravascular lithotripsy maintained durable benefits in 250 complex peripheral artery disease patients at two years. Chronic limb-threatening ischemia rates plummeted from ~80% at baseline to 14% at 24 months, and 94.8% of patients avoided major limb amputation through two years while 81% avoided repeated revascularization.",
-      "result": "CLTI rates fell from 80% to 14%; 94.8% amputation-free at 24 months",
-      "url": "https://www.massdevice.com/jj-johnson-shockwave-data-below-the-knee-peripheral-artery-disease-viva-2026/"
+      "snippet": "The FDA approved Edwards Lifesciences' Autus Size-Adjustable Valve on October 1, 2026 — the first surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease that can be expanded as the child grows. In a 62-patient, 12-site clinical study, all patients had successful procedures with no deaths, strokes, or clot-related complications, and two patients who began to outgrow their valves had them expanded successfully without surgery.",
+      "result": "62-patient study: zero deaths, zero strokes, 2 non-surgical expansions",
+      "url": "https://www.beckershospitalreview.com/supply-chain/fda-approves-1st-heart-valve-that-grows-with-children/"
     },
     {
-      "title": "Abbott CardioMEMS Gets FDA Clearance for Patient-Facing Pulmonary Pressure App",
-      "source": "Abbott Mediaroom / Cardiac Interventions Today",
-      "category": "Wearables & Monitoring",
-      "snippet": "Abbott received FDA approval on October 5, 2026 for updates to its CardioMEMS HF System, enabling U.S. heart failure patients to view their pulmonary artery pressure readings directly on smartphones through the CardioGuide HF App — the first time this implant data has been patient-accessible. A new Dynamic Treatment Plan feature allows clinicians to push personalized medication-adjustment instructions to patients via the app based on real-time pressure changes, augmenting a system already demonstrated to reduce heart failure hospitalizations and mortality risk in prior studies.",
-      "result": "First patient-direct PAP visibility; underpinned by hospitalization-reduction evidence",
-      "url": "https://abbott.mediaroom.com/2026-10-05-Abbott-receives-FDA-approval-for-new-CardioMEMS-HF-System-capabilities-that-help-patients-engage-in-the-care-of-their-heart-condition"
-    },
-    {
-      "title": "Proximie, AWS & Deloitte Launch Largest-Ever NHS Surgical AI Evaluation Across 104 Operating Theatres",
-      "source": "Amazon Press Center / Med-Tech Insights",
+      "title": "Viz.ai Study Demonstrates 44% Reduction in Interfacility Stroke Transfer Times",
+      "source": "Viz.ai / Business Wire / Neuro News International",
       "category": "AI & Machine Learning",
-      "snippet": "On September 9, 2026, Proximie deployed its Intelligence Suite across 104 operating theatres, endoscopy suites, and catheterisation laboratories at eight NHS hospital sites in the largest surgical AI rollout in NHS history, designed to cover more than 20,000 procedures over 12 months. Early deployment data from Proximie indicates the potential to add one additional surgical case per day per theatre through improved flow, directly addressing NHS waiting list pressures without new infrastructure.",
-      "result": "Potential +1 surgical case/day/theatre; 20,000+ procedures under live AI monitoring",
-      "url": "https://press.aboutamazon.com/2026/9/global-healthtech-proximie-in-collaboration-with-aws-deloitte-and-the-nhs-launches-largest-nhs-ai-theatre-evaluation-to-unlock-hidden-operating-theatre-capacity"
+      "snippet": "Real-world evidence presented at the 2026 International Stroke Conference showed that deployment of Viz.ai's AI-powered platform at Adventist Health + Rideout cut door-in-door-out (DIDO) transfer times for large vessel occlusion stroke patients by 44%, dropping from 202 minutes to 113 minutes — exceeding the Joint Commission's 120-minute national benchmark. Performance gains included an 84% reduction in time from CTA completion to LVO detection, and care-team notification times fell from 45 minutes to 7 minutes.",
+      "result": "DIDO time cut from 202 min to 113 min; 84% faster LVO detection",
+      "url": "https://www.viz.ai/news/viz-ai-study-demonstrates-44-reduction-in-interfacility-stroke-transfer-times"
     },
     {
-      "title": "Ambient AI Scribes Deliver Measurable Burnout Reductions at Mass General Brigham and Emory Healthcare",
-      "source": "Becker's Hospital Review",
-      "category": "Digital Health",
-      "snippet": "A JAMA Network Open study drawing on surveys of 1,400+ physicians at Mass General Brigham and Emory Healthcare found that ambient AI documentation technology was associated with a 21.2% absolute reduction in burnout prevalence at Mass General Brigham at 84 days and a 30.7% absolute increase in documentation-related well-being at Emory at 60 days. University of Toledo Health additionally reported a 29% reduction in time-to-chart-closure and a drop in open chart backlog from 400+ to fewer than 30 after an eight-week pilot.",
-      "result": "21% burnout reduction (MGB); backlog fell from 400+ to <30 charts (Toledo)",
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/ambient-ai-scales-across-health-systems-as-burnout-data-emerges/"
-    },
-    {
-      "title": "J&J Ottava Surgical Robot Meets Primary Safety Endpoints in 30-Patient Bariatric Pivotal Study",
-      "source": "MassDevice / MDDIonline",
+      "title": "J&J's OTTAVA Surgical Robot Meets All Primary Endpoints in Pivotal Bariatric Surgery Study",
+      "source": "MassDevice / Johnson & Johnson MedTech",
       "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson presented first-ever clinical results for its Ottava robotic surgical system at the 2026 American Society for Metabolic and Bariatric Surgery Annual Meeting, showing the platform met all primary safety and performance endpoints across 30 Roux-en-Y gastric bypass patients at six hospitals with zero conversions to non-robotic approaches. Average patient weight loss was 30 pounds at 30 days, and J&J is using the findings to support its pending FDA De Novo application covering multiple upper-abdominal procedures.",
-      "result": "0% conversion rate; 100% primary safety endpoint success; avg. 30-lb weight loss at 30 days",
+      "snippet": "Johnson & Johnson announced results from the first clinical study of its investigational OTTAVA Robotic Surgical System at the 2026 ASMBS Annual Meeting, with the system meeting all primary safety and performance endpoints in a 30-patient multicenter cohort undergoing Roux-en-Y gastric bypass. All procedures were completed robotically with zero conversions to non-robotic approaches, average 30-pound patient weight loss by day 30, and successful deployment across six hospital sites — including ORs previously considered too small for robotic surgery.",
+      "result": "All endpoints met; 30-patient cohort; 0 conversions; avg 30 lb weight loss",
       "url": "https://www.massdevice.com/johnson-johnson-ottava-met-endpoints-study/"
     },
     {
-      "title": "iRhythm Closes $287.5M VitalConnect Acquisition, Expanding Wearable Cardiac Monitoring to 11 Physiological Parameters",
-      "source": "Fierce Healthcare / MassDevice",
-      "category": "Wearables & Monitoring",
-      "snippet": "iRhythm completed its $287.5 million acquisition of VitalConnect on October 5, 2026, integrating mobile cardiac telemetry and continuous multi-vitals monitoring — tracking up to 11 physiological parameters simultaneously — into iRhythm's existing end-to-end cardiac monitoring platform. The combined platform now covers ambulatory, inpatient, and hospital-to-home care continua, targeting an estimated 27 million U.S. patients annually at risk for undiagnosed arrhythmias.",
-      "result": "Platform now monitors 11 vital parameters; targets 27M at-risk U.S. patients annually",
-      "url": "https://www.massdevice.com/irhythm-completes-acquisition-of-vitalconnect/"
-    },
-    {
-      "title": "Aidoc Clinical AI Hits 97% Sensitivity Across 14 Conditions, Deployed in Nearly 2,000 Hospitals",
-      "source": "Pinggy / Intuition Labs",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Aidoc's body CT triage AI, cleared by the FDA with a January 2026 pivotal study, has achieved 97% mean sensitivity and 98% mean specificity across 14 conditions and is now deployed across nearly 2,000 hospitals processing 60 million patient cases per year. Separately, Viz.ai's large vessel occlusion stroke detection system — deployed at 1,700+ hospitals — demonstrated in a 474-patient multicenter trial a 44% cut in LVO stroke diagnosis time, 31-minute reduction in time-to-treatment, and a 40% reduction in 90-day disability.",
-      "result": "Aidoc: 97% sensitivity/98% specificity at scale; Viz.ai: 40% less 90-day disability",
-      "url": "https://pinggy.io/blog/ai_medical_imaging_diagnostics_2026/"
-    },
-    {
-      "title": "Digital Health Technologies Outperform Traditional Cardiovascular Risk Scoring in Network Meta-Analysis",
-      "source": "PubMed / NCBI",
+      "title": "Bayesian Health Earns First-Ever FDA Clearance for Continuous AI Sepsis Monitoring After Multi-System Deployment Validation",
+      "source": "MedCity News / Healthcare Dive",
       "category": "AI & Machine Learning",
-      "snippet": "A newly published systematic review and network meta-analysis found that wearable devices achieved the highest pooled AUC for arrhythmia detection (0.92) compared to traditional cardiovascular risk scores (pooled AUC 0.75), and that digital health interventions significantly reduced all-cause mortality (pooled RR 0.62) and major adverse cardiovascular events (pooled RR 0.70). The analysis, covering asymptomatic adults, ranked wearable devices first for diagnostic accuracy with a surface under the cumulative ranking curve of 92.6%.",
-      "result": "Wearables: AUC 0.92 vs. 0.75 for traditional scores; 38% all-cause mortality reduction",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476005/"
+      "snippet": "Bayesian Health became the first company to receive FDA 510(k) clearance for a continuous AI-powered sepsis monitoring system in May 2026, following large-scale real-world deployments at Cleveland Clinic, Johns Hopkins Health System, University of Rochester Medicine, and MemorialCare. Vendor-reported data cited 82% sensitivity, 89% provider adoption rate, and sepsis detection 5.7 hours earlier than standard care, while Cleveland Clinic's pilot across 3,300+ patients showed 46% more identified sepsis cases and a tenfold reduction in false alerts.",
+      "result": "46% more sepsis cases identified; 10x false alert reduction; FDA cleared",
+      "url": "https://medcitynews.com/2026/05/bayesian-sepsis-ai/"
     },
     {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Faster Operations, 30% Fewer Intraoperative Complications",
-      "source": "PMC / NCBI — International Journal of Surgery",
-      "category": "Robotics & Surgery",
-      "snippet": "A synthesis of 25 peer-reviewed studies on AI-driven robotic surgery published in a 2026 PMC review found that AI-assisted robotic procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical methods. Surgical precision improved by 40% in tumor resections and implant placements, and patient recovery times were shortened by an average of 15% with lower postoperative pain scores.",
-      "result": "25% faster ops; 30% fewer intraoperative complications; 40% precision gain",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
+      "title": "Tempus AI Receives FDA Clearance for ECG-MR: Its Fourth Cleared Cardiac AI Tool, Now Targeting Mitral Regurgitation",
+      "source": "Tempus AI / Cardiovascular News",
+      "category": "Diagnostics & Imaging",
+      "snippet": "On September 28, 2026, Tempus AI received 510(k) FDA clearance for Tempus ECG-MR, an AI product that analyzes standard 12-lead resting ECGs to detect signs of undiagnosed moderate or severe mitral regurgitation in patients aged 65 and older with cardiovascular risk factors. The clearance extends Tempus's ECG-AI portfolio across four cardiovascular conditions — arrhythmia, heart function, pulmonary vascular disease, and now valvular disease — enabling clinicians to extract more diagnostic signal from routine ECGs without introducing new tests.",
+      "result": "4th FDA-cleared ECG-AI tool; targets silent mitral regurgitation in 65+",
+      "url": "https://cardiovascularnews.com/ai-software-for-detecting-undiagnosed-mr-gains-us-fda-approval/"
     },
     {
-      "title": "Wearable AI Predicts In-Hospital Deterioration Up to 24 Hours Early in Validated Northwell Health Deployment",
-      "source": "Feinstein Institutes / Nature Communications",
+      "title": "Tempus AI ECG-PH Cleared by FDA to Detect Pulmonary Hypertension from Standard ECGs",
+      "source": "MobiHealthNews / Cardiovascular News",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Tempus AI received FDA 510(k) clearance on August 24, 2026, for Tempus ECG-PH, an AI software device that analyzes standard 12-lead ECGs to detect signs of pulmonary hypertension — a condition affecting up to 10% of adults over 65 that historically required invasive right heart catheterization to diagnose. The cleared tool outputs a binary risk flag to guide clinician referral decisions and is intended for patients 40+ with cardiovascular symptoms but no prior PH history, representing the third cleared device in Tempus's cardiovascular AI suite.",
+      "result": "FDA cleared; targets PH detection in 40+ patients via routine ECG",
+      "url": "https://www.mobihealthnews.com/news/tempus-ai-receives-fda-clearance-pulmonary-hypertension-tool"
+    },
+    {
+      "title": "Wearable Telemonitoring Enables 48-Hour Earlier Discharge After Robotic Uro-Oncologic Surgery Without Compromising Safety",
+      "source": "Springer / Journal of Robotic Surgery",
       "category": "Wearables & Monitoring",
-      "snippet": "Researchers at Northwell Health's Feinstein Institutes validated a deep learning model using continuous wearable vital signs that predicts patient deterioration — including ICU transfer, cardiac arrest, and death — up to 17–24 hours before standard hospital early-warning alerts, confirmed across multiple hospital cohorts and device types. The model, trained on real-world clinical monitoring data, was validated prospectively and against real-time deployment scenarios, and the Stanford-Harvard State of Clinical AI Report cited it as one of the strongest demonstrations of AI prediction in live hospital settings.",
-      "result": "Deterioration predicted 17–24 hours earlier than standard alerts across multi-hospital validation",
-      "url": "https://feinstein.northwell.edu/news/the-latest/feinstein-study-ai-wearable-predicts-patient-deterioration"
+      "snippet": "A multicenter prospective study of 86 patients undergoing robot-assisted radical prostatectomy, partial nephrectomy, or radical nephrectomy found that a wearable sensor-equipped shirt and smartphone app allowed patients to be discharged 48 hours earlier than standard care (2.8 vs. 4.7 days) with comparable postoperative outcomes. Critically, early unscheduled hospital access was dramatically lower in the wearable group at just 2.3% versus 25.6% in the control group, confirming that remote monitoring maintained patient safety during the compressed recovery period.",
+      "result": "48-hr earlier discharge; unscheduled readmission 2.3% vs 25.6% control",
+      "url": "https://link.springer.com/article/10.1007/s11701-026-03696-9"
+    },
+    {
+      "title": "Ambient AI Scribes Cut Physician Documentation Time by 16 Minutes Per Encounter Across Five Academic Medical Centers",
+      "source": "JAMA / 2 Minute Medicine",
+      "category": "Digital Health",
+      "snippet": "A large study published in JAMA in April 2026, conducted across five academic medical centers, found that ambient AI scribes reduced total EHR time by 13.4 minutes per encounter and cut documentation time specifically by 16 minutes per visit in real-world clinical deployment. Separately, a multicenter JAMA Network Open study reported a 31% reduction in clinician burnout among AI scribe users, while the VA is expanding ambient AI to all its medical centers throughout 2026, serving over 800,000 veterans through the pilot phase.",
+      "result": "16 min/visit documentation saved; 31% burnout reduction reported",
+      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
+    },
+    {
+      "title": "VitVio Deploys 3D AI Surgical Operating System at Poland's UCK Gdańsk — First Hospital Rollout in the Country",
+      "source": "Tech.eu / Unite.AI",
+      "category": "Robotics & Surgery",
+      "snippet": "VitVio announced on October 14, 2026, that its Vetro 3D-native AI surgical operating system is now live at University Clinical Centre in Gdańsk, Poland — the first hospital in the country to deploy the platform, which uses computer vision and ambient sensing to log surgical milestones, flag OR delays, and automate perioperative coordination. The rollout begins in orthopaedics and neurosurgery ORs, with a planned expansion across UCK's full surgical department; prior deployments at hospitals in the US and UK have been associated with a reported 23% rise in OR profitability.",
+      "result": "First Poland deployment live today; prior sites show 23% OR profitability gain",
+      "url": "https://tech.eu/2026/10/14/vitvio-brings-ai-powered-surgical-operating-system-to-poland-in-uck-gdansk-partnership"
+    },
+    {
+      "title": "European Digital Twin Clinical Consortium Reports 15% Reduction in Adverse Events for Chronic Kidney Disease Patients",
+      "source": "Healthcare.digital / Nelson Advisors",
+      "category": "AI & Machine Learning",
+      "snippet": "A European Horizon Europe-backed clinical consortium released end-of-trial results validating dynamic patient digital twins for chronic kidney disease, showing a 15% reduction in adverse events by simulating individual dialysis protocol responses before clinical application. The consortium's findings, released in early October 2026, represent one of the first large-scale clinical validations of real-time patient digital twins, deployed as part of the EU's broader AICare@EU initiative to establish AI-powered screening hubs across member state hospitals.",
+      "result": "15% adverse event reduction via dialysis digital twin simulation in CKD trial",
+      "url": "https://www.healthcare.digital/single-post/nelson-advisors-this-week-in-european-healthtech-medtech-and-health-ai-2nd-october-2026"
+    },
+    {
+      "title": "AI Auto-Labeling Achieves 98.5% Accuracy for Body-Part Classification Across Multi-Institutional Radiology Datasets",
+      "source": "Crescendo.ai / Healthcare AI News 2026",
+      "category": "Diagnostics & Imaging",
+      "snippet": "A deployed AI auto-labeling system demonstrated 98.5% accuracy for body-part classification and projection detection, and 99.3% accuracy for rotation identification across multi-institutional radiology datasets, directly addressing a widespread problem in busy hospitals where manual X-ray labeling routinely introduces errors and missing data that corrupt AI training sets. The system has been validated across institutions and is being adopted to improve the quality of radiology AI pipelines at scale.",
+      "result": "98.5% body-part classification accuracy; 99.3% rotation ID across institutions",
+      "url": "https://www.crescendo.ai/news/ai-in-healthcare-news"
+    },
+    {
+      "title": "AI Sepsis Algorithm Across 9 Hospitals: 39.5% Mortality Drop, 32% Shorter Stay, 22.7% Fewer Readmissions",
+      "source": "Dialog Health / AI in Healthcare Statistics 2026",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective evaluation across nine hospitals found that following implementation of an AI sepsis detection algorithm, in-hospital mortality fell by 39.5%, length of stay dropped by 32.27%, and 30-day readmissions declined by 22.74%, representing some of the strongest documented patient outcome improvements from a clinical AI deployment to date. Duke Health's Sepsis Watch deep learning system was independently associated with a 27% reduction in sepsis deaths in a separate real-world deployment, corroborating the trend across multiple health systems.",
+      "result": "39.5% mortality reduction; 32.3% shorter LOS across 9 hospitals",
+      "url": "https://www.dialoghealth.com/post/ai-healthcare-statistics"
     }
   ],
-  "generated_at": "2026-10-13T13:41:54.788811+00:00"
+  "generated_at": "2026-10-14T11:21:03.234573+00:00"
 }
