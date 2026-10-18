@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-18",
   "feature": {
-    "title": "MiniMed Goes Independent, Surgical Robots Hit New Highs, and AI Scribes Prove Their Worth: Medtech's Results-Driven Week",
-    "summary": "This week marks a pivotal moment in medtech as MiniMed completes its full separation from Medtronic and begins trading as a focused, independent diabetes technology company. Simultaneously, real-world deployment data continues to validate AI across clinical workflows — from ambient scribes slashing physician burnout by 13 percentage points to Viz.ai cutting stroke transfer times by 44% across hospital networks. Surgical robotics is posting measurable volume growth with Intuitive Surgical projecting 13–15% da Vinci procedure growth for 2026, while FDA clearances for Stryker's Sonopet 3 and GE HealthCare's MINItrace Magni cyclotron signal fresh clinical deployments beginning this month. Vascular intervention results from the VIVA 2026 conference round out a week dominated by evidence of real-world implementation rather than speculation.",
+    "title": "From Lab to OR: 2026's Medtech Wave Delivers Real Outcomes Across Robotics, Imaging, Wearables, and AI",
+    "summary": "2026 has been the year medtech moved decisively from pilot programs to proven clinical results. Landmark regulatory clearances for surgical robots, AI-powered imaging systems, and novel wearables have been matched by rigorous trial data demonstrating measurable patient benefits. AI is now embedded in 71% of U.S. acute-care hospitals, while landmark RCTs in mammography and colonoscopy are redefining screening standards. Across robotics, diagnostics, and digital health, the field is producing outcome data—not just authorizations.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "MiniMed officially separates from Medtronic on October 15, 2026, beginning its first day as a fully independent Nasdaq-listed diabetes technology company operating in 80 countries."
+        "text": "J&J's OTTAVA—the world's first table-integrated soft-tissue surgical robot—earned FDA De Novo authorization in July 2026, backed by pivotal trial data showing 100% procedural completion with no conversions across 30 bariatric patients."
       },
       {
         "label": "Key trend",
-        "text": "AI is graduating from pilot to proven: ambient scribes show a 13-point burnout drop across six health systems, Viz.ai demonstrates 44% reduction in stroke transfer times at real hospitals, and 71% of U.S. acute-care hospitals now run predictive AI in their EHRs."
+        "text": "AI-supported mammography and colonoscopy are producing the strongest real-world RCT evidence yet, with MASAI trial data showing 27% fewer aggressive breast cancers and GI Genius ColonPRO reducing adenoma miss rates by 50%."
       },
       {
         "label": "To watch",
-        "text": "Insulet's Omnipod Discover, now in full U.S. rollout with 15,000 early adopters already showing a 32% time-in-range improvement rate, sets the stage for data-driven insulin pump management at national scale."
+        "text": "Abbott's Libre Duo 10 Day—the first wearable to continuously track both glucose and ketones—begins U.S. rollout after FDA De Novo authorization backed by six clinical studies, with AID pump integration expected to expand impact in 2027."
       }
     ]
   },
   "articles": [
     {
-      "title": "MiniMed Completes Separation from Medtronic, Begins Trading as Independent Diabetes Company",
-      "source": "Drug Delivery Business / BioSpace",
+      "title": "J&J's OTTAVA Surgical Robot Wins FDA De Novo Authorization, Backed by Pivotal Clinical Trial Data",
+      "source": "MassDevice / Johnson & Johnson Investor Relations",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson received FDA De Novo authorization on July 22, 2026 for the OTTAVA Robotic Surgical System—the world's first table-integrated soft-tissue robotic platform—cleared for ten general surgery procedures including gastric bypass, cholecystectomy, and hiatal hernia repair. The pivotal FORTE study enrolled 30 patients across six U.S. hospitals; all primary safety and performance endpoints were met through 30 days post-procedure with zero conversions to non-robotic approach and an average weight loss of 30 pounds at 30 days.",
+      "result": "100% procedural completion, 0 conversions, 30 lbs avg weight loss",
+      "url": "https://www.massdevice.com/johnson-johnson-fda-approval-ottava-surgical-robot/"
+    },
+    {
+      "title": "MASAI RCT: AI-Supported Mammography Cuts Aggressive Breast Cancer Diagnoses by 27% in 105,934-Woman Trial",
+      "source": "The Lancet / ASCO Post",
+      "category": "AI & Machine Learning",
+      "snippet": "Full results from the MASAI randomized controlled trial—the first and largest RCT of AI in national breast cancer screening, published in The Lancet in January 2026—showed that AI-supported mammography (using the Transpara system) improved screening sensitivity from 73.8% to 80.5% across more than 105,000 Swedish women. Women in the AI arm had 16% fewer invasive cancers, 21% fewer large cancers, and 27% fewer aggressive cancers diagnosed in the two years following their screen, with false-positive rates equivalent to the control group.",
+      "result": "27% fewer aggressive cancers; sensitivity 80.5% vs 73.8%",
+      "url": "https://ascopost.com/news/february-2026/randomized-trial-shows-ai-supported-mammography-improves-sensitivity-and-lowers-interval-cancer-rate/"
+    },
+    {
+      "title": "Abbott's Libre Duo 10 Day Earns FDA De Novo Authorization as World's First Dual Glucose-Ketone Wearable",
+      "source": "MedTech Dive / HCPLive",
+      "category": "Wearables & Monitoring",
+      "snippet": "The FDA granted De Novo authorization in August 2026 to Abbott's Libre Duo 10 Day—the first wearable device in history to continuously monitor both glucose and ketone levels simultaneously—for patients with diabetes aged two and older. Authorization was supported by six clinical studies enrolling more than 600 participants; trial results showed the sensor reliably tracked clinically meaningful ketone shifts across the full 10-day wear period, including detecting elevated ketones before the onset of diabetic ketoacidosis.",
+      "result": "DKA warning detected pre-onset; validated in 600+ participants across 6 studies",
+      "url": "https://www.medtechdive.com/news/abbott-receives-fda-nod-for-dual-analyte-sensor/828770/"
+    },
+    {
+      "title": "GE HealthCare's Photonova Spectra Photon-Counting CT Secures FDA, Japan, and CE Mark in Under Six Months",
+      "source": "Fierce Biotech / GE HealthCare Newsroom",
+      "category": "Diagnostics & Imaging",
+      "snippet": "GE HealthCare's Photonova Spectra—a photon-counting CT system using proprietary Deep Silicon detector technology—received FDA 510(k) clearance in March 2026, Japanese regulatory approval, and CE Mark in August 2026, becoming the first photon-counting CT platform to achieve tri-market clearance within six months. Clinical evaluation sites at University of Wisconsin-Madison and Stanford Medicine confirmed the system's ability to process up to 50 times more data than conventional CT in a single protocol, with superior spectral separation of calcium, fat, and iodine for oncology, neurology, cardiology, and musculoskeletal applications.",
+      "result": "50× more data vs. conventional CT; tri-market clearance in <6 months",
+      "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda"
+    },
+    {
+      "title": "Medtronic GI Genius ColonPRO Earns CE Mark: 50% Adenoma Miss Rate Reduction, 85.8% Polyp Sizing Accuracy Validated",
+      "source": "MassDevice / Medtronic Newsroom",
+      "category": "AI & Machine Learning",
+      "snippet": "Medtronic announced CE Mark in February 2026 for ColonPRO, the fourth-generation software upgrade for its GI Genius AI-assisted colonoscopy system, featuring a next-generation detection algorithm trained on a dataset twice the size of its predecessor. Real-world and RCT evidence confirms the GI Genius platform increases adenoma detection rates by up to 14.4%, reduces adenoma miss rates by approximately 50%, and the validated METER-study polyp sizing module achieves 85.8% accuracy—compared to under 60% in routine practice.",
+      "result": "50% miss rate reduction; polyp sizing 85.8% accurate vs. <60% standard",
+      "url": "https://news.medtronic.com/Medtronic-announces-CE-Mark-for-the-next-generation-GI-Genius-TM-module-and-ColonPRO-TM-software"
+    },
+    {
+      "title": "Siemens Healthineers Magnetom Flow Earns FDA Clearance: Near-Zero Helium, 56% Energy Reduction, AI-Accelerated Workflows",
+      "source": "Radiology Business / Siemens Healthineers",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Siemens Healthineers received FDA clearance in January 2026 for the 70cm bore Magnetom Flow 1.5T MRI platform featuring DryCool technology that requires only 0.7 liters of liquid helium versus the 1,000+ liters of conventional scanners, with real-world installation confirmed at St. Joseph's Hospital in Saskatchewan, Canada in March 2026. The platform reduces annual energy consumption by up to 56% compared to the prior generation, integrates Deep Resolve AI image reconstruction for faster, sharper scans, and eliminates quench-pipe infrastructure requirements that had previously excluded rural and smaller hospitals from MRI access.",
+      "result": "56% energy reduction; 0.7L helium vs. 1,000L standard; deployed in Canada",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/magnetic-resonance-imaging-mri/siemens-healthineers-latest-helium-free-mri-nabs-fda-clearance"
+    },
+    {
+      "title": "Ambient AI Scribes Cut Documentation Time by 16 Minutes Per Encounter Across Five Academic Medical Centers",
+      "source": "2 Minute Medicine / JAMA",
       "category": "Digital Health",
-      "snippet": "MiniMed (Nasdaq: MMED) completed its spinoff from Medtronic on October 15, 2026, with Medtronic exchanging all of its remaining equity — 252.8 million shares — in a deal that was 5.4 times oversubscribed. The newly independent company, led by CEO Que Dallara, focuses on insulin delivery systems and operates across 80 countries, with a stated mission to reduce the burden of diabetes management.",
-      "result": "5.4x oversubscribed exchange offer; Medtronic holds zero equity",
-      "url": "https://www.drugdeliverybusiness.com/minimed-completes-split-from-medtronic/"
+      "snippet": "A large multisite study published in JAMA in April 2026 conducted across five academic medical centers found that ambient AI scribes reduced total EHR time by 13.4 minutes per encounter and documentation time specifically by 16 minutes per visit—representing real-world deployment data, not a controlled pilot. Clinicians also added an average of 0.49 more patient visits per week, and the findings were consistent with a separate randomized trial published in NEJM AI demonstrating burnout attenuation and improved physician-patient engagement.",
+      "result": "16 min/visit documentation reduction; +0.49 more visits/week per clinician",
+      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
     },
     {
-      "title": "J&J Shockwave IVL System Shows Durable 2-Year Gains in Below-the-Knee PAD Patients at VIVA 2026",
-      "source": "MassDevice / Endovascular Today",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson MedTech presented 24-month results from the DISRUPT PAD BTK II postmarket study at the VIVA 2026 conference in Las Vegas, showing sustained clinical benefits in highly complex peripheral artery disease patients. Among 250 participants — 80% of whom had chronic limb-threatening ischemia at baseline — the proportion with CLTI dropped from 80% at baseline to just 14% at 24 months, and 81% of patients avoided repeated revascularization procedures.",
-      "result": "CLTI prevalence fell from 80% to 14% at 24 months",
-      "url": "https://www.massdevice.com/massdevice-article-archive/"
-    },
-    {
-      "title": "Stryker Earns FDA 510(k) Clearance for Sonopet 3 Ultrasonic Tissue Removal Platform, First Cases Starting This Month",
-      "source": "MassDevice / Stryker",
-      "category": "Robotics & Surgery",
-      "snippet": "Stryker received FDA 510(k) clearance on October 14, 2026 for Sonopet 3, its next-generation ultrasonic bone and soft tissue removal platform developed with input from hundreds of surgeons. The platform features Pulse Control for regulating hard and soft tissue resection and RISE (Reimagined Integrated Surgical Experience) for connected OR workflows, with first clinical cases expected to begin in October 2026.",
-      "result": "FDA-cleared October 14, 2026; first clinical cases begin this month",
-      "url": "https://www.stryker.com/us/en/about/news/2026/stryker-launches-sonopet-3-delivering-greater-power-and-precision.html"
-    },
-    {
-      "title": "Insulet's Omnipod Discover Completes Full U.S. Rollout with Real-World Time-in-Range Gains Validated",
-      "source": "Drug Delivery Business / Insulet Investor Relations",
-      "category": "Wearables & Monitoring",
-      "snippet": "Insulet launched Omnipod Discover nationally on October 12, 2026, a web-based data platform for Omnipod 5 insulin pump users, following a limited release that already enrolled 15,000 U.S. patients and 1,800 healthcare providers. Real-world data presented at the American Diabetes Association's Scientific Sessions in June showed that 32% of users achieved a clinically meaningful increase in time-in-range of 3% or more.",
-      "result": "32% of users achieved ≥3% time-in-range improvement",
-      "url": "https://investors.insulet.com/news/news-details/2026/Insulet-Announces-Omnipod-Discover-Now-Available-in-U-S-/default.aspx"
-    },
-    {
-      "title": "GE HealthCare's MINItrace Magni Compact Cyclotron Achieves CE Mark, Enabling In-House PET Radioisotope Production",
-      "source": "MassDevice / GE HealthCare Investor Relations",
-      "category": "Diagnostics & Imaging",
-      "snippet": "GE HealthCare received CE Mark certification on October 15, 2026 for its MINItrace Magni, a compact, self-shielded cyclotron with a 7.2 square-meter footprint designed for in-house production of Fluorine-18, Carbon-11, Oxygen-15, and Nitrogen-13 PET radioisotopes. The company also expanded its PETtrace Solid Target Platform beyond Gallium-68 and Zirconium-89 to now include Copper-64, opening new theranostic research applications in prostate cancer and HER2-positive breast cancer.",
-      "result": "CE Mark achieved; supports on-site PET tracer production at hospitals",
-      "url": "https://investor.gehealthcare.com/news-releases/news-release-details/ge-healthcares-minitracetm-magni-achieves-ce-mark-copper-64"
-    },
-    {
-      "title": "Ambient AI Scribes Cut Clinician Burnout from 51.9% to 38.8% Across Six U.S. Health Systems",
-      "source": "JAMA Network Open / Textbook of Digital Health",
-      "category": "AI & Machine Learning",
-      "snippet": "A multicenter quality improvement study of 263 physicians and advanced practice providers across six U.S. health systems, published in JAMA Network Open, found that after just 30 days using an ambient AI scribe, burnout dropped significantly from 51.9% to 38.8%. A companion multisite JAMA study across five major academic medical centers — including Mass General Brigham, Emory, UCSF, Yale New Haven, and UC Davis — found AI scribes saved approximately 16 minutes of documentation time per 8-hour clinical day, rising to 27 minutes for heavy users.",
-      "result": "Burnout fell 13 points; 16–27 min/day documentation saved",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839542"
-    },
-    {
-      "title": "Viz.ai Demonstrates 44% Reduction in Stroke Transfer Times at ISC 2026 Across Real Hospital Network",
-      "source": "Viz.ai / Neuro News International",
-      "category": "AI & Machine Learning",
-      "snippet": "Clinical data presented at the 2026 International Stroke Conference showed Viz.ai's AI-powered platform delivered a 44% reduction in door-in-door-out (DIDO) time for large vessel occlusion stroke patients at a regional primary stroke center, with CTA-to-detection time cut by 84% and care-team notification reduced from 45 minutes to 7 minutes. The platform is now deployed across more than 1,000 hospitals in the U.S. and Europe and carries Medicare New Technology Add-on Payment (NTAP) reimbursement recognition.",
-      "result": "44% DIDO reduction; team notification from 45 min to 7 min",
-      "url": "https://www.viz.ai/news/viz-ai-study-demonstrates-44-reduction-in-interfacility-stroke-transfer-times"
-    },
-    {
-      "title": "Intuitive Surgical da Vinci Procedures Grew 16% in Q1 2026 as da Vinci 5 Drives Higher Utilization",
-      "source": "MedTech Dive / Intuitive Surgical",
-      "category": "Robotics & Surgery",
-      "snippet": "Intuitive Surgical posted da Vinci procedure growth of approximately 16% in Q1 2026, prompting the company to raise its full-year forecast to 13–15% global growth. U.S. procedures grew 14% year-over-year in Q1, fueled by a 31% rise in after-hours procedures and strong general surgery adoption of the da Vinci 5 system, which placed 232 units in Q1 alone compared to 147 in Q1 2025.",
-      "result": "16% Q1 procedure growth; 232 da Vinci 5 placements in one quarter",
-      "url": "https://www.medtechdive.com/news/intuitive-surgical-lifts-2026-outlook-for-da-vinci-robot-procedure-growth/818193/"
-    },
-    {
-      "title": "Wearable Deep-Learning Model Predicts In-Hospital Deterioration 8–24 Hours Early Across Four Hospitals",
-      "source": "PMC / Nature Communications (via Stanford-Harvard ARISE Report)",
-      "category": "Wearables & Monitoring",
-      "snippet": "A validated deep-learning model trained on continuous wearable vital sign data from 888 patients across four hospitals demonstrated the ability to predict patient deterioration — including ICU transfers, cardiac arrest, and death — up to 8 to 24 hours before standard clinical alerts. The model detected 100% of cardiac arrests and intubation events, and 83.6% of unplanned ICU transfers using continuous monitoring data alone.",
-      "result": "100% cardiac arrest detection; 8–24 hr advance warning window",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12583442/"
-    },
-    {
-      "title": "China's AI Diagnostic Systems Reach 1,200+ Tier-3A Hospitals, Cutting Pathology Turnaround from Days to Hours",
-      "source": "China Med Access",
-      "category": "Diagnostics & Imaging",
-      "snippet": "China's National Health Commission reports that over 1,200 Tier-3A hospitals now deploy AI-assisted diagnostic systems for radiology, pathology, or both as of 2026, transitioning from pilot programs to full-scale deployment. For patients, this translates into pathology turnaround times of 24–48 hours versus the 5–7 days typical in many other countries, with integrated AI-diagnosis-to-treatment pathways shortening total treatment time by 30–50%.",
-      "result": "1,200+ hospitals live; pathology turnaround 24–48 hrs vs. 5–7 days",
-      "url": "https://chinamedaccess.com/china-hospital-ai-diagnostic-systems-2026-pathology-radiology-deployment/"
-    },
-    {
-      "title": "VIVA 2026 Late-Breaking Trials: Drug-Eluting Balloons Cut Target-Limb Revascularization to 19.4% vs. 28.4% for POBA",
-      "source": "PR Newswire / VIVA Foundation",
+      "title": "Insilico Medicine's AI-Designed IPF Drug ISM001-055 Posts Positive Phase IIa Results: Dose-Dependent Lung Function Improvement",
+      "source": "BioSpace / Insilico Medicine",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "Late-breaking clinical trial results announced at the VIVA 2026 conference in Las Vegas showed that drug-eluting balloons (DEB) reduced target-limb revascularization to 19.4% versus 28.4% for plain old balloon angioplasty (POBA), representing a hazard ratio of 0.63 in a real-world patient cohort. At 24 months, outcomes showed 86.1% freedom from clinically driven target lesion revascularization overall, with 93.2% primary patency at 12 months.",
-      "result": "Target-limb revascularization: 19.4% DEB vs. 28.4% POBA (HR 0.63)",
-      "url": "https://prnewswire.com/news-releases/late-breaking-clinical-trial-results-announced-at-viva-2026-302908752.html"
+      "snippet": "Insilico Medicine reported positive topline results from a second Phase IIa trial of ISM001-055 (Rentosertib), the first drug designed end-to-end using generative AI, in 71 patients with idiopathic pulmonary fibrosis across 21 sites in China. At the 60mg once-daily dose, patients gained a mean FVC improvement of +98.4 mL versus a mean decline of −62.3 mL in the placebo group over 12 weeks, with the drug well-tolerated at all dose levels—marking the first time an AI-discovered and AI-designed drug has produced published Phase II human trial data.",
+      "result": "+98.4 mL FVC gain vs. –62.3 mL placebo decline at 60mg dose",
+      "url": "https://www.biospace.com/drug-development/insilico-aces-second-mid-stage-ipf-trial-in-a-row"
     },
     {
-      "title": "AI Clinical Trials Report: Early Adopters with 18+ Months Experience Report 72.9% Improvement in Trial Timelines",
-      "source": "Medidata / State of AI in Clinical Trials 2026",
+      "title": "AI Triage Mammography Trial (AITIC): 63.6% Workload Reduction and 15.2% Higher Cancer Detection Published in Nature Medicine",
+      "source": "Nature Medicine",
       "category": "AI & Machine Learning",
-      "snippet": "Medidata's second annual State of AI in Clinical Trials 2026 report found that organizations with 18 or more months of AI deployment experience report trial timeline improvements in 72.9% of cases and protocol deviation reductions in 67.5%, far outpacing the broader industry. Overall, 86.5% of respondents reported above-expectation results in high-volume, rules-based workflows such as data cleaning and query resolution.",
-      "result": "72.9% report faster trial timelines after 18+ months of AI use",
-      "url": "https://www.medidata.com/en/ai-report-2nd-edition/"
+      "snippet": "A prospective paired noninferiority trial (AITIC) published in Nature Medicine in October 2026 evaluated AI-based triage across 31,301 women, finding that an AI-first strategy that excluded low-risk scans from human reading cut radiologist workload by 63.6% while simultaneously increasing the cancer detection rate from 6.3 to 7.3 per 1,000 examinations—a statistically significant 15.2% improvement. The results demonstrate the feasibility of partially autonomous AI workflows in population-level breast cancer screening without compromising safety.",
+      "result": "63.6% workload cut; cancer detection up 15.2% (6.3→7.3 per 1,000)",
+      "url": "https://www.nature.com/articles/s41591-026-04277-x"
+    },
+    {
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Faster Operations, 30% Fewer Intraoperative Complications Across 25 Studies",
+      "source": "NCBI / PubMed Central",
+      "category": "Robotics & Surgery",
+      "snippet": "A systematic review and meta-analysis published in 2026 synthesizing 25 peer-reviewed studies from 2024–2025 on AI-driven robotic surgery found that AI-assisted systems demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical techniques. Surgical precision improved by 40% as reflected in enhanced targeting accuracy during tumor resections and implant placements, while patient recovery times shortened by an average of 15% and surgeon workflow efficiency improved by 20%.",
+      "result": "25% faster ops, 30% fewer complications, 40% better precision vs. manual",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
+    },
+    {
+      "title": "BIAlert-Sepsis AI Deployed in Tertiary Hospital: ICU Admissions Drop from 34.4% to 30.4%, Costs Fall Significantly",
+      "source": "PLOS Global Public Health",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective economic evaluation of BIAlert-Sepsis—a machine-learning system predicting sepsis risk up to 24 hours before clinical recognition—deployed in a tertiary hospital setting showed ICU admissions dropped from 34.4% to 30.4% (adjusted p=0.001), with significant reductions of 0.35 ICU days and 0.59 ward days per patient during the AI period. A five-year economic projection confirmed the system generated substantial financial savings and a strong return on investment, providing real-world evidence for the integration of predictive AI tools into routine sepsis care.",
+      "result": "ICU admissions: 34.4% → 30.4%; –0.35 ICU days per patient",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0006059"
+    },
+    {
+      "title": "71% of U.S. Acute-Care Hospitals Now Use Predictive AI Integrated Into Electronic Health Records",
+      "source": "Deepgram / Healthcare AI Adoption Report 2026",
+      "category": "Digital Health",
+      "snippet": "According to 2026 industry data, 71% of non-federal acute-care hospitals in the United States now use predictive AI integrated directly into their electronic health records systems, up from earlier adoption rates and reflecting the industry-wide acceleration from pilot programs to full deployment. Across the broader healthcare and life sciences sector, 63% of professionals report actively using AI in clinical workflows, with AI adoption leading in digital health at 78% and medical technology at 74%.",
+      "result": "71% of U.S. acute-care hospitals now deploy predictive AI in EHRs",
+      "url": "https://deepgram.com/learn/top-medical-ai-models-2026"
     }
   ],
-  "generated_at": "2026-10-16T10:51:15.247664+00:00"
+  "generated_at": "2026-10-18T10:30:59.567808+00:00"
 }
