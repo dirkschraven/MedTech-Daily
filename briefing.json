@@ -1,112 +1,120 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "feature": {
-    "title": "Surgical Robots, AI Scribes, and Grow-With-You Valves: 2026's Medtech Implementation Wave Delivers Real-World Results",
-    "summary": "October 2026 marks a genuine inflection point in medtech implementation: multiple surgical robots have moved from FDA clearance into active hospital deployment, AI scribes have crossed from pilot to enterprise procurement with documented time savings, and landmark randomized trial data has elevated AI-assisted mammography toward a new standard of care. The FDA's device approval pace has accelerated—23 premarket approvals through June 2026, up 10 from the same period last year—even as review timelines have lengthened. Across diagnostics, monitoring, robotics, and drug delivery, the defining story of this period is not announcement but execution: measurable patient outcomes, clinical study endpoints met, and commercial rollouts underway.",
+    "title": "Autonomous AI Goes System-Wide: NHS Deploys Skin Cancer Triage at Scale While U.S. Hospitals Embed Clinical AI Directly Into EHRs",
+    "summary": "October 2026 marks a definitive shift from AI pilots to enterprise-scale medical deployments, with NHS England South East launching the largest autonomous medical AI rollout in NHS history and U.S. academic health systems embedding AI decision support directly into live clinical workflows. Simultaneously, landmark Phase III trial data is reshaping surgical oncology—GammaTile's ROADS trial published in the Journal of Clinical Oncology showed a >50% reduction in brain metastasis recurrence risk—while the FDA approved a first-of-its-kind pediatric heart valve and Johnson & Johnson secured FDA clearance for its OTTAVA surgical robot. Real-world volume data from AI telehealth platforms confirms rapid adoption, with Rocket Doctor AI surpassing 53,000 patient visits in a single quarter. These converging stories signal that medtech's measurable value is no longer theoretical: it is showing up in patient outcomes, clinical throughput, and commercial traction simultaneously.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "J&J's OTTAVA—the world's first table-integrated soft tissue surgical robot—received FDA De Novo authorization in July 2026 and launched commercially, backed by a 30-patient multicenter pivotal study that met all primary safety and performance endpoints."
+        "text": "NHS England South East launched DERM across all 18 South East trusts—the largest autonomous medical AI deployment in NHS history—covering 9 million people after the system had already assessed 250,000 patients and identified 25,000 confirmed cancers."
       },
       {
         "label": "Key trend",
-        "text": "AI-assisted mammography has crossed from research to clinical policy: the MASAI RCT across 105,934 women showed AI-plus-one-radiologist delivered 80.5% sensitivity versus 73.8% for standard double-reading, cutting radiologist workload by 44%."
+        "text": "AI clinical decision support is moving from standalone tools to EHR-native deployment, with Northwestern Medicine going live October 8 with OpenEvidence embedded systemwide inside Epic for all physicians, nurses, and pharmacists."
       },
       {
         "label": "To watch",
-        "text": "Abbott's Libre Duo 10 Day—the world's first wearable to continuously track both glucose and ketones simultaneously—received FDA De Novo authorization in August 2026 and is targeting U.S. launch before year-end."
+        "text": "Johnson & Johnson's FDA-cleared OTTAVA surgical robot begins its first U.S. commercial rollout with select customers, marking the second major new soft-tissue robotic entrant within a year after Medtronic's Hugo."
       }
     ]
   },
   "articles": [
     {
-      "title": "Johnson & Johnson Wins FDA De Novo Authorization for OTTAVA Robotic Surgical System, Begins Commercial U.S. Rollout",
-      "source": "MassDevice / Business Wire",
-      "category": "Robotics & Surgery",
-      "snippet": "The FDA granted De Novo authorization on July 22, 2026 for J&J's OTTAVA system—the world's first table-integrated soft tissue robotic platform—clearing it for 10 general surgery procedures including Roux-en-Y gastric bypass, cholecystectomy, and hiatal hernia repair. The authorization was backed by the FORTE study, a prospective multicenter trial across six U.S. hospitals in which all primary safety and performance endpoints were met through 30 days post-procedure in a 30-patient cohort, with no conversions to open surgery.",
-      "result": "30/30 patients met primary safety endpoints at 30 days",
-      "url": "https://www.massdevice.com/johnson-johnson-fda-approval-ottava-surgical-robot/"
-    },
-    {
-      "title": "MASAI RCT in The Lancet: AI-Supported Mammography Cuts Interval Cancers and Boosts Sensitivity Over Standard Double-Reading",
-      "source": "The Lancet / The Imaging Wire",
+      "title": "NHS England South East Rolls Out Skin Analytics' AI Skin Cancer Checks in the Largest Deployment of Autonomous Medical AI in NHS History",
+      "source": "Business Wire / The Next Web",
       "category": "AI & Machine Learning",
-      "snippet": "The landmark MASAI randomized controlled trial—enrolling 105,934 women in Sweden—published final results in The Lancet in January 2026 showing that AI-assisted single reading (one radiologist plus Transpara AI) achieved 80.5% sensitivity versus 73.8% for standard double reading without AI (p=0.031), while cutting interval cancer rates from 1.76 to 1.55 per 1,000 participants. The trial also confirmed a 44% reduction in radiologist workload and a 27% reduction in aggressive-subtype interval cancers, prompting The Lancet to editorialize that AI-augmented mammography may represent a new standard of care.",
-      "result": "80.5% vs 73.8% sensitivity; 44% radiologist workload reduction",
-      "url": "https://theimagingwire.com/2026/02/01/new-data-from-the-landmark-masai-study/"
+      "snippet": "NHS England South East deployed Skin Analytics' DERM autonomous AI triage tool across all 18 regional NHS trusts from autumn 2026, extending coverage to 9 million additional people. DERM has assessed over 250,000 patients in 25 existing NHS trusts, identifying more than 25,000 cancers confirmed by histopathology, and its own surveillance data shows it correctly rules out cancer 99.5% of the time while detecting ~98% of skin cancers.",
+      "result": "250,000+ patients assessed; 25,000+ cancers found across 25 trusts",
+      "url": "https://thenextweb.com/news/skin-cancer-ai-nhs-south-east-skin-analytics-derm"
     },
     {
-      "title": "Masimo smartSET Earns FDA 510(k) Clearance for AFib Detection and OIRD Monitoring on Wearable Radius VSM",
-      "source": "Clinical Trial Vanguard / PR Newswire",
-      "category": "Wearables & Monitoring",
-      "snippet": "Masimo received FDA 510(k) clearance on October 17, 2026 for PPG-based atrial fibrillation detection on its Radius VSM wearable patient monitor under the smartSET platform, which already carries cleared AI-enabled opioid-induced respiratory depression (OIRD) detection. Clinical validation of the AFib capability showed 97% sensitivity and 100% specificity versus concurrent ECG readings by three clinicians, and the system is already deployed at all 10 of the top U.S. hospitals in the 2026 Newsweek World's Best Hospitals ranking, monitoring an estimated 200 million patients annually.",
-      "result": "97% AFib sensitivity, 100% specificity vs. clinician ECG gold standard",
-      "url": "https://www.clinicaltrialvanguard.com/news/masimo-smartset-gains-fda-clearance-for-afib-and-opioid-depression-detection/"
+      "title": "Northwestern Medicine Integrates OpenEvidence Into Epic, Extending AI Clinical Decision Support to Full Care Teams",
+      "source": "Healthcare IT News / Becker's Hospital Review",
+      "category": "Digital Health",
+      "snippet": "Northwestern Medicine went live on October 8 with OpenEvidence's AI-powered clinical evidence platform embedded inside its Epic EHR, giving physicians, nurses, and pharmacists single-sign-on access to peer-reviewed literature including NEJM and JAMA at the point of care. The enterprise-wide deployment—Northwestern's first phase of a broader clinical AI strategy—also extends the tool to nurses and pharmacists for the first time, following similar integrations at Sutter Health and Mount Sinai.",
+      "result": "Systemwide Epic EHR go-live October 8; entire clinical staff enrolled",
+      "url": "https://www.healthcareitnews.com/news/northwestern-medicine-integrates-openevidence-epic"
     },
     {
-      "title": "FDA Approves AUTUS Size-Adjustable Valve: First Heart Valve Designed to Grow With Children",
-      "source": "Becker's Hospital Review / Pulmonology Advisor",
+      "title": "ROADS Phase 3 Trial Published in JCO: GammaTile Cuts Brain Metastasis Recurrence Risk by Over 50% vs. Standard of Care",
+      "source": "MVM Partners / BioSpace / Journal of Clinical Oncology",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "The FDA approved Edwards Lifesciences' AUTUS Size-Adjustable Valve on October 1, 2026—the first surgical pulmonary heart valve designed to expand after implantation as a child grows—based on a 62-patient study across 12 U.S. sites. At six-month follow-up, all 60 evaluable patients showed acceptable hemodynamic performance with no more than mild pulmonary regurgitation, and there were no deaths, strokes, or clot-related complications; two patients who began to outgrow their valves had them successfully expanded without open-heart surgery.",
-      "result": "100% procedural success; 0 deaths or strokes in 62 pediatric patients",
+      "snippet": "The randomized, multicenter ROADS Phase III trial (230 patients across 32 centers) found that GammaTile cesium-131 collagen tile-based radiation therapy implanted at the time of surgery reduced the combined risk of tumor recurrence or death by more than 50% compared to post-operative stereotactic radiation (HR: 0.48, p=0.002). The 12-month surgical bed recurrence rate was 1.0% with GammaTile vs. 11.9% with standard care, and median overall survival improved to 42.5 months vs. 17.6 months—with no increase in side effects.",
+      "result": "Tumor recurrence risk cut >50%; OS improved from 17.6 to 42.5 months",
+      "url": "https://mvm.com/news/gt-medicals-gammatile-announces-landmark-trial-results-for-newly-diagnosed-operable-brain-metastases/"
+    },
+    {
+      "title": "FDA Approves Autus Size-Adjustable Valve: First Heart Valve Designed to Grow With Children",
+      "source": "Becker's Hospital Review / AJMC / Pulmonology Advisor",
+      "category": "Other",
+      "snippet": "The FDA approved the Autus Size-Adjustable Valve (Edwards Lifesciences) on October 1, 2026—the first surgical pulmonary heart valve for pediatric patients designed to be expanded via balloon catheter as a child grows, from 13 mm to 22 mm. The approval was based on a 62-patient, 12-site clinical study in which all patients had successful procedures with no deaths, strokes, or clot-related complications, and two patients who outgrew their valves had them expanded successfully without surgery.",
+      "result": "62-patient study: 100% procedural success, zero deaths or strokes",
       "url": "https://www.beckershospitalreview.com/supply-chain/fda-approves-1st-heart-valve-that-grows-with-children/"
     },
     {
-      "title": "Medtronic Hugo RAS System Debuts at Cleveland Clinic After FDA Clearance, Backed by 98.5% Surgical Success Rate in Pivotal Trial",
-      "source": "Urology Times / Today's Medical Developments",
+      "title": "Johnson & Johnson Wins FDA Clearance for OTTAVA Surgical Robot, Begins U.S. Commercial Rollout",
+      "source": "MassDevice / MedTech Dive",
       "category": "Robotics & Surgery",
-      "snippet": "The first U.S. commercial surgical case using Medtronic's Hugo robotic-assisted surgery system was performed at Cleveland Clinic in February 2026, following FDA clearance for urologic procedures in December 2025. The Expand URO IDE study—the largest ever completed for multi-port robotic urological surgery in the U.S.—enrolled 137 patients and achieved a 98.5% surgical success rate, significantly exceeding the pre-specified 85% benchmark (p<0.0001), with complication rates for prostatectomy (3.7%) and nephrectomy (1.9%) well below their respective performance goals.",
-      "result": "98.5% surgical success vs. 85% benchmark; now in commercial deployment",
-      "url": "https://www.urologytimes.com/view/hugo-robot-assisted-surgery-system-launches-on-us-market"
+      "snippet": "Johnson & Johnson received FDA De Novo authorization for its OTTAVA robotic surgical system and began a selective U.S. commercial launch, following a 30-patient pivotal bariatric surgery study (FORTE) presented at ASMBS 2026 in which all procedures were completed robotically without conversion and average 30-day weight loss reached 30 pounds. The table-integrated design allowed five of six study sites to perform robotic surgery in operating rooms previously considered too small for robotic platforms.",
+      "result": "30/30 procedures completed robotically; no device-related adverse events",
+      "url": "https://www.massdevice.com/johnson-johnson-fda-approval-ottava-surgical-robot/"
     },
     {
-      "title": "Wearable Telemonitoring Enables 48-Hour Earlier Discharge After Robotic Uro-Oncologic Surgery, Cutting Unscheduled Returns by 89%",
-      "source": "Journal of Robotic Surgery (Springer)",
-      "category": "Wearables & Monitoring",
-      "snippet": "A multicenter prospective study published in the Journal of Robotic Surgery enrolled 86 patients undergoing robot-assisted prostatectomy or nephrectomy, randomizing them to standard care or an early-discharge protocol using a wearable sensor-equipped shirt that continuously monitored heart rate, respiratory rate, temperature, and ECG. The telemonitoring group was discharged 48 hours earlier (2.8 vs. 4.7 days, p<0.001) with dramatically fewer unscheduled hospital readmissions (2.3% vs. 25.6%, p<0.01), confirming both safety and feasibility at scale.",
-      "result": "48-hour earlier discharge; unscheduled hospital access dropped from 25.6% to 2.3%",
-      "url": "https://link.springer.com/article/10.1007/s11701-026-03696-9"
-    },
-    {
-      "title": "GE HealthCare Photonova Spectra Photon-Counting CT Achieves 'Golden Triangle' of FDA, Japan, and CE Mark Approvals in Under Six Months",
-      "source": "VCBeat Health / Radiology Business",
-      "category": "Diagnostics & Imaging",
-      "snippet": "GE HealthCare's Photonova Spectra, a next-generation photon-counting CT system featuring proprietary Deep Silicon detector technology and 8-bin energy resolution, received FDA 510(k) clearance in March 2026, Japanese regulatory approval in the same month, and CE Mark on August 31, 2026—completing all three major global market authorizations in under six months. The system processes up to 50 times more data than conventional CT by leveraging NVIDIA GPU-accelerated reconstruction, enabling simultaneous high-definition spatial and spectral imaging in a single scan across neurology, oncology, musculoskeletal, thoracic, and cardiac indications.",
-      "result": "FDA + Japan + CE Mark secured in <6 months; global commercial rollout underway",
-      "url": "https://www.vcbeathealth.com/article/62159"
-    },
-    {
-      "title": "Abbott Libre Duo 10 Day Receives FDA De Novo Authorization as World's First Dual Glucose-Ketone Continuous Wearable Sensor",
-      "source": "Drug Delivery Business / Abbott Newsroom",
-      "category": "Wearables & Monitoring",
-      "snippet": "Abbott received FDA De Novo authorization on August 25, 2026 for the Libre Duo 10 Day—the world's first biowearable to continuously monitor both glucose and ketone levels from a single sensor worn for 10 days—after the device secured FDA Breakthrough Device designation and met both the agency's iCGM and newly established iCGK standards. The system continuously alerts patients with diabetes to rising ketone levels associated with diabetic ketoacidosis risk, and Abbott is on track for U.S. commercial launch before year-end with AID system integrations planned with Beta Bionics and Sequel Med Tech by late 2026.",
-      "result": "First dual-analyte CGM cleared; DKA early-warning now continuous vs. point-in-time",
-      "url": "https://www.drugdeliverybusiness.com/abbott-wins-fda-authorization-for-dual-glucose-ketone-sensor/"
-    },
-    {
-      "title": "Ambient AI Scribe at Scale: 2.33 Million Real-World Clinical Encounters Show 89% Semantic Agreement and Reduced Documentation Burden",
-      "source": "Frontiers in Digital Health",
-      "category": "AI & Machine Learning",
-      "snippet": "A real-world evaluation published in Frontiers in Digital Health analyzed 2.33 million ambient AI scribe-assisted outpatient encounters across a Spanish health system over 16 months (September 2024–December 2025), finding that AI documentation scaled from 2.7% to approximately 31% of all outpatient consultations. Global semantic agreement between AI-generated notes and physician-validated documentation reached 89%, with consistent performance across specialties, while clinicians reported reduced documentation burden, more same-day note closure, and less time spent in the EHR—results consistent with a large JAMA study across five U.S. academic medical centers showing AI scribes cut documentation time by 16 minutes per encounter.",
-      "result": "89% semantic accuracy across 2.33M encounters; 16 min/encounter documentation reduction",
-      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1874919/full"
-    },
-    {
-      "title": "FDA Approves Anktiva (Nogapendekin Alfa Inbakicept) as First Treatment for BCG-Unresponsive High-Grade Papillary Bladder Cancer",
-      "source": "AJMC / Becker's Hospital Review",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "On October 14, 2026, the FDA expanded approval of Anktiva (ImmunityBio/Altor BioScience) combined with BCG to cover adults with high-grade papillary-only non-muscle invasive bladder cancer that has not responded to BCG—making it the first therapy approved specifically for this setting. The authorization was grounded in a 77-patient trial in which 62% of BCG-unresponsive carcinoma in situ patients achieved a complete response, with 58% of responders maintaining that response for at least 12 months and 40% for at least 24 months.",
-      "result": "62% complete response rate; 58% durable at 12 months in pivotal trial",
-      "url": "https://www.ajmc.com/view/fda-approves-first-treatment-for-bcg-unresponsive-bladder-cancer"
-    },
-    {
-      "title": "NHS St George's A&E Ambient Voice Tech Saves 47 Minutes Per Clinician Per Shift in Real-World Emergency Department Deployment",
-      "source": "UC Today / NHS Trust Evaluation",
+      "title": "Mass General Brigham AI Intake Agent Achieves 77% Same-Day Physician Access Across 150 Daily Patients",
+      "source": "Becker's Hospital Review",
       "category": "Digital Health",
-      "snippet": "A real-world evaluation at St George's Hospital in Tooting (London) found that ambient voice technology deployed in the emergency department saved an average of 47 minutes per clinician per shift—equivalent to approximately a 10% productivity gain per working day—while NHS England formalized national adoption guidance and set an April 2026 procurement expectation for ambient scribing across the health service. This builds on a parallel study at Singapore General Hospital, where ambient scribe use cut documentation time by 15% per consultation and increased physician eye contact with patients by 10.6%, with 69.2% of surveyed patients reporting their doctor was more focused on them.",
-      "result": "47 min/shift saved in A&E; 15% documentation reduction at Singapore General Hospital",
-      "url": "https://uctoday.com/nhs-ai-rollout-productivity-benchmarks-2026"
+      "snippet": "Mass General Brigham's MGB Care Connect AI intake agent, embedded in the MyChart portal, saw 36,000 patients in its first year and now handles 150 patients per day, with 77% of users receiving a physician appointment on the same day they accessed the platform. The tool, built with K Health, conducts AI-driven symptom intake, routes patients to live, virtual, or urgent care visits, and pre-drafts clinical notes before the physician encounter.",
+      "result": "77% same-day physician access; 36,000 patients in first year",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/10-ai-takeaways-from-mass-general-brighams-world-medical-innovation-forum/"
+    },
+    {
+      "title": "Eyonis LCS Presents Clinical Data at CHEST 2026: FDA-Cleared AI Lung Cancer Screening Software Hits 93.3% Sensitivity in 2,163-Patient Study",
+      "source": "BioSpace / GlobeNewswire",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Median Technologies' eyonis LCS—the first and only FDA-cleared AI/ML software combining computer-aided detection and diagnosis for lung cancer screening—presented clinical performance data at CHEST 2026 from a 2,163-patient study showing 93.3% sensitivity, 92.4% specificity, and a 99.9% negative predictive value, with an AUC of 0.977. The product, cleared in February 2026 and CE-marked in July 2026, is targeting commercial deployment across the 14.5 million eligible U.S. screening patients with an established Medicare reimbursement pathway.",
+      "result": "AUC 0.977; 93.3% sensitivity; 99.9% NPV in 2,163-patient cohort",
+      "url": "https://www.biospace.com/press-releases/eyonis-inc-a-median-technologies-company-to-present-study-results-supporting-eyonis-lcs-performance-claims-at-chest-2026"
+    },
+    {
+      "title": "Rocket Doctor AI Surpasses 53,000 Patient Visits in Q3 2026, U.S. Volume Up 56% Quarter-Over-Quarter",
+      "source": "GlobeNewswire / Rocket Doctor AI",
+      "category": "Digital Health",
+      "snippet": "Rocket Doctor AI completed 53,348 total patient visits across the U.S. and Canada in Q3 2026, with U.S. completed visits rising 56% quarter-over-quarter (3,911 in Q2 to 6,101 in Q3) and Canadian visits growing 24% year-over-year to 47,247. The physician-built AI telehealth platform expects to report record quarterly revenue in Q3 2026 as collections catch up with accelerating clinical volume.",
+      "result": "53,348 Q3 visits; U.S. volume up 56% QoQ; record revenue expected",
+      "url": "https://www.globenewswire.com/news-release/2026/10/15/3381568/0/en/rocket-doctor-ai-announces-strong-q3-2026-patient-visit-growth-and-expects-record-quarterly-revenue.html"
+    },
+    {
+      "title": "Fresenius Medical Care Launches Kinexus Globally: Unified Home Dialysis Digital Platform Now Live Across 3,539 Clinics",
+      "source": "Fresenius Medical Care / FifthRow",
+      "category": "Wearables & Monitoring",
+      "snippet": "Fresenius Medical Care launched kinexus worldwide in June 2026—a unified digital platform integrating remote therapy monitoring, prescription management, and supply ordering for both peritoneal dialysis and home hemodialysis programs. Built on the Huma Cloud Platform, the system supports Fresenius's global network of 3,539 clinics and approximately 290,000 company-treated patients, with early implementations already reported to reduce administrative burden by automating data capture and remote therapy management.",
+      "result": "Live across 3,539 global clinics; both PD and HHD therapies unified",
+      "url": "https://freseniusmedicalcare.com/en/media/newsroom/fresenius-medical-care-launches-kinexus-worldwide-a-unified-digital-platform-to-support-home-dialysis/"
+    },
+    {
+      "title": "J&J OTTAVA Pivotal Study: All 30 Gastric Bypass Procedures Completed Robotically in Space-Constrained ORs With No Adverse Events",
+      "source": "MedTech Dive / Surgical Robotics Technology",
+      "category": "Robotics & Surgery",
+      "snippet": "Results from J&J's FORTE multicenter study of the OTTAVA robotic surgical system in Roux-en-Y gastric bypass—presented at ASMBS 2026 and used to support the FDA De Novo submission—showed all 30 procedures completed robotically without conversion, with no device-related adverse events and an average 30-day weight loss of 30 pounds. The robot was deployed in six hospitals, and five sites operated in ORs that had never before accommodated robotic surgery due to space constraints.",
+      "result": "30/30 no-conversion procedures; 30 lb avg weight loss at 30 days",
+      "url": "https://www.medtechdive.com/news/jjs-ottava-robot-meets-goals-in-gastric-bypass-study/819388/"
+    },
+    {
+      "title": "EADV 2026 Real-World Study: Autonomous AI Skin Cancer Triage Significantly Reduces Specialist Caseload Over 16-Month NHS Evaluation",
+      "source": "ASCO AI",
+      "category": "AI & Machine Learning",
+      "snippet": "A 16-month real-world evaluation of Skin Analytics' DERM system across two NHS hospital sites, presented at the European Academy of Dermatology and Venereology Congress 2026, demonstrated that the autonomous AI triage tool significantly alleviated specialist workload pressures while maintaining high sensitivity for malignancy detection. Researchers found that DERM achieved an AUC of 95.8% for melanoma detection and reduced the downstream caseload reaching consultant dermatologists, confirming scalability for health systems facing workforce shortages.",
+      "result": "AUC 95.8% melanoma detection; specialist caseload significantly reduced",
+      "url": "https://ascoai.org/articles/2026/10/autonomous-ai-triage-of-suspected-skin-cancers-alleviated-dermatology-demands-in-real-world-study/"
+    },
+    {
+      "title": "MDPI Systematic Review Published Oct. 20: AI Healthcare Systems Show Dual Clinical and Organizational Outcome Gains",
+      "source": "MDPI Healthcare",
+      "category": "AI & Machine Learning",
+      "snippet": "A PRISMA-compliant systematic review published October 20, 2026 in MDPI's Healthcare journal evaluated the effectiveness of AI systems across clinical and organizational outcomes including treatment success, symptom reduction, mortality, workflow efficiency, and cost-effectiveness. Predictive and decision-support AI showed the highest proportion of mixed clinical-organizational outcomes (26.7%), underscoring that enterprise AI deployments now routinely improve both patient health and clinician workflow simultaneously.",
+      "result": "Decision-support AI shows 26.7% mixed clinical-organizational outcome rate",
+      "url": "https://www.mdpi.com/2227-9032/14/20/3532"
     }
   ],
-  "generated_at": "2026-10-19T12:20:15.094662+00:00"
+  "generated_at": "2026-10-20T11:01:12.348856+00:00"
 }
