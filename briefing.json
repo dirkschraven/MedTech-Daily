@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-24",
   "feature": {
-    "title": "Surgical Robotics, AI Diagnostics, and Smart Wearables Converge in a Week of High-Impact MedTech Results",
-    "summary": "This week's medtech landscape is defined by a cascade of real-world implementation results and FDA authorizations with clinical backing: J&J's OTTAVA broke Intuitive Surgical's two-decade monopoly with a table-integrated robot backed by multicenter trial data, while SimBioSys's TumorSight Risk became the first AI tool to predict breast cancer recurrence directly from MRI—validated across 2,129 patients at four major institutions. Simultaneously, Masimo's smartSET platform demonstrated 97% sensitivity for AFib detection in clinical validation, and Haemonetics' PerQseal Elite recorded zero major vascular complications in its pivotal ELITE study. Underpinning it all, ambient AI scribes have now crossed into proven operational territory, with The Permanente Medical Group logging 2.5 million AI-assisted encounters and a 21.2% absolute reduction in clinician burnout.",
+    "title": "AI Diagnoses at 83%, Robots Halve Cancer Recurrence & FDA Clears a Growing Heart Valve: Medtech's Biggest Results Week of 2026",
+    "summary": "This week crystallizes 2026's defining medtech story: AI and robotics are no longer in pilot mode — they are delivering measurable patient outcomes at scale. Microsoft's MAI-DxO diagnostic AI published peer-reviewed results in Science showing 83% accuracy on complex cases versus 36% for generalist physicians, while a landmark JAMA randomized trial confirmed robotic rectal surgery cuts 3-year local cancer recurrence by 60% compared to laparoscopy. On the device front, Penumbra earned FDA clearance for a DVT thrombectomy system that achieved 98% clot removal in trial patients, Edwards Lifesciences secured approval for the first pediatric heart valve designed to grow with children, and Eko Health commercially launched an FDA-cleared AI stethoscope at analog price parity to bring cardiac murmur detection to every clinician. Hospital AI infrastructure is maturing rapidly, with Cleveland Clinic's 4,000-clinician ambient scribe rollout now showing a 60% clinician retention lift and 14 minutes of daily documentation time saved.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "SimBioSys's TumorSight Risk—the world's first MRI-derived AI breast cancer recurrence tool—earned FDA 510(k) clearance backed by a 2,129-patient validation study showing high-risk patients face 3.3× greater recurrence than low-risk patients."
+        "text": "Microsoft's MAI-DxO AI diagnostic system scored 83.2% accuracy on complex NEJM cases versus 36.1% for generalist physicians with references, published in Science and heading to Beth Israel for live hospital trials."
       },
       {
         "label": "Key trend",
-        "text": "Validated AI is moving from pilots to scaled hospital deployment, with ambient scribes now demonstrating 13–16 minutes of EHR time saved per clinician per shift and a 31% reduction in reported burnout across multicenter studies."
+        "text": "Real-world hospital AI deployments are moving beyond pilots to enterprise scale, with Cleveland Clinic's 4,000-clinician AI scribe rollout showing 60% clinician retention improvement and 97% satisfaction — while ambient scribes surpassed 2.33 million encounters at one large system."
       },
       {
         "label": "To watch",
-        "text": "Alpha Tau's Alpha DaRT glioblastoma trial—expanded by the FDA on October 19 to 20 patients—will present updated data including its striking 67% complete response rate at the SNO Annual Meeting on November 13."
+        "text": "The REAL trial's confirmation that robotic rectal surgery cuts locoregional recurrence to 1.6% vs. 4.0% for laparoscopy is reshaping surgical oncology guidelines globally and accelerating adoption of robotic platforms into community hospitals."
       }
     ]
   },
   "articles": [
     {
-      "title": "FDA Clears SimBioSys TumorSight Risk: World's First AI-Powered, MRI-Derived Breast Cancer Recurrence Tool",
-      "source": "MobiHealthNews",
+      "title": "Microsoft's MAI-DxO AI Diagnostic System Outperforms Generalist Doctors by More Than Twofold in Peer-Reviewed Science Study",
+      "source": "TechCrunch / Science (journal)",
       "category": "AI & Machine Learning",
-      "snippet": "SimBioSys received FDA 510(k) clearance for TumorSight Risk, an AI software that analyzes routine breast MRI, pathology, and clinical data to generate personalized 5- and 10-year recurrence risk scores for women with HR+, HER2-negative Stage I–IIIA breast cancer. The clearance was supported by a blinded, prospectively designed retrospective validation study of 2,129 patients from Mayo Clinic, Emory University, Stanford Medicine, and Mercy Medical Cedar Rapids, with findings presented at ASCO 2026.",
-      "result": "High-risk patients face 3.3× greater recurrence; 22% risk increase per 10-point score rise",
-      "url": "https://www.mobihealthnews.com/news/simbiosys-gets-fda-clearance-ai-breast-cancer-recurrence-risk-tool"
+      "snippet": "Microsoft's AI Diagnostic Orchestrator (MAI-DxO), tested on 304 complex NEJM case records and 325 Beth Israel emergency department cases, scored 83.2% accuracy on complex cases versus 36.1% for generalist physicians with reference materials, and 80.3% versus 46.8% on ED cases. The system, which coordinates multiple AI agents to question patients, order tests and debate diagnoses, will next be evaluated in live hospital settings via a new partnership with Beth Israel Deaconess Medical Center.",
+      "result": "83% AI accuracy vs. 36% for physicians on complex cases",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence"
     },
     {
-      "title": "Haemonetics PerQseal Elite Vascular Closure System Wins FDA Approval with Zero Major Complications in Pivotal ELITE Trial",
-      "source": "Endovascular Today",
+      "title": "Penumbra's CAVT Lightning Technology Receives FDA Clearance for DVT Treatment, Backed by BOLT-DVT Trial Showing 98% Clot Removal",
+      "source": "PR Newswire / Penumbra, Inc.",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "Haemonetics received FDA approval for the PerQseal Elite, a sutureless, fully bioabsorbable vascular closure system for large-bore arterial procedures, following its January 2026 acquisition of Vivasure Medical. The prospective, single-arm, multicenter ELITE arterial study demonstrated 0% major complications per VARC-3 criteria through 30 days and a mean time to hemostasis of under one minute.",
-      "result": "0% major VARC-3 complications; mean hemostasis achieved in under 1 minute",
-      "url": "https://evtoday.com/news/fda-approves-haemonetics-perqseal-elite-vascular-closure-system"
+      "snippet": "The FDA cleared Penumbra's Lightning computer-assisted vacuum thrombectomy (CAVT) technology for deep vein thrombosis — the first mechanical thrombectomy device cleared for this indication — supported by the prospective multicenter BOLT-DVT IDE trial. In the trial, 98% of iliofemoral DVT patients achieved complete or near-complete thrombus removal in a median device time of 18 minutes, with patient-reported quality-of-life scores improving from a median of 49.3 to 84.2 at 30 days and 84.3% of patients showing no post-thrombotic syndrome symptoms at 30 days.",
+      "result": "98% clot removal; QoL scores rose from 49.3 to 84.2 at 30 days",
+      "url": "https://www.prnewswire.com/news-releases/penumbras-cavt-technology-receives-fda-clearance-for-the-treatment-of-deep-vein-thrombosis-dvt-302913869.html"
     },
     {
-      "title": "J&J OTTAVA Robotic Surgical System Receives FDA De Novo Authorization, Backed by FORTE Multicenter Trial Data",
-      "source": "MedTech Dive",
+      "title": "Eko Health Launches FDA-Cleared CORE 300 AI Stethoscope With Structural Murmur Detection at Analog Price Parity",
+      "source": "MobiHealthNews / Cardiovascular Business",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Eko Health commercially launched the CORE 300 on October 22, 2026 — the first stethoscope to integrate traditional analog and digital listening in a single chestpiece — following FDA 510(k) clearance (K261694) on July 23. The device offers up to 35x sound amplification, active noise cancellation and real-time heart rate display, and when paired with Eko's app, delivers FDA-cleared AI detection of structural heart murmurs; more than 750,000 clinicians globally have already deployed Eko devices.",
+      "result": "FDA-cleared; 750K+ clinician deployments globally; $199 price point",
+      "url": "https://www.mobihealthnews.com/news/eko-health-launches-ai-enabled-stethoscope"
+    },
+    {
+      "title": "FDA Approves First Heart Valve Designed to Grow With Children — AUTUS Size-Adjustable Valve Succeeds in 62-Patient Study",
+      "source": "FDA Press Release / Becker's Hospital Review",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA approved Edwards Lifesciences' Autus Size-Adjustable Valve on October 1, 2026, the first surgically implanted pulmonary valve that can be expanded non-surgically via balloon catheter (13mm to 22mm) as a pediatric patient grows, potentially eliminating repeat open-heart surgeries. In the pivotal 62-patient, 12-site study, all patients had successful implantation with no deaths, strokes, or clot-related complications at six months, and two patients who began outgrowing their valves had them expanded successfully without surgery.",
+      "result": "Zero deaths/strokes in 62 patients; non-surgical expansion validated in 2 patients",
+      "url": "https://www.beckershospitalreview.com/supply-chain/fda-approves-1st-heart-valve-that-grows-with-children/"
+    },
+    {
+      "title": "REAL Randomized Trial (JAMA): Robotic Rectal Cancer Surgery Cuts 3-Year Locoregional Recurrence by 60% vs. Laparoscopy",
+      "source": "JAMA / PMC",
       "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson received FDA De Novo authorization for OTTAVA, the world's first table-integrated soft tissue robotic system, covering ten general surgery procedures including Roux-en-Y gastric bypass, cholecystectomy, and hiatal hernia repair. Authorization was supported by the FORTE clinical study—a prospective multicenter trial across six U.S. hospitals enrolling 30 patients—in which all primary safety and performance endpoints were met through 30 days with no conversions.",
-      "result": "All safety endpoints met in 30-patient, 6-hospital FORTE trial; no conversions",
-      "url": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/"
+      "snippet": "The landmark REAL randomized clinical trial of 1,171 patients with middle or low rectal cancer found that robotic surgery achieved a 3-year locoregional recurrence rate of just 1.6% compared to 4.0% for conventional laparoscopic surgery (HR 0.45; p<0.05) — the first RCT powered specifically to detect differences in locoregional recurrence. The robotic arm also showed improved disease-free survival and better urinary, sexual, and defecation function outcomes.",
+      "result": "Robotic: 1.6% recurrence vs. 4.0% laparoscopic at 3 years (HR 0.45)",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2834890"
     },
     {
-      "title": "Masimo smartSET Receives FDA 510(k) Clearance for AFib Detection with 97% Sensitivity and 100% Specificity",
-      "source": "Cardiovascular Business",
-      "category": "Wearables & Monitoring",
-      "snippet": "Masimo received FDA 510(k) clearance for AFib detection capability on its Radius VSM monitor under the smartSET platform, which also carries previously cleared AI-enabled opioid-induced respiratory depression (OIRD) detection—marking the first time pulse oximetry has been extended to flag both arrhythmias and opioid overdose risk continuously. In clinical validation testing, the AFib feature demonstrated 97% sensitivity and 100% specificity versus concurrent ECG classifications by three clinicians.",
-      "result": "97% sensitivity, 100% specificity for AFib detection vs. ECG gold standard",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-rhythm/fda-clears-afib-detection-feature-advanced-pulse-oximetry-system"
-    },
-    {
-      "title": "Alpha Tau DaRT Glioblastoma Trial Expanded by FDA to 20 Patients After Interim Results Show 67% Complete Response Rate",
-      "source": "Cancer Network",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "The FDA approved an IDE supplement on October 19 expanding Alpha Tau's REGAIN trial of intratumoral Alpha DaRT alpha-radiation therapy from 10 to up to 20 patients across three U.S. academic cancer centers, adding IDH-mutant grade 4 tumors to the protocol. This follows interim data from the first three treated patients showing 100% local disease control, a 67% complete response rate by RANO criteria, and only one resolved grade 3 adverse event—with updated results slated for the SNO Annual Meeting on November 13.",
-      "result": "100% local disease control; 67% complete response rate in first 3 patients",
-      "url": "https://www.cancernetwork.com/view/fda-clears-alpha-dart-trial-complete-enrollment-recurrent-gbm"
-    },
-    {
-      "title": "Spectrum Dynamics VERITON-CT 400 All-Energy SPECT/CT Completes Initial Clinical Experience at Four Global Institutions",
-      "source": "Axis Imaging News",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Spectrum Dynamics Medical announced the completion of real-world clinical experience with its VERITON-CT 400 All-Energy at Florida Theranostics, Schneider Children's Medical Center of Israel, Huntsman Cancer Institute, and CHRU de Nancy—demonstrating theranostics and diagnostic imaging across a validated 40–400 keV range using a single collimator design. Clinicians reported significant improvements in anatomical clarity, quantitation, and resolution across Tc-99m, I-123, Lu-177, I-131, and Ac-225 isotopes without compromising diagnostic performance.",
-      "result": "Multi-isotope theranostics validated 40–500 keV with single collimator; 4 institutions",
-      "url": "https://axisimagingnews.com/radiology-products/imaging-equipment/ct/four-institutions-evaluate-new-spect-ct-system-diagnostic-therapeutic-imaging"
-    },
-    {
-      "title": "GE HealthCare Photonova Spectra Photon-Counting CT Clears FDA and CE Mark, Processes 50× More Data Than Conventional CT",
-      "source": "ITN Online",
-      "category": "Diagnostics & Imaging",
-      "snippet": "GE HealthCare's Photonova Spectra photon-counting CT system received FDA 510(k) clearance in March 2026 and CE Mark in September 2026, enabling clinical adoption globally for cardiovascular, oncology, neurology, and musculoskeletal imaging. Powered by a proprietary Deep Silicon detector and NVIDIA accelerated computing, the system handles up to 50 times more data than conventional CT, enabling ultra-high-definition spectral imaging for in-stent lumen assessment, plaque characterization, and myocardial assessment.",
-      "result": "Dual FDA and CE Mark achieved; handles 50× conventional CT data volume",
-      "url": "https://www.itnonline.com/content/fda-clears-ge-healthcare%E2%80%99s-photonova-spectra-photon-counting-ct"
-    },
-    {
-      "title": "Ambient AI Scribes Deployed Across 48 Spanish EDs Cut Consultation Time by 22% in 12-Month Real-World Study",
-      "source": "ScienceDirect / International Journal of Medical Informatics",
+      "title": "Cleveland Clinic's 4,000-Clinician AI Scribe Rollout Shows 60% Retention Lift and 97% Satisfaction in npj Health Systems Study",
+      "source": "MedCity News / npj Health Systems",
       "category": "AI & Machine Learning",
-      "snippet": "A 12-month evaluation published in a peer-reviewed journal documented a large-scale deployment of an ambient AI scribe across 48 emergency departments in Spain, finding a mean relative consultation time savings of 21.8% and sustained transcription accuracy of 93.9% over the full year. AI-generated clinical reports showed significantly higher documentation quality scores, improved patient experience, and positive clinician experience particularly regarding workload and stress.",
-      "result": "22% consultation time reduction; 93.9% transcription accuracy sustained over 12 months",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1386505626003242"
+      "snippet": "A peer-reviewed paper in npj Health Systems reports that Cleveland Clinic onboarded more than 4,000 ambulatory care clinicians onto Ambience Healthcare's ambient AI scribing platform in just four months, with 60% of users agreeing the tool increased their likelihood of remaining in clinical practice. The rollout achieved 97% clinician satisfaction and 70% encounter-level utilization among established users, with the scribe reducing EHR note time by 14 minutes per day per clinician.",
+      "result": "60% retention improvement; 97% satisfaction; 14 min/day saved",
+      "url": "https://medcitynews.com/2026/08/cleveland-clinic-ai-healthcare-ambient-scribes/"
     },
     {
-      "title": "Abbott Libre Duo 10 Day Wins FDA De Novo Authorization as World's First Dual Glucose-Ketone Wearable Sensor",
-      "source": "Drug Delivery Business",
+      "title": "Johnson & Johnson's OTTAVA Surgical Robot Meets All Primary Endpoints in Pivotal Bariatric FORTE Study",
+      "source": "MassDevice / Medical Economics",
+      "category": "Robotics & Surgery",
+      "snippet": "J&J announced results of the first clinical study of its investigational OTTAVA robotic surgical system at the 2026 ASMBS Annual Meeting: in a 30-patient prospective multicenter cohort undergoing Roux-en-Y gastric bypass, OTTAVA met its primary safety and performance endpoints through 30 days post-procedure with zero conversions to non-robotic surgery. Average patient weight loss reached 30 pounds by 30 days after surgery, and J&J has submitted the data to the FDA for De Novo classification.",
+      "result": "100% robotic procedure completion; 30 lbs average weight loss at 30 days",
+      "url": "https://www.massdevice.com/johnson-johnson-ottava-surgical-robot-met-endpoints-study/"
+    },
+    {
+      "title": "Northwell/Feinstein AI Wearable Predicts In-Hospital Patient Deterioration Up to 17 Hours in Advance (Nature Communications)",
+      "source": "Feinstein Institutes for Medical Research / Nature Communications",
       "category": "Wearables & Monitoring",
-      "snippet": "Abbott received FDA De Novo authorization on August 25, 2026, for its Libre Duo 10 Day system—the world's first wearable to continuously monitor both glucose and ketone levels simultaneously—authorized for people with diabetes aged 2 and older. The authorization, which followed Breakthrough Device designation, was supported by data from six clinical studies involving more than 600 participants, and the system meets the FDA's newly established integrated continuous glucose and ketone monitoring (iCGK) standard.",
-      "result": "First dual CGM+ketone sensor cleared; backed by 6 studies in 600+ participants",
-      "url": "https://www.drugdeliverybusiness.com/abbott-wins-fda-authorization-for-dual-glucose-ketone-sensor/"
+      "snippet": "Researchers from Northwell Health's Feinstein Institutes published a Nature Communications study showing that an AI algorithm analyzing continuous VitalPatch biosensor data from 888 non-ICU inpatients could predict patient deterioration — including ICU transfer, cardiac arrest, or death — up to 17 hours before adverse clinical outcomes, significantly outperforming standard-of-care early warning scores. The wearable-based system measured heart rate, respiratory rate, temperature, and movement continuously and generated alerts with an ROC-AUC of 0.89.",
+      "result": "Deterioration predicted 17 hours in advance; AUC 0.89 in 888 patients",
+      "url": "https://feinstein.northwell.edu/news/the-latest/feinstein-study-ai-wearable-predicts-patient-deterioration"
     },
     {
-      "title": "Permanente Medical Group Ambient AI Scribe Deployment: 2.5 Million Encounters, 15,791 Hours Saved, 21% Burnout Drop",
-      "source": "Hangry Feed / JAMA Network Open",
+      "title": "Frontiers Study: Ambient AI Scribe Scales to 2.33 Million Encounters, Covering 31% of All Outpatient Visits in 16 Months",
+      "source": "Frontiers in Digital Health",
       "category": "Digital Health",
-      "snippet": "A widely cited large-scale deployment at The Permanente Medical Group documented 2.5 million patient encounters using ambient AI scribes in a single year, with 15,791 hours of physician time saved and a 21.2% absolute reduction in burnout prevalence among participating clinicians. These results align with a multicenter JAMA Network Open study of 263 ambulatory clinicians, which found burnout dropped from 51.9% to 38.8% after just 30 days of AI scribe use.",
-      "result": "2.5M encounters; 15,791 physician hours saved; 21.2% burnout reduction",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839542"
+      "snippet": "A real-world study published in Frontiers in Digital Health found that ambient AI documentation (scribe) scaled from 2.7% to approximately 31% of all outpatient consultations over a 16-month period (September 2024–December 2025), surpassing 2.33 million scribe-assisted encounters at the study institution. Clinician-reported improvements were most significant in algorithm learning, transcription quality, administrative burden reduction, and stress/quality of life.",
+      "result": "2.33M+ scribe-assisted encounters; 31% outpatient visit penetration",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1874919/full"
     },
     {
-      "title": "FDA Approves First Heart Valve Designed to Grow with Children, Addressing Critical Pediatric Cardiac Gap",
-      "source": "FDA CDRH / MedTech Dive",
-      "category": "Other",
-      "snippet": "The FDA granted approval on October 1, 2026, for the first heart valve device specifically engineered to grow with pediatric patients, addressing a long-standing gap in congenital heart disease treatment that previously required repeat open-heart surgeries as children grew. The approval represents a landmark regulatory milestone for pediatric cardiac devices, which have historically been underserved by device innovation pipelines.",
-      "result": "First pediatric growing heart valve approved; eliminates need for repeat surgeries",
-      "url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/cdrh-new-news-and-updates"
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Less Operative Time, 30% Fewer Intraoperative Complications Versus Manual Methods",
+      "source": "NIH PMC / ncbi.nlm.nih.gov",
+      "category": "Robotics & Surgery",
+      "snippet": "A systematic synthesis of 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found that AI-assisted procedures demonstrated a 25% reduction in operative time and a 30% decrease in intraoperative complications compared to manual surgical techniques. Surgical precision improved by 40%, patient recovery times shortened by an average of 15%, and healthcare costs fell by 10% on average versus conventional procedures across the reviewed studies.",
+      "result": "25% less OR time; 30% fewer intraoperative complications; 10% cost reduction",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
     },
     {
-      "title": "FDA 2026 H1 Device Authorization Report: 1,669 510(k)s Cleared, PMA Approvals Up 10 Devices Year-over-Year",
-      "source": "MedTech Dive",
-      "category": "Other",
-      "snippet": "A BTIG analysis of FDA data shows that the agency authorized more medical devices in the first half of 2026 than in the same period of 2025, with 1,669 510(k) clearances through June and 23 PMA approvals—an increase of 10 from the prior year period—though average approval timelines have lengthened substantially. The average time to PMA approval rose to nearly 599 days, up 49% from 402 days in full-year 2025, creating capital runway concerns for smaller device developers.",
-      "result": "1,669 510(k)s cleared H1 2026; PMA approvals up 10 YoY despite 49% longer timelines",
-      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
+      "title": "Singapore General Hospital Ambient AI Scribe Trial: 15% Documentation Time Cut, 69% of Patients Report More Physician Eye Contact",
+      "source": "JMIR Medical Informatics",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective within-clinician observational time-motion study at Singapore General Hospital found that ambient AI scribe use was associated with a 15.0% reduction in documentation time per consultation (5.3 to 4.5 minutes, p=0.04) and a 10.6% increase in eye-contact time between physician and patient. Of 39 surveyed patients, 69.2% agreed their physician focused on them more during the consultation, and none expressed discomfort with the technology.",
+      "result": "15% documentation cut; 69% of patients felt more physician focus",
+      "url": "https://medinform.jmir.org/2026/1/e85580"
+    },
+    {
+      "title": "Jabil 2026 Digital Health Survey: Surgical Robotics Development Doubles to 18% Share; Wearable 'Set-It-and-Forget-It' Monitoring Surges",
+      "source": "R&D World / Jabil",
+      "category": "Digital Health",
+      "snippet": "Jabil's 2026 Digital Health Survey, presented October 22, revealed that the share of respondents developing surgical robotics doubled from 9% in 2024 to 18% in 2026, while diagnostic equipment development dropped sharply from 59% to 34%, signaling a major industry shift toward intervention and continuous monitoring. Survey leaders described a growing focus on long-duration wearable devices — 'set it and forget it' monitors capable of collecting data for weeks without manual input — as a dominant emerging product category.",
+      "result": "Surgical robotics R&D doubles to 18%; wearable monitoring emerges as top category",
+      "url": "https://www.rdworldonline.com/jabils-2026-digital-health-survey-confidence-in-ais-potential-rises-as-confidence-in-internal-readiness-falls/"
     }
   ],
-  "generated_at": "2026-10-21T11:18:22.481128+00:00"
+  "generated_at": "2026-10-24T10:25:39.365273+00:00"
 }
