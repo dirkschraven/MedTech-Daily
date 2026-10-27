@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "feature": {
-    "title": "AI Outperforms Doctors, Brain-Stimulation Devices Ship to Homes, and a Valve That Grows With Children: MedTech's Results-Driven Week",
-    "summary": "October 2026 marks a pivotal inflection point for medtech implementation: Microsoft's MAI-DxO AI diagnostic system published peer-reviewed Science results showing more than double the diagnostic accuracy of generalist physicians on complex clinical cases, while Flow Neuroscience's first FDA-approved at-home brain stimulation device for depression reached patients across the US with a 57% remission rate from pivotal trial data. Stroke AI platform Viz.ai, now deployed in nearly 2,000 hospitals, published ISC 2026 data showing a 44% cut in patient transfer times for LVO stroke — the clearest yet evidence of AI compressing life-or-death treatment windows. Across diagnostics, therapeutics, and device hardware, this week's stories share one theme: measurable clinical results validating technologies that are already in patients' hands.",
+    "title": "AI Outdiagnoses Doctors, a Heart Valve That Grows With Children, and SCLC Survival Leaps 8+ Months: Medtech's Most Consequential Week of 2026",
+    "summary": "The final week of October 2026 delivered a cluster of landmark implementation results across clinical AI, oncology therapeutics, surgical robotics, and pediatric device innovation. Microsoft's MAI-DxO achieved 83.2% diagnostic accuracy versus 36.1% for generalist physicians in a peer-reviewed Science study, while Google's AMIE passed its first real-world Lancet-published primary care feasibility trial with zero safety stops across 98 patients. On the therapeutic front, the phase 3 DeLLphi-305 trial showed tarlatamab plus durvalumab extending median overall survival in extensive-stage SCLC from 12.7 to 21.1 months — one of the most dramatic survival gains seen in lung cancer in decades. Meanwhile, the FDA's October 1 approval of the Autus Size-Adjustable pediatric heart valve, backed by a 62-patient clinical study with no deaths or strokes, marks a genuine device paradigm shift for children with congenital pulmonary valve disease.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Microsoft's MAI-DxO AI system achieved 83.2% diagnostic accuracy on 304 complex NEJM clinical cases, versus 36.1% for generalist physicians with reference materials, in a peer-reviewed Science paper published October 22."
+        "text": "The phase 3 DeLLphi-305 trial published in NEJM shows tarlatamab plus durvalumab maintenance extended median OS in extensive-stage SCLC to 21.1 months versus 12.7 months with durvalumab alone — a 58% reduction in death risk."
       },
       {
         "label": "Key trend",
-        "text": "FDA-cleared digital therapeutics are now generating Phase 3 outcome data and reaching market simultaneously — from schizophrenia smartphone apps (Motivista) to at-home brain stimulation for depression (FL-100) — signaling digital software is maturing into mainstream medicine."
+        "text": "Clinical AI is graduating from benchmarks to real-world deployments, with Microsoft MAI-DxO, Google AMIE, and Viz.ai all reporting measurable patient or workflow outcomes from live hospital and clinic settings this month."
       },
       {
         "label": "To watch",
-        "text": "The FDA's newly launched NAIN neuroscience program and its Alzheimer's Prevention Accelerator initiative will define trial design standards for the next decade of brain-disease medtech approvals."
+        "text": "Stryker's $400M investment in CMR Surgical and exclusive U.S. sales rights to the Versius Plus robot signals an accelerating multi-platform competition that could fundamentally reshape who controls soft-tissue surgical robotics in American hospitals."
       }
     ]
   },
   "articles": [
     {
-      "title": "Microsoft's MAI-DxO AI Diagnoses 83% of Complex NEJM Cases, More Than Doubling Physician Accuracy",
-      "source": "TechTimes / Science Journal",
-      "category": "AI & Machine Learning",
-      "snippet": "Microsoft published results of its multi-agent AI Diagnostic Orchestrator (MAI-DxO) in the journal Science on October 22, 2026, showing 83.2% accuracy on 304 complex NEJM clinicopathological cases compared with 36.1% for generalist physicians using reference tools. On a separate set of 325 real emergency department admissions from the MIMIC-IV-ED dataset, DxO achieved 80.3% accuracy versus 46.8% for physicians, with Microsoft now beginning prospective testing at a Boston hospital.",
-      "result": "83.2% AI accuracy vs 36.1% for physicians on NEJM cases",
-      "url": "https://www.techtimes.com/articles/329478/20261026/microsoft-ai-beats-physicians-diagnosis-83-accuracy-lower-cost-science.htm"
-    },
-    {
-      "title": "FDA Approves AUTUS Size-Adjustable Heart Valve — First Pediatric Valve Designed to Grow With the Child",
-      "source": "AJMC / FDA Press Release",
+      "title": "Tarlatamab–Durvalumab Maintenance Extends Median OS to 21.1 Months in Extensive-Stage SCLC (DeLLphi-305 Phase 3 Trial)",
+      "source": "NEJM / CancerNetwork / MedicalXpress",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "On October 1, 2026, the FDA approved the Autus Size-Adjustable Valve (Edwards Lifesciences), the first surgically implanted pulmonary heart valve for children that can be expanded after implantation using a balloon catheter as the child grows, from 13mm to 22mm. The PMA approval was based on a 62-patient, 12-site US clinical study in which all procedures were successful with no deaths, strokes, or treated thrombosis at 6-month follow-up, and two patients who outgrew their valves were successfully expanded without repeat open-heart surgery.",
-      "result": "100% procedural success; zero deaths or strokes in 62 pediatric patients",
-      "url": "https://www.ajmc.com/view/fda-approves-first-heart-valve-to-keep-pace-with-children-s-growth"
+      "snippet": "The phase 3 DeLLphi-305 trial (563 patients) published in the New England Journal of Medicine and presented at ESMO 2026 showed tarlatamab plus durvalumab as first-line maintenance therapy reduced the hazard of death by 58% compared to durvalumab alone. At one year, nearly 80% of patients on the combination were alive versus 53% on durvalumab alone, with median progression-free survival improving from 1.9 to 7.4 months.",
+      "result": "Median OS 21.1 vs 12.7 months; 58% death risk reduction",
+      "url": "https://www.cancernetwork.com/view/tarlatamab-maintenance-combo-extends-survival-in-extensive-stage-sclc"
     },
     {
-      "title": "Viz.ai ISC 2026 Data: AI Stroke Platform Cuts Patient Transfer Times by 44% at Regional Hospitals",
-      "source": "Viz.ai / American Heart Association ISC 2026",
+      "title": "Microsoft MAI-DxO Achieves 83.2% Diagnostic Accuracy vs. 36.1% for Generalist Physicians in Peer-Reviewed Science Study",
+      "source": "Gizmodo / Unite.AI / Medical Economics",
       "category": "AI & Machine Learning",
-      "snippet": "Clinical data presented at the AHA International Stroke Conference 2026 showed Viz.ai's platform reduced door-in-door-out time for large vessel occlusion stroke patients by 44% at Adventist Health + Rideout, a regional primary stroke center. Performance gains were driven by an 84% reduction in time from CTA completion to AI detection, and care-team notification time dropped from 45 minutes to just 7 minutes, directly compressing treatment windows for the most time-sensitive condition in emergency medicine.",
-      "result": "44% reduction in stroke transfer times; notification cut from 45 to 7 min",
+      "snippet": "Microsoft's AI Diagnostic Orchestrator (MAI-DxO), published in Science on October 22, 2026, outperformed generalist physicians on complex NEJM case records by more than twofold — achieving 83.2% accuracy versus 36.1% for physicians using external references. On emergency department cases, AI accuracy reached 80.3% versus 46.8% for humans, with the system also ordering fewer tests.",
+      "result": "83.2% AI accuracy vs. 36.1% for generalist physicians",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
+    },
+    {
+      "title": "Google AMIE Passes First Real-World Primary Care Trial, Published in The Lancet: Zero Safety Stops, 90% Diagnostic Match",
+      "source": "The Lancet / Google Research Blog / Nanowerk",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective feasibility study at Beth Israel Deaconess Medical Center, published in The Lancet on October 8, 2026, enrolled 98 patients who consulted Google's AMIE diagnostic AI chatbot before urgent care visits — with zero conversations requiring a safety stop. AMIE's differential diagnosis matched the final chart-adjudicated reference diagnosis in 90% of cases, and physicians reported the AI summaries helped prepare them for visits in 75% of cases.",
+      "result": "Zero safety stops; 90% diagnostic match rate across 98 patients",
+      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+    },
+    {
+      "title": "FDA Approves Autus Size-Adjustable Valve: First Pediatric Heart Valve Designed to Grow With the Child",
+      "source": "Becker's Hospital Review / AJMC / The Cardiology Advisor",
+      "category": "Other",
+      "snippet": "The FDA granted PMA approval on October 1, 2026, to Edwards Lifesciences' Autus Size-Adjustable Valve — the first surgically implanted pulmonary heart valve that can be expanded via balloon catheter as a child grows, reducing the need for repeat open-heart surgeries. A 62-patient pivotal study across 12 U.S. sites showed zero deaths, strokes, or clot-related complications at six-month follow-up, with two patients who began outgrowing their valves successfully expanded non-surgically.",
+      "result": "Zero deaths/strokes in 62-patient study; valve expands 13mm to 22mm",
+      "url": "https://www.beckershospitalreview.com/supply-chain/fda-approves-1st-heart-valve-that-grows-with-children/"
+    },
+    {
+      "title": "Viz.ai AI Platform Shows 44% Reduction in Stroke Transfer Times and 74% Reduction in PE Mortality Risk Across 2,000+ Hospitals",
+      "source": "Viz.ai / Business Wire / Clinical AI Report",
+      "category": "AI & Machine Learning",
+      "snippet": "Real-world data published in March 2026 and validated at ISC 2026 showed Viz.ai reduced door-in-door-out transfer time for large vessel occlusion stroke patients by 44% — from 202 minutes to 113 minutes — exceeding the Joint Commission's 120-minute national benchmark. Across its platform now deployed in over 2,000 hospitals, Viz.ai reports a 74% reduction in in-hospital mortality risk for pulmonary embolism and an 8.4-fold increase in patients receiving guideline-directed cardiac monitoring.",
+      "result": "44% stroke transfer time reduction; 74% lower PE in-hospital mortality risk",
       "url": "https://www.viz.ai/news/viz-ai-study-demonstrates-44-reduction-in-interfacility-stroke-transfer-times"
     },
     {
-      "title": "Flow Neuroscience Launches FL-100 Nationally: First FDA-Approved At-Home Brain Stimulation Device for Depression",
-      "source": "BioSpace / HIT Consultant",
+      "title": "AI Ambient Scribes Cut EHR Documentation by 16 Minutes Per Encounter in Landmark Five-Hospital JAMA Study",
+      "source": "Mass General Brigham / AHA / 2-Minute Medicine",
       "category": "Digital Health",
-      "snippet": "Flow Neuroscience's FL-100, a wireless tDCS headset paired with a clinical companion app, became available by prescription across the United States from September 1, 2026, following FDA Premarket Approval (PMA P230024). The approval was grounded in the EMPOWER pivotal trial published in Nature Medicine, which demonstrated a 57% remission rate (MADRS ≤12) at 10 weeks — the first at-home, non-invasive brain stimulation device approved specifically for moderate-to-severe major depressive disorder.",
-      "result": "57% patient remission rate at 10 weeks in pivotal trial",
-      "url": "https://www.biospace.com/press-releases/flow-neuroscience-launches-fl-100-in-the-us-the-first-fda-approved-at-home-tdcs-treatment-for-depression"
+      "snippet": "A multi-site study across five U.S. academic medical centers, co-led by Mass General Brigham and UCSF and published in JAMA in April 2026, tracked over 1,800 clinicians using AI ambient scribes versus 6,770 controls for more than two years. AI scribes reduced total EHR time by 13.4 minutes and documentation time by 16 minutes per encounter, while also adding approximately 0.49 more patient visits per week per clinician — with Emory Healthcare reporting a 30.7% increase in documentation-related well-being.",
+      "result": "16-min documentation reduction per visit; 0.49 more visits/week/clinician",
+      "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/ai-scribes-linked-to-modest-reductions-in-ehr-documentation-time"
     },
     {
-      "title": "FDA Clears Motivista: First Digital Therapeutic for Schizophrenia's Negative Symptoms After Phase 3 CONVOKE Trial",
-      "source": "Healio / GlobeNewswire",
-      "category": "Digital Health",
-      "snippet": "Click Therapeutics received FDA 510(k) clearance for Motivista (CT-155) on October 5, 2026 — the first treatment ever authorized specifically for negative symptoms of schizophrenia such as avolition, anhedonia, and social withdrawal. Clearance was supported by the Phase 3 CONVOKE study (n=457 across 66 US sites), in which Motivista users showed a 6.8-point improvement in negative-symptom severity at 16 weeks versus 4.2 points for a digital control — a 62% relative improvement — with no serious treatment-related adverse events.",
-      "result": "6.8-pt symptom improvement vs 4.2 for control; 62% relative gain",
-      "url": "https://www.healio.com/news/psychiatry/20261009/fda-clears-motivista-for-negative-symptoms-in-schizophrenia"
-    },
-    {
-      "title": "Viz.ai Reaches Nearly 2,000 Hospital Deployments With 50+ FDA-Cleared Algorithms Across Stroke, PE, and Cardiac Care",
-      "source": "Clinical AI Report",
-      "category": "Diagnostics & Imaging",
-      "snippet": "As of October 2026, Viz.ai is the most widely deployed AI imaging triage platform in the United States with nearly 2,000 hospital installations, covering large vessel occlusion stroke, pulmonary embolism, aortic dissection, intracranial hemorrhage, and hypertrophic cardiomyopathy via 50+ FDA-cleared algorithms. The platform has demonstrated reduction of time-to-treatment for stroke patients by 40+ minutes across peer-reviewed studies, directly improving outcomes in a disease where each minute of delay is associated with measurable disability.",
-      "result": "~2,000 hospitals deployed; 40+ min treatment time reduction for stroke",
-      "url": "https://clinicalaireport.com/reviews/viz-ai"
-    },
-    {
-      "title": "AI Mammography Screening Raises Cancer Detection Rate 17.6% in PRAIM Trial of 463,000 German Women",
-      "source": "Articsledge / Medical Imaging AI Analysis",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Published data from the PRAIM trial involving 463,000 women in Germany showed AI-assisted radiologists achieved a breast cancer detection rate of 6.7 per 1,000 screened — a 17.6% relative increase over the control group's 5.7 per 1,000 rate. A complementary US study (ASSURE, 579,000 women across 109 community imaging sites in four states) demonstrated a 21.6% higher cancer detection rate with AI-driven workflows versus standard of care.",
-      "result": "17.6% more cancers detected in 463,000-woman PRAIM trial",
-      "url": "https://www.articsledge.com/post/ai-medical-imaging"
-    },
-    {
-      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Less Operative Time, 30% Fewer Complications Across 25 Studies",
-      "source": "NCBI / PubMed Central",
+      "title": "Phase 3 RACC Trial (JAMA Surgery): Robotic Hysterectomy Cuts Intraoperative Complications 43% vs. Open Surgery in 900-Patient Cervical Cancer RCT",
+      "source": "JAMA Surgery / MedicalXpress / CancerNetwork",
       "category": "Robotics & Surgery",
-      "snippet": "A peer-reviewed systematic review and meta-analysis synthesizing 25 peer-reviewed studies (2024–2025) on AI-driven robotic surgery found AI-assisted procedures delivered a 25% reduction in operative time and a 30% decrease in intraoperative complications versus manual methods. Surgical precision improved by 40% in tumor resections and implant placements, patient recovery times were shortened by an average of 15%, and surgeon workflow efficiency increased 20% — with a 10% reduction in overall healthcare costs.",
-      "result": "25% less operative time; 30% fewer intraoperative complications",
-      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
+      "snippet": "A prespecified secondary analysis of the phase 3 RACC randomized trial, published in JAMA Surgery on October 7, 2026, enrolled 900 patients with early-stage cervical cancer randomized to robot-assisted versus open radical hysterectomy across European hospitals. Intraoperative complications occurred in 5.7% of robotic patients versus 10.0% in open surgery patients, though this advantage did not translate into meaningfully better postoperative recovery — with the primary recurrence-free survival endpoint still under follow-up.",
+      "result": "Intraoperative complications: 5.7% robotic vs. 10.0% open (900 patients)",
+      "url": "https://medicalxpress.com/news/2026-10-cervical-cancer-trial-similar-early.html"
     },
     {
-      "title": "FDA Launches NAIN Neuroscience Program With Inaugural Alzheimer's Prevention Accelerator Initiative",
-      "source": "FDA.gov / FDAWeb",
-      "category": "Other",
-      "snippet": "On October 22, 2026, the FDA launched the Neuroscience Advancement and Innovation Nexus (NAIN), a new cross-center program coordinating CDER, CBER, and CDRH expertise across drugs, biologics, and devices for brain and nervous system conditions. NAIN's inaugural initiative — the Alzheimer's Prevention Accelerator — will develop new clinical trial designs, endpoint frameworks, and biomarker strategies specifically for Alzheimer's prevention, using digital health technologies and advanced biomarkers to address the challenge of demonstrating benefit in conditions that progress over decades.",
-      "result": "New federal program launched; first initiative targets Alzheimer's prevention trials",
-      "url": "https://www.fdaweb.com/fda-launches-new-neuroscience-program-to-target-alzheimers/"
-    },
-    {
-      "title": "FDA Clears MICSI-PET for Automated Neurological PET Analysis With Amyloid and Tau Quantification",
-      "source": "NeurologyLive",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The FDA cleared MICSI-PET from Microstructure Imaging in September 2026, an MR-guided PET enhancement platform with automated amyloid Centiloid and tau quantification for neurological imaging. The clearance provides clinical sites with an objective, automated method for quantifying Alzheimer's biomarkers from PET scans — a workflow that previously required manual specialist reading and lacked standardized quantification thresholds across institutions.",
-      "result": "First automated amyloid Centiloid + tau quantification PET tool cleared",
-      "url": "https://www.neurologylive.com/fda-news"
-    },
-    {
-      "title": "FDA AI Medical Device List Reaches 1,614 Authorized Devices — 75% in Radiology — as 2026 Approvals Outpace 2025",
-      "source": "MedTech Dive / BTIG Analysis",
+      "title": "Google SymptomAI Beats Physicians in Largest Real-World Conversational Diagnostic AI Study: 13,917 Patients via Fitbit App",
+      "source": "HealthTech Cube / Google Research / Remio.ai",
       "category": "AI & Machine Learning",
-      "snippet": "The FDA's September 4, 2026 update to its AI-enabled medical device list records 1,614 authorized devices, with 181 decisions issued through June 2026 and 75% of those concentrated in radiology. A BTIG analysis confirms 510(k) approvals are tracking 3% ahead of 2025 year-over-year, projecting 3,239 clearances for the full year, though average PMA approval times increased to 599 days — up 49% from 402 days in 2025 — raising capital runway concerns for smaller developers.",
-      "result": "1,614 AI devices authorized; 2026 approvals up 3% YoY with longer timelines",
+      "snippet": "Google Research deployed SymptomAI — built on Gemini 2.0 Flash — inside the Fitbit app and randomized 13,917 real patients between June 2025 and April 2026 to interact with five AI diagnostic agents. The system achieved 73% top-5 diagnostic accuracy versus 60% for physicians reviewing the same conversations, with clinicians preferring SymptomAI's differential diagnosis output in 52.9% of cases — well above the 33% chance baseline.",
+      "result": "73% top-5 diagnostic accuracy vs. 60% for physicians; 13,917-patient trial",
+      "url": "https://healthtechcube.com/article-google-symptomai-study.html"
+    },
+    {
+      "title": "Stryker Invests $400M in CMR Surgical, Becomes Exclusive U.S. Sales Agent for Versius Robotic Platform Used in 45,000 Global Cases",
+      "source": "Healthcare MEA / The Robot Report / Nelson Advisors",
+      "category": "Robotics & Surgery",
+      "snippet": "Stryker announced on October 12, 2026, a $400 million preferred equity investment in CMR Surgical alongside exclusive U.S. commercial distribution rights for the Versius Plus surgical robotic system, which holds FDA 510(k) clearance for cholecystectomy. CMR's Versius platform has now been used in over 45,000 patient procedures across more than 30 countries, positioning it as the second most widely deployed soft-tissue surgical robot globally.",
+      "result": "45,000 patients treated globally; $400M U.S. market entry commitment",
+      "url": "https://www.healthcaremea.com/2026/10/25/stryker-invests-us400m-in-cmr-surgical-to-expand-versius-robotics-in-us/"
+    },
+    {
+      "title": "FDA's AI-Enabled Medical Device Registry Surpasses 1,614 Authorized Devices as Radiology Leads with 76% Share",
+      "source": "MedTech Dive / Intuition Labs / Medical Design & Outsourcing",
+      "category": "Diagnostics & Imaging",
+      "snippet": "The FDA's September 4, 2026 AI-enabled medical device list now contains 1,614 authorized devices, with 181 decisions made in 2026 alone through June — 75% of which fall in radiology. GE HealthCare leads all manufacturers with 120 cumulative AI authorizations, followed by Siemens Healthineers at 89 and Philips at 50, while the FDA approved more devices in H1 2026 than H1 2025 despite average PMA timelines extending to 599 days.",
+      "result": "1,614 AI devices authorized; 181 new in H1 2026; radiology at 76%",
       "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
     },
     {
-      "title": "Azetukalner Epilepsy Phase 3 X-TOLE2 Trial: 53.2% Median Seizure Frequency Reduction at 25mg Dose",
-      "source": "CT Analytics / Neuroscience in Review October 2026",
+      "title": "DeLLphi-304 Extended Follow-Up Confirms Durable OS Benefit With Tarlatamab vs. Chemotherapy in Relapsed SCLC at ESMO 2026",
+      "source": "OncLive / OncoDaily / Pharmacy Times",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "Phase 3 X-TOLE2 trial results for azetukalner (Xenon Pharmaceuticals) in focal-onset seizures showed a median monthly seizure frequency reduction of 53.2% with the 25mg dose versus 10.4% with placebo, with a responder rate (≥50% reduction) of 54.8% versus 20.8% for placebo. These results, reported in October 2026, reinforce azetukalner's position as one of the most efficacious pipeline candidates in refractory epilepsy, pending regulatory submission.",
-      "result": "53.2% seizure reduction vs 10.4% placebo; 54.8% responder rate",
-      "url": "https://ctanalytics.substack.com/p/neuroscience-in-review-october-2026"
+      "snippet": "Updated data from the phase 3 DeLLphi-304 trial, presented at ESMO 2026 with approximately 23 months of follow-up, showed sustained overall survival of 13.6 months with tarlatamab versus 8.4 months with chemotherapy in previously treated SCLC — a 38% reduction in the hazard of death. The CNS data were equally striking: tarlatamab reduced the risk of CNS progression by 46% with median CNS PFS not yet reached versus 7.1 months for chemotherapy.",
+      "result": "OS 13.6 vs. 8.4 months; 46% CNS progression risk reduction",
+      "url": "https://www.onclive.com/view/extended-dellphi-304-follow-up-durable-survival-tarlatamab-previously-treated-sclc"
+    },
+    {
+      "title": "Apple Watch Series 11 Hypertension Notification Cleared; Wearable Clinical-Grade Feature Expansion Accelerates in 2026",
+      "source": "Life Science Daily / Wearable Health Tech 2026 / Top Doctor Magazine",
+      "category": "Wearables & Monitoring",
+      "snippet": "The Apple Watch Series 11 added FDA-cleared hypertension notifications in September 2025, making it the only consumer wearable cleared for ECG/AFib detection, sleep apnea notifications, and hypertension alerts simultaneously. The FDA's January 2026 wellness guidance revised the regulatory boundary for non-invasive wearables, while the agency cleared 47 sensor-based digital health devices in 2025 alone — spanning ECG monitors, sleep apnea detectors, continuous glucose sensors, and seizure trackers.",
+      "result": "47 wearable sensor devices FDA-cleared in 2025; Apple Watch adds hypertension alert",
+      "url": "https://lifesciencedaily.news/from-wrist-to-ward-which-wearables-have-earned-clinical-trust/"
     }
   ],
-  "generated_at": "2026-10-26T12:23:11.091579+00:00"
+  "generated_at": "2026-10-27T11:43:04.526748+00:00"
 }
