@@ -1,120 +1,120 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "feature": {
-    "title": "AI Outdiagnoses Doctors, a Heart Valve That Grows With Children, and SCLC Survival Leaps 8+ Months: Medtech's Most Consequential Week of 2026",
-    "summary": "The final week of October 2026 delivered a cluster of landmark implementation results across clinical AI, oncology therapeutics, surgical robotics, and pediatric device innovation. Microsoft's MAI-DxO achieved 83.2% diagnostic accuracy versus 36.1% for generalist physicians in a peer-reviewed Science study, while Google's AMIE passed its first real-world Lancet-published primary care feasibility trial with zero safety stops across 98 patients. On the therapeutic front, the phase 3 DeLLphi-305 trial showed tarlatamab plus durvalumab extending median overall survival in extensive-stage SCLC from 12.7 to 21.1 months — one of the most dramatic survival gains seen in lung cancer in decades. Meanwhile, the FDA's October 1 approval of the Autus Size-Adjustable pediatric heart valve, backed by a 62-patient clinical study with no deaths or strokes, marks a genuine device paradigm shift for children with congenital pulmonary valve disease.",
+    "title": "History Made in an OR: First U.S. Robotic Telesurgery Crowns a Month of Medtech Milestones",
+    "summary": "October 2026 has delivered a cascade of real-world medtech results, from the first-ever inter-hospital robotic telesurgery performed in the United States to landmark FDA approvals, Phase III trial publications, and AI diagnostics outpacing physicians in peer-reviewed benchmarks. AI has graduated from pilot to platform across hundreds of U.S. hospitals, with ambient scribes, surgical registry automation, and diagnostic orchestrators all posting hard numbers. The common thread is evidence: measurable patient outcomes, published trial data, and live clinical deployments are now setting the standard for what counts as medtech progress. The field is bifurcating rapidly between tools that have proven real-world value and those still trapped in benchmark theater.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "The phase 3 DeLLphi-305 trial published in NEJM shows tarlatamab plus durvalumab maintenance extended median OS in extensive-stage SCLC to 21.1 months versus 12.7 months with durvalumab alone — a 58% reduction in death risk."
+        "text": "AdventHealth surgeon Dr. Vipul Patel performed the first documented inter-hospital robotic telesurgery in U.S. history, remotely removing a patient's cancerous prostate from 35 miles away as part of an FDA-authorized clinical study."
       },
       {
         "label": "Key trend",
-        "text": "Clinical AI is graduating from benchmarks to real-world deployments, with Microsoft MAI-DxO, Google AMIE, and Viz.ai all reporting measurable patient or workflow outcomes from live hospital and clinic settings this month."
+        "text": "AI diagnostic systems — from Microsoft's MAI-DxO (83% accuracy vs. 36% for generalist physicians) to Google's AMIE (90% differential recall in live clinic) — are posting validated clinical benchmarks that are triggering real hospital deployment partnerships."
       },
       {
         "label": "To watch",
-        "text": "Stryker's $400M investment in CMR Surgical and exclusive U.S. sales rights to the Versius Plus robot signals an accelerating multi-platform competition that could fundamentally reshape who controls soft-tissue surgical robotics in American hospitals."
+        "text": "Microsoft's planned prospective study of MAI-DxO at Beth Israel Deaconess Medical Center in emergency and urgent care settings will be the largest real-world AI diagnostic trial of its kind and could redefine clinical decision-support standards."
       }
     ]
   },
   "articles": [
     {
-      "title": "Tarlatamab–Durvalumab Maintenance Extends Median OS to 21.1 Months in Extensive-Stage SCLC (DeLLphi-305 Phase 3 Trial)",
-      "source": "NEJM / CancerNetwork / MedicalXpress",
+      "title": "First Inter-Hospital Robotic Telesurgery in the United States Performed at AdventHealth",
+      "source": "WFTV / AdventHealth",
+      "category": "Robotics & Surgery",
+      "snippet": "On October 25, 2026, Dr. Vipul Patel of the Global Robotics Institute at AdventHealth Celebration remotely performed a robotic prostatectomy on a 66-year-old prostate cancer patient located 35 miles away at AdventHealth Minneola — the first such procedure documented between two U.S. hospitals. The surgery is part of an FDA-authorized investigational study, and AdventHealth confirmed the patient is recovering well post-procedure.",
+      "result": "Successful prostatectomy completed 35 miles remote; patient recovering well",
+      "url": "https://www.wftv.com/news/local/an-adventhealth-surgeon-successfully-performed-remote-telesurgery-patient/YWEMVUGSJRHKFPQWISWBRX65K4/"
+    },
+    {
+      "title": "Microsoft MAI-DxO Diagnostic AI Hits 83% Accuracy vs. 36% for Physicians in Science Study, Beth Israel Trial Announced",
+      "source": "Endpoints News / TechCrunch",
+      "category": "AI & Machine Learning",
+      "snippet": "A study published October 22, 2026 in Science found that Microsoft's multi-agent AI diagnostic orchestrator MAI-DxO correctly diagnosed 83.2% of complex NEJM case records and 80.3% of real Beth Israel Deaconess emergency-department cases, compared with 36.1% and 46.8% respectively for generalist physicians. Microsoft is now partnering with Beth Israel Deaconess Medical Center to prospectively evaluate MAI-DxO in live emergency and urgent care settings.",
+      "result": "83.2% AI diagnostic accuracy vs. 36.1% physician accuracy on complex cases",
+      "url": "https://endpoints.news/microsofts-ai-gives-more-accurate-diagnoses-than-doctors-study-finds/"
+    },
+    {
+      "title": "FDA Approves AUTUS Size-Adjustable Heart Valve — First Pediatric Valve Designed to Grow with Children",
+      "source": "AJMC / Becker's Hospital Review",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "The phase 3 DeLLphi-305 trial (563 patients) published in the New England Journal of Medicine and presented at ESMO 2026 showed tarlatamab plus durvalumab as first-line maintenance therapy reduced the hazard of death by 58% compared to durvalumab alone. At one year, nearly 80% of patients on the combination were alive versus 53% on durvalumab alone, with median progression-free survival improving from 1.9 to 7.4 months.",
-      "result": "Median OS 21.1 vs 12.7 months; 58% death risk reduction",
-      "url": "https://www.cancernetwork.com/view/tarlatamab-maintenance-combo-extends-survival-in-extensive-stage-sclc"
+      "snippet": "The FDA approved the Edwards Lifesciences AUTUS Size-Adjustable Valve on October 1, 2026, as the first surgical pulmonary heart valve designed to expand post-implant to match a child's growth, potentially eliminating repeat open-heart surgeries. A pivotal trial of 62 pediatric patients across 12 U.S. sites showed 100% procedural success, zero deaths or strokes, and acceptable hemodynamic performance at six months; two patients who outgrew their initial valve size were successfully re-expanded non-surgically.",
+      "result": "100% procedural success; zero deaths or strokes across 62 pediatric patients",
+      "url": "https://www.ajmc.com/view/fda-approves-first-heart-valve-to-keep-pace-with-children-s-growth"
     },
     {
-      "title": "Microsoft MAI-DxO Achieves 83.2% Diagnostic Accuracy vs. 36.1% for Generalist Physicians in Peer-Reviewed Science Study",
-      "source": "Gizmodo / Unite.AI / Medical Economics",
-      "category": "AI & Machine Learning",
-      "snippet": "Microsoft's AI Diagnostic Orchestrator (MAI-DxO), published in Science on October 22, 2026, outperformed generalist physicians on complex NEJM case records by more than twofold — achieving 83.2% accuracy versus 36.1% for physicians using external references. On emergency department cases, AI accuracy reached 80.3% versus 46.8% for humans, with the system also ordering fewer tests.",
-      "result": "83.2% AI accuracy vs. 36.1% for generalist physicians",
-      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562"
+      "title": "Dexcom CONNECT Trial Published in NEJM: G7 CGM Delivers 1.6% HbA1c Drop in Non-Insulin Type 2 Diabetes",
+      "source": "Dexcom Investor Relations / Fierce Biotech",
+      "category": "Wearables & Monitoring",
+      "snippet": "The landmark CONNECT randomized controlled trial, now published in The New England Journal of Medicine, showed that adults with Type 2 diabetes not using insulin who wore the Dexcom G7 CGM for 26 weeks achieved an average HbA1c reduction from 8.8% to 7.2%, compared with 8.7% to 8.0% in the routine-care control group. CGM users also spent approximately five additional hours per day within the target glucose range of 70–180 mg/dL, providing the first Level A evidence for CGM use in this large patient population.",
+      "result": "HbA1c dropped 1.6% with G7 vs. 0.7% with routine care; 5 extra hours/day in target range",
+      "url": "https://investors.dexcom.com/news/news-details/2026/Landmark-Dexcom-CONNECT-Study-Published-in-The-New-England-Journal-of-Medicine-Redefining-the-Standard-of-Care-for-People-with-Type-2-Diabetes-Not-on-Insulin/default.aspx"
     },
     {
-      "title": "Google AMIE Passes First Real-World Primary Care Trial, Published in The Lancet: Zero Safety Stops, 90% Diagnostic Match",
-      "source": "The Lancet / Google Research Blog / Nanowerk",
-      "category": "AI & Machine Learning",
-      "snippet": "A prospective feasibility study at Beth Israel Deaconess Medical Center, published in The Lancet on October 8, 2026, enrolled 98 patients who consulted Google's AMIE diagnostic AI chatbot before urgent care visits — with zero conversations requiring a safety stop. AMIE's differential diagnosis matched the final chart-adjudicated reference diagnosis in 90% of cases, and physicians reported the AI summaries helped prepare them for visits in 75% of cases.",
-      "result": "Zero safety stops; 90% diagnostic match rate across 98 patients",
-      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
-    },
-    {
-      "title": "FDA Approves Autus Size-Adjustable Valve: First Pediatric Heart Valve Designed to Grow With the Child",
-      "source": "Becker's Hospital Review / AJMC / The Cardiology Advisor",
-      "category": "Other",
-      "snippet": "The FDA granted PMA approval on October 1, 2026, to Edwards Lifesciences' Autus Size-Adjustable Valve — the first surgically implanted pulmonary heart valve that can be expanded via balloon catheter as a child grows, reducing the need for repeat open-heart surgeries. A 62-patient pivotal study across 12 U.S. sites showed zero deaths, strokes, or clot-related complications at six-month follow-up, with two patients who began outgrowing their valves successfully expanded non-surgically.",
-      "result": "Zero deaths/strokes in 62-patient study; valve expands 13mm to 22mm",
-      "url": "https://www.beckershospitalreview.com/supply-chain/fda-approves-1st-heart-valve-that-grows-with-children/"
-    },
-    {
-      "title": "Viz.ai AI Platform Shows 44% Reduction in Stroke Transfer Times and 74% Reduction in PE Mortality Risk Across 2,000+ Hospitals",
-      "source": "Viz.ai / Business Wire / Clinical AI Report",
-      "category": "AI & Machine Learning",
-      "snippet": "Real-world data published in March 2026 and validated at ISC 2026 showed Viz.ai reduced door-in-door-out transfer time for large vessel occlusion stroke patients by 44% — from 202 minutes to 113 minutes — exceeding the Joint Commission's 120-minute national benchmark. Across its platform now deployed in over 2,000 hospitals, Viz.ai reports a 74% reduction in in-hospital mortality risk for pulmonary embolism and an 8.4-fold increase in patients receiving guideline-directed cardiac monitoring.",
-      "result": "44% stroke transfer time reduction; 74% lower PE in-hospital mortality risk",
-      "url": "https://www.viz.ai/news/viz-ai-study-demonstrates-44-reduction-in-interfacility-stroke-transfer-times"
-    },
-    {
-      "title": "AI Ambient Scribes Cut EHR Documentation by 16 Minutes Per Encounter in Landmark Five-Hospital JAMA Study",
-      "source": "Mass General Brigham / AHA / 2-Minute Medicine",
+      "title": "FDA Clears Motivista — First Prescription Digital Therapeutic for Negative Symptoms of Schizophrenia",
+      "source": "Healio / GlobeNewswire",
       "category": "Digital Health",
-      "snippet": "A multi-site study across five U.S. academic medical centers, co-led by Mass General Brigham and UCSF and published in JAMA in April 2026, tracked over 1,800 clinicians using AI ambient scribes versus 6,770 controls for more than two years. AI scribes reduced total EHR time by 13.4 minutes and documentation time by 16 minutes per encounter, while also adding approximately 0.49 more patient visits per week per clinician — with Emory Healthcare reporting a 30.7% increase in documentation-related well-being.",
-      "result": "16-min documentation reduction per visit; 0.49 more visits/week/clinician",
+      "snippet": "The FDA granted 510(k) clearance in October 2026 to Motivista (CT-155), Click Therapeutics' smartphone-delivered prescription digital therapeutic, making it the first FDA-authorized treatment specifically targeting the negative symptoms of schizophrenia such as avolition, anhedonia, and asociality. The Phase III CONVOKE trial across 66 U.S. sites showed a 6.8-point improvement in CAINS-MAP negative-symptom severity at 16 weeks versus 4.2 points for a digital control — a 62% relative improvement — with no serious treatment-related adverse events and over 70% patient adherence through week 15.",
+      "result": "62% greater symptom improvement vs. digital control; 70%+ adherence at 16 weeks",
+      "url": "https://www.healio.com/news/psychiatry/20261009/fda-clears-motivista-for-negative-symptoms-in-schizophrenia"
+    },
+    {
+      "title": "Google AMIE Chatbot Completes First Real-World Primary Care Study in The Lancet: 90% Diagnostic Recall, Zero Safety Stops",
+      "source": "Medical Daily / Superpower Daily",
+      "category": "AI & Machine Learning",
+      "snippet": "Published October 8, 2026 in The Lancet, Google's AMIE conversational AI chatbot conducted supervised pre-visit text interviews with 98 real patients at Beth Israel Deaconess Medical Center's ambulatory primary care clinic without triggering a single predefined safety stop. AMIE's differential diagnosis list included the final clinical diagnosis in 90% of evaluated cases, and physicians reported that the AI-generated summaries influenced their approach to care in more than half of consultations.",
+      "result": "90% diagnostic recall across 98 live patients; zero safety stops triggered",
+      "url": "https://www.medicaldaily.com/google-amie-ai-chatbot-lancet-study-safety-479837"
+    },
+    {
+      "title": "Carta Healthcare Two-Year NSQIP Study: AI Maintains 99%+ Abstraction Accuracy Across 11 Hospitals",
+      "source": "PR Newswire / CityBiz",
+      "category": "AI & Machine Learning",
+      "snippet": "Results released October 27, 2026 from a two-year study of 11 hospitals in the ACS National Surgical Quality Improvement Program showed that Carta Healthcare's Lighthouse AI-assisted abstraction platform maintained audit accuracy above 99% across every data field — with AI-assisted sites averaging 99.36% versus 99.32% for manual abstraction. Every participating site met or exceeded the NSQIP 98% benchmark, while AI-enabled 100% field coverage replaced the typical 3–5% spot-check, enabling pattern-level abstractor education.",
+      "result": "99.36% abstraction accuracy maintained across 11 hospitals over two audit cycles",
+      "url": "https://www.prnewswire.com/news-releases/accuracy-held-at-99-as-hospitals-moved-nsqip-abstraction-to-ai-302920076.html"
+    },
+    {
+      "title": "Fiona Stanley Hospital Completes Four Robotic Prostatectomies in a Single Operating List — An Australian First",
+      "source": "Fiona Stanley Fremantle Hospitals Group / Dev.to Healthcare Robots",
+      "category": "Robotics & Surgery",
+      "snippet": "In October 2026, Fiona Stanley Hospital in Perth, Australia became the first public hospital in the country to successfully perform four robotic-assisted radical prostatectomies during a single operating list using the da Vinci system. Patients were discharged as early as the following morning, demonstrating the throughput efficiency gains possible with optimized robotic surgical workflows in public hospital settings.",
+      "result": "4 robotic prostatectomies in one operating list; patients discharged next morning",
+      "url": "https://fsfhg.health.wa.gov.au/News?page=5"
+    },
+    {
+      "title": "Ambient AI Scribes Cut Documentation Time 16 Minutes Per Visit Across Five Academic Medical Centers",
+      "source": "Mass General Brigham / 2 Minute Medicine",
+      "category": "Digital Health",
+      "snippet": "A large-scale study published in JAMA in April 2026, tracking ambient AI scribe deployment across five U.S. academic medical centers for over two years, found clinicians reduced EHR time by 13.4 minutes and documentation time by 16 minutes per patient encounter. Separate health-system data showed Mass General Brigham achieved a 21.2% reduction in burnout prevalence at 84 days, while Emory Healthcare reported a 30.7% increase in documentation-related well-being at 60 days.",
+      "result": "16-min documentation reduction per visit; 21.2% burnout drop at Mass General Brigham",
       "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/ai-scribes-linked-to-modest-reductions-in-ehr-documentation-time"
     },
     {
-      "title": "Phase 3 RACC Trial (JAMA Surgery): Robotic Hysterectomy Cuts Intraoperative Complications 43% vs. Open Surgery in 900-Patient Cervical Cancer RCT",
-      "source": "JAMA Surgery / MedicalXpress / CancerNetwork",
+      "title": "AI-Assisted Robotic Surgery Meta-Analysis: 25% Faster OR Times, 30% Fewer Intraoperative Complications",
+      "source": "PubMed Central / NIH (NCBI)",
       "category": "Robotics & Surgery",
-      "snippet": "A prespecified secondary analysis of the phase 3 RACC randomized trial, published in JAMA Surgery on October 7, 2026, enrolled 900 patients with early-stage cervical cancer randomized to robot-assisted versus open radical hysterectomy across European hospitals. Intraoperative complications occurred in 5.7% of robotic patients versus 10.0% in open surgery patients, though this advantage did not translate into meaningfully better postoperative recovery — with the primary recurrence-free survival endpoint still under follow-up.",
-      "result": "Intraoperative complications: 5.7% robotic vs. 10.0% open (900 patients)",
-      "url": "https://medicalxpress.com/news/2026-10-cervical-cancer-trial-similar-early.html"
+      "snippet": "A 2026 systematic review and meta-analysis of 25 peer-reviewed studies on AI-driven robotic surgery found AI-assisted procedures achieved a 25% reduction in operative time and a 30% decrease in intraoperative complications versus manual surgical techniques. The analysis also found surgical precision improved by 40%, patient recovery times shortened by 15%, and an average 20% increase in surgeon workflow efficiency.",
+      "result": "25% less operative time; 30% fewer intraoperative complications vs. manual surgery",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181090/"
     },
     {
-      "title": "Google SymptomAI Beats Physicians in Largest Real-World Conversational Diagnostic AI Study: 13,917 Patients via Fitbit App",
-      "source": "HealthTech Cube / Google Research / Remio.ai",
-      "category": "AI & Machine Learning",
-      "snippet": "Google Research deployed SymptomAI — built on Gemini 2.0 Flash — inside the Fitbit app and randomized 13,917 real patients between June 2025 and April 2026 to interact with five AI diagnostic agents. The system achieved 73% top-5 diagnostic accuracy versus 60% for physicians reviewing the same conversations, with clinicians preferring SymptomAI's differential diagnosis output in 52.9% of cases — well above the 33% chance baseline.",
-      "result": "73% top-5 diagnostic accuracy vs. 60% for physicians; 13,917-patient trial",
-      "url": "https://healthtechcube.com/article-google-symptomai-study.html"
-    },
-    {
-      "title": "Stryker Invests $400M in CMR Surgical, Becomes Exclusive U.S. Sales Agent for Versius Robotic Platform Used in 45,000 Global Cases",
-      "source": "Healthcare MEA / The Robot Report / Nelson Advisors",
+      "title": "Intuitive Surgical Forecasts 13–15% Global da Vinci 5 Procedure Growth in 2026 After FDA Clears Nine Cardiac Indications",
+      "source": "MedTech Dive",
       "category": "Robotics & Surgery",
-      "snippet": "Stryker announced on October 12, 2026, a $400 million preferred equity investment in CMR Surgical alongside exclusive U.S. commercial distribution rights for the Versius Plus surgical robotic system, which holds FDA 510(k) clearance for cholecystectomy. CMR's Versius platform has now been used in over 45,000 patient procedures across more than 30 countries, positioning it as the second most widely deployed soft-tissue surgical robot globally.",
-      "result": "45,000 patients treated globally; $400M U.S. market entry commitment",
-      "url": "https://www.healthcaremea.com/2026/10/25/stryker-invests-us400m-in-cmr-surgical-to-expand-versius-robotics-in-us/"
+      "snippet": "Intuitive Surgical forecasted 13–15% worldwide da Vinci procedure volume growth for 2026, driven in part by FDA clearance of nine new cardiac surgery indications including mitral and tricuspid valve repair, mitral valve replacement, and left atrial appendage closure. Executives highlighted the da Vinci 5's AI integration, advanced imaging, and motion-control capabilities as key factors enabling expansion into cardiac procedures previously considered too complex for robotic assistance.",
+      "result": "13–15% global procedure growth forecast; 9 new FDA-cleared cardiac indications",
+      "url": "https://www.medtechdive.com/news/5-robotic-surgery-trends-to-watch-2026/810577/"
     },
     {
-      "title": "FDA's AI-Enabled Medical Device Registry Surpasses 1,614 Authorized Devices as Radiology Leads with 76% Share",
-      "source": "MedTech Dive / Intuition Labs / Medical Design & Outsourcing",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The FDA's September 4, 2026 AI-enabled medical device list now contains 1,614 authorized devices, with 181 decisions made in 2026 alone through June — 75% of which fall in radiology. GE HealthCare leads all manufacturers with 120 cumulative AI authorizations, followed by Siemens Healthineers at 89 and Philips at 50, while the FDA approved more devices in H1 2026 than H1 2025 despite average PMA timelines extending to 599 days.",
-      "result": "1,614 AI devices authorized; 181 new in H1 2026; radiology at 76%",
-      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/"
-    },
-    {
-      "title": "DeLLphi-304 Extended Follow-Up Confirms Durable OS Benefit With Tarlatamab vs. Chemotherapy in Relapsed SCLC at ESMO 2026",
-      "source": "OncLive / OncoDaily / Pharmacy Times",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Updated data from the phase 3 DeLLphi-304 trial, presented at ESMO 2026 with approximately 23 months of follow-up, showed sustained overall survival of 13.6 months with tarlatamab versus 8.4 months with chemotherapy in previously treated SCLC — a 38% reduction in the hazard of death. The CNS data were equally striking: tarlatamab reduced the risk of CNS progression by 46% with median CNS PFS not yet reached versus 7.1 months for chemotherapy.",
-      "result": "OS 13.6 vs. 8.4 months; 46% CNS progression risk reduction",
-      "url": "https://www.onclive.com/view/extended-dellphi-304-follow-up-durable-survival-tarlatamab-previously-treated-sclc"
-    },
-    {
-      "title": "Apple Watch Series 11 Hypertension Notification Cleared; Wearable Clinical-Grade Feature Expansion Accelerates in 2026",
-      "source": "Life Science Daily / Wearable Health Tech 2026 / Top Doctor Magazine",
+      "title": "Wearable AI Predicts Patient Deterioration 8–24 Hours Before Standard Hospital Alerts in Northwell/Stanford Validation",
+      "source": "Feinstein Institutes / Stanford Medicine",
       "category": "Wearables & Monitoring",
-      "snippet": "The Apple Watch Series 11 added FDA-cleared hypertension notifications in September 2025, making it the only consumer wearable cleared for ECG/AFib detection, sleep apnea notifications, and hypertension alerts simultaneously. The FDA's January 2026 wellness guidance revised the regulatory boundary for non-invasive wearables, while the agency cleared 47 sensor-based digital health devices in 2025 alone — spanning ECG monitors, sleep apnea detectors, continuous glucose sensors, and seizure trackers.",
-      "result": "47 wearable sensor devices FDA-cleared in 2025; Apple Watch adds hypertension alert",
-      "url": "https://lifesciencedaily.news/from-wrist-to-ward-which-wearables-have-earned-clinical-trust/"
+      "snippet": "A Northwell Health study published in Nature Communications demonstrated that a deep-learning AI algorithm trained on continuous wearable vital signs can predict patient deterioration up to 17 hours in advance of adverse clinical outcomes, outperforming standard hospital early-warning scores. A complementary Stanford-Harvard State of Clinical AI report corroborated the finding, noting that wearable-trained models predicted ICU transfer, cardiac arrest, or death risk 8–24 hours before standard alerts across multiple hospital-based deployments.",
+      "result": "Patient deterioration predicted up to 17–24 hours before standard hospital alerts",
+      "url": "https://feinstein.northwell.edu/news/the-latest/feinstein-study-ai-wearable-predicts-patient-deterioration"
     }
   ],
-  "generated_at": "2026-10-27T11:43:04.526748+00:00"
+  "generated_at": "2026-10-28T12:14:52.415128+00:00"
 }
