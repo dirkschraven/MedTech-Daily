@@ -1,112 +1,120 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-31",
   "feature": {
-    "title": "From Pilots to Proof: Real-World Medtech Deployments Deliver Measurable Outcomes Across AI, Surgery, and Devices",
-    "summary": "October 2026 marks a decisive inflection point for medical technology, with real-world clinical evidence now backing a wave of AI diagnostic tools, surgical robots, and implantable devices that were once purely aspirational. Microsoft's MAI-DxO scored 83% on complex NEJM cases versus 36% for generalist physicians, while Google's AMIE completed a supervised Lancet-published study in real urgent care settings — both systems now moving toward true hospital deployments. On the device side, the FDA's approval of the AUTUS pediatric heart valve and Senseonics' launch of the first-in-human Freedom CGM trial signal breakthroughs in hardware innovation with early clinical validation data in hand. Across the board, ambient AI scribes, radiology triage platforms, and wearable post-surgical monitors are graduating from pilot programs to institutional rollouts with published, measurable outcome data.",
+    "title": "October 2026's Medtech Milestone Month: AI Diagnostics Break Benchmarks, Five FDA Approvals Backed by Trial Data",
+    "summary": "October 2026 has delivered one of the most evidence-rich months in recent medtech history, with peer-reviewed clinical results, pivotal-trial-backed FDA approvals, and real-world device deployments arriving in rapid succession. The biggest story is Microsoft's MAI-DxO AI diagnostic orchestrator, which hit 83% accuracy on complex NEJM cases versus 36% for generalist doctors in a Science-published study — the sharpest human-vs-AI benchmark yet recorded in clinical medicine. Simultaneously, Abbott, Penumbra, Edwards Lifesciences, Eko Health, and Novo Nordisk all received FDA approvals grounded in multicenter clinical trials, signaling a maturing pipeline where regulatory decisions are increasingly tied to real patient outcome data. Across wearables, surgical robotics, and cardiac imaging, the month confirms a clear industry shift: AI and connected devices are no longer in pilot mode — they are generating measurable, publishable results at scale.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Microsoft's MAI-DxO multi-agent diagnostic AI achieved 83% accuracy on complex NEJM cases vs. 36% for generalist physicians, and is now entering real-world hospital evaluation at Beth Israel Deaconess."
+        "text": "Microsoft's MAI-DxO AI diagnostic orchestrator achieved 83% accuracy on complex medical cases versus 36% for generalist physicians in a peer-reviewed Science study published October 22."
       },
       {
         "label": "Key trend",
-        "text": "Ambient AI scribes, radiology triage tools, and wearable post-op monitors are all crossing the threshold from pilot programs to scaled, evidence-backed institutional deployments with published outcomes."
+        "text": "Multiple October FDA approvals — from Abbott's PVL occluder to Penumbra's DVT thrombectomy device — were each anchored to prospective multicenter trial data, reflecting a tightening evidence standard for novel medtech."
       },
       {
         "label": "To watch",
-        "text": "Senseonics' Freedom CGM — the world's first fully implantable, transmitter-free one-year glucose sensor — just dosed its first human, with a pivotal trial targeted for 2027 and commercial launch in 2028."
+        "text": "Microsoft's announced clinical partnership with Beth Israel Deaconess Medical Center to test MAI-DxO in live emergency department settings will be the first true real-world validation of the benchmark-shattering system."
       }
     ]
   },
   "articles": [
     {
-      "title": "Microsoft MAI-DxO Diagnoses 83% of Complex Cases in Science Study, Beth Israel Hospital Trial Launching",
-      "source": "TechCrunch / Science",
+      "title": "Microsoft's MAI-DxO AI Diagnostic Orchestrator Achieves 83% Accuracy on Complex Cases, Doubling Physician Performance",
+      "source": "The Next Web / Science (peer-reviewed)",
       "category": "AI & Machine Learning",
-      "snippet": "Microsoft's multi-agent AI diagnostic system MAI-DxO achieved 83% accuracy on 304 complex NEJM case records, compared to 36% for generalist physicians using reference materials. On a separate set of 325 real Beth Israel Deaconess ED cases, DxO scored approximately 80% versus ~47% for physicians, with Microsoft now partnering with the hospital to launch what it expects will be the largest clinical AI evaluation of its kind in emergency and urgent care settings.",
-      "result": "83% vs. 36% accuracy: AI vs. generalist physicians on complex cases",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+      "snippet": "A peer-reviewed study published in Science on October 22, 2026, found that Microsoft's MAI-DxO — a multi-agent AI system running on GPT-5 — correctly diagnosed 83.2% of 304 challenging NEJM clinical cases, compared to 36% for generalist physicians with reference materials. The system also scored 80.3% on over 300 real Beth Israel Deaconess emergency department admissions, versus 46.8% for the human comparison group.",
+      "result": "83% AI accuracy vs. 36% for physicians on complex NEJM cases",
+      "url": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study"
     },
     {
-      "title": "FDA Approves AUTUS Size-Adjustable Heart Valve: First Pediatric Valve Designed to Grow With the Child",
-      "source": "FDA.gov / Becker's Hospital Review",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "The FDA approved Edwards Lifesciences' Autus Size-Adjustable Valve on October 1, 2026 — the first heart valve designed to be expanded inside a child's body after implantation using a minimally invasive balloon catheter, potentially eliminating repeat open-heart surgeries as children grow. The approval is based on a 62-patient clinical study across 12 U.S. sites in which all procedures succeeded with no deaths, strokes, or clot-related complications, and two patients who began outgrowing their valves had them expanded successfully without surgery.",
-      "result": "62-patient study: 100% procedural success, 0 deaths or strokes",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
-    },
-    {
-      "title": "Senseonics Doses First Human in Trial of Freedom: World's First Transmitter-Free One-Year CGM",
-      "source": "MDDIOnline / GlobeNewswire",
-      "category": "Wearables & Monitoring",
-      "snippet": "Senseonics initiated its first-in-human clinical study of Freedom, an investigational implantable CGM that communicates directly to a smartphone via Bluetooth with zero external on-body components, building on its FDA-approved Eversense 365 platform. Preclinical animal studies completed in Q2 2026 collected over 18,500 communication data points, with the preferred antenna configuration achieving 100% Bluetooth communication success within target operational range — a key milestone before the planned 2027 pivotal trial.",
-      "result": "100% BLE communication success rate in preclinical; first human dosed",
-      "url": "https://www.mddionline.com/diabetes/senseonics-tests-the-world-s-first-cgm-without-an-on-body-transmitter"
-    },
-    {
-      "title": "Leeds Teaching Hospitals Plans Full ED Rollout After TORTUS Ambient AI Cuts Documentation Time 61%",
-      "source": "Dereck Mush / Substack Health Signal",
-      "category": "AI & Machine Learning",
-      "snippet": "Leeds Teaching Hospitals NHS Trust announced a phased emergency department rollout of TORTUS ambient voice AI following a February–April 2026 pilot that reduced documentation time by 61%, approximately 13 minutes per clinical consultation. The pilot reported high accuracy on medication and allergy details, no serious safety incidents, and the rollout will extend to majors, minors, paediatrics, and emergency nurses — with TORTUS holding the first UKCA Class IIa certification for ambient voice technology.",
-      "result": "61% reduction in documentation time (~13 min saved per consult)",
-      "url": "https://dereckmush.substack.com/p/leeds-ed-cuts-documentation-time"
-    },
-    {
-      "title": "Google AMIE Conversational Diagnostic AI Published in The Lancet: Zero Safety Stops in 98 Real Urgent Care Patients",
-      "source": "The Lancet / Unite.AI",
-      "category": "AI & Machine Learning",
-      "snippet": "A Lancet-published prospective feasibility study led by Google and Beth Israel Deaconess Medical Center found that Google's AMIE chatbot conducted supervised pre-visit text conversations with 98 real urgent care patients without triggering any predefined safety stops, and was rated favorably by clinical evaluators in 87–100% of cases across 17 criteria. Physicians found AMIE's AI-generated summaries useful for visit preparation in 33 of 44 surveyed cases, and patient attitudes toward AI remained elevated even after in-person consultations.",
-      "result": "Zero safety stops across 98 real patient interactions; 87–100% clinician quality ratings",
-      "url": "https://www.unite.ai/googles-amie-primary-care-feasibility-study-published-in-the-lancet/"
-    },
-    {
-      "title": "J&J OTTAVA Surgical Robot Meets All Primary Endpoints in Pivotal Bariatric FORTE Study Across 6 U.S. Hospitals",
-      "source": "Johnson & Johnson / MassDevice",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced results from the FORTE study — the first clinical trial of its investigational OTTAVA multi-arm soft-tissue surgical robot — showing the system met all primary safety and performance endpoints in a 30-patient cohort undergoing Roux-en-Y gastric bypass across six U.S. sites. All procedures were completed robotically without conversion, average weight loss by 30 days was 30 pounds, and the system was deployed in ORs at five sites that had never previously hosted robotic surgery.",
-      "result": "30/30 procedures completed robotically; all safety endpoints met; 30 lbs avg weight loss",
-      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system"
-    },
-    {
-      "title": "Viz.ai ISC 2026 Data: 44% Reduction in Stroke Transfer Times, From 202 to 113 Minutes",
-      "source": "BusinessWire / Viz.ai",
-      "category": "AI & Machine Learning",
-      "snippet": "Real-world data presented at the 2026 International Stroke Conference showed that deploying the Viz.ai AI-powered LVO stroke detection platform at Adventist Health + Rideout reduced door-in-door-out transfer times by 44%, dropping from 202 minutes to 113 minutes — exceeding the Joint Commission's 120-minute national benchmark. The gains were driven by an 84% reduction in time from CT completion to AI detection and cutting care-team notification from 45 minutes to just 7 minutes.",
-      "result": "DIDO time cut from 202 to 113 minutes (44% reduction); notification time: 45→7 min",
-      "url": "https://www.businesswire.com/news/home/20260305970976/en/Viz.ai-Study-Demonstrates-44-Reduction-in-Interfacility-Stroke-Transfer-Times"
-    },
-    {
-      "title": "Aidoc CARE Foundation Model: FDA-Cleared to Triage 14 CT Conditions at 97% Sensitivity, Deployed Across ~2,000 Hospitals",
-      "source": "Medscape / Radiology Business",
+      "title": "Abbott Wins FDA Approval for First-Ever Transcatheter Device to Treat Heart Valve Leaks, Backed by 200-Patient PARADIGM Trial",
+      "source": "Cardiovascular Business",
       "category": "Diagnostics & Imaging",
-      "snippet": "In January 2026, the FDA cleared Aidoc's CARE foundation model — the first AI device to cover 14 acute abdomen CT conditions (including appendicitis, aortic dissection, and bowel obstruction) from a single scan in one integrated workflow, achieving mean 97% sensitivity and 98% specificity in the FDA-reviewed pivotal study. The system is now deployed across approximately 2,000 hospitals worldwide and has analyzed over 100 million patient cases via the Aidoc aiOS platform, processing 60 million cases annually.",
-      "result": "97% sensitivity / 98% specificity across 14 CT conditions; 2,000+ hospital deployments",
-      "url": "https://www.medscape.com/viewarticle/ai-model-fda-cleared-triage-14-conditions-2026a10002a0"
+      "snippet": "Abbott received FDA approval on October 28, 2026, for the Amplatzer Paraclose PVL Occluder — the first transcatheter device specifically cleared to treat paravalvular leak after heart valve replacement surgery, eliminating the need for repeat open-heart operations. The approval was supported by positive clinical data from the PARADIGM study, a prospective multicenter trial of 200 patients demonstrating the device's safety and efficacy as a minimally invasive alternative.",
+      "result": "First FDA-cleared transcatheter PVL closure device; 200-patient PARADIGM trial",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/fda-approves-abbott-device-pvl-heart-valve-surgery"
     },
     {
-      "title": "Wearable Telemonitoring Enables 48-Hour Earlier Discharge After Robotic Uro-Oncologic Surgery With Safer Outcomes",
-      "source": "Springer / Journal of Robotic Surgery",
+      "title": "Penumbra's Lightning CAVT Clears FDA for DVT: BOLT-DVT Trial Shows 98% Clot Removal in 18 Minutes",
+      "source": "Venous News / PR Newswire",
+      "category": "Robotics & Surgery",
+      "snippet": "Penumbra's Lightning computer-assisted vacuum thrombectomy (CAVT) technology received FDA clearance on October 20, 2026, for the treatment of deep vein thrombosis — the first such cleared indication for a mechanical thrombectomy device, representing decades-overdue evolution beyond anticoagulation-only care. The BOLT-DVT IDE trial showed 98% of patients achieved complete or near-complete thrombus removal in a median 18 minutes, with median leg pain falling from 5 to 0 immediately post-procedure and remaining at 0 at 30 days.",
+      "result": "98% complete clot removal; pain score 5→0; 84.3% free of post-thrombotic syndrome at 30 days",
+      "url": "http://venousnews.com/penumbra-receives-us-fda-clearance-for-lightning-cavt-technology-for-the-treatment-of-dvt/"
+    },
+    {
+      "title": "Dexcom CONNECT Trial Published in NEJM: CGM Delivers 1.6-pt A1C Reduction and 5 Extra Hours Daily In-Range for Non-Insulin Type 2 Diabetics",
+      "source": "Drugstore News / New England Journal of Medicine",
       "category": "Wearables & Monitoring",
-      "snippet": "A multicenter prospective study published in 2026 found that 43 patients using a wearable sensor-equipped shirt after robot-assisted prostatectomy or nephrectomy were safely discharged 48 hours earlier than standard care (2.8 vs. 4.7 days, p<0.001) with significantly fewer unscheduled hospital visits (2.3% vs. 25.6%, p<0.01). The remote monitoring system generated 68 clinical alerts, triggering timely teleconsultations, and achieved a mean usability score of 95.3 out of 100 on the validated MAUQ scale.",
-      "result": "48-hr earlier discharge; unscheduled visits: 2.3% (wearable) vs. 25.6% (standard care)",
+      "snippet": "The landmark Dexcom CONNECT randomized controlled trial — the first CGM trial published in NEJM in nearly two decades — demonstrated that the Dexcom G7 worn by non-insulin-using type 2 diabetes patients reduced A1C by 1.6 percentage points from a baseline of 8.8%, a 0.9-point greater reduction than routine care across 22 U.S. primary care sites. Participants also spent approximately five additional hours per day within the 70–180 mg/dL target glucose range, with 68% achieving A1C below 7.5% at 26 weeks.",
+      "result": "1.6-pt A1C drop; 5 extra hrs/day in-range; 68% hit A1C<7.5% at 26 weeks",
+      "url": "https://drugstorenews.com/dexcom-g7-improves-glucose-outcomes-adults-type-2-diabetes-study-finds"
+    },
+    {
+      "title": "Eko Health Launches FDA-Cleared CORE 300 AI Stethoscope With 92% Murmur Detection Sensitivity, Backed by TRICORDER Study",
+      "source": "HIT Consultant / Cardiovascular Business",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Eko Health commercially launched the CORE 300 on October 22, 2026 — the first stethoscope to combine traditional analog and 35x-amplified digital listening in a single chestpiece, with FDA-cleared AI structural murmur detection at 92% sensitivity. Earlier results from the company's TRICORDER study showed that AI-assisted stethoscope exams meaningfully improved early cardiac disease detection in real-world clinical settings, and more than 750,000 Eko devices have now been deployed globally.",
+      "result": "92% AI murmur sensitivity; TRICORDER real-world improvement confirmed; 750k devices deployed",
+      "url": "https://hitconsultant.net/2026/10/23/eko-health-launches-fda-cleared-core-300-dual-mode-ai-stethoscope-structural-murmur/"
+    },
+    {
+      "title": "Biograph's First U.S. CaRi-Heart Study: FDA-Cleared AI Found Coronary Inflammation in 43% of Asymptomatic Adults Missed by Standard Tests",
+      "source": "Cardiovascular Business",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Biograph published the first U.S. real-world clinical study of Caristo Diagnostics' FDA De Novo-cleared CaRi-Heart AI software on October 22, 2026, finding elevated coronary inflammation in 42.9% of asymptomatic, low-risk adults screened by cardiac CT — with 17.9% showing very high inflammation in at least one major artery. Critically, conventional cholesterol markers, HbA1c, and C-reactive protein showed no correlation with the AI-detected inflammation, indicating a distinct, previously undetectable risk population.",
+      "result": "AI flagged elevated coronary inflammation in 43% of low-risk patients invisible to standard blood tests",
+      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients"
+    },
+    {
+      "title": "Edwards Lifesciences' AUTUS Expandable Pediatric Heart Valve Wins FDA Approval: 62-Patient Trial Shows Zero Deaths, Strokes, or Clots",
+      "source": "Cardiovascular Business / Becker's Hospital Review",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA approved the AUTUS Size-Adjustable Valve on October 1, 2026 — the first heart valve designed to expand inside a child's body as they grow, potentially eliminating repeat open-heart surgeries for pediatric congenital pulmonary valve disease. Based on a pivotal study of 62 children at 12 U.S. hospitals, all implantations succeeded with no deaths, strokes, or blood clots requiring treatment; two patients who began outgrowing their valves had them widened non-surgically by balloon catheter.",
+      "result": "Zero deaths/strokes/clots in 62-patient trial; two valves expanded non-surgically",
+      "url": "https://cardiovascularbusiness.com/topics/congenital-heart-disease/fda-approves-first-heart-valve-grows-children"
+    },
+    {
+      "title": "J&J's Ottava Surgical Robot Meets All Safety Endpoints in Pivotal 30-Patient Bariatric Study Across 6 Hospitals",
+      "source": "MD+DI Online / MassDevice",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson announced results from the first clinical study of its Ottava surgical robot at the 2026 ASMBS Annual Meeting, showing the system met all primary safety and performance endpoints through 30 days post-procedure in a prospective multicenter bariatric surgery study. All 30 Roux-en-Y gastric bypass procedures were completed robotically without conversion, across six participating hospitals, with an average patient weight loss of 30 pounds by 30 days post-surgery.",
+      "result": "100% procedure completion rate; avg. 30-lb weight loss at 30 days across 6 hospitals",
+      "url": "https://www.mddionline.com/robotics/johnson-johnson-hits-critical-milestone-for-ottava-robotic-surgical-system"
+    },
+    {
+      "title": "Novo Nordisk's Awiqli Becomes First Once-Weekly Insulin Approved for Children Aged 10+ With Type 2 Diabetes",
+      "source": "Renal and Urology News / Novo Nordisk",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA approved Awiqli (insulin icodec-abae) on October 23, 2026, for children aged 10 and older with type 2 diabetes, making it the first once-weekly basal insulin for pediatric patients and reducing injection frequency from seven to one per week. The pediatric approval draws on the ONWARDS phase 3a program of four trials in approximately 2,680 adults plus a supportive pharmacokinetic study in 18 pediatric patients confirming safe drug absorption and clearance.",
+      "result": "First weekly pediatric insulin; injections reduced 7x/week → 1x/week; ONWARDS trial: ~2,680 adults",
+      "url": "https://www.renalandurologynews.com/news/awiqli-fda-approval-pediatric-type-2-diabetes/"
+    },
+    {
+      "title": "Wearable Telemonitoring Enables Safe Early Discharge After Major Robot-Assisted Uro-Oncologic Surgery, Springer Study Finds",
+      "source": "Journal of Robotic Surgery (Springer)",
+      "category": "Wearables & Monitoring",
+      "snippet": "A published study in the Journal of Robotic Surgery found that early discharge supported by wearable telemonitoring devices is feasible and safe for carefully selected patients undergoing major robot-assisted uro-oncologic surgery, including radical cystectomy and nephrectomy. Patients in the wearable monitoring group showed high user acceptance of the telemonitoring technology, with favorable usability and satisfaction scores — and no increase in adverse outcomes versus the standard care control group.",
+      "result": "Early discharge confirmed safe with wearables; high patient acceptance; no increase in adverse outcomes",
       "url": "https://link.springer.com/article/10.1007/s11701-026-03696-9"
     },
     {
-      "title": "Real-World AI Radiology Network Study: 26% Faster Trauma X-Ray Turnaround, 389K AI-Assisted Exams Over 4.5 Years",
-      "source": "The Imaging Wire / JACR",
-      "category": "Diagnostics & Imaging",
-      "snippet": "A study published in JACR tracked 10 AI algorithms from seven vendors deployed across a 20-center outpatient radiology network in Switzerland over 4.5 years, processing 389,000 AI-assisted imaging exams. AI had its biggest measured impact in high-volume modalities, reducing report turnaround time by 26% for trauma radiography and 18% for knee MRI, while also expanding diagnostic capacity equivalent to nearly half a full-time radiologist.",
-      "result": "26% TAT reduction in trauma radiography; 389K AI-assisted exams validated",
-      "url": "https://theimagingwire.com/2026/09/30/ai-adoption-led-to-measurable-improvements-in-radiology/"
+      "title": "Ambient AI Clinical Documentation Deployed in 90% of Visits at Ardent Health, Cutting Documentation Time and Burnout",
+      "source": "AI Weekly (aiweekly.co)",
+      "category": "AI & Machine Learning",
+      "snippet": "Real-world deployment data from Ardent Health confirms ambient AI clinical documentation is now used in 90% of patient visits across the system, with the hospital framing the technology as a key workforce-capacity tool against a looming physician shortage. Separately, the Stanford-Harvard State of Clinical AI report cited hospital-system-wide evidence of physicians spending up to 83% less time on note-writing, with one system reporting a 112% return on investment.",
+      "result": "90% of Ardent Health visits use ambient AI; up to 83% documentation time reduction system-wide",
+      "url": "https://aiweekly.co/ai-use-cases/industry/healthcare"
     },
     {
-      "title": "CDRH Authorizes 151 Novel Devices in FY2026, Rebuilds Reviewer Workforce After 30% Staff Loss",
-      "source": "Citeline MedTech Insight",
-      "category": "Other",
-      "snippet": "CDRH Director Michelle Tarver, speaking at the MedTech Conference in Boston, reported that the FDA center authorized 151 novel medical devices in fiscal year 2026 while simultaneously rebuilding a regulatory review workforce that lost approximately 30% of its reviewers. The center is also preparing draft guidance for generative AI-enabled medical devices following the close of a public feedback docket on agentic AI systems on October 19, 2026.",
-      "result": "151 novel device authorizations in FY2026 despite 30% reviewer workforce loss",
-      "url": "https://insights.citeline.com/medtech-insight/conferences/advamed/tarver-cdrh-rebuilding-review-staff-as-novel-device-authorizations-reach-151-in-fiscal-2026-JZ2VSTIPFVEGVIPHMXC5KWWWZI/"
+      "title": "Medtech's 2026 Year in Review: GE HealthCare Leads 1,614-Device FDA AI List; Medtronic Deploys Touch Surgery Aide in OR",
+      "source": "Medical Product Outsourcing (mpo-mag.com)",
+      "category": "AI & Machine Learning",
+      "snippet": "MPO's 2026 medtech year-in-review confirms GE HealthCare maintains its lead atop the FDA's AI-enabled medical device list — now 1,614 entries as of the September 2026 update — with 90% of authorized AI devices focused on radiology and imaging. Medtronic previewed its Touch Surgery Aide at the Society of Robotic Surgery 2026 Annual Meeting, an AI-native surgical computing platform using real-time computer vision and multimodal AI to process surgical video and procedural context directly in the operating room.",
+      "result": "FDA AI device list hits 1,614; GE leads; Medtronic OR AI platform previewed at SRS 2026",
+      "url": "https://www.mpo-mag.com/the-new-reality-remade-medtechs-2026-year-in-review/"
     }
   ],
-  "generated_at": "2026-10-29T12:25:02.975456+00:00"
+  "generated_at": "2026-10-31T11:48:02.902065+00:00"
 }
