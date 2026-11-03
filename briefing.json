@@ -1,120 +1,120 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "feature": {
-    "title": "Clinical Evidence Mounts: From AI Scribes Saving 16 Minutes Per Visit to Wearables Halving Cardiac Deaths, Medtech Moves Beyond the Pilot",
-    "summary": "Today's medtech landscape is defined by a decisive shift from proof-of-concept to measurable, real-world outcomes. Three converging themes dominate: AI documentation tools are reaching enterprise scale at major health systems with quantified time savings, cardiac monitoring devices are demonstrating mortality benefits in large randomized trials, and patient-facing conversational AI has cleared its first prospective safety hurdle in a Lancet publication. Simultaneously, the cardiac ablation space is flush with robust registry data from thousands of real patients, and imaging AI is exposing critical diagnostic gaps—such as an 84% under-reporting rate for aortic valve calcification—that only automated tools can reliably close. The cumulative picture is an industry that has graduated from hype to hard numbers.",
+    "title": "From Bench to Bedside: TCT 2026 Caps a Year of Landmark Medtech Deployments and Trial Readouts",
+    "summary": "Today marks the final day of TCT 2026 in San Diego, where the cardiology world receives the PROTEMBO IDE trial's final results on cerebral embolic protection during TAVR — one of 28 late-breaking studies at the conference. The readout arrives alongside a year of historic medtech deployments: J&J's OTTAVA robot cleared for ten general surgery procedures and now commercially launching, Aidoc's AI platform processing 60 million cases annually across 1,600+ hospitals, and Abbott's Libre Duo dual glucose-ketone sensor becoming the world's first device to continuously track both analytes. The macro theme of 2026 is unmistakable: clinical AI and novel devices are no longer in pilot mode — measurable real-world outcomes data now validates them at scale. Across robotics, diagnostics, genomics, and wearables, the evidential bar has risen from FDA clearance to proven patient impact.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Google's AMIE AI completed 98 real primary-care encounters at BIDMC with zero safety stops, published in The Lancet—the first prospective real-world trial of patient-facing diagnostic AI."
+        "text": "TCT 2026 closes today with the PROTEMBO IDE final results and the landmark PROGRESS trial data on TAVR vs. surveillance for moderate aortic stenosis — both set to reset structural heart practice guidelines."
       },
       {
         "label": "Key trend",
-        "text": "Ambient AI scribes are now enterprise-scale realities: a five-center JAMA study confirmed 16 minutes saved per encounter, while Spain's Quirónsalud system crossed 2.3 million AI-assisted consultations."
+        "text": "Hospital-deployed AI is now producing hard outcome numbers: City of Hope cut surgical complication rates from 58.8% to 46%, Aidoc's sepsis AI reduced in-hospital mortality by 39.5% across 9 hospitals, and Viz.ai slashed LVO stroke door-to-door time by 44%."
       },
       {
         "label": "To watch",
-        "text": "Medtronic's REAL PULSE registry showed 100% acute PVI success across 1,160 AF patients at 38 global sites, signaling pulsed field ablation is becoming the new standard of care for arrhythmia treatment."
+        "text": "Precision BioSciences' PBGENE-HBV ELIMINATE-B trial oral presentation at AASLD on November 8 could be the year's most important gene-editing clinical readout."
       }
     ]
   },
   "articles": [
     {
-      "title": "Google's AMIE Conversational Diagnostic AI Completes First Real-World Primary Care Trial: 98 Patients, Zero Safety Stops",
-      "source": "The Lancet / Google Research / BIDMC",
-      "category": "AI & Machine Learning",
-      "snippet": "Researchers at Google and Beth Israel Deaconess Medical Center conducted the first prospective real-world study of a patient-facing conversational AI (AMIE) in an urgent primary care clinic, enrolling 114 patients with 98 completing both the AI interaction and physician visit. Supervising physicians identified just one hallucination across all encounters, and AMIE's differential diagnosis matched the chart-adjudicated reference diagnosis in 90% of cases; physicians reported the AI summaries helped them prepare for visits in 75% of reviewed cases.",
-      "result": "0 safety stops; 90% diagnostic accuracy across 98 real encounters",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01535-7/abstract"
+      "title": "PROTEMBO IDE Trial Final Results Presented at TCT 2026: Cerebral Protection During TAVR Under the Microscope",
+      "source": "Cardiovascular Research Foundation / TCT Conference",
+      "category": "Diagnostics & Imaging",
+      "snippet": "The final results of the randomized PROTEMBO IDE trial — evaluating the ProtEmbo cerebral embolic protection device against hybrid controls during TAVR — were presented today, November 3, at TCT 2026 in San Diego by Susheel Kodali. The trial compared new brain lesion volumes via DW-MRI at 36 hours post-procedure, with earlier feasibility data showing 87% of patients had no single lesion exceeding 150mm³ and a 94.6% device success rate with no deaths or device-related adverse events.",
+      "result": "87% of TAVR patients showed no large brain lesion post-procedure",
+      "url": "https://www.tctconference.com/late-breaking-clinical-trials-science"
     },
     {
-      "title": "Ambient AI Scribes Reduce Documentation Time by 16 Minutes Per Encounter Across Five Academic Medical Centers",
-      "source": "JAMA / 2 Minute Medicine",
-      "category": "AI & Machine Learning",
-      "snippet": "A large study published in JAMA in April 2026 evaluated ambient AI scribes across five academic medical centers, finding that total EHR time dropped by 13.4 minutes per encounter and documentation time specifically fell by 16 minutes per visit. Clinicians also added an average of 0.49 more patient visits per week, representing a meaningful productivity gain across real hospital workflows.",
-      "result": "16-min documentation reduction per visit; +0.49 patients/week productivity gain",
-      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
+      "title": "PROGRESS Trial Primary Results: TAVR vs. Clinical Surveillance in 2,250 Moderate Aortic Stenosis Patients",
+      "source": "Transcatheter Academy / CRF",
+      "category": "Robotics & Surgery",
+      "snippet": "The PROGRESS randomized trial — comparing TAVR to watchful waiting in 2,250 symptomatic patients with moderate aortic stenosis — delivered its primary results at TCT 2026 on November 2 in collaboration with the New England Journal of Medicine. The trial could redefine when clinicians intervene, challenging the established threshold of waiting until aortic stenosis becomes severe before offering transcatheter valve replacement.",
+      "result": "Primary results from 2,250-patient TAVR timing trial published in NEJM",
+      "url": "https://www.transcatheteracademy.com/news/tct-2026-late-breaking-clinical-trials-announced"
     },
     {
-      "title": "Quirónsalud Ambient AI Scribe Surpasses 2.3 Million Encounters in Europe's Largest Real-World Deployment",
-      "source": "Frontiers in Digital Health",
+      "title": "J&J OTTAVA Surgical Robot: FDA-Authorized and Commercially Launching After Meeting All Pivotal Endpoints",
+      "source": "MassDevice / Johnson & Johnson",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson received FDA De Novo authorization for the OTTAVA robotic surgical system in July 2026, covering ten general surgery procedures including gastric bypass, gastrectomy, and cholecystectomy. A pivotal multicenter study showed all procedures completed robotically without conversion, average 30-day weight loss of 30 pounds, and 100% of surveyed surgeons agreed OTTAVA can convert compact rooms into robotic suites.",
+      "result": "All cases completed robotically; 30-lb average weight loss at 30 days",
+      "url": "https://www.massdevice.com/johnson-johnson-fda-approval-ottava-surgical-robot/"
+    },
+    {
+      "title": "Aidoc CARE Foundation Model: 97% Sensitivity Across 14 Conditions, Now in 1,600+ Hospitals",
+      "source": "MD+DI / Aidoc",
+      "category": "AI & Machine Learning",
+      "snippet": "Aidoc's CARE multi-condition AI triage model — cleared by the FDA in January 2026 for body CT — achieved 97% mean sensitivity and 98% mean specificity across 14 acute findings in its pivotal study, and is now deployed across more than 1,600 hospitals processing 60 million patient cases annually. Germany's Asklepios Group completed one of Europe's largest clinical AI rollouts, deploying Aidoc's aiOS across 28 hospitals analyzing 35,000+ CT and X-ray images monthly.",
+      "result": "97% sensitivity, 98% specificity; 60M cases/year across 1,600+ hospitals",
+      "url": "https://www.aidoc.com/about/news/asklepios-successfully-completes-comprehensive-ai-rollout-in-radiology-28-hospitals-using-aidoc-to-support-patient-care/"
+    },
+    {
+      "title": "Abbott Libre Duo 10 Day: FDA Authorizes World's First Dual Glucose-Ketone Wearable Sensor",
+      "source": "MedTech Dive / Abbott",
+      "category": "Wearables & Monitoring",
+      "snippet": "The FDA authorized Abbott's Libre Duo 10 Day in August 2026 — the first wearable anywhere to continuously monitor both glucose and ketones in a single sensor, cleared for patients aged 2 and older. Authorization followed six clinical studies enrolling more than 600 participants; results showed the device accurately tracked rising ketone levels before DKA onset, with 84.1% of adult sensors lasting the full 10-day wear period.",
+      "result": "DKA-onset ketone elevation detected; 84.1% full 10-day sensor completion",
+      "url": "https://www.medtechdive.com/news/abbott-receives-fda-nod-for-dual-analyte-sensor/828770/"
+    },
+    {
+      "title": "REVA Medical MOTIV BTK Trial: Bioresorbable Scaffold Shows 22-Point Patency Advantage Over Balloon Angioplasty",
+      "source": "Endovascular Today / Newswise",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "REVA Medical's pivotal MOTIV BTK randomized trial met both primary safety and efficacy endpoints, with 12-month vessel patency of 70% for the sirolimus-eluting bioresorbable scaffold vs. 48% for balloon angioplasty — a 22% absolute improvement in a complex CLTI population. Late-breaking subgroup data were presented at VIVA26 in Las Vegas in October, and a live below-the-knee revascularization case was successfully demonstrated at the conference.",
+      "result": "70% vs. 48% 12-month patency: 22-point absolute superiority over angioplasty",
+      "url": "https://evtoday.com/news/reva-medicals-motiv-btk-trial-meets-primary-efficacy-endpoint"
+    },
+    {
+      "title": "CAR-T Therapy Azer-cel Shows Stable or Improved Disability in 89% of Progressive MS Patients",
+      "source": "BioSpace / Multiple Sclerosis News Today",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "TG Therapeutics presented the first clinical evaluation of an allogeneic CD19-directed CAR T-cell therapy in progressive multiple sclerosis at MSToronto2026 on October 23, 2026. Azer-cel demonstrated an encouraging preliminary safety profile with no high-grade CAR-T toxicities, and 89% of evaluable participants had stable or improved disability scores at Day 90 despite documented progression on prior high-efficacy therapies.",
+      "result": "89% of progressive MS patients stable or improved at Day 90; zero high-grade toxicities",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/27/car-t-cell-therapy-shows-encouraging-results-progressive-ms/"
+    },
+    {
+      "title": "City of Hope AI Risk Model Cuts Surgical Complications in Cancer Patients from 58.8% to 46%",
+      "source": "Association of Health Care Journalists / Health Journalism",
+      "category": "AI & Machine Learning",
+      "snippet": "Surgical oncologist Lily Lai at City of Hope reported that a predictive AI tool embedded in patient EHR charts has reduced severe complication rates among high-risk cancer surgery patients from 58.8% to 46%, as discussed at AHCJ's fall summit in Los Angeles on October 29, 2026. The tool generates a pre-operative risk score from the top 10 complication risk factors, enabling surgeons to optimize or defer surgery in high-risk cases.",
+      "result": "Complication rate fell from 58.8% to 46% in high-risk cancer surgical patients",
+      "url": "https://healthjournalism.org/blog/2026/10/ai-tools-show-promise-in-hospitals-but-experts-say-integration-is-key/"
+    },
+    {
+      "title": "AI Sepsis Algorithm Deployed Across 9 Hospitals Cuts In-Hospital Mortality by 39.5%",
+      "source": "Dialog Health / AI in Healthcare Statistics 2026",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective evaluation across nine hospitals found that following deployment of a clinical AI sepsis detection algorithm, in-hospital mortality fell 39.5%, length of stay dropped 32.27%, and 30-day readmission declined 22.74%. Separately, a 2026 study showed Viz.ai's stroke AI reduced door-in-door-out time for large vessel occlusion patients by 44% at participating centers.",
+      "result": "In-hospital mortality down 39.5%; LOS down 32.27% across 9 hospitals",
+      "url": "https://www.dialoghealth.com/post/ai-healthcare-statistics"
+    },
+    {
+      "title": "Google AMIE AI in Real-World Primary Care: 114 Patients, Zero Safety Stops in Landmark Lancet Study",
+      "source": "Tech-Insider / The Lancet",
       "category": "Digital Health",
-      "snippet": "A peer-reviewed study in Frontiers in Digital Health evaluated Spain's Quirónsalud hospital network's 16-month deployment of an ambient AI scribe, which scaled from covering 2.7% to approximately 31% of all outpatient consultations and surpassed 2.33 million AI-assisted encounters. The deployment demonstrated high semantic agreement with clinician notes and was well-accepted across diverse outpatient specialties, representing one of the first large-scale European ambient AI rollouts.",
-      "result": "2.33 million AI-assisted encounters; scaled to 31% of all outpatient visits",
-      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1874919/full"
+      "snippet": "A prospective real-world study of Google's AMIE conversational AI deployed in primary care at BIDMC — described as the first of its kind — enrolled 114 patients with zero safety stops triggered, publishing results in The Lancet on October 8, 2026. Patient attitudes toward AI improved significantly after the pre-visit chat (p<0.001), and the improvement persisted after the physician encounter, though direct patient outcome changes remain to be measured in follow-on work.",
+      "result": "114 patients, zero safety stops; patient AI attitude improved significantly (p<0.001)",
+      "url": "https://tech-insider.org/patient-facing-ai-primary-care-amie-114-patients-zero-safety-stops-2026/"
     },
     {
-      "title": "Medtronic REAL PULSE Registry: PulseSelect PFA Achieves 100% Acute Success Rate in 1,160 AF Patients Across 38 Sites",
-      "source": "Medtronic / Cardiac Rhythm News",
-      "category": "Robotics & Surgery",
-      "snippet": "Medtronic announced positive results from the REAL PULSE global prospective registry of its PulseSelect Pulsed Field Ablation system, evaluating 1,160 atrial fibrillation patients treated across 38 global sites. The registry reported a 100% acute pulmonary vein isolation success rate, a major complication rate of just 1.1% with no acute kidney injury or phrenic nerve injury, and a median total procedure time of 37–38 minutes for both paroxysmal and persistent AF.",
-      "result": "100% acute PVI success; 1.1% major complication rate across 1,160 patients",
-      "url": "https://news.medtronic.com/2026-10-22-Medtronic-announces-positive-results-from-real-world-registries-for-the-Sphere-9-TM-catheter-and-PulseSelect-TM-PFA-System-at-APHRS-2026"
+      "title": "Philips Future Health Index 2026: AI Now Saves Clinicians 132+ Hours Per Year as Adoption Hits Near-Universal Levels",
+      "source": "Philips Future Health Index 2026",
+      "category": "Digital Health",
+      "snippet": "Philips' Future Health Index 2026 survey of U.S. healthcare professionals found that nearly half of clinicians now save at least 132 hours per year through AI tools — the equivalent of more than three working weeks. Additionally, 27% of healthcare professionals reported that AI helped them identify or prevent a potential medical error at least three times in the past three months, catching missed diagnoses and unsafe drug interactions before they reached patients.",
+      "result": "132+ hours/year saved per clinician; 27% caught ≥3 medical errors in 3 months",
+      "url": "https://www.usa.philips.com/healthcare/article/ai-in-practice-how-the-future-health-index-2026-shows-healthcare-moving-from-promise-to-progress"
     },
     {
-      "title": "ASPIRED Trial (NEJM): 14-Day Wearable ECG Monitor Doubles Arrhythmia Detection and Cuts Mortality 50% in 2,233 Syncope Patients",
-      "source": "New England Journal of Medicine / ESC Congress 2026",
-      "category": "Wearables & Monitoring",
-      "snippet": "The ASPIRED trial, presented at ESC Congress 2026 and simultaneously published in the New England Journal of Medicine, randomized 2,234 patients across 45 UK hospitals to immediate 14-day wearable ECG monitoring versus standard care after unexplained syncope. While the primary endpoint of recurrent syncope showed no significant difference, the monitoring arm more than doubled the detection of clinically significant arrhythmias (22% vs. 9%) and was associated with a 50% reduction in all-cause mortality at one year.",
-      "result": "Arrhythmia detection doubled (22% vs. 9%); 50% mortality reduction at 1 year",
-      "url": "https://www.hcplive.com/view/immediate-ecg-monitoring-cuts-mortality-in-unexplained-syncope"
-    },
-    {
-      "title": "TCT 2026: Nanox.AI HealthAVC Reveals 84% Reporting Gap in Aortic Valve Calcification on Routine Chest CT",
-      "source": "Nanox Imaging / BioSpace / JACC",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Clinical data presented at the Transcatheter Cardiovascular Therapeutics (TCT) Conference and published in JACC showed that Nanox.AI's HealthAVC solution detected aortic valve calcification in routine non-contrast chest CTs with 98.3% sensitivity, while revealing that 84% of AI-confirmed calcification cases (145 of 172 confirmed cases) went entirely unreported in original radiology reports. The study analyzed 440 adults aged 50 and older, demonstrating a large hidden population at risk for severe aortic stenosis that is being systematically missed by standard radiology workflows.",
-      "result": "98.3% AI sensitivity; 84% of positive cases missed by standard radiology reporting",
-      "url": "https://www.biospace.com/press-releases/tct-2026-clinical-data-reveals-84-reporting-gap-in-aortic-valve-calcification-highlighting-the-potential-of-nanox-ais-avc-solution"
-    },
-    {
-      "title": "AI-ECG Alert Reduces 90-Day All-Cause Mortality by 17% Across 15,965 Hospitalized Patients in Pragmatic RCT",
-      "source": "HCPLive / Nature / Clinical Trials",
+      "title": "China Provincial Hospital AI Rollout: Waiting Time Cut from 18 to 13 Minutes, Patient Satisfaction Reaches 98.92%",
+      "source": "PubMed Central / NCBI",
       "category": "AI & Machine Learning",
-      "snippet": "A pragmatic multicenter randomized controlled trial involving 39 physicians and 15,965 hospitalized patients demonstrated that an AI-enabled ECG alert system, which flagged high-risk patients in real time, reduced 90-day all-cause mortality from 4.3% to 3.6%—a statistically significant 17% hazard reduction (HR: 0.83). Among the subgroup identified as high-risk by the AI, mortality fell from 23% to 16%, with a 31% lower risk of death in those receiving AI-guided care.",
-      "result": "17% reduction in 90-day mortality across 15,965 hospitalized patients",
-      "url": "https://www.hcplive.com/view/ai-electrocardiogram-alert-intervention-reduces-all-cause-mortality"
-    },
-    {
-      "title": "Johnson & Johnson OTTAVA Robotic System Delivers 30-lb Average Weight Loss at 30 Days in Pivotal Bariatric Surgery Trial",
-      "source": "Johnson & Johnson MedTech",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson announced results from the first multicenter clinical study of the investigational OTTAVA robotic surgical system in Roux-en-Y gastric bypass procedures, presented at the 2026 American Society for Metabolic and Bariatric Surgery Annual Meeting. Average patient weight loss reached 30 pounds within 30 days post-surgery, with results described as demonstrating integration into existing OR infrastructure with a differentiated approach in real operating rooms with real patients.",
-      "result": "30 lbs average weight loss at 30 days post-OTTAVA robotic bariatric surgery",
-      "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system"
-    },
-    {
-      "title": "Wearable ECG AI Detects Myocardial Ischemia 18 Minutes Earlier with AUROC of 0.947 Across 108,778 Patients",
-      "source": "News-Medical.net",
-      "category": "Wearables & Monitoring",
-      "snippet": "An AI-powered wearable ECG framework validated across four large-scale datasets encompassing 108,778 total patients achieved an overall AUROC of 0.947 for ischemia detection, a 4.8–9.5% relative improvement over state-of-the-art baseline models. The system provides an 18.4-minute early warning window and runs inference on 10-second ECG segments in just 47.3 milliseconds, making it compatible with standard clinical hardware and enabling emergency protocol initiation before irreversible myocardial damage occurs.",
-      "result": "AUROC 0.947; 18.4-minute early warning window validated across 108,778 patients",
-      "url": "https://www.news-medical.net/news/20260310/AI-powered-wearable-ECG-system-detects-myocardial-ischemia-minutes-earlier.aspx"
-    },
-    {
-      "title": "Clinical AI Across Specialties: Ambient Scribe RCT Shows Vendor-Specific Effects; AI-ECG Beats Unaided Physicians in Complex Case Studies",
-      "source": "onhealthcare.tech",
-      "category": "AI & Machine Learning",
-      "snippet": "A randomized trial of 238 outpatient physicians across 14 specialties compared two commercial ambient-scribe tools head-to-head, finding meaningful but vendor-specific effects: one tool reduced time-in-note by approximately 9.5%, while a second showed only a statistically non-significant 1.7% reduction. Separately, a multi-agent AI diagnostic system scored 85.5% on complex published case studies versus 20% for unaided physicians, underscoring the gap between AI-assisted and unassisted clinical reasoning.",
-      "result": "9.5% documentation reduction (best-in-class scribe); AI diagnostic system scored 85.5% vs. 20% for physicians",
-      "url": "https://onhealthcare.tech/p/clinical-ai-across-medical-specialties"
-    },
-    {
-      "title": "FDA Authorizes Over 1,600 AI-Enabled Medical Devices as of September 2026, with Radiology Dominating at 76%",
-      "source": "FDA.gov / Intuition Labs",
-      "category": "Diagnostics & Imaging",
-      "snippet": "The FDA's official AI-Enabled Medical Devices list surpassed 1,600 authorizations as of September 2026, with 335 devices cleared in 2025 alone and 86 new AI/ML-enabled devices authorized in Q2 2026 alone. Radiology accounts for 76% of all cleared AI devices, reflecting the continued dominance of imaging AI in the regulatory pipeline, though a cross-sectional analysis found that fewer than 1% of cleared devices reported actual patient health outcomes.",
-      "result": "1,600+ AI devices cleared; 335 in 2025; radiology accounts for 76% of total",
-      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence/artificial-intelligence-enabled-medical-devices"
-    },
-    {
-      "title": "Medtech 2026 Year in Review: GE HealthCare Leads AI Imaging, Medtronic Debuts Touch Surgery Aide in Operating Room",
-      "source": "Medical Product Outsourcing (MPO)",
-      "category": "AI & Machine Learning",
-      "snippet": "Medtronic expanded its AI-powered surgical ecosystem with Touch Surgery Aide, an AI-native surgical computing platform combining computer vision, multimodal AI, and accelerated inference to process surgical video and procedural context in real time, previewed at the Society of Robotic Surgery 2026 Annual Meeting. GE HealthCare maintained its position atop the FDA's AI-enabled medical device rankings—90% of which are radiology and image-focused—while embedded cardiovascular AI began shifting from passive monitoring toward proactive early treatment guidance.",
-      "result": "Touch Surgery Aide launched in OR; GE HealthCare leads FDA's 90%-radiology AI device list",
-      "url": "https://www.mpo-mag.com/the-new-reality-remade-medtechs-2026-year-in-review/"
+      "snippet": "A published 18-month real-world study of three clinical AI pathways deployed in a Chinese provincial hospital system showed patient waiting time fell from 18 to 13 minutes post-deployment, while patient satisfaction rose to 98.92% (n=3,847 surveyed encounters). The AI rollout covered an intelligent pre-consultation system, a multidisciplinary tumor decision-support system, and a therapeutic drug-monitoring pathway, with daily utilization exceeding 100 encounters after phased rollout.",
+      "result": "Wait time: 18→13 min; satisfaction rose to 98.92% across 3,847 encounters",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13245460/"
     }
   ],
-  "generated_at": "2026-11-02T14:55:28.113808+00:00"
+  "generated_at": "2026-11-03T13:44:24.804539+00:00"
 }
