@@ -1,120 +1,120 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-07",
   "feature": {
-    "title": "TCT 2026 Dominates Medtech Headlines as Cardiology Device Trials Deliver Landmark Real-World Results",
-    "summary": "The week ending November 4, 2026 was defined by a wave of hard clinical outcomes emerging from the Transcatheter Cardiovascular Therapeutics (TCT) 2026 conference in San Diego, with multiple late-breaking trials published simultaneously in NEJM, JACC, and Circulation. Beyond cardiology, hospital AI deployments are now posting measurable operational wins — KFSH's 75% reduction in ED boarding time being the most striking — while AI documentation tools and LLM-generated discharge summaries are earning clinical validation in peer-reviewed journals. Robotic surgical systems are also delivering first-in-human safety proof points, with Robocath's coronary robot achieving 100% clinical success across 20 patients. The medtech sector is visibly crossing a threshold from pilot programs to scaled, results-backed implementations.",
+    "title": "From Pilots to Proof: Medtech's Implementation Wave Delivers Measurable Patient Outcomes in 2026",
+    "summary": "November 2026 marks a decisive maturation point for medical technology, as a wave of real-world deployments and clinical trial readouts replaces speculative pilots with hard evidence. AI-enabled tools are demonstrating statistically significant reductions in mortality, documentation burden, and sepsis care gaps across major U.S. health systems. Simultaneously, robotics in interventional cardiology and orthopedics posted landmark first-in-human and large-scale hospital results. The diagnostic frontier is also advancing, with FDA-cleared rapid infection tests and autonomous retinopathy screening crossing into standard-of-care guidelines.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Heartflow's 1,105-patient P4 randomized trial, published in NEJM, proved CT-guided PCI matches gold-standard IVUS outcomes while cutting procedure time by 17 minutes and contrast volume by 12%."
+        "text": "The U.S. Department of Veterans Affairs has now completed over 986,000 ambient AI scribe-assisted appointments across 75+ medical centers, with clinicians reporting consistently lower burnout and documentation burden — the largest real-world AI scribe deployment in history."
       },
       {
         "label": "Key trend",
-        "text": "Hospital AI is graduating from pilots to proven infrastructure, with real-world deployments now reporting quantified gains in mortality reduction, documentation quality, and emergency throughput."
+        "text": "AI is moving from isolated point solutions to full workflow integration, with proven results in sepsis compliance, ECG mortality alerts, robotic coronary surgery, and autonomous diagnostic screening all reported within days of each other."
       },
       {
         "label": "To watch",
-        "text": "Abbott's SonicForce coronary IVL system, showing 97% procedural success in TECTONIC, is on track for H1 2027 FDA approval and could reshape calcified-lesion PCI practice."
+        "text": "Beckman Coulter's newly FDA-cleared 15-minute bacterial vs. viral blood test could reshape antibiotic stewardship at scale, with modeling suggesting ~1,129 fewer antibiotic days per 1,000 pneumonia patients if widely adopted."
       }
     ]
   },
   "articles": [
     {
-      "title": "TCT 2026: CT-Guided PCI Matches IVUS Outcomes in Landmark 1,105-Patient P4 Randomized Trial",
-      "source": "GlobeNewswire / NEJM",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Heartflow's investigator-initiated P4 trial, simultaneously published in the New England Journal of Medicine, demonstrated that non-invasive CT-guided PCI planning is non-inferior to gold-standard intravascular ultrasound for one-year clinical outcomes across 1,105 patients. The CT-guided approach also delivered significantly shorter procedure times and lower contrast volume, with the Heartflow PCI Navigator changing treatment plans in approximately 70% of cases.",
-      "result": "CT guidance non-inferior to IVUS; 17-min faster procedures",
-      "url": "https://www.globenewswire.com/news-release/2026/11/01/3392793/0/en/tct-2026-ct-guided-pci-matches-ivus-outcomes-in-randomized-p4-trial-heartflow-pci-navigator-changes-pci-plans-in-approximately-70-of-patients.html"
+      "title": "VA Completes 986,000+ Ambient AI Scribe Appointments Across 75 Medical Centers, Awards $775M Expansion Contract",
+      "source": "Nextgov/FCW & CDO Magazine",
+      "category": "AI & Machine Learning",
+      "snippet": "The Department of Veterans Affairs has surpassed 986,000 primary care appointments using ambient AI scribes from Abridge and Knowtex across more than 75 VA medical centers, with veterans declining the technology less than 1% of the time since the October 2025 launch. VA clinicians reported lower cognitive load, reduced after-hours documentation burden, and improved focus during encounters, and the VA awarded a new multi-vendor, up to $775.72 million, five-year enterprise contract in September 2026 to continue and expand the program.",
+      "result": "986K+ appointments; <1% opt-out; $775M contract awarded",
+      "url": "https://www.cdomagazine.tech/us-federal-news-bureau/va-awards-new-ai-scribe-contract-with-lessons-for-governing-ai-at-scale"
     },
     {
-      "title": "SPYRAL-AFFIRM: Medtronic's Renal Denervation System Cuts Systolic BP by 18.2 mmHg in 594 Real-World Patients, Earns FDA Label Update",
-      "source": "Cardiac Interventions Today / ACC",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "The SPYRAL AFFIRM postapproval study of Medtronic's Symplicity Spyral renal denervation system met its primary endpoint in 594 patients across 73 U.S. sites, showing office systolic blood pressure reductions of 18.2 mmHg at six months — tripling the prespecified performance goal of 6.0 mmHg. Medtronic simultaneously received FDA approval for a U.S. labeling update, with nearly nine in ten patients experiencing a clinical benefit, and the magnitude of reduction falling within the range associated with a greater than 20% cut in major adverse cardiovascular events.",
-      "result": "−18.2 mmHg office SBP at 6 months; FDA label updated",
-      "url": "https://citoday.com/news/primary-endpoint-results-presented-from-medtronics-spyral-affirm-postapproval-rdn-study"
-    },
-    {
-      "title": "Abbott TECTONIC Trial: SonicForce Coronary IVL Achieves 97% Procedural Success and 0.3% Target Lesion Failure in Calcified Arteries",
-      "source": "Abbott / JACC: Cardiovascular Interventions",
+      "title": "Robocath Next-Gen Coronary Robot Achieves 100% Clinical Success in First-in-Human PCI Study at TCT 2026",
+      "source": "GlobeNewswire / Surgical Robotics Technology",
       "category": "Robotics & Surgery",
-      "snippet": "Abbott's pivotal TECTONIC IDE study of its investigational SonicForce coronary intravascular lithotripsy system enrolled 335 patients with severely calcified coronary artery disease across 40 U.S. sites and met both primary safety and effectiveness endpoints. Results published simultaneously in JACC showed a 30-day target lesion failure rate of just 0.3% and 97% procedural success, with zero MACE in 0.3% of the as-treated population and imaging confirming effective calcium modification.",
-      "result": "97% procedural success; 0.3% target lesion failure at 30 days",
-      "url": "https://stockhouse.com/news/press-releases/2026/11/01/abbott-s-tectonic-clinical-trial-demonstrates-strong-30-day-outcomes-and-high"
+      "snippet": "Stereotaxis announced first-in-human clinical results for Robocath's next-generation robotic percutaneous coronary intervention (PCI) system at the TCT 2026 conference in San Diego, with all 20 patients achieving clinical success and no device-related adverse events through 30-day follow-up. The prospective pilot enrolled patients with complex coronary artery disease spanning A/B1, B2, and C-type lesions, and in all but one procedure the physician was able to complete the case entirely robotically without conversion to manual.",
+      "result": "100% clinical success; 0 device-related adverse events in 20 patients",
+      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393182/21634/en/first-in-human-coronary-intervention-study-results-of-robocath-s-next-generation-robotic-system-highlighted-at-tct.html"
     },
     {
-      "title": "Abbott Amulet 360 Hits 96.3% Complete LAA Closure at One Year in VERITAS Pivotal Study",
-      "source": "Medtech Insight / Citeline",
+      "title": "FDA Clears Beckman Coulter's 15-Minute Bacterial vs. Viral Blood Test; Modeling Shows 1,129 Fewer Antibiotic Days per 1,000 Patients",
+      "source": "Patient Care Online / LabMedica",
       "category": "Diagnostics & Imaging",
-      "snippet": "Abbott reported one-year results from the 458-patient VERITAS study of its Amulet 360 left atrial appendage closure device at TCT 2026, with complete closure confirmed by transesophageal echocardiography in 96.3% of patients with nonvalvular atrial fibrillation. The ischemic stroke or systemic embolism rate stood at just 1.8% at 12 months, with FDA approval now expected following the device's existing CE Mark.",
-      "result": "96.3% LAA closure rate; 1.8% stroke/embolism at 12 months",
-      "url": "https://insights.citeline.com/medtech-insight/business/r-and-d/clinical-trials/tct-2026-abbotts-amulet-360-hits-963-complete-laa-closure-at-one-year-in-pivotal-veritas-study-5QII24GV7FG53OPD4LGMFETJYQ"
+      "snippet": "The FDA cleared the Access MeMed BV assay on November 3, 2026 — a rapid host-response blood test that helps clinicians distinguish bacterial from viral infections in adults and children as young as 90 days, delivering results in as little as 15 minutes on existing DxI 9000 and Access 2 analyzers with no new instruments required. Published health-economic modeling in community-acquired pneumonia estimated approximately 1,129 fewer antibiotic days per 1,000 patients when MeMed BV was added to the diagnostic standard of care, and a 2026 systematic review of 16 studies found antibiotic prescription rates fell from 30% to 24% when clinicians had access to test results.",
+      "result": "15-min results; antibiotic Rx fell from 30% to 24% in clinical studies",
+      "url": "https://www.patientcareonline.com/view/fda-clears-15-minute-blood-test-to-help-distinguish-bacterial-from-viral-infections"
     },
     {
-      "title": "Robocath Next-Generation Cardiac Robot Achieves 100% Clinical Success in First-in-Human PCI Study at TCT 2026",
-      "source": "GlobeNewswire / Stereotaxis",
-      "category": "Robotics & Surgery",
-      "snippet": "Stereotaxis subsidiary Robocath presented first-in-human results for its next-generation robotic percutaneous coronary intervention system at TCT 2026, reporting 100% clinical success and 95% technical success across 20 patients including complex coronary artery disease cases. No device-related adverse events were observed through 30-day follow-up, with all but one procedure completed entirely robotically without conversion to manual, and operating physicians recorded zero fluoroscopy radiation exposure.",
-      "result": "100% clinical success; zero device-related adverse events at 30 days",
-      "url": "https://globenewswire.com/news-release/2026/11/02/3393182/21634/en/first-in-human-coronary-intervention-study-results-of-robocath-s-next-generation-robotic-system-highlighted-at-tct.html"
+      "title": "AEYE-DS Autonomous AI Wins 2026 ADA Standard-of-Care Endorsement After Three Pivotal Trials in 1,200+ Patients",
+      "source": "Frontiers in Digital Health / AEYE Health",
+      "category": "AI & Machine Learning",
+      "snippet": "Three prospective pivotal validation studies of AEYE-DS across 1,200+ diabetic patients confirmed sensitivity and specificity exceeding predefined performance goals for detecting more-than-mild diabetic retinopathy, with >99% imageability using a single image per eye. The 2026 American Diabetes Association Standards of Care explicitly named AEYE-DS among FDA-cleared autonomous AI platforms as a validated, evidence-based screening strategy — formally elevating point-of-care autonomous AI from experimental pilot to established clinical standard.",
+      "result": "92–93% sensitivity, 89–94% specificity; named in 2026 ADA guidelines",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1907804/full"
     },
     {
-      "title": "KFSH AI Command Centre Cuts Emergency Department Boarding Time by 75%, Physician Wait Time by 42%",
-      "source": "GlobeNewswire / King Faisal Specialist Hospital",
+      "title": "Clairyon AI Agent Boosts Sepsis Bundle Compliance by 13 Percentage Points in JAMA Network Open Cluster RCT",
+      "source": "JAMA Network Open / Clinical Trials Arena",
+      "category": "AI & Machine Learning",
+      "snippet": "A cluster randomized trial across two academic emergency departments at UC San Diego found that AI-enabled near-real-time SEP-1 feedback raised physician sepsis bundle compliance from 70.1% in the control group to 82.9% in the intervention group — a statistically significant 13-percentage-point absolute improvement (p=0.02). The Clairyon LLM agreed with expert human reviewers in 92% of recorded cases, though no significant differences were detected in ICU admissions or 30-day mortality.",
+      "result": "SEP-1 compliance: 70.1% → 82.9% (13pp gain, p=0.02)",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2850785"
+    },
+    {
+      "title": "OrthoPilot AI Deployed Across 8,240 Inpatients at Ruijin Hospital, Cuts Length of Stay and Raises Bed Throughput by 9.7%",
+      "source": "arXiv (Evidence-Grounded AI for Musculoskeletal Care)",
+      "category": "AI & Machine Learning",
+      "snippet": "An 8-month prospective randomized deployment of the OrthoPilot AI system across 8,240 inpatients at Ruijin Hospital, Shanghai, found that AI-assisted musculoskeletal care increased cumulative cases per bed by 9.7% (from 11.90 to 13.06), reduced average length of stay, lowered physician and nursing documentation workload, and improved patient-reported access to health information. In a parallel 1,870-case reader study, OrthoPilot improved full-chain management success by 10.6% and outperformed orthopaedic physicians with 25 years of experience in diagnostic reasoning and management planning.",
+      "result": "9.7% more cases per bed; 10.6% better management success vs. expert physicians",
+      "url": "https://arxiv.org/abs/2607.12527"
+    },
+    {
+      "title": "Ambient AI Scribes Cut Documentation by 16 Min/Encounter Across 5 Academic Medical Centers; Burnout Drops 13 Points in 30 Days",
+      "source": "JAMA / 2 Minute Medicine",
       "category": "Digital Health",
-      "snippet": "King Faisal Specialist Hospital and Research Centre in Riyadh reported that its AI-enabled Patient Flow and Capacity Command Centre reduced median ED boarding time from more than 13 hours in 2023 to 3.2 hours by mid-2025 — a 75% reduction placing it among the top 5% of high-capacity academic medical centers worldwide. The system, highlighted at the Economist AI in Health Summit on November 4, also extended demand forecasting from 12 to 24 hours ahead and reduced total ED length of stay by 30.5%, while time from patient arrival to physician assessment fell by 42%.",
-      "result": "75% boarding time reduction; 42% faster physician access",
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394255/0/en/kfsh-highlights-ai-s-role-in-patient-experience-and-nursing-at-economist-ai-in-health-summit.html"
+      "snippet": "A large study published in JAMA across five academic medical centers found ambient AI scribes reduced total EHR time by 13.4 minutes and documentation time by 16 minutes per encounter, while adding approximately 0.49 more patient visits per clinician per week. A separate multicenter JAMA Network Open quality improvement study of 263 clinicians across six health systems found that after 30 days with an ambient AI scribe, the proportion experiencing burnout decreased significantly from 51.9% to 38.8% (OR 0.26; 95% CI 0.13–0.54).",
+      "result": "−16 min documentation/encounter; burnout 51.9% → 38.8% at 30 days",
+      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
     },
     {
-      "title": "Stony Brook Study: AI-Generated Discharge Summaries Preferred Over Human-Authored in 95% of Complex Hospitalization Reviews",
-      "source": "Medical Xpress / npj Digital Medicine",
-      "category": "AI & Machine Learning",
-      "snippet": "A Stony Brook University Hospital study published in Nature's npj Digital Medicine compared LLM-generated and physician-authored discharge summaries for 60 complex internal medicine hospitalizations lasting 7–21 days, with paired assessment by hospitalists and primary care physicians. Physician reviewers preferred the AI-generated summaries in 95% of cases, rating them higher on overall quality, readability, accuracy, and completeness, with fewer missing clinical details than their human-authored counterparts.",
-      "result": "AI summaries preferred in 95% of cases vs. human-authored",
-      "url": "https://medicalxpress.com/news/2026-11-ai-patient-discharge-summaries.html"
+      "title": "EQUAL Trial: Smartwatch AFib Screening Detects 4× More Cases Than Standard Care in High-Risk Older Adults",
+      "source": "American College of Cardiology / JACC",
+      "category": "Wearables & Monitoring",
+      "snippet": "The multicenter EQUAL trial randomized 437 participants aged ≥65 years with elevated stroke risk and no AFib history to six months of Apple smartwatch-based monitoring versus standard care, finding new-onset AFib diagnosed in 9.6% of the smartwatch group versus 2.3% in the control group (HR 4.40, p=0.001). The number needed to screen was 14, and the trial demonstrated that prolonged workflow-integrated PPG and single-lead ECG smartwatch screening is feasible in patients at highest clinical risk.",
+      "result": "AFib detected in 9.6% vs. 2.3% (HR 4.40); NNS=14",
+      "url": "https://www.acc.org/latest-in-cardiology/journal-scans/2026/01/28/02/51/equal"
     },
     {
-      "title": "AI-ECG Alert System Cuts 90-Day All-Cause Mortality by 17% Across Nearly 16,000 Hospitalized Patients in Pragmatic RCT",
-      "source": "HCPLive / Nature Medicine",
-      "category": "AI & Machine Learning",
-      "snippet": "A pragmatic randomized controlled trial of an AI-enabled ECG alert system deployed across nearly 16,000 hospitalized patients achieved its primary endpoint, demonstrating a significant 17% reduction in 90-day all-cause mortality (hazard ratio 0.83) compared to usual care. The benefit was most pronounced in high-risk ECG patients, with the intervention also showing reduced cardiac death rates and modest increases in short-term healthcare costs that were offset by lives saved.",
-      "result": "17% reduction in 90-day all-cause mortality (HR 0.83)",
+      "title": "AI-ECG Alert Cuts 90-Day All-Cause Mortality by 17% in 15,965-Patient Pragmatic RCT (Nature Medicine)",
+      "source": "Nature Medicine / HCPLive",
+      "category": "Diagnostics & Imaging",
+      "snippet": "A multisite, pragmatic randomized controlled trial of an AI-enabled ECG alert system integrated into hospital workflows across 39 physicians and 15,965 patients achieved its primary endpoint: a significant 17% reduction in 90-day all-cause mortality (3.6% intervention vs. 4.3% control; HR 0.83, 95% CI 0.70–0.99). Among high-risk ECG patients specifically, the AI alert was associated with a 31% reduction in mortality and a 93% reduction in cardiac deaths (0.2% vs. 2.4% in controls).",
+      "result": "17% mortality reduction overall; 31% reduction in high-risk ECG patients",
       "url": "https://www.hcplive.com/view/ai-electrocardiogram-alert-intervention-reduces-all-cause-mortality"
     },
     {
-      "title": "Elixir Medical DynamX Bioadaptor Outperforms Drug-Eluting Stent in Pooled 2,885-Patient Analysis at TCT 2026",
-      "source": "Medtech Insight / Citeline",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Elixir Medical presented its first individual patient data pooled analysis of the INFINITY-SWEDENHEART and BIOADAPTOR RCT trials at TCT 2026, covering 2,885 patients, showing DynamX bioadaptor had a sustained advantage over Medtronic's Resolute Onyx drug-eluting stent from six months onward. In ACS patients specifically, the bioadaptor achieved a TLF rate of 0.3% versus 1.8% for DES at six months, translating to an 83% relative risk reduction, with the CE-marked device showing plateauing adverse event rates versus continuously accruing DES events.",
-      "result": "83% TLF reduction in ACS patients vs. DES at 6 months",
-      "url": "https://insights.citeline.com/medtech-insight/conferences/tct-2026-elxir-dynamx-bioadaptor-pulls-ahead-of-des-after-6-months-in-pooled-2885-patient-analysis-ZQRSYOB22RH3LNHVITQ6H5ZS7A/"
+      "title": "Robot Motion Data Predicts Surgeon Experience with 0.97 AUC in 234-Procedure Retrospective Study",
+      "source": "STITCHES (Digital Surgery & Telemedicine)",
+      "category": "Robotics & Surgery",
+      "snippet": "A retrospective analysis of 234 recorded robotic gallbladder dissections found that motion data alone achieved an AUC of 0.97 out of 1.0 for distinguishing attending surgeons from trainees, outperforming clinical details alone and providing information not captured by conventional metrics. Combining motion data with clinical details raised outcome prediction AUC modestly to 0.75 versus 0.72 for either source alone, suggesting robotic motion analytics could objectively stratify surgical skill in future training credentialing.",
+      "result": "Motion data AUC 0.97 for experience classification across 234 procedures",
+      "url": "https://stitches.today/blog/2026/11/04/robot-motion-data-predicts-surgeon-experience"
     },
     {
-      "title": "Ambient AI Scribes Cut Documentation Time by Up to 9.5% in Randomized Trial of 238 Physicians Across 14 Specialties",
-      "source": "onhealthcare.tech / Clinical AI Specialties Report",
-      "category": "Digital Health",
-      "snippet": "A randomized trial involving 238 outpatient physicians across 14 specialties tested two commercial ambient AI scribe tools against standard workflow, finding vendor-specific but measurable effects on documentation burden. One tool reduced time-in-note by approximately 9.5%, a statistically significant finding, corroborating a broader Stanford-Harvard State of Clinical AI report finding that AI clinical note tools are delivering real burnout reductions and, in one large system, a 112% return on investment.",
-      "result": "Up to 9.5% reduction in physician time-in-note per visit",
-      "url": "https://onhealthcare.tech/p/clinical-ai-across-medical-specialties"
-    },
-    {
-      "title": "J&J MedTech Presents Record 26 Impella Abstracts at TCT 2026, Covering 450,000+ Real-World Patients Treated",
-      "source": "Johnson & Johnson MedTech",
+      "title": "Wearable Sensor Scoping Review (41 Studies): Accurate Infant Posture Classification but Variable Motor Activity Measurement",
+      "source": "PLOS Digital Health / Bioengineer.org",
       "category": "Wearables & Monitoring",
-      "snippet": "Johnson & Johnson MedTech presented a record 26 abstracts at TCT 2026 featuring clinical science from its Impella heart pump portfolio, drawing on more than 20 years of data including RCTs, prospective studies, registries, and real-world practice. The evidence base now covers more than 50,000 Impella patients in formal studies and over 450,000 patients treated worldwide, with new cost-effectiveness modeling and high-risk PCI cohort data among the featured presentations.",
-      "result": "450,000+ patients treated globally; record 26 trial abstracts presented",
-      "url": "https://www.jnj.com/media-center/press-releases/record-26-abstracts-at-tct-2026-adds-to-more-than-20-years-of-data-demonstrating-the-safety-efficacy-and-cost-effectiveness-of-impella-heart-pumps"
+      "snippet": "Published November 7, 2026, a scoping review of 41 studies found wearable sensors accurately classify infant posture but show more variable performance when measuring fine-grained motor activity, with reported correlation coefficients ranging from r=0.61 to 0.98 against reference standards. More than half of application studies collected data in home-based contexts, demonstrating practical feasibility of wearable infant motor tracking outside the clinic but underscoring the need for robust clinical validation before widespread deployment.",
+      "result": "Posture classification accurate; motor activity r=0.61–0.98 (variable)",
+      "url": "https://bioengineer.org/scoping-review-assesses-wearable-sensors-for-infant-motor-tracking/"
     },
     {
-      "title": "Google/BIDMC AMIE Patient-Facing AI Completes First Prospective Real-World Primary Care Deployment: 114 Patients, Zero Safety Stops",
-      "source": "Tech-Insider / The Lancet",
-      "category": "Digital Health",
-      "snippet": "Published in The Lancet in October 2026, the first prospective real-world safety study of a patient-facing AI (Google's AMIE) in primary care enrolled 114 patients and recorded zero safety stops across the full study period. Patient attitudes toward AI improved significantly after the interaction (p < 0.001), and the improvement persisted following the physician visit, with BIDMC describing it as the first prospective real-world safety validation of patient-facing AI in primary care.",
-      "result": "Zero safety stops across 114 patients; patient AI attitudes significantly improved",
-      "url": "https://tech-insider.org/patient-facing-ai-primary-care-amie-114-patients-zero-safety-stops-2026/"
+      "title": "Digital Mobility Wearables Validated for Frailty Monitoring Across COPD, Parkinson's, and Healthy Aging Populations",
+      "source": "Archives of Public Health / Bioengineer.org",
+      "category": "Wearables & Monitoring",
+      "snippet": "A systematic review published November 7, 2026 (DOI: 10.1186/s13690-026-02132-6) concluded that digital mobility outcomes derived from wearable sensors during everyday activities represent a validated approach for frailty prevention and monitoring across disease categories including COPD, Parkinson's disease, and healthy aging. The review found continuous, objective gait speed and mobility measurements provide clinically meaningful data not captured by standard episodic assessments, while calling for dedicated institutional infrastructure to support personalized public health deployment at scale.",
+      "result": "Wearable DMOs validated across COPD, Parkinson's, and aging cohorts",
+      "url": "https://bioengineer.org/digital-mobility-outcomes-support-frailty-prevention-and-monitoring-across-healthcare-stages/"
     }
   ],
-  "generated_at": "2026-11-04T13:53:34.927881+00:00"
+  "generated_at": "2026-11-07T12:34:39.614804+00:00"
 }
