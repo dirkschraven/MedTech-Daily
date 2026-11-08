@@ -1,120 +1,120 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "feature": {
-    "title": "From Pilots to Proof: Medtech's Implementation Wave Delivers Measurable Patient Outcomes in 2026",
-    "summary": "November 2026 marks a decisive maturation point for medical technology, as a wave of real-world deployments and clinical trial readouts replaces speculative pilots with hard evidence. AI-enabled tools are demonstrating statistically significant reductions in mortality, documentation burden, and sepsis care gaps across major U.S. health systems. Simultaneously, robotics in interventional cardiology and orthopedics posted landmark first-in-human and large-scale hospital results. The diagnostic frontier is also advancing, with FDA-cleared rapid infection tests and autonomous retinopathy screening crossing into standard-of-care guidelines.",
+    "title": "AHA 2026 Becomes Medtech's Ground Zero: AI Rewrites Cardiac Care With Hard Outcome Data",
+    "summary": "This week's American Heart Association Scientific Sessions in Chicago has become the most data-rich medtech event of 2026, with two landmark randomized trials — Cleerly's PARAMOUNT and Heartflow's DECIDE registry — delivering real-world proof that AI-guided coronary analysis outperforms standard care in hard cardiovascular endpoints. Beyond cardiology, the medtech landscape is defined by a wave of genuine deployments: FDA-cleared sepsis AI is cutting hospital mortality by 18% across dozens of U.S. systems, J&J's OTTAVA surgical robot is now authorized and launching into ORs, and ambient AI scribes have crossed the threshold from pilot to standard clinical practice. The common thread is a shift from promising pilots to measurable, peer-reviewed outcomes — the bar the industry has long been asked to clear.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "The U.S. Department of Veterans Affairs has now completed over 986,000 ambient AI scribe-assisted appointments across 75+ medical centers, with clinicians reporting consistently lower burnout and documentation burden — the largest real-world AI scribe deployment in history."
+        "text": "Cleerly's PARAMOUNT trial — the first randomized head-to-head of AI-guided coronary CT vs. stress testing — met its primary endpoint with a win ratio of 2.00 (p<0.0001), triggering far more preventive lipid therapy in the AI arm."
       },
       {
         "label": "Key trend",
-        "text": "AI is moving from isolated point solutions to full workflow integration, with proven results in sepsis compliance, ECG mortality alerts, robotic coronary surgery, and autonomous diagnostic screening all reported within days of each other."
+        "text": "AI cardiovascular imaging tools are graduating from diagnostic aids to outcome-changers, with both PARAMOUNT and Heartflow's DECIDE registry showing hard reductions in cardiac events, heart attacks, and unnecessary invasive procedures."
       },
       {
         "label": "To watch",
-        "text": "Beckman Coulter's newly FDA-cleared 15-minute bacterial vs. viral blood test could reshape antibiotic stewardship at scale, with modeling suggesting ~1,129 fewer antibiotic days per 1,000 pneumonia patients if widely adopted."
+        "text": "J&J's OTTAVA — the world's first table-integrated surgical robot — is entering a phased U.S. launch after FDA De Novo authorization, setting up a three-way competition with Intuitive and Medtronic's Hugo that will reshape the $20B+ robotic surgery market."
       }
     ]
   },
   "articles": [
     {
-      "title": "VA Completes 986,000+ Ambient AI Scribe Appointments Across 75 Medical Centers, Awards $775M Expansion Contract",
-      "source": "Nextgov/FCW & CDO Magazine",
+      "title": "PARAMOUNT Trial: First Randomized AI-QCT Heart Trial Meets Primary Endpoint at AHA 2026",
+      "source": "Business Wire / Cleerly",
       "category": "AI & Machine Learning",
-      "snippet": "The Department of Veterans Affairs has surpassed 986,000 primary care appointments using ambient AI scribes from Abridge and Knowtex across more than 75 VA medical centers, with veterans declining the technology less than 1% of the time since the October 2025 launch. VA clinicians reported lower cognitive load, reduced after-hours documentation burden, and improved focus during encounters, and the VA awarded a new multi-vendor, up to $775.72 million, five-year enterprise contract in September 2026 to continue and expand the program.",
-      "result": "986K+ appointments; <1% opt-out; $775M contract awarded",
-      "url": "https://www.cdomagazine.tech/us-federal-news-bureau/va-awards-new-ai-scribe-contract-with-lessons-for-governing-ai-at-scale"
+      "snippet": "Cleerly's PARAMOUNT trial — enrolling 530 patients across 21 sites — randomized chest pain patients to AI-based quantitative coronary CT analysis (AI-QCT) vs. standard stress testing. At 180 days, plaque-guided care achieved a composite win ratio of 2.00 (95% CI 1.37–2.56, p<0.0001), with lipid-lowering therapy rising from 31% to 75% in the AI arm versus 32% to 47% in usual care.",
+      "result": "Win ratio 2.00; lipid therapy use jumps to 75% vs. 47%",
+      "url": "https://finance.yahoo.com/healthcare/articles/paramount-first-randomized-trial-ai-154500139.html"
     },
     {
-      "title": "Robocath Next-Gen Coronary Robot Achieves 100% Clinical Success in First-in-Human PCI Study at TCT 2026",
-      "source": "GlobeNewswire / Surgical Robotics Technology",
-      "category": "Robotics & Surgery",
-      "snippet": "Stereotaxis announced first-in-human clinical results for Robocath's next-generation robotic percutaneous coronary intervention (PCI) system at the TCT 2026 conference in San Diego, with all 20 patients achieving clinical success and no device-related adverse events through 30-day follow-up. The prospective pilot enrolled patients with complex coronary artery disease spanning A/B1, B2, and C-type lesions, and in all but one procedure the physician was able to complete the case entirely robotically without conversion to manual.",
-      "result": "100% clinical success; 0 device-related adverse events in 20 patients",
-      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393182/21634/en/first-in-human-coronary-intervention-study-results-of-robocath-s-next-generation-robotic-system-highlighted-at-tct.html"
-    },
-    {
-      "title": "FDA Clears Beckman Coulter's 15-Minute Bacterial vs. Viral Blood Test; Modeling Shows 1,129 Fewer Antibiotic Days per 1,000 Patients",
-      "source": "Patient Care Online / LabMedica",
+      "title": "Heartflow DECIDE Registry: AI Plaque Analysis Cuts Major CVD Events 34%, Halves Heart Attack Rate at One Year",
+      "source": "GlobeNewswire / Heartflow",
       "category": "Diagnostics & Imaging",
-      "snippet": "The FDA cleared the Access MeMed BV assay on November 3, 2026 — a rapid host-response blood test that helps clinicians distinguish bacterial from viral infections in adults and children as young as 90 days, delivering results in as little as 15 minutes on existing DxI 9000 and Access 2 analyzers with no new instruments required. Published health-economic modeling in community-acquired pneumonia estimated approximately 1,129 fewer antibiotic days per 1,000 patients when MeMed BV was added to the diagnostic standard of care, and a 2026 systematic review of 16 studies found antibiotic prescription rates fell from 30% to 24% when clinicians had access to test results.",
-      "result": "15-min results; antibiotic Rx fell from 30% to 24% in clinical studies",
-      "url": "https://www.patientcareonline.com/view/fda-clears-15-minute-blood-test-to-help-distinguish-bacterial-from-viral-infections"
+      "snippet": "Prospective DECIDE registry data, presented at AHA 2026, evaluated more than 6,000 well-matched patients and found Heartflow Plaque Analysis with Plaque Staging produced 34% fewer major cardiovascular events (cardiovascular death, MI, revascularization, or stroke) versus CCTA alone at one year. Additionally, approximately 50% of patients reached LDL-C goal by 90 days, compared to roughly 35% with CCTA alone.",
+      "result": "34% fewer major CVD events; MI rate halved vs. CCTA alone",
+      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393114/0/en/aha-2026-heartflow-plaque-analysis-associated-with-34-fewer-major-cvd-events-and-half-the-rate-of-heart-attack-at-one-year-in-prospective-decide-registry.html"
     },
     {
-      "title": "AEYE-DS Autonomous AI Wins 2026 ADA Standard-of-Care Endorsement After Three Pivotal Trials in 1,200+ Patients",
-      "source": "Frontiers in Digital Health / AEYE Health",
+      "title": "FDA-Cleared Sepsis AI (TREWS) Cuts Hospital Mortality 18% Across Dozens of U.S. Hospitals",
+      "source": "HospiMedica / 24x7 Magazine",
       "category": "AI & Machine Learning",
-      "snippet": "Three prospective pivotal validation studies of AEYE-DS across 1,200+ diabetic patients confirmed sensitivity and specificity exceeding predefined performance goals for detecting more-than-mild diabetic retinopathy, with >99% imageability using a single image per eye. The 2026 American Diabetes Association Standards of Care explicitly named AEYE-DS among FDA-cleared autonomous AI platforms as a validated, evidence-based screening strategy — formally elevating point-of-care autonomous AI from experimental pilot to established clinical standard.",
-      "result": "92–93% sensitivity, 89–94% specificity; named in 2026 ADA guidelines",
-      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1907804/full"
+      "snippet": "Bayesian Health's Targeted Real-Time Early Warning System (TREWS), developed at Johns Hopkins and FDA-cleared in April 2026, is now deployed across dozens of U.S. hospitals including Cleveland Clinic, MemorialCare, and University of Rochester. The system detects sepsis 2–48 hours before clinical suspicion by integrating EHR data with continuous AI, and is associated with an 18% reduction in sepsis mortality rates and decreased length of stay.",
+      "result": "18% sepsis mortality reduction; detection 2–48 hours earlier",
+      "url": "https://24x7mag.com/standards/fda-updates/clearances/fda-approves-ai-early-warning-system-hospital-sepsis-detection/"
     },
     {
-      "title": "Clairyon AI Agent Boosts Sepsis Bundle Compliance by 13 Percentage Points in JAMA Network Open Cluster RCT",
-      "source": "JAMA Network Open / Clinical Trials Arena",
-      "category": "AI & Machine Learning",
-      "snippet": "A cluster randomized trial across two academic emergency departments at UC San Diego found that AI-enabled near-real-time SEP-1 feedback raised physician sepsis bundle compliance from 70.1% in the control group to 82.9% in the intervention group — a statistically significant 13-percentage-point absolute improvement (p=0.02). The Clairyon LLM agreed with expert human reviewers in 92% of recorded cases, though no significant differences were detected in ICU admissions or 30-day mortality.",
-      "result": "SEP-1 compliance: 70.1% → 82.9% (13pp gain, p=0.02)",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2850785"
+      "title": "J&J OTTAVA Receives FDA De Novo Authorization — World's First Table-Integrated Soft Tissue Surgical Robot Enters Market",
+      "source": "MedTech Dive / Johnson & Johnson",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson received FDA De Novo authorization for OTTAVA in July 2026, cleared for 10 general surgery procedures including gastric bypass, cholecystectomy, and appendectomy following a prospective multicenter clinical trial supporting safety and performance. The table-integrated design takes 30–50% less OR space than boom- or cart-mounted systems, with a phased launch now underway at select U.S. centers.",
+      "result": "FDA De Novo cleared; 10 procedures; phased U.S. launch underway",
+      "url": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/"
     },
     {
-      "title": "OrthoPilot AI Deployed Across 8,240 Inpatients at Ruijin Hospital, Cuts Length of Stay and Raises Bed Throughput by 9.7%",
-      "source": "arXiv (Evidence-Grounded AI for Musculoskeletal Care)",
-      "category": "AI & Machine Learning",
-      "snippet": "An 8-month prospective randomized deployment of the OrthoPilot AI system across 8,240 inpatients at Ruijin Hospital, Shanghai, found that AI-assisted musculoskeletal care increased cumulative cases per bed by 9.7% (from 11.90 to 13.06), reduced average length of stay, lowered physician and nursing documentation workload, and improved patient-reported access to health information. In a parallel 1,870-case reader study, OrthoPilot improved full-chain management success by 10.6% and outperformed orthopaedic physicians with 25 years of experience in diagnostic reasoning and management planning.",
-      "result": "9.7% more cases per bed; 10.6% better management success vs. expert physicians",
-      "url": "https://arxiv.org/abs/2607.12527"
+      "title": "Biozen BP1000 Presents AHA Data: First FDA-Cleared Cuffless, Calibration-Free Blood Pressure Device Validated",
+      "source": "PR Newswire / Biozen",
+      "category": "Wearables & Monitoring",
+      "snippet": "Biozen's BP1000 — the first FDA 510(k)-cleared cuffless blood pressure device in the U.S. requiring no calibration — presented new performance validation data at AHA Scientific Sessions 2026 on November 7. The device uses fingertip oscillometry combining pressure and optical sensing to directly measure absolute systolic and diastolic blood pressure, with the company positioning it for integration across wearables and smartphones.",
+      "result": "First FDA-cleared calibration-free cuffless BP device; AHA validation data presented",
+      "url": "https://www.prnewswire.com/news-releases/biozen-to-present-advancements-in-cuffless-blood-pressure-technology-at-aha-scientific-sessions-2026-302930732.html"
     },
     {
-      "title": "Ambient AI Scribes Cut Documentation by 16 Min/Encounter Across 5 Academic Medical Centers; Burnout Drops 13 Points in 30 Days",
-      "source": "JAMA / 2 Minute Medicine",
+      "title": "Ambient AI Scribes Move from Pilot to Hospital Standard: 15–83% Documentation Time Cuts Confirmed Across Systems",
+      "source": "JMIR Medical Informatics / Advisory.com",
       "category": "Digital Health",
-      "snippet": "A large study published in JAMA across five academic medical centers found ambient AI scribes reduced total EHR time by 13.4 minutes and documentation time by 16 minutes per encounter, while adding approximately 0.49 more patient visits per clinician per week. A separate multicenter JAMA Network Open quality improvement study of 263 clinicians across six health systems found that after 30 days with an ambient AI scribe, the proportion experiencing burnout decreased significantly from 51.9% to 38.8% (OR 0.26; 95% CI 0.13–0.54).",
-      "result": "−16 min documentation/encounter; burnout 51.9% → 38.8% at 30 days",
-      "url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/"
+      "snippet": "A real-world prospective time-motion study published in JMIR Medical Informatics 2026 found ambient AI scribe use reduced documentation time by 15% per consultation and increased clinician eye contact with patients by 10.6%. Across broader U.S. health system deployments, physicians report up to 83% less note-writing time, and the VA is now expanding ambient AI to all VA medical centers in 2026 to serve over 800,000 veterans.",
+      "result": "15–83% documentation time reduction; VA expanding to all medical centers",
+      "url": "https://medinform.jmir.org/2026/1/e85580"
     },
     {
-      "title": "EQUAL Trial: Smartwatch AFib Screening Detects 4× More Cases Than Standard Care in High-Risk Older Adults",
-      "source": "American College of Cardiology / JACC",
+      "title": "AI-Enabled Medical Necessity Review Cuts Utilization Management Timelines, Results to Be Shared at HLTH 2026",
+      "source": "PR Newswire / MCG & Telligen",
+      "category": "AI & Machine Learning",
+      "snippet": "Telligen and MCG Health will present a real-world case study at HLTH 2026 (November 17) demonstrating that AI-supported medical necessity review improved efficiency and reduced review time while keeping clinical decisions grounded in evidence-based guidelines. The deployment represents one of the most detailed public disclosures of AI-driven utilization management outcomes to date.",
+      "result": "Reduced review time; improved efficiency; evidence-based decisions maintained",
+      "url": "https://prnewswire.com/news-releases/mcg-and-telligen-to-share-successful-results-of-ai-enabled-medical-necessity-review-at-hlth-2026-302924307.html"
+    },
+    {
+      "title": "Wearable Deterioration AI Predicts ICU Transfer and Cardiac Arrest 8–24 Hours Before Standard Hospital Alerts",
+      "source": "Stanford Medicine / ARISE Network (State of Clinical AI 2026)",
       "category": "Wearables & Monitoring",
-      "snippet": "The multicenter EQUAL trial randomized 437 participants aged ≥65 years with elevated stroke risk and no AFib history to six months of Apple smartwatch-based monitoring versus standard care, finding new-onset AFib diagnosed in 9.6% of the smartwatch group versus 2.3% in the control group (HR 4.40, p=0.001). The number needed to screen was 14, and the trial demonstrated that prolonged workflow-integrated PPG and single-lead ECG smartwatch screening is feasible in patients at highest clinical risk.",
-      "result": "AFib detected in 9.6% vs. 2.3% (HR 4.40); NNS=14",
-      "url": "https://www.acc.org/latest-in-cardiology/journal-scans/2026/01/28/02/51/equal"
+      "snippet": "A hospital-based study highlighted in the 2026 State of Clinical AI report found that an AI model trained on continuous wearable vital signs predicted patient deterioration — including risk of ICU transfer, cardiac arrest, or death — up to 8–24 hours before standard hospital alerts fired (Scheid et al., Nature Communications, 2025). The system provided clinically actionable warning windows that standard monitoring entirely missed.",
+      "result": "Deterioration predicted 8–24 hours earlier than standard clinical alerts",
+      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
     },
     {
-      "title": "AI-ECG Alert Cuts 90-Day All-Cause Mortality by 17% in 15,965-Patient Pragmatic RCT (Nature Medicine)",
-      "source": "Nature Medicine / HCPLive",
-      "category": "Diagnostics & Imaging",
-      "snippet": "A multisite, pragmatic randomized controlled trial of an AI-enabled ECG alert system integrated into hospital workflows across 39 physicians and 15,965 patients achieved its primary endpoint: a significant 17% reduction in 90-day all-cause mortality (3.6% intervention vs. 4.3% control; HR 0.83, 95% CI 0.70–0.99). Among high-risk ECG patients specifically, the AI alert was associated with a 31% reduction in mortality and a 93% reduction in cardiac deaths (0.2% vs. 2.4% in controls).",
-      "result": "17% mortality reduction overall; 31% reduction in high-risk ECG patients",
-      "url": "https://www.hcplive.com/view/ai-electrocardiogram-alert-intervention-reduces-all-cause-mortality"
-    },
-    {
-      "title": "Robot Motion Data Predicts Surgeon Experience with 0.97 AUC in 234-Procedure Retrospective Study",
-      "source": "STITCHES (Digital Surgery & Telemedicine)",
+      "title": "SS Innovations SSi Mantra Surgical Robot Surpasses 10,500 Procedures Across 200+ Global Installations",
+      "source": "Healthcare Bots / Medical Robotics News",
       "category": "Robotics & Surgery",
-      "snippet": "A retrospective analysis of 234 recorded robotic gallbladder dissections found that motion data alone achieved an AUC of 0.97 out of 1.0 for distinguishing attending surgeons from trainees, outperforming clinical details alone and providing information not captured by conventional metrics. Combining motion data with clinical details raised outcome prediction AUC modestly to 0.75 versus 0.72 for either source alone, suggesting robotic motion analytics could objectively stratify surgical skill in future training credentialing.",
-      "result": "Motion data AUC 0.97 for experience classification across 234 procedures",
-      "url": "https://stitches.today/blog/2026/11/04/robot-motion-data-predicts-surgeon-experience"
+      "snippet": "SS Innovations' SSi Mantra robotic surgical system has now completed more than 10,500 surgeries and been installed in over 200 facilities across 11 countries, with approximately 2,100 physicians trained on the platform. AIIMS Delhi's surgical department alone reported more than 1,000 robotic procedures in just 13 months, making it one of the first Indian government hospital general surgery units to reach that milestone.",
+      "result": "10,500+ procedures; 200+ installations; 11 countries; AIIMS 1,000 cases in 13 months",
+      "url": "https://healthcarebots.in/updates"
     },
     {
-      "title": "Wearable Sensor Scoping Review (41 Studies): Accurate Infant Posture Classification but Variable Motor Activity Measurement",
-      "source": "PLOS Digital Health / Bioengineer.org",
-      "category": "Wearables & Monitoring",
-      "snippet": "Published November 7, 2026, a scoping review of 41 studies found wearable sensors accurately classify infant posture but show more variable performance when measuring fine-grained motor activity, with reported correlation coefficients ranging from r=0.61 to 0.98 against reference standards. More than half of application studies collected data in home-based contexts, demonstrating practical feasibility of wearable infant motor tracking outside the clinic but underscoring the need for robust clinical validation before widespread deployment.",
-      "result": "Posture classification accurate; motor activity r=0.61–0.98 (variable)",
-      "url": "https://bioengineer.org/scoping-review-assesses-wearable-sensors-for-infant-motor-tracking/"
+      "title": "Cluster-Randomized Sepsis Trial: AI-Enabled Abstraction Raised SEP-1 Bundle Compliance from 70% to 83%",
+      "source": "Frontiers in Medicine",
+      "category": "AI & Machine Learning",
+      "snippet": "A mini-review of generative AI implementation outcomes published November 2, 2026 in Frontiers in Medicine cited a cluster-randomized sepsis-quality trial in which AI-enabled data abstraction and feedback increased compliance with the Severe Sepsis and Septic Shock Management Bundle (SEP-1) from 70.1% to 82.9%, a 13-percentage-point improvement. The same review found AI-generated notes reduced clinician documentation time by 0.36 hours per 8-hour shift in a stepped-wedge randomized trial.",
+      "result": "SEP-1 bundle compliance: 70.1% → 82.9% (+13 percentage points)",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1980325/full"
     },
     {
-      "title": "Digital Mobility Wearables Validated for Frailty Monitoring Across COPD, Parkinson's, and Healthy Aging Populations",
-      "source": "Archives of Public Health / Bioengineer.org",
-      "category": "Wearables & Monitoring",
-      "snippet": "A systematic review published November 7, 2026 (DOI: 10.1186/s13690-026-02132-6) concluded that digital mobility outcomes derived from wearable sensors during everyday activities represent a validated approach for frailty prevention and monitoring across disease categories including COPD, Parkinson's disease, and healthy aging. The review found continuous, objective gait speed and mobility measurements provide clinically meaningful data not captured by standard episodic assessments, while calling for dedicated institutional infrastructure to support personalized public health deployment at scale.",
-      "result": "Wearable DMOs validated across COPD, Parkinson's, and aging cohorts",
-      "url": "https://bioengineer.org/digital-mobility-outcomes-support-frailty-prevention-and-monitoring-across-healthcare-stages/"
+      "title": "Intuitive Surgical Reports 11,710 da Vinci Systems Deployed Globally, Up 12% Year-Over-Year",
+      "source": "Intuitive Surgical Q2 2026 Results / Medical Robotics News",
+      "category": "Robotics & Surgery",
+      "snippet": "Intuitive Surgical's Q2 2026 results revealed 11,710 da Vinci surgical systems in active use worldwide as of June 30, 2026 — a 12% increase year-over-year. Intuitive also showcased AI development at the Society of Robotic Surgery 2026 Annual Meeting, drawing on a dataset of more than 20 million da Vinci procedures to build real-time surgical guidance capabilities.",
+      "result": "11,710 systems deployed globally; 12% YoY growth; 20M+ procedure dataset",
+      "url": "https://healthcarebots.in/updates"
+    },
+    {
+      "title": "DarioEngage Digital Therapeutic Achieves 1.2% Greater HbA1c Reduction vs. Standard Diabetes Care Alone",
+      "source": "VTGateway / Digital Therapeutics Analysis 2026",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "An FDA-cleared digital therapeutic, DarioEngage, was evaluated in a six-month trial in which patients using it alongside standard medication saw a 1.2% greater reduction in HbA1c levels compared to medication alone. In the broader digital therapeutics space, platforms targeting asthma and COPD are demonstrating adherence rates 22–28 percentage points above standard care, with Jabil's 2026 industry survey finding 50% of digital health products now in production — up from just 11% previously.",
+      "result": "1.2% additional HbA1c reduction vs. medication alone in 6-month trial",
+      "url": "https://vtgateway.org/digital-therapeutics-and-medication-interactions-what-you-need-to-know-in"
     }
   ],
-  "generated_at": "2026-11-07T12:34:39.614804+00:00"
+  "generated_at": "2026-11-08T12:52:46.133998+00:00"
 }
