@@ -1,120 +1,112 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "feature": {
-    "title": "AHA 2026 Becomes Medtech's Ground Zero: AI Rewrites Cardiac Care With Hard Outcome Data",
-    "summary": "This week's American Heart Association Scientific Sessions in Chicago has become the most data-rich medtech event of 2026, with two landmark randomized trials — Cleerly's PARAMOUNT and Heartflow's DECIDE registry — delivering real-world proof that AI-guided coronary analysis outperforms standard care in hard cardiovascular endpoints. Beyond cardiology, the medtech landscape is defined by a wave of genuine deployments: FDA-cleared sepsis AI is cutting hospital mortality by 18% across dozens of U.S. systems, J&J's OTTAVA surgical robot is now authorized and launching into ORs, and ambient AI scribes have crossed the threshold from pilot to standard clinical practice. The common thread is a shift from promising pilots to measurable, peer-reviewed outcomes — the bar the industry has long been asked to clear.",
+    "title": "Clinical AI Crosses the Evidence Threshold: Randomized Trial Wins, Voice Biomarkers, and Hospital-Grade Prediction Engines Dominate November 2026",
+    "summary": "November 9, 2026 marks a watershed week for medtech implementation evidence, with AI moving decisively from pilot to proof. The PARAMOUNT trial — the first randomized comparison of AI-guided coronary CT care versus standard stress testing — met its primary endpoint at AHA Scientific Sessions, while Cordio Medical's pivotal 563-patient DETECT-HF study demonstrated voice AI predicting heart failure events nearly 25 days early. On the hospital operations front, NYU Langone published real-world deployment results for Lang1, a clinical-language model outperforming general-purpose AI across five prediction tasks. Meanwhile, FDA regulatory infrastructure advanced with new Class II classifications for AI cervical cytology imaging and a wearable vibration orthopedic device, as Barts Health launched the first live AI deployment inside an NHS breast cancer multidisciplinary team.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Cleerly's PARAMOUNT trial — the first randomized head-to-head of AI-guided coronary CT vs. stress testing — met its primary endpoint with a win ratio of 2.00 (p<0.0001), triggering far more preventive lipid therapy in the AI arm."
+        "text": "Cleerly's PARAMOUNT trial — the world's first randomized AI-guided cardiac CT study — met its primary endpoint at AHA 2026, achieving a win ratio of 2.00 over usual care and driving lipid-lowering therapy use from 31% to 75%."
       },
       {
         "label": "Key trend",
-        "text": "AI cardiovascular imaging tools are graduating from diagnostic aids to outcome-changers, with both PARAMOUNT and Heartflow's DECIDE registry showing hard reductions in cardiac events, heart attacks, and unnecessary invasive procedures."
+        "text": "AI is shifting from benchmark performance to real-world clinical validation, with The Lancet, Nature Medicine, and AHA late-breaking sessions all publishing implementation results this week rather than simulated studies."
       },
       {
         "label": "To watch",
-        "text": "J&J's OTTAVA — the world's first table-integrated surgical robot — is entering a phased U.S. launch after FDA De Novo authorization, setting up a three-way competition with Intuitive and Medtronic's Hugo that will reshape the $20B+ robotic surgery market."
+        "text": "Cordio Medical's HearO voice-AI platform, which predicted 70%+ of heart failure events 24.6 days early in DETECT-HF, is now pursuing FDA De Novo clearance ahead of a planned 2027 US launch."
       }
     ]
   },
   "articles": [
     {
-      "title": "PARAMOUNT Trial: First Randomized AI-QCT Heart Trial Meets Primary Endpoint at AHA 2026",
-      "source": "Business Wire / Cleerly",
+      "title": "PARAMOUNT Trial: First Randomized AI-Enabled Plaque-Based Care Meets Primary Endpoint at AHA 2026",
+      "source": "Business Wire / Yahoo Finance",
       "category": "AI & Machine Learning",
-      "snippet": "Cleerly's PARAMOUNT trial — enrolling 530 patients across 21 sites — randomized chest pain patients to AI-based quantitative coronary CT analysis (AI-QCT) vs. standard stress testing. At 180 days, plaque-guided care achieved a composite win ratio of 2.00 (95% CI 1.37–2.56, p<0.0001), with lipid-lowering therapy rising from 31% to 75% in the AI arm versus 32% to 47% in usual care.",
-      "result": "Win ratio 2.00; lipid therapy use jumps to 75% vs. 47%",
+      "snippet": "Cleerly's PARAMOUNT trial — a prospective, multicenter, randomized study of 523 patients across 21 sites — demonstrated that AI-based quantitative coronary CT analysis (AI-QCT) outperformed standard stress-test-guided care with a win ratio of 2.00 (p<0.0001) on a hierarchical composite endpoint at 180 days. Lipid-lowering therapy use surged from 31% to 75% in the AI-guided arm versus 32% to 47% in usual care, and fewer invasive angiograms ended without intervention (38% vs. 60%).",
+      "result": "Win ratio 2.00 vs. usual care; lipid therapy 31%→75%",
       "url": "https://finance.yahoo.com/healthcare/articles/paramount-first-randomized-trial-ai-154500139.html"
     },
     {
-      "title": "Heartflow DECIDE Registry: AI Plaque Analysis Cuts Major CVD Events 34%, Halves Heart Attack Rate at One Year",
-      "source": "GlobeNewswire / Heartflow",
+      "title": "DETECT-HF Pivotal Trial: Cordio Medical's Voice-AI HearO Predicts Heart Failure 24.6 Days Early in 563 Patients",
+      "source": "Medical Device Network / PR Newswire",
+      "category": "Wearables & Monitoring",
+      "snippet": "Cordio Medical presented results from DETECT-HF — a blinded, 563-patient pivotal validation study — at AHA 2026 late-breaking science, showing its smartphone-based HearO system predicted over 70% of heart failure events by an average of 24.6 days before occurrence. The company will now pursue FDA De Novo marketing authorization, with a full US commercial launch anticipated in 2027.",
+      "result": ">70% HF events predicted avg. 24.6 days before occurrence",
+      "url": "https://www.medicaldevice-network.com/news/aha26-cordio-medical-voice-based-heart-failure-analytic-hits-in-pivotal-trial/"
+    },
+    {
+      "title": "NYU Langone's Lang1 Hospital AI Outperforms DeepSeek R1 by 24% on Clinical Prediction Tasks",
+      "source": "NYU Langone Health",
+      "category": "AI & Machine Learning",
+      "snippet": "A study published November 9 describes the design, testing, and real-world deployment of Lang1, an AI prediction engine trained on records from more than 10 million patients over 20 years of NYU Langone care. Lang1 was nearly 24% better than DeepSeek R1 at predicting insurance denials and demonstrated superior performance across five operational hospital prediction tasks including readmission and in-hospital deterioration.",
+      "result": "24% better than DeepSeek R1; deployed across live hospital operations",
+      "url": "https://nyulangone.org/news/ai-models-predictions-accurate-enough-quickly-improve-medical-decisions"
+    },
+    {
+      "title": "Barts Health and AstraZeneca Launch First Live AI Decision-Support Tool Inside NHS Breast Cancer MDTs",
+      "source": "HT World",
+      "category": "AI & Machine Learning",
+      "snippet": "Barts Health NHS Trust and AstraZeneca have launched an 18-month collaborative working project using Deontics' Cancer Pathways IQ technology inside operational breast cancer multidisciplinary team (MDT) meetings — marking the first live deployment of AI decision-support within an NHS breast cancer MDT. The program will measure monthly reductions in MDT preparation time, discussion time, 62-day cancer waiting time performance, and total MDT capacity released in hours.",
+      "result": "First live NHS breast cancer MDT AI deployment; 18-month outcomes tracked",
+      "url": "https://htworld.co.uk/uncategorized/barts-health-to-deploy-ai-decision-support-in-breast-cancer-mdts-in-first-live-rollout-sb26/"
+    },
+    {
+      "title": "Google AMIE Lancet Study: 98 Real Primary-Care Patients, Zero Safety Stops, 90% Diagnostic Accuracy",
+      "source": "The Lancet / Google Research Blog",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective real-world study at Beth Israel Deaconess Medical Center — published in The Lancet on October 8, 2026 — evaluated Google's AMIE diagnostic AI chatbot with 98 live patients before urgent primary care appointments. No conversation required a safety stop, AMIE's differential diagnoses included the final diagnosis in 90% of cases, and clinicians reported the AI summaries helped them prepare for visits in 75% of reviewed encounters.",
+      "result": "0 safety stops; 90% top-7 diagnostic accuracy across 98 patients",
+      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+    },
+    {
+      "title": "FDA Classifies AI-Powered Digital Cervical Cytology Slide Imaging System as Class II Device",
+      "source": "Alston & Bird / Vital Law",
       "category": "Diagnostics & Imaging",
-      "snippet": "Prospective DECIDE registry data, presented at AHA 2026, evaluated more than 6,000 well-matched patients and found Heartflow Plaque Analysis with Plaque Staging produced 34% fewer major cardiovascular events (cardiovascular death, MI, revascularization, or stroke) versus CCTA alone at one year. Additionally, approximately 50% of patients reached LDL-C goal by 90 days, compared to roughly 35% with CCTA alone.",
-      "result": "34% fewer major CVD events; MI rate halved vs. CCTA alone",
-      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393114/0/en/aha-2026-heartflow-plaque-analysis-associated-with-34-fewer-major-cvd-events-and-half-the-rate-of-heart-attack-at-one-year-in-prospective-decide-registry.html"
+      "snippet": "On November 4, 2026, the FDA issued a final order classifying the digital cervical cytology slide imaging system with AI algorithm into Class II (special controls), establishing the regulatory framework for AI-assisted Pap test slide review. The classification requires clinical performance validation in the intended patient population with an independent test dataset, clearing a regulatory pathway for broader commercial deployment of AI cervical screening tools.",
+      "result": "Class II classification unlocks commercial AI cervical screening pathway",
+      "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     },
     {
-      "title": "FDA-Cleared Sepsis AI (TREWS) Cuts Hospital Mortality 18% Across Dozens of U.S. Hospitals",
-      "source": "HospiMedica / 24x7 Magazine",
-      "category": "AI & Machine Learning",
-      "snippet": "Bayesian Health's Targeted Real-Time Early Warning System (TREWS), developed at Johns Hopkins and FDA-cleared in April 2026, is now deployed across dozens of U.S. hospitals including Cleveland Clinic, MemorialCare, and University of Rochester. The system detects sepsis 2–48 hours before clinical suspicion by integrating EHR data with continuous AI, and is associated with an 18% reduction in sepsis mortality rates and decreased length of stay.",
-      "result": "18% sepsis mortality reduction; detection 2–48 hours earlier",
-      "url": "https://24x7mag.com/standards/fda-updates/clearances/fda-approves-ai-early-warning-system-hospital-sepsis-detection/"
-    },
-    {
-      "title": "J&J OTTAVA Receives FDA De Novo Authorization — World's First Table-Integrated Soft Tissue Surgical Robot Enters Market",
-      "source": "MedTech Dive / Johnson & Johnson",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson received FDA De Novo authorization for OTTAVA in July 2026, cleared for 10 general surgery procedures including gastric bypass, cholecystectomy, and appendectomy following a prospective multicenter clinical trial supporting safety and performance. The table-integrated design takes 30–50% less OR space than boom- or cart-mounted systems, with a phased launch now underway at select U.S. centers.",
-      "result": "FDA De Novo cleared; 10 procedures; phased U.S. launch underway",
-      "url": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/"
-    },
-    {
-      "title": "Biozen BP1000 Presents AHA Data: First FDA-Cleared Cuffless, Calibration-Free Blood Pressure Device Validated",
-      "source": "PR Newswire / Biozen",
+      "title": "Happy Ring Receives FDA Clearance for First Cuffless, Calibration-Free Continuous Blood Pressure Monitoring",
+      "source": "MedCity News",
       "category": "Wearables & Monitoring",
-      "snippet": "Biozen's BP1000 — the first FDA 510(k)-cleared cuffless blood pressure device in the U.S. requiring no calibration — presented new performance validation data at AHA Scientific Sessions 2026 on November 7. The device uses fingertip oscillometry combining pressure and optical sensing to directly measure absolute systolic and diastolic blood pressure, with the company positioning it for integration across wearables and smartphones.",
-      "result": "First FDA-cleared calibration-free cuffless BP device; AHA validation data presented",
-      "url": "https://www.prnewswire.com/news-releases/biozen-to-present-advancements-in-cuffless-blood-pressure-technology-at-aha-scientific-sessions-2026-302930732.html"
+      "snippet": "Happy Health received FDA 510(k) clearance (K254000) for its Happy Ring's blood pressure monitoring capabilities — the first wearable cleared for continuous, cuffless, calibration-free blood pressure measurement. The device combines PPG and bioimpedance sensors and was validated against invasive arterial-line measurements, the clinical standard for continuous BP monitoring, and is now commercially available directly to consumers.",
+      "result": "First FDA-cleared cuffless, calibration-free wearable BP monitor; now on market",
+      "url": "https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"
     },
     {
-      "title": "Ambient AI Scribes Move from Pilot to Hospital Standard: 15–83% Documentation Time Cuts Confirmed Across Systems",
-      "source": "JMIR Medical Informatics / Advisory.com",
+      "title": "J&J's OTTAVA Surgical Robot Receives FDA Authorization After Meeting Primary Endpoints in Gastric Bypass Trial",
+      "source": "MD+DI Online",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson's OTTAVA Robotic Surgical System received FDA authorization in July 2026 following a prospective, multicenter clinical trial (FORTE study, 6 US sites) in which the table-integrated robot met its primary safety and performance endpoints in Roux-en-Y gastric bypass procedures. Patients in the 30-patient cohort achieved an average weight loss of 30 pounds at 30 days, with the novel table-integrated arm architecture demonstrating feasibility in space-constrained operating rooms.",
+      "result": "Primary endpoints met; FDA-authorized; avg. 30 lbs weight loss at 30 days",
+      "url": "https://www.mddionline.com/robotics/the-wait-is-over-j-j-s-ottava-surgical-robot-wins-fda-nod-challenging-intuitive-s-80-market-share"
+    },
+    {
+      "title": "Jabil 2026 Digital Health Survey: 50% of Industry Decision-Makers Now Have Products in Production — Up from 11%",
+      "source": "R&D World",
       "category": "Digital Health",
-      "snippet": "A real-world prospective time-motion study published in JMIR Medical Informatics 2026 found ambient AI scribe use reduced documentation time by 15% per consultation and increased clinician eye contact with patients by 10.6%. Across broader U.S. health system deployments, physicians report up to 83% less note-writing time, and the VA is now expanding ambient AI to all VA medical centers in 2026 to serve over 800,000 veterans.",
-      "result": "15–83% documentation time reduction; VA expanding to all medical centers",
-      "url": "https://medinform.jmir.org/2026/1/e85580"
+      "snippet": "Jabil's biennial Digital Health Technology Trends survey of 208 industry decision-makers found that 50% reported their digital healthcare solutions were in active production — the highest share since the survey began in 2018 and up sharply from 11% previously. Surgical robotics emerged as a fast-growing development category, doubling from 9% to 18% of respondents, while device system integration was flagged as the central deployment challenge.",
+      "result": "50% of digital health products now in production, up from 11% in prior survey",
+      "url": "https://www.rdworldonline.com/jabils-2026-digital-health-survey-confidence-in-ais-potential-rises-as-confidence-in-internal-readiness-falls/"
     },
     {
-      "title": "AI-Enabled Medical Necessity Review Cuts Utilization Management Timelines, Results to Be Shared at HLTH 2026",
-      "source": "PR Newswire / MCG & Telligen",
-      "category": "AI & Machine Learning",
-      "snippet": "Telligen and MCG Health will present a real-world case study at HLTH 2026 (November 17) demonstrating that AI-supported medical necessity review improved efficiency and reduced review time while keeping clinical decisions grounded in evidence-based guidelines. The deployment represents one of the most detailed public disclosures of AI-driven utilization management outcomes to date.",
-      "result": "Reduced review time; improved efficiency; evidence-based decisions maintained",
-      "url": "https://prnewswire.com/news-releases/mcg-and-telligen-to-share-successful-results-of-ai-enabled-medical-necessity-review-at-hlth-2026-302924307.html"
+      "title": "Editas Medicine EDIT-401 Gene Editing Shows ≥90% LDL-C Reduction Maintained Over 10 Months in NHP Study at AHA 2026",
+      "source": "BioSpace / Globe Newswire",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "Editas Medicine presented new preclinical data for EDIT-401 — a one-time CRISPR-based therapy targeting hyperlipidemia — at AHA Scientific Sessions 2026, showing LDL-C reductions of ≥90% maintained over 10 months in an ongoing non-human primate study. The company received HREC approval to initiate the Phase 1/2 Strive™ study in Australia and expects to begin patient dosing before year-end, with topline safety and efficacy data from Part 1 expected in the second half of 2027.",
+      "result": "≥90% LDL-C reduction sustained 10 months in NHP; Phase 1/2 dosing imminent",
+      "url": "https://biospace.com/press-releases/editas-medicine-announces-third-quarter-2026-results-and-business-updates"
     },
     {
-      "title": "Wearable Deterioration AI Predicts ICU Transfer and Cardiac Arrest 8–24 Hours Before Standard Hospital Alerts",
-      "source": "Stanford Medicine / ARISE Network (State of Clinical AI 2026)",
-      "category": "Wearables & Monitoring",
-      "snippet": "A hospital-based study highlighted in the 2026 State of Clinical AI report found that an AI model trained on continuous wearable vital signs predicted patient deterioration — including risk of ICU transfer, cardiac arrest, or death — up to 8–24 hours before standard hospital alerts fired (Scheid et al., Nature Communications, 2025). The system provided clinically actionable warning windows that standard monitoring entirely missed.",
-      "result": "Deterioration predicted 8–24 hours earlier than standard clinical alerts",
-      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
-    },
-    {
-      "title": "SS Innovations SSi Mantra Surgical Robot Surpasses 10,500 Procedures Across 200+ Global Installations",
-      "source": "Healthcare Bots / Medical Robotics News",
-      "category": "Robotics & Surgery",
-      "snippet": "SS Innovations' SSi Mantra robotic surgical system has now completed more than 10,500 surgeries and been installed in over 200 facilities across 11 countries, with approximately 2,100 physicians trained on the platform. AIIMS Delhi's surgical department alone reported more than 1,000 robotic procedures in just 13 months, making it one of the first Indian government hospital general surgery units to reach that milestone.",
-      "result": "10,500+ procedures; 200+ installations; 11 countries; AIIMS 1,000 cases in 13 months",
-      "url": "https://healthcarebots.in/updates"
-    },
-    {
-      "title": "Cluster-Randomized Sepsis Trial: AI-Enabled Abstraction Raised SEP-1 Bundle Compliance from 70% to 83%",
-      "source": "Frontiers in Medicine",
-      "category": "AI & Machine Learning",
-      "snippet": "A mini-review of generative AI implementation outcomes published November 2, 2026 in Frontiers in Medicine cited a cluster-randomized sepsis-quality trial in which AI-enabled data abstraction and feedback increased compliance with the Severe Sepsis and Septic Shock Management Bundle (SEP-1) from 70.1% to 82.9%, a 13-percentage-point improvement. The same review found AI-generated notes reduced clinician documentation time by 0.36 hours per 8-hour shift in a stepped-wedge randomized trial.",
-      "result": "SEP-1 bundle compliance: 70.1% → 82.9% (+13 percentage points)",
-      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1980325/full"
-    },
-    {
-      "title": "Intuitive Surgical Reports 11,710 da Vinci Systems Deployed Globally, Up 12% Year-Over-Year",
-      "source": "Intuitive Surgical Q2 2026 Results / Medical Robotics News",
-      "category": "Robotics & Surgery",
-      "snippet": "Intuitive Surgical's Q2 2026 results revealed 11,710 da Vinci surgical systems in active use worldwide as of June 30, 2026 — a 12% increase year-over-year. Intuitive also showcased AI development at the Society of Robotic Surgery 2026 Annual Meeting, drawing on a dataset of more than 20 million da Vinci procedures to build real-time surgical guidance capabilities.",
-      "result": "11,710 systems deployed globally; 12% YoY growth; 20M+ procedure dataset",
-      "url": "https://healthcarebots.in/updates"
-    },
-    {
-      "title": "DarioEngage Digital Therapeutic Achieves 1.2% Greater HbA1c Reduction vs. Standard Diabetes Care Alone",
-      "source": "VTGateway / Digital Therapeutics Analysis 2026",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "An FDA-cleared digital therapeutic, DarioEngage, was evaluated in a six-month trial in which patients using it alongside standard medication saw a 1.2% greater reduction in HbA1c levels compared to medication alone. In the broader digital therapeutics space, platforms targeting asthma and COPD are demonstrating adherence rates 22–28 percentage points above standard care, with Jabil's 2026 industry survey finding 50% of digital health products now in production — up from just 11% previously.",
-      "result": "1.2% additional HbA1c reduction vs. medication alone in 6-month trial",
-      "url": "https://vtgateway.org/digital-therapeutics-and-medication-interactions-what-you-need-to-know-in"
+      "title": "FDA Formally Classifies AI Mild Cognitive Impairment Prognostic Software and Wearable Orthopedic Vibration Device as Class II",
+      "source": "Alston & Bird",
+      "category": "Diagnostics & Imaging",
+      "snippet": "On November 4, 2026, the FDA finalized two additional Class II device classifications: a prognostic assessment software for mild cognitive impairment and a wearable vibration device for orthopedic use, establishing special-controls frameworks that govern what clinical validation evidence must accompany commercial submissions. These classifications, alongside the AI cervical cytology order issued the same day, signal an accelerating FDA effort to codify AI and digital device regulatory standards ahead of enforcement deadlines.",
+      "result": "Three new FDA Class II AI/digital device categories codified in one week",
+      "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     }
   ],
-  "generated_at": "2026-11-08T12:52:46.133998+00:00"
+  "generated_at": "2026-11-09T15:23:52.561383+00:00"
 }
