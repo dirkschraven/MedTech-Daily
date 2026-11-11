@@ -1,120 +1,112 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "feature": {
-    "title": "AHA 2026 Delivers a Historic Week for Clinical AI: Voice Biomarkers, Plaque-Guided Care, and Real Hospital Deployments Redefine Medtech's Evidence Bar",
-    "summary": "The American Heart Association Scientific Sessions 2026 in Chicago produced back-to-back landmark results that shift AI from demonstration to genuine clinical evidence: the PARAMOUNT trial became the world's first randomized study to show AI-guided coronary plaque care outperforming standard stress-test pathways, while Cordio Medical's DETECT-HF pivotal study validated smartphone voice analysis for predicting heart failure events nearly 25 days in advance. Beyond cardiology, the Moderna–Merck personalized mRNA melanoma vaccine cleared its Phase 3 bar with a 42% reduction in recurrence risk, and real-world hospital deployments—from Sentara Health's AI case management rollout to FDA's classification of AI-powered cervical cytology imaging—illustrate that implementation, not just discovery, is now the dominant medtech story. The unifying theme: payers, clinicians, and regulators are demanding measurable outcome data, and 2026 is delivering it.",
+    "title": "AHA 2026 Delivers Landmark AI Clinical Trial Wins as FDA Clears Wave of Medtech Devices",
+    "summary": "The week ending November 11, 2026 marks a pivotal inflection point for clinical AI: for the first time, randomized trial evidence from AHA Scientific Sessions shows AI-guided cardiac care decisively outperforming standard care, while a smartphone voice app accurately predicted heart failure events weeks in advance in a 563-patient blinded trial. Simultaneously, the FDA cleared a new generation of AI-powered imaging and diagnostics tools—from IVUS platforms to handheld lung ultrasound—moving from pilot to deployable product. On the hospital operations front, Sentara Health's real-world Regard AI rollout to 250 case managers is projecting 90,000 hours saved annually, illustrating that health system AI is now delivering measurable workforce ROI. Taken together, these developments signal that medtech AI has crossed from proof-of-concept into evidence-backed, deployable care transformation.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "PARAMOUNT—the first-ever randomized trial of AI-guided coronary plaque care—met its primary endpoint at AHA 2026, with lipid-lowering therapy use jumping from 31% to 75% in the AI arm versus usual care."
+        "text": "Cleerly's PARAMOUNT trial—the first randomized AI cardiac care study—met its primary endpoint at AHA 2026, with AI-guided plaque assessment achieving a win ratio of 2.00 over usual care and tripling lipid-lowering therapy initiation."
       },
       {
         "label": "Key trend",
-        "text": "Passive, continuous biometric monitoring achieved regulatory legitimacy this cycle: FDA cleared the first cuffless, calibration-free smart ring for clinical-grade blood pressure while voice AI crossed a pivotal validation threshold for heart failure prediction."
+        "text": "FDA cleared at least five AI-enabled medical devices in the first two weeks of November alone, spanning IVUS imaging, handheld ultrasound AI, sleep diagnostics, and cervical cytology—accelerating the commercialization pipeline."
       },
       {
         "label": "To watch",
-        "text": "Moderna and Merck are positioning for accelerated FDA approval of intismeran autogene after Phase 3 data showed a 42% reduction in melanoma recurrence, with full NEJM publication and regulatory submissions imminent."
+        "text": "Cordio Medical's HearO voice-based heart failure predictor heads for FDA De Novo filing after DETECT-HF validated 70%+ event prediction 24.6 days in advance, potentially redefining non-invasive remote cardiac monitoring."
       }
     ]
   },
   "articles": [
     {
-      "title": "PARAMOUNT Trial: World's First Randomized AI-Guided Coronary Plaque Care Meets Primary Endpoint at AHA 2026",
-      "source": "HCPLive / Times Argus (Business Wire)",
+      "title": "PARAMOUNT: First Randomized Trial of AI-Enabled Plaque-Based Cardiac Care Meets Primary Endpoint at AHA 2026",
+      "source": "Cardiovascular Business / Dicardiology.com",
       "category": "AI & Machine Learning",
-      "snippet": "Cleerly's AI-quantitative coronary CT analysis (AI-QCT) was tested against standard stress-testing in 530 patients across 21 sites. AI-guided care produced a win ratio of 2.00 versus usual care, with diagnostic certainty and LDL-C reduction driving the result; lipid-lowering therapy use rose from 31% to 75% in the AI arm.",
-      "result": "Win ratio 2.00; lipid therapy use rose 31% → 75%",
-      "url": "https://hcplive.com/view/ai-driven-quantification-of-coronary-plaque-outperforms-standard-care-in-suspected-cad"
+      "snippet": "Cleerly's PARAMOUNT trial—a multicenter, randomized study of 523 patients with stable chest pain across 21 US sites—showed AI-quantitative coronary CT (AI-QCT) guided care was favored over usual stress-test-based care with a win ratio of 2.00 (p<0.0001) at 180 days. In the AI-guided arm, lipid-lowering therapy use rose from 31% to 75% after testing, compared to 32%–47% in usual care, and fewer invasive angiograms ended without intervention (38% vs. 60%).",
+      "result": "Win ratio 2.00 vs. usual care; lipid therapy up 31%→75%",
+      "url": "https://www.dicardiology.com/content/first-randomized-trial-ai-enabled-plaque-based-care-meets-primary-endpoint"
     },
     {
-      "title": "DETECT-HF Pivotal Study: Smartphone Voice AI Predicts Heart Failure Events 24.6 Days Before They Occur",
-      "source": "PR Newswire / MassDevice",
+      "title": "DETECT-HF: Cordio Medical's AI Voice App Predicts Heart Failure Events 24.6 Days Early in Pivotal 563-Patient Trial",
+      "source": "Mass Device / PR Newswire",
       "category": "Wearables & Monitoring",
-      "snippet": "Cordio Medical's HearO system was validated in a blinded 563-patient multicenter study presented as late-breaking science at AHA 2026. The AI voice-analysis app predicted more than 70% of heart failure events at an average of 24.6 days before occurrence, with high patient compliance and no device-related adverse events across five languages.",
-      "result": ">70% of HF events predicted avg. 24.6 days early",
-      "url": "https://www.prnewswire.com/news-releases/pivotal-study-validates-cordio-medicals-smartphone-based-voice-analysis-for-remote-heart-failure-monitoring-302933206.html"
+      "snippet": "Cordio Medical's HearO smartphone system, which analyzes daily voice recordings for lung-fluid-related speech changes, predicted more than 70% of heart failure events at an average of 24.6 days before occurrence in the blinded, multicenter DETECT-HF study of 563 ambulatory heart failure patients. The trial, presented as Late-Breaking Science at AHA 2026 and simultaneously published in JACC: Heart Failure, showed 85% patient compliance with daily recordings and no device-related adverse events.",
+      "result": "70%+ HF events predicted avg. 24.6 days early; 85% compliance",
+      "url": "https://www.massdevice.com/cordio-study-shows-ai-voice-recordings-can-help-predict-heart-failure/"
     },
     {
-      "title": "Moderna–Merck Personalized mRNA Melanoma Vaccine Cuts Recurrence Risk 42% in Phase 3 INTerpath-001 Trial",
-      "source": "Medscape / CNBC",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "The Phase 3 INTerpath-001 trial enrolled 1,137 patients with surgically resected high-risk stage IIB–IV melanoma; intismeran autogene plus pembrolizumab significantly reduced the risk of recurrence or death by 42% versus Keytruda alone. Full results were presented at ESMO 2026 and are targeted for publication in the New England Journal of Medicine in mid-November 2026.",
-      "result": "42% reduction in melanoma recurrence or death vs. Keytruda alone",
-      "url": "https://www.medscape.com/viewarticle/personalized-melanoma-vaccine-improves-recurrence-free-2026a100148e"
+      "title": "GE HealthCare Launches FDA-Cleared AI Lung Guidance and AutoAS on Vscan Air Handheld Ultrasound",
+      "source": "AuntMinnie / HIT Consultant",
+      "category": "Diagnostics & Imaging",
+      "snippet": "GE HealthCare's two new AI-assisted capabilities—Lung Guidance and AutoAS for aortic stenosis estimation—both received FDA 510(k) clearance and CE marking and are now commercially available via Vscan Air Innovation Packages in the US and select markets. Validation data showed non-expert users achieved diagnostic-quality lung exams in 95.2% of evaluations, nearly matching the 96.8% rate of expert operators, enabling bedside cardiopulmonary triage without specialist imaging access.",
+      "result": "Non-experts matched experts: 95.2% vs. 96.8% diagnostic-quality scans",
+      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/16349404/ge-healthcare-gehc-adds-lung-aortic-stenosis-ai-tools-to-vscan-air"
     },
     {
-      "title": "Sentara Health Rolls Out AI Case Management Across All 12 Hospitals, Projecting 90,000 Hours Saved",
-      "source": "Fierce Healthcare / TechTarget HealthTech Analytics",
+      "title": "Sentara Health Deploys AI Case Management Tool to 250 Staff, Projects 90,000 Hours Saved Annually",
+      "source": "Fierce Healthcare / TechTarget Health",
       "category": "Digital Health",
-      "snippet": "Sentara Health deployed its AI case management platform, co-developed with Regard, to approximately 250 inpatient case managers beginning summer 2026; more than 90% of those managers now use it regularly. The system allows plain-language chart querying across all 12 hospitals, and Sentara estimates broader deployment could save nearly 90,000 staff hours organization-wide.",
-      "result": ">90% staff adoption; 90,000 hours projected savings",
+      "snippet": "Sentara Health, a 12-hospital system in Virginia and North Carolina, deployed its Regard-powered AI case management platform to approximately 250 case managers in summer 2026, achieving over 90% regular-use adoption. Following a successful ambulatory pilot where patient encounters rose 6% and patients managed increased nearly 20%, the health system projects broader deployment could save nearly 90,000 hours of staff time annually.",
+      "result": ">90% staff adoption; projected 90,000 hours/year saved",
       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard"
     },
     {
-      "title": "FDA Formally Classifies AI-Powered Cervical Cytology Imaging System as Class II, Opening 510(k) Pathway",
-      "source": "Alston Health Care Week in Review / FDA CDRH",
+      "title": "FDA Clears Evident Vascular's AI-Powered IVUS Imaging Platform for Peripheral Vascular Interventions",
+      "source": "Radiology Business / Vascular News",
       "category": "Diagnostics & Imaging",
-      "snippet": "On November 4, 2026, the FDA issued a final order classifying the digital cervical cytology slide imaging system with AI algorithm as a Class II device with special controls, establishing the first regulatory lane for AI-assisted Pap test screening. The classification codifies performance standards—including sensitivity, specificity, and population representation requirements—allowing subsequent manufacturers to submit via 510(k) using the De Novo decision as predicate.",
-      "result": "New Class II category established; 510(k) predicate pathway unlocked",
-      "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
+      "snippet": "Evident Vascular received FDA 510(k) clearance for its Evident Vascular Guidance System and peripheral imaging catheters, an AI-integrated intravascular ultrasound (IVUS) platform built on proprietary dynamic frequency control technology and NVIDIA accelerated computing. The system features flushless plug-and-play catheters, hands-free voice control, and onboard AI real-time image processing, with the company planning further AI capability submissions as clinical data accumulate.",
+      "result": "FDA 510(k) cleared; AI-IVUS now commercially deployable in US",
+      "url": "https://vascularnews.com/evident-vascular-receives-us-fda-clearance-for-high-fidelity-ai-powered-ivus-imaging-platform/"
     },
     {
-      "title": "FDA Clears Happy Health Smart Ring for Cuffless, Calibration-Free Blood Pressure Monitoring—First of Its Kind",
-      "source": "Sleep Review Magazine / Fitt Insider",
-      "category": "Wearables & Monitoring",
-      "snippet": "The FDA granted 510(k) clearance (K254000, September 3, 2026) to Happy Health's smart ring for continuous, passive blood pressure measurement without an inflatable cuff or external calibration—a regulatory first for any wearable form factor. The device was validated against invasive arterial-line standards in 85 patients, achieving a systolic mean error of 0.8 mmHg and diastolic mean error of 0.1 mmHg.",
-      "result": "0.8 mmHg systolic error; first cuffless+calibration-free FDA clearance",
-      "url": "https://sleepreviewmag.com/sleep-treatments/therapy-devices/emerging-technology/fda-clears-happy-ring-blood-pressure-monitoring/"
+      "title": "INOVIO's VOCERYQ Earns FDA Accelerated Approval as First-Ever DNA Medicine—27% of RRP Patients Avoided Surgery for 12 Months",
+      "source": "FDA.gov / Contagion Live",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "The FDA granted accelerated approval to Inovio's VOCERYQ (INO-3107), a plasmid DNA-based immunotherapy used with the Cellectra 5PSP delivery device, to reduce surgical excision frequency in adults with recurrent respiratory papillomatosis—marking the first FDA-approved DNA medicine. In the supporting RRP-001 trial of 32 adults, 27% of patients in the efficacy group required no surgery for a full 12 months, with all patients completing the study and adverse events rated Grade 1–2.",
+      "result": "27% surgery-free at 12 months; first FDA-approved DNA medicine",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis"
     },
     {
-      "title": "FDA Classifies Prognostic Assessment Software for Mild Cognitive Impairment as Class II Device",
-      "source": "FDA CDRH / Patient Care Online",
+      "title": "Neurotronics Receives FDA Clearance for AI/ML Sleep Analysis Module—First to Extract Sleep Time from Existing Pulse Ox Signal",
+      "source": "MobiHealthNews / Sleep Review Magazine",
       "category": "AI & Machine Learning",
-      "snippet": "On November 4, 2026, FDA released a final order classifying prognostic assessment software for mild cognitive impairment into Class II with special controls, creating a formal regulatory category for AI-based MCI prognosis tools. The classification signals FDA's readiness to clear software-only devices that assist clinicians in predicting cognitive decline trajectories in outpatient and memory-clinic settings.",
-      "result": "New Class II device category established for MCI prognosis AI",
+      "snippet": "Neurotronics (a Nihon Kohden company) obtained FDA 510(k) clearance for its Sleep Analysis Module (SAM), a software-only AI/ML device that estimates total sleep time by analyzing photoplethysmography (PPG) signals already captured during home sleep apnea tests—requiring no additional hardware. SAM represents the company's first FDA-cleared AI/ML sleep algorithm and will be integrated into its Polysmith diagnostic software for the NomadAir home sleep apnea testing system.",
+      "result": "First FDA-cleared AI sleep-time estimator from PPG signal; no new hardware needed",
+      "url": "https://www.mobihealthnews.com/news/neurotronics-receives-fda-clearance-ai-sleep-analysis-software"
+    },
+    {
+      "title": "AI4Eyes Completes FDA Registration for Eye Care AI Platform, Opening US Commercialization",
+      "source": "PR Newswire",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Montreal-based AI4Eyes Medical Technologies announced today (November 11, 2026) the completion of FDA establishment registration and device listing for its AI-powered eye care platform, clearing the path to US commercial launch in accordance with FDA regulations. The platform is designed to bring autonomous AI diagnostics to ophthalmic screening at the point of care.",
+      "result": "FDA registration complete; US commercial launch now authorized",
+      "url": "https://www.prnewswire.com/news-releases/ai4eyes-completes-fda-registration-and-listing-for-its-eye-care-platform-opening-the-path-to-us-commercialization-302935330.html"
+    },
+    {
+      "title": "FDA Establishes Class II Regulatory Category for AI Cervical Cytology Slide Imaging Systems",
+      "source": "FDA CDRH / Lean RA QA Substack",
+      "category": "Diagnostics & Imaging",
+      "snippet": "On November 4, 2026, the FDA issued a final order classifying the digital cervical cytology slide imaging system with AI algorithm into Class II (special controls), creating a formal regulatory pathway for a new generation of AI cervical cancer screening devices. This follows the real-world integration of Hologic's Genius Digital Diagnostics System—independently validated at 98.2%–100% sensitivity on 890 ThinPrep Pap tests—into routine US laboratory workflows, and sets the special control framework that future 510(k) applicants must meet.",
+      "result": "New Class II pathway created; Hologic system validated at 98.2%–100% sensitivity",
       "url": "https://www.fda.gov/medical-devices/medical-devices-news-and-events/cdrh-new-news-and-updates"
     },
     {
-      "title": "AI Cancer Diagnosis at AHA Scale: Personalized mRNA Vaccine Phase 3 Data Reshapes Oncology's AI-Driven Future",
-      "source": "Tom's Guide",
-      "category": "Genomics & Precision Medicine",
-      "snippet": "Published November 10, 2026, an editorial analysis contextualizes the INTerpath-001 Phase 3 results within the broader AI-accelerated personalized medicine landscape: 82% of patients receiving the individualized vaccine plus Keytruda remained recurrence-free at two years versus 70% with Keytruda alone in the 1,137-patient cohort. The piece examines how AI-driven tumor neoantigen sequencing made individualized vaccine manufacturing scalable for the first time.",
-      "result": "82% vs. 70% two-year recurrence-free survival in 1,137 patients",
-      "url": "https://tomsguide.com/ai/ai-is-changing-cancer-treatment-and-a-new-breakthrough-shows-just-how-far-weve-come"
+      "title": "Stanford-Harvard State of Clinical AI Report: Wearable AI Predicts ICU Transfer 8–24 Hours Early; Ambient Scribes Cut Note Time 83%",
+      "source": "Stanford Medicine",
+      "category": "AI & Machine Learning",
+      "snippet": "A landmark Stanford-Harvard joint report on the state of clinical AI, drawing from real hospital deployments, found that a wearable vital-sign AI model predicted patient deterioration 8–24 hours before standard hospital alerts, identifying those at risk for ICU transfer, cardiac arrest, or death. Across multiple health systems, ambient AI clinical note tools reduced physician documentation time by up to 83%, with one system reporting a 112% return on investment.",
+      "result": "Deterioration predicted 8–24 hrs early; 83% less documentation time; 112% ROI",
+      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
     },
     {
-      "title": "Sentara Radiology AI Follow-Up Platform Generates $1.7M in Measurable Value Within Six Months",
-      "source": "Healthcare IT News / Inflo Health",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Sentara Health deployed Inflo Health's AI-based imaging follow-up workflow across CT, MRI, emergency department imaging, and select outpatient radiology lines integrated with its Epic EHR. The AI engine—trained to identify 100% of follow-up needs and automate patient outreach—generated approximately $1.7 million in measurable value by closing a high volume of previously missed imaging follow-up loops within six months of deployment.",
-      "result": "$1.7M in realized value; near-100% follow-up capture rate",
-      "url": "https://www.healthcareitnews.com/news/sentara-gains-17m-ai-based-workflow-and-analytics-tool"
-    },
-    {
-      "title": "King Faisal Specialist Hospital Reports 25% Diagnostic Accuracy Gain and 18% Misdiagnosis Reduction from Radiology AI Deployment",
-      "source": "CERD.com",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Presented at HLTH Europe 2026 in Amsterdam, King Faisal Specialist Hospital shared real-world outcome data from its radiology AI deployment: diagnostic accuracy improved 25% and misdiagnosis rates fell 18% compared to pre-AI baselines. The hospital attributed results to embedding AI tools within existing care pathways rather than operating them as a standalone technical layer, supported by its Centre for Healthcare Intelligence.",
-      "result": "+25% diagnostic accuracy; −18% misdiagnosis rate",
-      "url": "https://www.cerd.com/en-us/article/king-faisal-specialist-hospital-showcases-radiology-ai-results-at-hlth-europe-2026-in-amsterdam"
-    },
-    {
-      "title": "DeepHealth AI Avoids ~19% of Prostate Biopsies While Maintaining 98.4% Sensitivity in 800-Patient Multinational Study",
-      "source": "Discoveries in Health Policy / Radiology Business",
-      "category": "Diagnostics & Imaging",
-      "snippet": "A retrospective multinational study of nearly 800 patients found that DeepHealth's AI classification system could potentially avoid approximately 19% of prostate biopsies while preserving 98.4% patient-level sensitivity for clinically significant cancer. The findings were highlighted in a 2026 analysis of real-world radiology AI deployment trends across imaging centers, noting heterogeneous but measurable workflow gains.",
-      "result": "19% fewer biopsies; 98.4% sensitivity for significant cancer maintained",
-      "url": "https://www.discoveriesinhealthpolicy.com/2026/10/using-radiology-business-ai-section-to.html"
-    },
-    {
-      "title": "J&J OTTAVA Surgical Robot Meets All Safety and Performance Endpoints in FORTE Bariatric Pivotal Study",
-      "source": "MassDevice / Johnson & Johnson",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson's FORTE study—a prospective multicenter evaluation of its OTTAVA robotic surgical system in Roux-en-Y gastric bypass—enrolled 30 patients across six U.S. sites and met all primary safety and performance endpoints at 30 days post-procedure. Investigators completed every procedure robotically without conversion to a non-robotic approach, and patients lost an average of 30 pounds within 30 days; J&J submitted the data to the FDA to support regulatory authorization.",
-      "result": "100% robotic procedure completion; 30 lbs avg. weight loss at 30 days",
-      "url": "https://www.massdevice.com/johnson-johnson-ottava-surgical-robot-met-endpoints-study/"
+      "title": "PLOS Digital Health Audit: Only 3 of 1,357 FDA-Cleared AI Devices Have Been Tested on Patient Outcomes",
+      "source": "Medical Xpress / PLOS Digital Health",
+      "category": "AI & Machine Learning",
+      "snippet": "A University of Toronto-led analysis published in PLOS Digital Health examined all 1,357 FDA-authorized AI medical devices and found that only 34 were linked to registered clinical trials, only 12 had peer-reviewed published results, and just 3 had been evaluated on patient-centered outcomes such as mortality, stroke, hospitalization, or quality of life. The findings expose a systemic evidence gap at the core of AI device regulation and have galvanized calls for mandatory outcome-based post-market studies.",
+      "result": "Only 3/1,357 FDA AI devices tested on actual patient outcomes",
+      "url": "https://medicalxpress.com/news/2026-08-ai-medical-devices-patient-outcomes.html"
     }
   ],
-  "generated_at": "2026-11-10T14:27:29.047351+00:00"
+  "generated_at": "2026-11-11T13:41:14.800069+00:00"
 }
