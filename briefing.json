@@ -1,120 +1,120 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "feature": {
-    "title": "Clinical Evidence Flood: AI Cardiology Trials, Voice Heart-Failure Prediction, and Device Clearances Reshape MedTech This Week",
-    "summary": "The week of November 13, 2026 marks a watershed moment for evidence-based medtech, with landmark randomized trial data emerging simultaneously across cardiology, diagnostics, and AI-assisted clinical decision-making. Pivotal readouts from AHA Scientific Sessions 2026 and TCT 2026 have delivered hard outcome numbers—not promises—across AI chest-pain pathways, voice-based heart-failure monitoring, and CT-guided coronary intervention. On the commercialization front, Medicare's nationwide reimbursement for EsoGuard esophageal cancer screening and QUELIMMUNE's 247% revenue surge signal that FDA-cleared diagnostic and therapeutic devices are finally crossing the coverage chasm into broad deployment.",
+    "title": "Carotid Stenting Gets a Double Win, Medtronic's RDN Delivers -18.2 mmHg, and AI Hits the Hospital Firewall: MedTech's Big Week",
+    "summary": "The week of November 10–14, 2026 delivered a cluster of high-impact medtech results spanning cardiovascular devices, AI clinical deployment, wound care, and diagnostics. Two separate carotid stent systems — Contego Medical's Neuroguard IEP Direct and InspireMD's CGuard Prime — earned fresh FDA approvals backed by pivotal trial data showing 0% stroke rates, while Medtronic's SPYRAL AFFIRM post-approval study confirmed an 18.2 mmHg blood pressure reduction for its renal denervation catheter. On the AI front, Dyania Health's hospital-deployed clinical reasoning platform went live inside health system firewalls with NVIDIA infrastructure, and AEYE Health's autonomous diabetic retinopathy screener continued its real-world rollout backed by three pivotal trials exceeding 1,200 patients. The overarching theme is a shift from proof-of-concept to measurable, real-world deployment across cardiology, diagnostics, and AI-assisted care.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Cordio Medical's DETECT-HF pivotal trial of voice-AI smartphone monitoring predicted over 70% of heart failure events a mean of 24.6 days before clinical presentation in 563 patients, the first blinded prospective validation of its kind."
+        "text": "Medtronic's SPYRAL AFFIRM post-approval study confirmed its renal denervation system cut office systolic blood pressure by 18.2 mmHg at six months with no increase in medication — triggering expanded FDA labeling for diabetic and CKD patients."
       },
       {
         "label": "Key trend",
-        "text": "Hard randomized trial evidence—not pilots—is now arriving for AI-guided clinical workflows, with statistically significant outcome gains demonstrated across cardiology imaging, AI-assisted physician reasoning, and autonomous diagnostics."
+        "text": "Carotid stroke prevention is seeing a hardware arms race: within 48 hours, both Contego Medical (0% stroke rate in PERFORMANCE III) and InspireMD (100% device success in CGUARDIANS II) secured separate FDA approvals for TCAR stent systems, signaling fierce competition in the 35,000+ annual procedure market."
       },
       {
         "label": "To watch",
-        "text": "EsoGuard's nationwide Medicare reimbursement at $1,938 per test is the leading indicator for how quickly other AI-cleared diagnostics will unlock coverage and commercialize at scale in 2027."
+        "text": "SeaStar Medical's NEUTRALIZE-AKI pivotal trial for acute kidney injury in ICU patients has hit 75% enrollment (251/339), with Breakthrough Device Designation for priority FDA review — a readout could reshape critical care nephrology in 2027."
       }
     ]
   },
   "articles": [
     {
-      "title": "Cordio Medical's HearO Voice AI Predicts Heart Failure 24.6 Days Early in Pivotal 563-Patient DETECT-HF Trial",
-      "source": "PR Newswire / Cardiovascular Business",
-      "category": "Wearables & Monitoring",
-      "snippet": "The DETECT-HF blinded, prospective trial presented at AHA Scientific Sessions 2026 and simultaneously published in JACC: Heart Failure found that the HearO smartphone app correctly predicted more than 70% of heart failure events at an average of 24.6 days before clinical presentation across 563 ambulatory patients at 46 sites. Participants completed 85% of scheduled voice recordings with no device-related adverse events, and Cordio plans to submit the system for FDA clearance ahead of a 2027 US market launch.",
-      "result": "70%+ HF events predicted 24.6 days early; 563 patients",
-      "url": "https://www.prnewswire.com/news-releases/pivotal-study-validates-cordio-medicals-smartphone-based-voice-analysis-for-remote-heart-failure-monitoring-302933206.html"
+      "title": "Medtronic SPYRAL AFFIRM Post-Approval Study Cuts Office BP 18.2 mmHg; FDA Updates Labeling",
+      "source": "FAIRSONLINE / Endovascular Today",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Medtronic's Symplicity Spyral renal denervation system met its primary endpoint in the SPYRAL AFFIRM post-approval study, delivering statistically significant blood pressure reductions across office, home, and 24-hour ambulatory measures at six months in patients with uncontrolled hypertension — with no increase in antihypertensive medications. The FDA simultaneously approved updated labeling to include data for patients with isolated systolic hypertension, chronic kidney disease up to stage 3b, and type 2 diabetes, broadening the therapy's clinical reach.",
+      "result": "−18.2 mmHg office systolic BP at 6 months, p<0.0001",
+      "url": "https://www.fairsonline.org/medtronic-rdn-study-cuts-office-bp-182-mmhg-fda-updates-label"
     },
     {
-      "title": "PARAMOUNT RCT: World's First AI-Driven Plaque-Based Chest Pain Trial Hits Primary Endpoint at AHA 2026",
-      "source": "The Future Health / Substack",
-      "category": "AI & Machine Learning",
-      "snippet": "PARAMOUNT, billed as the world's first randomized trial using AI to drive plaque-based cardiac care, achieved its primary endpoint at AHA 2026 with a win ratio of 2.00 favoring the AI-guided arm over usual care in 523 patients. Lipid-lowering therapy use in the AI-guided arm rose from 31% to 75% following AI-informed testing, with full data expected in early 2027.",
-      "result": "Win ratio 2.00; lipid therapy uptake rose 31% → 75%",
-      "url": "https://thefuturehealth.substack.com/p/ai-guided-chest-pain-care-now-has"
+      "title": "FDA Approves Contego Medical's Neuroguard IEP Direct System for TCAR-IEP After 0% Stroke Rate in Pivotal Trial",
+      "source": "Cardiovascular Business",
+      "category": "Robotics & Surgery",
+      "snippet": "The FDA granted premarket approval (PMA) for Contego Medical's Neuroguard IEP Direct System and 510(k) clearance for its Embolic Protection System, based on the PERFORMANCE III pivotal study in 146 patients across 26 sites, which reported zero strokes, zero MIs, zero neurological deaths, zero cranial nerve injuries, and zero stent thromboses through 30 days. The dual-neuroprotection approach — combining flow reversal and an integrated 40-micron embolic filter — achieves the lowest reported event rates in any prospective multicenter carotid revascularization study.",
+      "result": "0% stroke rate, 0.69% MAE rate (ITT) in 146 patients",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/stroke/fda-approves-stroke-prevention-devices-used-during-transcarotid-artery-revascularization"
     },
     {
-      "title": "HeartFlow P4 Trial: CT-Guided PCI Matches IVUS Outcomes With 27% Shorter Procedure Time — Published in NEJM",
-      "source": "Healio / GlobeNewswire",
+      "title": "InspireMD's CGuard Prime Wins FDA TCAR Approval on 100% Device Success Rate in CGUARDIANS II Trial",
+      "source": "TipRanks / InspireMD SEC Filing",
+      "category": "Robotics & Surgery",
+      "snippet": "On November 12, 2026, the FDA approved InspireMD's PMA supplement for the CGuard Prime TransCarotid Stent System for use in TCAR procedures, supported by the prospective, multicenter CGUARDIANS II pivotal trial across 11 US sites, which showed 100% acute device success and no deaths, strokes, MIs, or stent thromboses at 30 days. The approval doubles InspireMD's U.S. addressable market by unlocking access to more than 35,000 annual TCAR procedures, establishing CGuard Prime as the only system offered for both CAS and TCAR delivery.",
+      "result": "100% device success, 0 strokes/MI/deaths at 30 days",
+      "url": "https://www.tipranks.com/news/company-announcements/inspiremd-fda-approves-cguard-prime-for-tcar-procedures"
+    },
+    {
+      "title": "AEYE-DS AI Diabetic Retinopathy Screener Wins 2026 Prix Galien Award; Real-World Clinic Deployment Achieves 95.7% Result Rate",
+      "source": "Eyewire+ / PubMed",
       "category": "Diagnostics & Imaging",
-      "snippet": "The randomized P4 trial of 1,105 patients, presented as a late-breaker at TCT 2026 and simultaneously published in the New England Journal of Medicine, found CT-guided PCI to be non-inferior to intravascular ultrasound guidance for 12-month target-vessel failure (4.1% vs. 4.6%), while reducing median procedure time by 17 minutes (46 vs. 63 minutes) and contrast volume by approximately 12%. HeartFlow's PCI Navigator altered treatment plans in roughly 70% of cases, most commonly changing stent length.",
-      "result": "Non-inferior at 12 months; 27% shorter procedure time",
-      "url": "https://www.healio.com/news/cardiology/20261103/ct-guidance-noninferior-vs-ivus-for-certain-patients-undergoing-pci"
-    },
-    {
-      "title": "Abbott Amulet 360 Achieves 96.3% Complete LAA Closure at One Year in VERITAS Pivotal Study",
-      "source": "Medtech Insight / Abbott Mediaroom",
-      "category": "Diagnostics & Imaging",
-      "snippet": "One-year data from the 458-patient VERITAS pivotal study, presented at TCT 2026 and published in JACC: Cardiovascular Interventions, showed Abbott's next-generation Amulet 360 left atrial appendage occluder achieved complete closure in 96.3% of nonvalvular AFib patients with a 1.8% rate of ischemic stroke or systemic embolism. The device had a 99.3% implantation success rate, clinically relevant device-related thrombosis occurred in only 0.4% of patients, and the device received a CE Mark in August 2026 with US FDA approval pending.",
-      "result": "96.3% complete LAA closure; 1.8% stroke rate at 12 months",
-      "url": "https://abbott.mediaroom.com/2026-11-02-Late-breaking-one-year-data-show-Abbotts-next-generation-Amulet-360-TM-device-continues-to-demonstrate-high-rates-of-left-atrial-appendage-closure-and-low-incidence-of-stroke"
-    },
-    {
-      "title": "AEYE-DS Autonomous AI Wins 2026 Prix Galien USA Award; Real-World Hospital Deployment Raises Screening Adherence from 29% to 49%",
-      "source": "Eyewire News / AEYE Health",
-      "category": "AI & Machine Learning",
-      "snippet": "AEYE-DS, the FDA-cleared autonomous diabetic retinopathy screening AI, won the 2026 Prix Galien USA Best Digital Health Solution award, backed by three prospective multicenter pivotal trials in over 1,200 patients demonstrating 92–93% sensitivity, 89–94% specificity, and greater than 99% imageability. A real-world deployment at UMass Memorial Health showed screening adherence climbed from 29% to 49% in four months while average exam times dropped 75%, and the 2026 ADA Standards of Care explicitly named AEYE-DS as a validated autonomous screening strategy.",
-      "result": "Adherence 29%→49% in 4 months; 75% reduction in exam time",
+      "snippet": "AEYE Health's FDA-cleared AEYE-DS autonomous AI retinal screener — validated across three prospective pivotal studies in 1,200+ patients with 92–93% sensitivity, 89–94% specificity, and >99% imageability — won the 2026 Prix Galien USA Award for Best Digital Health Solution and is now embedded in ADA clinical guidelines as a named standard-of-care platform. A published real-world implementation study at an endocrinology outpatient clinic found definitive diagnostic results for 95.7% of 256 patients without pharmacological dilation, with over 80% of patients rating the experience as easy, time-efficient, and recommendable.",
+      "result": "95.7% result rate, >99% imageability, 92–93% sensitivity",
       "url": "https://eyewire.news/news/aeye-health-wins-2026-prix-galien-usa-award-for-autonomous-ai-diabetic-retinopathy-screening-technology"
     },
     {
-      "title": "LLM-Assisted Physicians Score Up to 18 Percentage Points Higher in Three-Country Randomized Clinical Trial",
-      "source": "Telehealth.org / Nature npj Digital Medicine",
+      "title": "Dyania Health and NVIDIA Deploy Clinical Reasoning AI Inside Hospital Firewalls at Population Scale",
+      "source": "PR Newswire",
       "category": "AI & Machine Learning",
-      "snippet": "A parallel-group randomized controlled trial involving 249 physicians across Indonesia, Kenya, and the Netherlands found that GPT-4o access significantly improved clinical decision-making scores in all three countries, with the largest gains in Kenya (+18 percentage points, p<0.001), followed by Indonesia (+10.7 points) and the Netherlands (+7.2 points). The results, published November 13, 2026, demonstrate that AI-assisted clinical reasoning can narrow performance gaps across high-, middle-, and low-income health systems.",
-      "result": "AI improved physician scores 7–18 pts across 3 countries",
-      "url": "https://telehealth.org/news/ai-assistance-improves-physicians-clinical-decision-making-scores-in-three-country-trial/"
+      "snippet": "Dyania Health announced on November 13, 2026 a collaboration with NVIDIA to deploy its Synapsis AI clinical reasoning platform inside health system infrastructure — running on NVIDIA TensorRT within the hospital's own private network, eliminating external data exposure. The system processes each patient's full longitudinal chart the way a specialist would, estimating individual cardiovascular risk at 3, 5, and 10 years and updating dynamically with each new imaging result, targeting deployment across entire patient populations rather than isolated workflows.",
+      "result": "Full hospital-population deployment; on-premises inference operational",
+      "url": "https://prnewswire.com/news-releases/dyania-health-brings-clinical-reasoning-ai-inside-the-hospital-firewall-to-advance-patient-care-with-nvidia-302939231.html"
     },
     {
-      "title": "EsoGuard Esophageal Cancer Test Now Fully Reimbursed by Medicare Nationwide; Record Monthly Test Volume Reported",
-      "source": "Lucid Diagnostics / TipRanks",
+      "title": "Google AMIE AI in Primary Care: 114 Real Patients, Zero Safety Stops in Lancet-Published Trial at BIDMC",
+      "source": "Tech-Insider / The Lancet",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective real-world study at Beth Israel Deaconess Medical Center — described as the first of its kind for patient-facing AI in primary care and published in The Lancet — deployed Google's AMIE chatbot to interview 114 patients about symptoms before physician visits, with physician supervision available to halt interactions on four predefined safety triggers. Across 98 analyzed encounters, not one safety stop was triggered, and the AI achieved 90% top-7 diagnosis inclusion, with patient attitudes toward AI improving significantly after the interaction (p<0.001).",
+      "result": "0 safety stops across 98 encounters; 90% top-7 diagnosis rate",
+      "url": "https://tech-insider.org/patient-facing-ai-primary-care-amie-114-patients-zero-safety-stops-2026/"
+    },
+    {
+      "title": "PlaqueTec BIOPATTERN Intracoronary Liquid Biopsy Trial Hits 100 Patients, Expands to 8 NHS Cardiac Centers",
+      "source": "News-Medical",
       "category": "Diagnostics & Imaging",
-      "snippet": "Lucid Diagnostics announced on November 12–13, 2026 that EsoGuard, its liquid biopsy test for esophageal precancer, is now fully reimbursed by Medicare nationwide at $1,938.01 per test following the first Medicare claim payments in October, with October test volume exceeding 1,800 — a record monthly figure. Cumulative testing has surpassed 50,000 patients, and an 11,991-patient real-world study was published to support broad clinical adoption.",
-      "result": "Medicare reimbursement live; >1,800 tests in October alone",
-      "url": "https://www.tipranks.com/news/company-announcements/lucid-diagnostics-reports-third-quarter-results-and-medicare-progress"
-    },
-    {
-      "title": "SeaStar Medical QUELIMMUNE Revenue Surges 247% YoY; Registry Shows Higher Survival in Pediatric AKI Patients",
-      "source": "GlobeNewswire / RTT News",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "SeaStar Medical reported Q3 2026 net revenue of $635,000 for QUELIMMUNE (SCD-PED), a 247% year-over-year increase driven by accelerating hospital adoption of the only FDA-approved therapy for pediatric sepsis-associated acute kidney injury. SAVE Registry data from 50 critically ill pediatric patients presented at ASN Kidney Week 2026 showed statistically significant higher survival rates at 60 and 90 days and at hospital discharge versus comparator cohorts, with no device-related adverse events.",
-      "result": "247% revenue YoY growth; higher survival vs. comparators",
-      "url": "https://globenewswire.com/news-release/2026/11/11/3401126/0/en/seastar-medical-reports-third-quarter-2026-financial-results-and-provides-business-updates.html"
-    },
-    {
-      "title": "PlaqueTec BIOPATTERN Intracoronary Liquid Biopsy Trial Passes 100 Patients, Expands to 8 NHS Cardiac Centers",
-      "source": "News-Medical.net",
-      "category": "Diagnostics & Imaging",
-      "snippet": "PlaqueTec's BIOPATTERN clinical trial, investigating intracoronary liquid biopsy to identify biological drivers of atherosclerotic cardiovascular disease, has enrolled its 100th patient and expanded to eight NHS specialist cardiac centers across England. The trial is run by Papworth Trials Unit Collaboration and overseen by a steering committee chaired by Professor Peter Libby of Harvard Medical School.",
-      "result": "100 patients enrolled; 8 NHS cardiac centers now active",
+      "snippet": "PlaqueTec's BIOPATTERN clinical trial — using its proprietary Liquid Biopsy System to sample blood directly at the site of coronary plaque and identify proteomic biomarkers for atherosclerotic cardiovascular disease — recruited its 100th patient and expanded to eight NHS specialist cardiac centers across England. Earlier interim data from the trial's first 33 patients confirmed distinct protein gradients between intracoronary and systemic blood, validating the safety and functionality of the device and supporting the trial's continuation toward its 300-patient target.",
+      "result": "100 patients enrolled; expanded to 8 NHS centers; protein gradients confirmed",
       "url": "https://www.news-medical.net/news/20261112/PlaqueTece28099s-BIOPATTERN-trial-passes-100-patients-and-expands-to-8-NHS-centers.aspx"
     },
     {
-      "title": "Bechtel Medical Wins First-Ever FDA 510(k) Clearance for Combined Negative Pressure + Topical Oxygen Wound System",
+      "title": "SeaStar Medical NEUTRALIZE-AKI Pivotal Trial Reaches 75% Enrollment; Pediatric QUELIMMUNE Revenue Up 247%",
+      "source": "GlobeNewswire / Motley Fool Earnings Transcript",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "SeaStar Medical reported that its randomized NEUTRALIZE-AKI pivotal trial for adult ICU patients with acute kidney injury has enrolled 251 of 339 intended patients (74%), with Breakthrough Device Designation in place enabling priority FDA review upon submission. The company's commercially deployed pediatric therapy QUELIMMUNE — which presented statistically significant higher survival data at ASN Kidney Week 2026 — delivered 247% revenue growth year-over-year, demonstrating early commercial validation of the SCD therapy platform.",
+      "result": "74% enrolled (251/339); QUELIMMUNE revenue +247% YoY",
+      "url": "https://www.globenewswire.com/news-release/2026/11/11/3401126/0/en/seastar-medical-reports-third-quarter-2026-financial-results-and-provides-business-updates.html"
+    },
+    {
+      "title": "Bechtel Medical's Wound VOX Earns First FDA 510(k) Clearance for Combined NPWT + Topical Oxygen Wound Therapy",
       "source": "Medical Device Network / HME Business",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "Bechtel Medical's Wound VOX received 510(k) clearance from the FDA on November 10, 2026, becoming the first device to combine negative pressure wound therapy and topical oxygen therapy in a single cleared platform, with three therapy modes targeting hard-to-heal wounds. The company plans a limited commercial rollout in December 2026, with the system designed to reduce operational complexity and potentially improve wound closure rates, infection risk, and tissue quality.",
-      "result": "First-of-kind 510(k) cleared; commercial launch December 2026",
+      "snippet": "Bechtel Medical received FDA 510(k) clearance on November 10, 2026 for Wound VOX — the first combined negative pressure wound therapy (NPWT) and topical oxygen therapy (TOT) system cleared via the 510(k) pathway — with a limited commercial rollout planned for December 2026. The system offers three therapy modes and is intended to improve outcomes via faster wound closure, reduced infection risk, and improved tissue quality, eliminating the complexity of running two separate wound care device systems simultaneously.",
+      "result": "First-ever FDA-cleared combined NPWT+TOT system; December launch planned",
       "url": "https://www.medicaldevice-network.com/news/fda-bechtel-medicals-wound-therapy-system/"
     },
     {
-      "title": "FDA Finalizes Class II Status for AI Pap Slide Imaging System and Dementia-Risk Prognostic Software, Opening 510(k) Route",
-      "source": "Medtech Insight / Citeline",
-      "category": "AI & Machine Learning",
-      "snippet": "The FDA published final orders on November 4–6, 2026 classifying an AI-powered digital cervical cytology slide imaging system and mild cognitive impairment prognostic assessment software into Class II, completing the De Novo pathway transition and opening the 510(k) clearance route for competing products in both categories. These classifications, alongside a wearable vibration device for orthopedic use, signal the FDA's accelerating standardization of AI-enabled diagnostic software as established device types.",
-      "result": "AI Pap slide tool and dementia software granted Class II status",
-      "url": "https://insights.citeline.com/medtech-insight/policy-and-regulation/approvals/fda-finalizes-class-ii-status-for-ai-pap-slide-tool-dementia-risk-software-two-vibration-devices-HC5VR7K2NFG4DD3YNVFENPPHVI/"
+      "title": "FDA Formally Classifies AI-Based Digital Cervical Cytology Imaging System and MCI Prognostic Software as Class II Devices",
+      "source": "Alston & Bird Health Care Week in Review",
+      "category": "Diagnostics & Imaging",
+      "snippet": "On November 4, 2026 the FDA issued final classification orders establishing two new AI-enabled diagnostic software categories as Class II medical devices: a Digital Cervical Cytology Slide Imaging System with AI Algorithm for pathology, and Prognostic Assessment Software for Mild Cognitive Impairment for neurology. Both classifications confirm that the agency has determined these AI-driven diagnostics provide reasonable assurance of safety and effectiveness, opening a formal regulatory pathway for commercial deployment across health systems.",
+      "result": "Two AI diagnostic software categories permanently classified as Class II",
+      "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     },
     {
-      "title": "Milestone Scientific CompuFlo Medical Segment Revenue Grows 136% YoY as Physician Partnerships Expand",
-      "source": "GlobeNewswire",
-      "category": "Robotics & Surgery",
-      "snippet": "Milestone Scientific reported that its medical segment — anchored by the CompuFlo computer-controlled fluid delivery system for epidural and joint injection procedures — grew revenue 136% year-over-year in Q3 2026, driven by expansion of physician partnerships and a doubling of online commercial demonstrations. The company reaffirmed its 2026 full-year revenue outlook of $9.8–$10.2 million and projects approaching profitability in Q4 2026.",
-      "result": "Medical segment revenue +136% YoY; full-year guidance $9.8–10.2M",
-      "url": "https://globenewswire.com/news-release/2026/11/13/3402507/15852/en/milestone-scientific-reports-financial-results-for-third-quarter-2026.html"
+      "title": "Hospital AI Sepsis Bundle Compliance Rises from 70.1% to 82.9% in Cluster-Randomized Trial of AI-Assisted Abstraction",
+      "source": "Frontiers in Medicine",
+      "category": "AI & Machine Learning",
+      "snippet": "A cluster-randomized trial published in Frontiers in Medicine found that AI-enabled clinical data abstraction and real-time feedback increased compliance with the SEP-1 Severe Sepsis and Septic Shock Management Bundle from 70.1% to 82.9% — a 13-percentage-point improvement — representing one of the clearest demonstrations of AI driving measurable protocol adherence in critical care. Separately, a stepped-wedge randomized trial in the same review found that in 71,487 study-period notes, AI-generated documentation reduced clinician note time by 0.36 hours per 8 hours of patient care.",
+      "result": "SEP-1 bundle compliance +12.8 percentage points (70.1% → 82.9%)",
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1980325/full"
+    },
+    {
+      "title": "FDA Clears Wearable Vibration Device for Orthopedic Use as New Class II Category",
+      "source": "FDA CDRH / Alston & Bird",
+      "category": "Wearables & Monitoring",
+      "snippet": "The FDA issued a final order on November 4, 2026 formally classifying the Wearable Vibration Device for Orthopedic Use as a Class II medical device, establishing special controls and a codified regulatory pathway for the category. The classification follows clinical evidence supporting wearable sensors in postsurgical orthopedic monitoring, including published data showing 52% better bone stimulus tracking and 371% better impact load monitoring in knee arthroplasty patients compared to standard methods.",
+      "result": "New Class II device category established; 52% better bone stimulus tracking in validation data",
+      "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     }
   ],
-  "generated_at": "2026-11-13T14:02:21.767572+00:00"
+  "generated_at": "2026-11-14T13:04:07.939642+00:00"
 }
