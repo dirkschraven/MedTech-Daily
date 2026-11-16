@@ -1,112 +1,120 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "feature": {
-    "title": "From Pilots to Proof: Medtech Delivers Real-World Results Across AI, Robotics, and Implantables",
-    "summary": "November 2026 marks a decisive maturation moment for medical technology: across cardiology, neurology, diagnostics, and clinical operations, devices and algorithms are no longer just clearing regulatory hurdles — they are delivering measurable outcomes in real patients at scale. The week's most consequential stories span a robotic carotid stent system logging a 0% stroke rate through its pivotal trial, Medtronic's renal denervation device posting an 18.2 mmHg blood pressure drop across 987 patients, and an AI clinical decision support tool reducing post-stroke vascular events by 26% in a 21,603-patient randomized trial. Running in parallel, ambient AI scribes are being validated in large hospital networks, and autonomous AI diabetic retinopathy screening — now embedded in ADA guidelines — is showing 99% imageability across thousands of real-world patients.",
+    "title": "AI Delivers Measurable Clinical Results Across Cardiology, Surgery, and Hospital Systems in November 2026",
+    "summary": "November 2026 is proving to be a watershed month for medtech implementation results, with landmark studies shifting the narrative from AI promise to quantified clinical performance. At the American Heart Association's Scientific Sessions, a 1,200-patient randomized trial showed AI-drafted echocardiogram reports cut cardiologist review time by 46% without sacrificing accuracy. Simultaneously, Dyania Health and NVIDIA disclosed that Cleveland Clinic's enterprise rollout of Synapsis AI enrolled clinical trial patients 40% more frequently and 47% faster. Across diagnostics, robotics, and decision support, the week's data underscore a durable theme: AI is now generating reproducible, measurable workflow and outcomes improvements in live clinical environments.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Contego Medical's Neuroguard IEP Direct System earned FDA PMA approval after the PERFORMANCE III pivotal study logged a 0% stroke rate and 0% major adverse events (per-protocol) across 146 patients — setting a new benchmark for carotid revascularization safety."
+        "text": "A 1,200-echocardiogram AHA Scientific Sessions 2026 randomized trial across 21 Kaiser Permanente centers found AI-drafted reports cut cardiologist review time nearly in half — from 8.5 to 4.6 minutes — while meeting non-inferiority accuracy criteria versus human-drafted reports."
       },
       {
         "label": "Key trend",
-        "text": "AI is proving its value not in controlled benchmarks but in massive real-world deployments: from 21,603-patient stroke RCTs to 48-hospital ambient scribe rollouts, 2026 is the year implementation evidence overtook promise."
+        "text": "Real-world AI deployments inside hospital firewalls — from Mayo Clinic's EHR-integrated decision support to Cleveland Clinic's Synapsis AI running on on-premises NVIDIA infrastructure — are replacing pilot programs with enterprise-scale rollouts yielding published outcome metrics."
       },
       {
         "label": "To watch",
-        "text": "Robocath's next-generation robotic PCI system posted 100% clinical success in its first-in-human 20-patient study at TCT 2026 — with Stereotaxis now targeting full regulatory submissions, a new era of robotic interventional cardiology may be imminent."
+        "text": "FDA's November 4 classification of an AI-powered digital cervical cytology imaging system as Class II opens a regulatory path for AI-augmented pathology screening at scale, with broader specialty deployment likely to follow in 2027."
       }
     ]
   },
   "articles": [
     {
-      "title": "FDA Approves Contego Medical's Neuroguard IEP Direct System for Transcarotid Artery Revascularization Following PERFORMANCE III Pivotal Data",
-      "source": "Cardiovascular Business / PRWeb",
-      "category": "Robotics & Surgery",
-      "snippet": "The FDA granted PMA to Contego Medical's Neuroguard IEP Direct System and 510(k) clearance to its Embolic Protection System after reviewing positive data from the PERFORMANCE III IDE study, which evaluated 146 patients across 26 sites. The pivotal study reported a 0% stroke rate through 30 days, with no MIs, cranial nerve injuries, neurological deaths, or stent thromboses, and a 30-day major adverse event rate of 0.69% (ITT) and 0% per-protocol.",
-      "result": "0% stroke rate, 0% MAE per-protocol at 30 days",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/stroke/fda-approves-stroke-prevention-devices-used-during-transcarotid-artery-revascularization"
-    },
-    {
-      "title": "Medtronic SPYRAL AFFIRM Post-Approval Study: Renal Denervation Cuts Systolic BP by 18.2 mmHg in 987-Patient Real-World Cohort",
-      "source": "Cardiac Interventions Today / SOLACI",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Medtronic's SPYRAL AFFIRM post-approval study of the Symplicity Spyral renal denervation system met its primary endpoint, demonstrating a statistically significant 18.2 mmHg reduction in office systolic blood pressure (p<0.001) at six months across 987 patients from 89 centers in the US, Europe, and Australia — without any increase in antihypertensive medications. Results were presented at TCT 2026 and published in Circulation Cardiovascular Interventions, with consistent outcomes across diverse subgroups including patients with CKD, sleep apnea, and type 2 diabetes.",
-      "result": "−18.2 mmHg systolic BP reduction at 6 months (p<0.001)",
-      "url": "https://solaci.org/en/2026/11/06/tct-2026-spyral-affirm-study-safety-and-efficacy-of-radiofrequency-renal-denervation-in-patients-with-arterial-hypertension/"
-    },
-    {
-      "title": "GOLDEN BRIDGE II RCT: AI-Assisted Stroke Clinical Decision Support Reduces Vascular Events by 26% Across 21,603 Patients at 77 Hospitals",
-      "source": "News-Medical / The BMJ",
+      "title": "AI-Interpreted Echocardiograms Comparable to Human Reports, Cardiologists' Time Cut by About 50%",
+      "source": "American Heart Association / NewMediaWire",
       "category": "AI & Machine Learning",
-      "snippet": "A cluster-randomized trial published in The BMJ enrolled 21,603 acute ischemic stroke patients across 77 hospitals in China, randomly assigning hospitals to AI-assisted clinical decision support (AI-imaging analysis, stroke cause classification, guideline-based treatment recommendations) or usual care. The AI-CDSS group experienced significantly fewer composite vascular events at 3 months (2.9% vs. 3.9%, aHR 0.74, p=0.01), a benefit that was maintained at both 6 and 12 months — representing a 26–27% relative risk reduction sustained over a full year.",
-      "result": "26% reduction in post-stroke vascular events at 3 months",
-      "url": "https://www.news-medical.net/news/20260323/AI-assisted-decision-support-system-improves-stroke-care-and-long-term-outcomes.aspx"
+      "snippet": "Late-breaking research presented November 9 at AHA Scientific Sessions 2026 in Chicago tested an AI tool against sonographer and cardiologist preliminary reports for 1,200 echocardiograms acquired across 21 Kaiser Permanente Northern California centers. The AI-assisted approach met the study's noninferiority criteria, and cardiologists averaged 4.6 minutes finalizing AI-drafted echo reports versus 8.5 minutes without AI — a 46% time reduction.",
+      "result": "46% cardiologist review time reduction; noninferiority confirmed vs. human reports",
+      "url": "https://newsroom.heart.org/news/ai-interpreted-echocardiograms-comparable-to-human-reports-cardiologists-time-cut-by-about-50"
     },
     {
-      "title": "Robocath Next-Gen Robotic PCI System Logs 100% Clinical Success and Zero Adverse Events in First-in-Human Study at TCT 2026",
-      "source": "Surgical Robotics Technology / GlobeNewswire",
-      "category": "Robotics & Surgery",
-      "snippet": "Stereotaxis announced first-in-human clinical results for Robocath's next-generation robotic percutaneous coronary intervention system at TCT 2026 in San Diego, covering 20 patients with varying lesion complexity including B2 and C-type lesions in tortuous distal vasculature. All 20 patients achieved clinical success (100%) with 95% technical success, no intra-procedural vascular complications, and no device-related adverse events through 30-day follow-up — with 19 of 20 procedures completed entirely robotically without conversion to manual.",
-      "result": "100% clinical success, 0 device-related adverse events in 20 patients",
-      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393182/21634/en/first-in-human-coronary-intervention-study-results-of-robocath-s-next-generation-robotic-system-highlighted-at-tct.html"
+      "title": "Dyania Health and NVIDIA Bring Clinical Reasoning AI Inside the Hospital Firewall; Cleveland Clinic Reports 40% More Patients Enrolled 47% Faster",
+      "source": "Healthcare Innovation / MobiHealthNews",
+      "category": "AI & Machine Learning",
+      "snippet": "Dyania Health announced a collaboration with NVIDIA on November 13 to deploy its Synapsis AI medical-record reasoning platform on hospital-owned NVIDIA infrastructure, keeping patient data inside health system firewalls. Cleveland Clinic, which rolled out Synapsis AI enterprise-wide in November 2025, reported that study teams enrolled on average 40% more patients 47% faster, a result recognized with a 2026 Gartner Eye on Innovation Award.",
+      "result": "40% more trial patients enrolled; 47% faster enrollment at Cleveland Clinic",
+      "url": "https://www.hcinnovationgroup.com/analytics-ai/generative-ai/article/55418992/dyania-partners-with-nvidia-expands-clinical-ai-use-cases"
     },
     {
-      "title": "AEYE-DS Autonomous AI Diabetic Retinopathy Screening Achieves 99% Imageability and 92–93% Sensitivity Across Three Pivotal Trials in 1,200+ Patients",
-      "source": "Frontiers in Digital Health / PRNewswire",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Peer-reviewed publication of three prospective, controlled pivotal validation studies for AEYE-DS — the FDA-cleared fully autonomous AI system for diabetic retinopathy — demonstrated 99% imageability with a one-image-per-eye workflow, 92–93% sensitivity, 89–94% specificity, and 100% sensitivity for severe cases (ETDRS ≥43) across all three trials in over 1,200 patients. The technology is now deployed across dozens of US health systems, formally endorsed in the 2026 ADA Standards of Care (Recommendation 12.6), and also validated in a real-world endocrinology clinic study of 256 patients showing 95.7% imaging success without pharmacological dilation.",
-      "result": "99% imageability; 100% sensitivity for severe DR; deployed in dozens of US health systems",
-      "url": "https://www.prnewswire.com/news-releases/aeye-ds-clinical-trials-published-first-fully-autonomous-diabetic-retinopathy-screening-technology-across-portable-and-tabletop-devices-demonstrates-99-imageability-one-image-per-eye-workflow-and-best-in-class-diagnostic-effic-302873861.html"
-    },
-    {
-      "title": "Ambient AI Scribe Deployed Across 48 Spanish Emergency Departments Cuts Consultation Documentation Time by 22% in 12-Month Evaluation",
-      "source": "ScienceDirect (International Journal of Medical Informatics)",
+      "title": "Mayo Clinic Platform Launches AI Clinical Decision Support Integrated Into EHR Across 35+ Subspecialties",
+      "source": "HIT Consultant / ICT&health",
       "category": "Digital Health",
-      "snippet": "A large-scale 12-month evaluation of ambient AI scribe deployment across 48 emergency departments in a Spanish hospital network found that the system reduced consultation time by approximately 22% versus standard documentation, with AI-generated reports scoring significantly higher on documentation quality metrics. The study represents one of the most comprehensive real-world evaluations of ambient scribes in emergency care, also documenting improved patient experience scores and positive clinician adoption across the full network.",
-      "result": "22% reduction in consultation documentation time across 48 EDs",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1386505626003242"
+      "snippet": "Mayo Clinic Platform commercially launched an AI-enabled Clinical Decision Support solution on November 3, 2026, embedding a specialty-specific LLM-powered chat covering more than 35 medical specialties and 22 clinical calculators directly into EHR workflows. The system is updated daily with peer-reviewed literature, drug safety warnings, and guideline revisions, and is available to Mayo Clinic clinicians and external organizations in the Platform's provider programs beginning in November 2026.",
+      "result": "Live EHR rollout: 35+ specialties, 22 calculators, daily knowledge updates",
+      "url": "https://hitconsultant.net/2026/11/03/mayo-clinic-platform-launches-ai-clinical-decision-support-ehr-solution/"
     },
     {
-      "title": "Beth Israel / Lancet Primary Care AI Trial: Conversational AI System Completes 98 Patient Visits with Zero Safety Stops and 87–100% Clinician Approval Ratings",
-      "source": "The Lancet (via Shattered.io)",
+      "title": "Google's AMIE Diagnostic AI Achieves 0 Safety Stops and 90% Top-7 Diagnostic Accuracy in Lancet Primary Care Trial",
+      "source": "The Lancet / Unite.ai",
       "category": "AI & Machine Learning",
-      "snippet": "A prospective real-world study published in The Lancet (October 24, 2026) by researchers at Beth Israel Deaconess Medical Center enrolled 114 patients in primary care visits using Google's AMIE conversational AI system, with 98 completing the full workflow — yielding zero safety stops triggered, only one hallucination noted, and favorable clinician ratings on 87–100% of 17 evaluated criteria. The study represents the first prospective real-world safety validation of patient-facing conversational AI in primary care.",
-      "result": "0 safety stops; 87–100% favorable clinician ratings across 98 patients",
-      "url": "https://shattered.io/patient-facing-ai-primary-care-real-world-study-98-patients-2026/"
+      "snippet": "A prospective feasibility study published in The Lancet (October 8, 2026) by Google and Beth Israel Deaconess Medical Center evaluated AMIE — a conversational diagnostic AI — with 114 real patients before urgent primary care visits, supervised by board-certified physicians. Across 98 completed encounters, zero safety stops were triggered; AMIE's top-7 diagnostic suggestions included the final diagnosis in 90% of cases, and primary care providers said reviewing AMIE transcripts helped prepare them for the visit in 75% of reviewed cases.",
+      "result": "0 safety stops; correct diagnosis in top-7 suggestions in 90% of cases",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01535-7/abstract"
     },
     {
-      "title": "AMP 2026: AI Classifier Achieves ~90% Accuracy Across 52 Tumor Classes, Outperforms Human-Machine Teams in Pathology Validation Study",
+      "title": "AMP 2026: AI Brain Tumor Classifier Achieves 97% Accuracy, Outperforms All 8 Neuropathologists in Head-to-Head Study",
       "source": "Inside Precision Medicine",
       "category": "Diagnostics & Imaging",
-      "snippet": "Presented at the Association for Molecular Pathology (AMP) Annual Meeting on November 13, 2026, researchers reported that an integrated AI classifier combining inferred methylation, predicted gene expression, direct image analysis, and patient demographics achieved approximately 90% or higher accuracy across 52 tumor classes at a confidence threshold of 0.9. Every pathologist in the study improved their diagnostic accuracy when given access to the AI's predictions, though the AI alone outperformed human-machine collaboration — raising significant questions about optimal clinical integration.",
-      "result": "~90% accuracy across 52 tumor classes; every pathologist improved with AI",
+      "snippet": "At the Association for Molecular Pathology (AMP) 2026 Annual Meeting in Seattle, Mayo Clinic neuropathologist Kenneth Aldape presented findings from an experiment in which an AI classifier and eight neuropathologists of varying experience levels each diagnosed 100 brain tumor cases across 52 tumor classes using H&E-stained images. The AI achieved 97% diagnostic accuracy, outperforming all eight neuropathologists; every pathologist improved their own accuracy when subsequently shown the AI's predictions.",
+      "result": "AI: 97% accuracy across 52 tumor classes; beat all 8 neuropathologists",
       "url": "https://insideprecisionmedicine.com/topics/molecular-dx/amp-2026-is-human-expertise-limiting-ai-diagnostics"
     },
     {
-      "title": "FDA Classifies AI-Based Digital Cervical Cytology Slide Imaging System and MCI Prognostic Software as Class II Devices",
-      "source": "Alston & Bird / FDA",
+      "title": "Stereotaxis/Robocath First-in-Human Coronary Robotic PCI Study: 100% Clinical Success Across 20 Patients at TCT 2026",
+      "source": "Surgical Robotics Technology / Manila Times",
+      "category": "Robotics & Surgery",
+      "snippet": "First-in-human results for Robocath's next-generation robotic PCI system were presented at the Transcatheter Cardiovascular Therapeutics (TCT) conference in San Diego on November 1, 2026. The prospective pilot enrolled 20 patients undergoing percutaneous coronary intervention for coronary artery disease, achieving 100% clinical success (all patients met minimal residual stenosis criteria post-PCI) and 95% technical success, with no device-related adverse events reported across the cohort including complex lesions.",
+      "result": "100% clinical success; 0 device-related adverse events in 20 PCI patients",
+      "url": "https://www.surgicalroboticstechnology.com/news/stereotaxis-announces-first-in-human-coronary-intervention-study-results/"
+    },
+    {
+      "title": "J&J OTTAVA Robotic Surgical System Meets Primary Safety and Performance Endpoints in Pivotal 30-Patient Bariatric FORTE Study",
+      "source": "Medical Economics / MassDevice",
+      "category": "Robotics & Surgery",
+      "snippet": "Johnson & Johnson presented results from the FORTE Study — a prospective, multicenter, single-arm clinical trial across six U.S. sites — at the ASMBS 2026 Annual Meeting, showing the investigational OTTAVA robotic system met its primary safety and performance endpoints in Roux-en-Y gastric bypass procedures. All 30 procedures were completed robotically with zero conversions to non-robotic approaches, and patients lost an average of 30 pounds within 30 days post-surgery; data support J&J's De Novo FDA submission.",
+      "result": "0 conversions; primary endpoints met; avg 30-lb weight loss at 30 days",
+      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
+    },
+    {
+      "title": "FDA Classifies AI-Powered Digital Cervical Cytology Slide Imaging System as Class II, Unlocking Regulatory Pathway for AI Pap Screening",
+      "source": "Alston & Bird / FDA CDRH",
       "category": "Diagnostics & Imaging",
-      "snippet": "On November 4, 2026, the FDA issued final classification orders for a Digital Cervical Cytology Slide Imaging System with AI Algorithm (Class II) and Prognostic Assessment Software for Mild Cognitive Impairment (Class II), establishing the special controls framework for commercial deployment of both device categories. The FDA determined that Class II classification with special controls provides reasonable assurance of safety and effectiveness for each device type — opening a clear regulatory pathway to full clinical rollout.",
-      "result": "Class II pathway established; two AI diagnostic device categories cleared for deployment",
+      "snippet": "On November 4, 2026, the FDA issued a final classification order establishing the Digital Cervical Cytology Slide Imaging System with Artificial Intelligence Algorithm as a Class II device under special controls. The classification determines that Class II oversight provides reasonable assurance of safety and effectiveness and is intended to enhance patient access to AI-augmented cervical cancer screening while reducing regulatory burdens for future 510(k) submissions in the category.",
+      "result": "Class II classification established; regulatory pathway cleared for AI Pap screening",
       "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     },
     {
-      "title": "Stanford-Harvard State of Clinical AI Report: Wearable Vital Signs AI Predicts Patient Deterioration 8–24 Hours Before Standard Alerts in Hospital Deployment",
-      "source": "Stanford Medicine",
-      "category": "Wearables & Monitoring",
-      "snippet": "The 2026 Stanford-Harvard State of Clinical AI Report highlighted a hospital-based real-world deployment where a model trained on continuous wearable vital signs predicted patient deterioration up to 8 to 24 hours before standard hospital alerts, identifying patients at risk for ICU transfer, cardiac arrest, or death while intervention was still possible (Scheid et al., Nature Communications, 2025). The report also noted that 71% of non-federal acute-care hospitals now have predictive AI integrated into their EHR systems, confirming broad organizational readiness for AI-based clinical tools.",
-      "result": "Deterioration predicted 8–24 hours early; 71% of acute-care hospitals now use predictive AI",
-      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
+      "title": "Aidoc Foundation-Model CT Triage Now Deployed Across Nearly 2,000 Hospitals; Pivotal Study Shows 97% Mean Sensitivity Across 14 Conditions",
+      "source": "Pinggy.io / AI Medical Imaging 2026",
+      "category": "AI & Machine Learning",
+      "snippet": "Aidoc's foundation-model-powered clinical AI platform, which received FDA clearance in January 2026 for a single body CT triage solution covering 14 acute conditions including aortic dissection, appendicitis, bowel obstruction, and spleen injury, is now deployed in more than 1,600–2,000 medical centers as of November 2026. The FDA pivotal study supporting clearance demonstrated a mean sensitivity of 97% and mean specificity of 98% across the 14 covered indications.",
+      "result": "97% mean sensitivity, 98% specificity; deployed in ~2,000 hospitals",
+      "url": "https://pinggy.io/blog/ai_medical_imaging_diagnostics_2026/"
     },
     {
-      "title": "J&J OTTAVA Robotic Surgical System Meets Primary Safety and Performance Endpoints in FORTE Pivotal Bariatric Study — FDA De Novo Application Filed",
-      "source": "Medical Economics / MassDevice",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson reported results from the FORTE study — the first clinical trial of its investigational OTTAVA robotic surgical system — presented at the 2026 American Society for Metabolic and Bariatric Surgery Annual Meeting. In a 30-patient cohort undergoing Roux-en-Y gastric bypass at six US sites, OTTAVA met its primary safety and performance endpoints through 30 days with zero conversions to non-robotic approach and an average patient weight loss of 30 pounds by 30 days post-surgery, supporting J&J's FDA de novo application.",
-      "result": "Primary endpoints met; 0 conversions; avg. 30 lbs weight loss at 30 days",
-      "url": "https://www.medicaleconomics.com/view/johnson-johnson-reports-early-clinical-study-results-for-investigational-ottava-robotic-surgical-system"
+      "title": "Clinical AI Scaling Challenges Spotlighted as Antoni van Leeuwenhoek Hospital Demonstrates Real-Time AI Tumor Assessment in EHR",
+      "source": "ICT&health",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Published November 16, 2026, a report from the ICT&health network details real-world AI clinical deployments including work by Kevin Groot Lipman, AI Implementation Lead at the Antoni van Leeuwenhoek Hospital and Kaiko, who demonstrated AI making tumor volume assessment more accurate and reproducible in live clinical workflows. The piece also highlights how AI integrated directly into the EHR can be scaled relatively easily across hospital enterprises, while cautioning that such integration increases vendor dependency.",
+      "result": "AI tumor volume assessment deployed live in oncology EHR workflow",
+      "url": "https://icthealth.org/news/the-challenges-of-scaling-up-clinical-ai"
+    },
+    {
+      "title": "Wearable Devices Connected to EHR Show 82% Three-Month Patient Engagement in Real-World Academic Medical Center Study",
+      "source": "Frontiers in Digital Health",
+      "category": "Wearables & Monitoring",
+      "snippet": "A Frontiers in Digital Health study analyzed data from 843 patients (mean age 48) who voluntarily connected consumer wearables — led by Apple Watch (56%), Oura Ring (7.7%), and Fitbit (4.6%) — to the EHR of a large U.S. academic medical center between 2023 and 2025. Survival analysis found 692 (82%) of patients remained engaged with actively connected devices at three months, with Cox regression identifying statistically significant differences in disengagement rates by gender and step count.",
+      "result": "82% of 843 patients remained actively wearable-connected at 3 months",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1784621/full"
+    },
+    {
+      "title": "AI Emergency Radiology Review: Multicenter Study Finds Workflow Gains Mixed, Flags Performance Drops Outside Training Institutions",
+      "source": "Bioengineer.org",
+      "category": "Diagnostics & Imaging",
+      "snippet": "A systematic review published November 13, 2026 evaluated AI tools in emergency radiology, finding measurable improvements in reader performance for musculoskeletal trauma and a 6.3-second reduction in reading time per exam — meaningful at high overnight volumes. However, real-world deployment data show models lose up to 24% specificity when deployed outside their training institution, and the review concluded that no randomized controlled trial has yet demonstrated AI emergency imaging tools improve mortality, morbidity, or time to definitive treatment.",
+      "result": "6.3-sec reading time saved per exam; up to 24% specificity loss outside training site",
+      "url": "https://bioengineer.org/ai-aids-emergency-radiology-diagnosis-but-workflow-gains-remain-mixed"
     }
   ],
-  "generated_at": "2026-11-15T13:32:46.544587+00:00"
+  "generated_at": "2026-11-16T14:59:02.851115+00:00"
 }
