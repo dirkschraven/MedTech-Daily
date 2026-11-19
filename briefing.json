@@ -1,112 +1,120 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "feature": {
-    "title": "Cancer Vaccine Cuts AML Death Risk 41%, While Surgical Robots and AI Tools Hit Clinical Deployment Milestones Across the Globe",
-    "summary": "This week in medtech marks a confluence of landmark clinical trial readouts, FDA authorizations with real-world deployment data, and large-scale AI rollouts at major health systems. SELLAS Life Sciences' leukemia vaccine galinpepimut-S delivered a 9-month survival advantage in a Phase 3 trial, while Virtuoso Surgical's endoscopic robot demonstrated 94% intact tumor specimen retrieval post-FDA authorization. On the digital health front, Doximity's AI suite went live across NewYork-Presbyterian's 10-hospital network, and Heartflow's CT-guided PCI planning tool — backed by RCT data published in the NEJM — changed procedural plans in 70% of real-world patients. Vascular closure, robotic endoscopy, and AI-assisted diagnostics round out a dense week of implementation-driven medtech news.",
+    "title": "Tubeless Insulin Pump Race, Hugo's General Surgery Clearance, and Real-World AI Scribe Data Headline a Landmark Week in MedTech",
+    "summary": "The week of November 17–19, 2026 delivered a cluster of FDA clearances with real-world deployment milestones: MiniMed Fit and Tandem Mobi both cleared as tubeless automated insulin delivery systems within days of each other, while Medtronic's Hugo robotic platform gained its second US indication in under a year. On the diagnostics front, BURL Concepts received same-day FDA clearance for a 40-second PFO brain-scan tool — breaking today — while Implantica reported the first US patients treated with its FDA-approved RefluxStop GERD implant at USC. AI documentation tools continue to generate hard outcomes data, with multi-center studies across five academic medical centers quantifying 16 minutes of daily documentation savings per clinician and a 21.2% reduction in burnout prevalence at Mass General Brigham. The week underscores a broader pivot from regulatory pipeline news to measurable, real-world deployment results across robotics, drug delivery wearables, diagnostics, and clinical AI.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "SELLAS Life Sciences' Phase 3 REGAL trial showed leukemia vaccine galinpepimut-S cut death risk by 41% and extended median survival from 14.7 to 24 months in AML patients."
+        "text": "Medtronic Hugo received FDA expanded 510(k) clearance for general surgery on Nov 17, opening access to ~3.5 million annual US procedures and tracking toward 50,000 global cases before fiscal year-end."
       },
       {
         "label": "Key trend",
-        "text": "AI is moving from benchmarks to bedside: RCT-validated CT-guided PCI planning, real-world ambient scribe rollouts, and FDA-cleared aneurysm detection software all hit deployment milestones this week."
+        "text": "Three tubeless automated insulin delivery systems — Omnipod 5, Tandem Mobi, and now MiniMed Fit — are now FDA-cleared in the US simultaneously, triggering intense competition in the 7-day-wear segment."
       },
       {
         "label": "To watch",
-        "text": "Virtuoso Surgical's first-in-class FDA-authorized bladder tumor robot is planning a focused US launch at leading urology centers in 2027 following its 94% detrusor muscle retrieval result."
+        "text": "BURL Concepts' FOQUS brain-emboli scanner, cleared by the FDA today (Nov 19), previously identified PFOs in 30 patients in the Netherlands and UK in 40 seconds per scan, with US commercial launch set for early 2027."
       }
     ]
   },
   "articles": [
     {
-      "title": "SELLAS Cancer Vaccine Cuts Death Risk by 41% in Phase 3 AML Trial",
-      "source": "FierceBiotech / SELLAS IR",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "SELLAS Life Sciences' galinpepimut-S (GPS), a WT1-targeting peptide immunotherapy cancer vaccine, met the primary overall survival endpoint in the pivotal Phase 3 REGAL trial enrolling 126 AML patients in second or later remission. GPS delivered a median overall survival of 24.0 months versus 14.7 months for best available therapy, with a hazard ratio of 0.59 (p=0.035) and no new safety signals.",
-      "result": "41% death risk reduction; 24 vs 14.7 month median survival",
-      "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study"
-    },
-    {
-      "title": "Virtuoso Surgical Robot Wins FDA De Novo Authorization for Bladder Tumor Resection with 94% Detrusor Retrieval",
-      "source": "MedTech Dive / Cancer Network",
+      "title": "Medtronic Hugo Robotic System Wins FDA Clearance for General Surgery, Targeting 3.5 Million Annual US Procedures",
+      "source": "Medical Device Network / Benzinga / CASRAI",
       "category": "Robotics & Surgery",
-      "snippet": "Virtuoso Surgical received FDA De Novo authorization for its endoscopic robotic system — the first device in a new FDA classification — for en bloc bladder tumor resection through the urethra. In the VIABLE clinical study of the first 20 patients at the Chinese University of Hong Kong, detrusor muscle was present in 94% of resected lesions, exceeding both the prespecified 60% goal and the ~70% historical median for conventional TURBT, with no intraoperative adverse events or 30-day deaths.",
-      "result": "94% detrusor retrieval; zero intraoperative AEs in 20-patient VIABLE study",
-      "url": "https://www.medtechdive.com/news/virtuoso-robot-wins-fda-nod-for-bladder-tumor-removal/874261/"
+      "snippet": "The FDA granted an expanded 510(k) clearance on November 17, 2026 for Medtronic's Hugo RAS system to perform all upper abdominal general surgical procedures including cholecystectomy, Roux-en-Y gastric bypass, ventral hernia repair, small bowel resection, appendectomy, and inguinal hernia repair. Hugo's worldwide procedure volume is growing at more than twice the pace of the broader robotic surgery market and is on track to exceed 50,000 total cases before the end of Medtronic's fiscal year.",
+      "result": "50,000+ global cases projected; 3.5M US procedures now addressable",
+      "url": "https://www.medicaldevice-network.com/news/fda-medtronics-hugo-system-general-surgery/"
     },
     {
-      "title": "Abbott Amulet 360 Achieves 96.3% Complete LAA Closure at One Year in VERITAS Pivotal Study",
-      "source": "Medtech Insight / Abbott Mediaroom",
-      "category": "Diagnostics & Imaging",
-      "snippet": "Abbott reported one-year results from the 458-patient VERITAS pivotal study of its next-generation Amulet 360 Left Atrial Appendage (LAA) occluder, designed to prevent stroke in nonvalvular AFib patients. Complete LAA closure was achieved in 96.3% of patients evaluated by transesophageal echocardiography, with only a 1.8% rate of ischemic stroke or systemic embolism at 12 months; results were simultaneously published in JACC: Cardiovascular Interventions. The device has CE Mark and FDA approval is pending.",
-      "result": "96.3% complete LAA closure; 1.8% stroke/embolism rate at 12 months",
-      "url": "https://abbott.mediaroom.com/2026-11-02-Late-breaking-one-year-data-show-Abbotts-next-generation-Amulet-360-TM-device-continues-to-demonstrate-high-rates-of-left-atrial-appendage-closure-and-low-incidence-of-stroke"
+      "title": "MiniMed Fit Clears FDA as World's First Tubeless Insulin Pump With 7-Day Wear and 300-Unit Capacity",
+      "source": "Medscape / Cardiovascular Business / MassDevice",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "MiniMed received FDA 510(k) clearance on November 16, 2026 for its MiniMed Fit patch pump, the company's first tubeless design, indicated for type 1 and type 2 diabetes patients aged 7 and older. The device offers up to twice the wear time and 50% more insulin capacity than competing tubeless options, with SmartGuard technology adjusting insulin delivery every five minutes and a meal-detection algorithm providing correction doses when boluses are missed.",
+      "result": "7-day tubeless wear; 300-unit capacity; SmartGuard auto-correction every 5 min",
+      "url": "https://www.medscape.com/viewarticle/fda-clears-third-tubing-free-insulin-pump-minimed-fit-2026a10018n9"
     },
     {
-      "title": "Heartflow CT-Guided PCI Matches IVUS Outcomes in 1,105-Patient RCT, Published in NEJM",
-      "source": "Medtech Insight / Heartflow IR",
-      "category": "AI & Machine Learning",
-      "snippet": "Heartflow's P4 randomized controlled trial — the largest of its kind, enrolling 1,105 patients across 23 centers in the US, Europe, and Japan — showed CT-guided PCI planning was non-inferior to gold-standard intravascular ultrasound (IVUS) guidance for the primary endpoint of 12-month target-vessel failure (4.1% vs. 4.6%), while cutting median procedure time by 27% and contrast volume by 12%. Real-world NAVIGATE-PCI registry data further showed that Heartflow PCI Navigator changed procedural plans in approximately 70% of patients compared to angiography alone.",
-      "result": "Non-inferior to IVUS; 27% faster procedures; 70% plan-change rate in real world",
-      "url": "https://insights.citeline.com/medtech-insight/conferences/tct-2026-12-month-data-show-heartflows-ct-guided-pci-planning-matches-invasive-ivus-outcomes-FH5ABQJPBRBTVMV2LY2CQTYIJ4/"
-    },
-    {
-      "title": "Tandem Mobi Receives FDA Clearance as World's First Tubeless AID System with 7-Day Wear",
-      "source": "MedTech Dive / Businesswire",
-      "category": "Wearables & Monitoring",
-      "snippet": "Tandem Diabetes Care received FDA 510(k) clearance for its Tandem Mobi as the world's first tubeless automated insulin delivery system with up to seven days of wear, making it the only insulin pump cleared for both tubed and tubeless infusion. The system uses Control-IQ+ technology to predict glucose levels 30 minutes ahead via CGM readings and automatically adjust insulin, with existing in-warranty Mobi pumps already compatible — no hardware replacement required for current users.",
-      "result": "First tubeless AID system; 7-day wear cleared; existing pumps compatible",
+      "title": "Tandem Mobi Becomes Only Insulin Pump Cleared for Both Tubed and Tubeless Wear With 7-Day Infusion Set",
+      "source": "MedTech Dive / MassDevice",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Tandem Diabetes Care received FDA 510(k) clearance on November 12, 2026 for a new tubeless cartridge and infusion set that converts the existing Mobi pump into a tubeless automated insulin delivery system cleared for up to seven days of wear. The Mobi is now the only insulin pump on the market cleared for both tubed and tubeless infusion options, with Control-IQ+ closed-loop technology; full commercial launch is planned for the first half of 2027.",
+      "result": "First pump cleared for both tubed and tubeless; 7-day wear infusion set",
       "url": "https://www.medtechdive.com/news/tandem-wins-fda-clearance-for-tubeless-automated-insulin-delivery-system/874718/"
     },
     {
-      "title": "Doximity Clinical AI Deployed Across NewYork-Presbyterian, Columbia, and Weill Cornell Medicine's Epic EHR",
-      "source": "MobiHealthNews / Doximity Blog",
-      "category": "Digital Health",
-      "snippet": "Doximity expanded its AI clinical suite — including Doximity Ask (HIPAA-compliant decision support grounded in peer-reviewed literature) and Doximity Scribe (ambient note generation) — to all three major academic medical institutions that together operate 10 hospitals and 450+ care locations across New York City and Westchester, integrating directly into Epic. This followed Doximity adding 25 new AI hospital enterprise clients in a single quarter, with HCA Healthcare's parallel rollout of ambient scribes reportedly saving physicians one to two hours per shift across 100+ hospitals.",
-      "result": "AI tools live across 10-hospital, 450-location NYP network via Epic",
-      "url": "https://www.mobihealthnews.com/news/doximity-brings-clinical-ai-newyork-presbyterian"
+      "title": "BURL Concepts FOQUS Ultrasound System Clears FDA Today for Automated 40-Second PFO Brain Scan",
+      "source": "PR Newswire / ADVFN",
+      "category": "Diagnostics & Imaging",
+      "snippet": "BURL Concepts announced FDA 510(k) clearance for FOQUS on November 19, 2026 — today — enabling a single nurse to scan the whole brain for emboli in 40 seconds without specialist ultrasound skills. The clearance follows CE-marked first human uses in the Netherlands and UK, where the system successfully identified patent foramen ovales in 30 patients; approximately 40–50% of cryptogenic stroke patients have a PFO, and current diagnosis requires a skilled cardiologist.",
+      "result": "PFOs identified in 30 EU patients; 40-second whole-brain scan by single nurse",
+      "url": "https://www.prnewswire.com/news-releases/burl-concepts-announces-fda-510k-clearance-for-foqus-ultrasound-system-for-rapid-automated-patent-foramen-ovale-pfo-screening-302944716.html"
     },
     {
-      "title": "Haemonetics VASCADE MVP XL Earns CE Mark; First Commercial Procedures Completed in Germany, Italy, and UK",
-      "source": "BioSpace / PR Newswire",
-      "category": "Other",
-      "snippet": "Haemonetics announced CE Mark certification today (Nov. 18, 2026) for its VASCADE MVP XL venous vascular closure system, with first commercial European procedures already completed in October at Asklepios Clinic Altona (Hamburg), Centro Cardiologico Monzino (Milan), and Cromwell Hospital (London). The XL device uses 58% more collagen and a 9% larger disc than the existing VASCADE MVP, targeting larger-bore procedures including pulsed-field ablation, cryoablation, and left atrial appendage closure requiring 10–12F sheaths.",
-      "result": "CE Mark granted; first real-world procedures completed in 3 EU countries",
-      "url": "https://www.biospace.com/press-releases/haemonetics-announces-ce-mark-certification-for-the-vascade-mvp-xl-venous-vascular-closure-system"
+      "title": "Implantica Reports First US GERD Patients Treated With RefluxStop at USC; European Sales Up 105% YoY",
+      "source": "Implantica PR Newswire / HospiMedica",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "First commercial RefluxStop implant procedures in the US were successfully performed on November 4, 2026, at the University of Southern California by Dr. John Lipham, following FDA PMA approval granted in August 2026. The device is backed by five-year follow-up data showing a median 90% improvement in GERD-HRQL scores in 44 evaluable patients, and near-complete resolution of regurgitation in 97.8% of patients, with European sales growing 105% year-on-year in Q3 2026 across more than 60 centers.",
+      "result": "90% median GERD quality-of-life improvement at 5 years; 105% EU sales growth",
+      "url": "https://www.prnewswire.com/news-releases/implantica-publishes-interim-report-january--september-2026-q3-302945107.html"
     },
     {
-      "title": "Bracco & Avicenna.AI Secure FDA Clearance for UPTUNITY Aneurysm AI Detection Software",
-      "source": "AuntMinnie / PR Newswire",
+      "title": "Werfen ROTEM Sigma Wins FDA Clearance for Trauma Coagulation Testing, Extending Point-of-Care Bleeding Management",
+      "source": "LabMedica International / CLP Magazine",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Werfen received FDA 510(k) clearance on November 17, 2026 for the ROTEM sigma complete cartridge in trauma patients, extending an already-deployed viscoelastic testing system previously cleared only for cardiovascular surgery and liver transplantation. The fully automated, cartridge-based system delivers real-time clot initiation, firmness, and stability data at the point of care with closed-tube direct sampling and four simultaneous coagulation assays, designed to support treatment decisions within minutes during trauma resuscitation.",
+      "result": "Real-time 4-assay coagulation panel now cleared in trauma; minutes-to-result POC testing",
+      "url": "https://www.labmedica.com/hematology/articles/294814893/werfen-gains-fda-clearance-for-rotem-sigma-cartridge-use-in-trauma.html"
+    },
+    {
+      "title": "Sine Health Clears FDA for First Smartphone-Only Essential Tremor Monitor, Enabling Passive Between-Visit Tracking",
+      "source": "PR Newswire / Securities.io / Trendhunter",
+      "category": "Wearables & Monitoring",
+      "snippet": "Sine Health (formerly Nordic Kinetics) announced FDA 510(k) clearance on November 17, 2026 for its Sine Monitoring Essential Tremor Smartphone system — the first FDA-cleared way to measure essential tremor using only a patient's own smartphone, with no additional hardware required. The app monitors tremor passively in the background like a step counter, giving clinicians continuous objective data between appointments; the company estimates essential tremor affects 7 million Americans who are frequently under-optimized on therapy because clinicians rely on brief, intermittent clinic observations.",
+      "result": "First FDA-cleared smartphone-only tremor monitor; passive continuous background tracking",
+      "url": "https://www.prnewswire.com/news-releases/sine-health-receives-fda-510k-clearance-for-the-first-smartphone-essential-tremor-monitoring-device-302942052.html"
+    },
+    {
+      "title": "Multi-Center AI Scribe Study Across Five Academic Medical Centers Quantifies 16-Minute Daily Documentation Savings Per Clinician",
+      "source": "STAT News / AHA Center for Health Innovation",
       "category": "AI & Machine Learning",
-      "snippet": "Bracco and Avicenna.AI received dual FDA 510(k) clearances (K262062 and K262147) for UPTUNITY | Aneurysm, a combined computer-aided detection and diagnosis tool that flags suspected saccular brain aneurysms larger than 3mm on head CT angiography and tracks their size over time within the radiologist's existing PACS workflow. The tool is the first product in Bracco's new UPTUNITY clinical decision-support portfolio and will be commercially distributed by Avicenna.AI, with a showcase planned at RSNA 2026.",
-      "result": "FDA-cleared CADe/CADx for aneurysms >3mm; integrated into existing PACS workflow",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16425547/bracco-diagnostics-inc-bracco-avicennaai-get-fda-clearance-for-brain-aneurysm-ai-software"
+      "snippet": "A large study of 1,800 clinicians across five academic medical centers from 2023 to 2025 found that ambient AI scribes saved 16 minutes of documentation time and 13 fewer minutes in the medical record per 8 hours of patient care, with adopters seeing one additional patient every two weeks. Real-world deployments show divergent results: Mass General Brigham reported a 21.2% reduction in burnout prevalence after 84 days of use, Cleveland Clinic saw 14 minutes per day saved, and Intermountain Health saw a 27% reduction in time-in-notes per appointment.",
+      "result": "16 min/day saved; 21.2% burnout reduction at MGB; +1 patient per 2 weeks",
+      "url": "https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/"
     },
     {
-      "title": "MedInTech AI Robotic Endoscope INTION S Validates Non-Inferiority in 178-Patient Trial, Raises $25.7M Series C",
-      "source": "Distilinfo / Robotics Daily",
-      "category": "Robotics & Surgery",
-      "snippet": "Korean startup MedInTech's INTION S motorized robotic endoscope demonstrated non-inferiority in key maneuverability measures versus conventional mechanical endoscopes in a 178-adult clinical trial at Seoul National University Hospital, with significantly reduced clinician physical fatigue — results published in Scientific Reports. The company has since deployed the device commercially to Korea's National Fire Service Hospital, Ajou University Hospital, and started early sales in Thailand, the Philippines, and Mongolia, backed by a fresh $25.7M Series C announced today.",
-      "result": "Non-inferior to conventional endoscopy; clinician fatigue reduced in 178-patient RCT",
-      "url": "https://distilinfo.com/2026/11/18/ai-robotic-endoscope-medintech-funding"
-    },
-    {
-      "title": "Patient-Facing AI in Primary Care Passes First Real-World Safety Test: 98 Patients, Zero Safety Stops",
-      "source": "Lancet / BIDMC (via Shattered.io analysis)",
-      "category": "Digital Health",
-      "snippet": "A prospective study published in The Lancet by researchers at Beth Israel Deaconess Medical Center enrolled 114 patients to interact with a conversational AI system (AMIE) before their primary care visit, with 98 completing the full workflow; none of the 98 conversations triggered a predefined safety stop, only one hallucination was noted, and patient attitudes toward AI improved after the interaction and remained higher after the physician visit. Clinician evaluators and patients both rated the AI conversations favorably across a broad set of communication and safety criteria.",
-      "result": "Zero safety stops in 98 real-world primary care AI consultations; 1 hallucination",
+      "title": "Lancet Study: 98 Primary Care Patients Completed AI Conversations at BIDMC With Zero Safety Stops and One Hallucination",
+      "source": "Shattered.io / The Lancet (Oct 24, 2026)",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective real-world study published in The Lancet on October 24, 2026 by researchers at Beth Israel Deaconess Medical Center enrolled 114 patients in conversational AI primary care interactions; 98 completed full encounters with zero safety stops required under predefined criteria and only one hallucination noted. Clinician evaluators and patients both rated the conversations favorably across multiple dimensions, and patient attitudes toward AI improved after the interaction and remained elevated after the subsequent physician visit.",
+      "result": "98/98 safe completions; 0 safety stops; 1 hallucination in 98 real patient encounters",
       "url": "https://shattered.io/patient-facing-ai-primary-care-real-world-study-98-patients-2026/"
     },
     {
-      "title": "Wearable AI Predicts Patient Deterioration 8–24 Hours Before Standard ICU Alerts in Hospital Deployment",
-      "source": "Stanford Medicine / Nature Communications (via Stanford-Harvard State of Clinical AI Report)",
+      "title": "Robotic Surgery for Rectal Cancer Cuts 3-Year Pelvic Recurrence Rate From 4.0% to 1.6% vs. Laparoscopy in JAMA RCT",
+      "source": "RD World Online / JAMA (2025 RCT)",
+      "category": "Robotics & Surgery",
+      "snippet": "A 2025 randomized controlled trial published in JAMA found that patients undergoing robotic surgery for middle or low rectal cancer had a three-year pelvic recurrence rate of 1.6%, compared with 4.0% after conventional laparoscopic surgery — a clinically meaningful oncologic improvement. The result is driving the category's growth in the 2026 digital health landscape, with surgical robotics doubling its share of products under development from 9% in 2024 to 18% in 2026 according to Jabil's annual survey.",
+      "result": "Pelvic recurrence 1.6% robotic vs 4.0% laparoscopic at 3 years (JAMA RCT)",
+      "url": "https://www.rdworldonline.com/jabils-2026-digital-health-survey-confidence-in-ais-potential-rises-as-confidence-in-internal-readiness-falls/"
+    },
+    {
+      "title": "Wearable Vital Signs AI Predicted ICU Transfer and Cardiac Arrest 8–24 Hours Before Standard Hospital Alerts",
+      "source": "Stanford Medicine / Nature Communications (2025)",
       "category": "Wearables & Monitoring",
-      "snippet": "A hospital-based study highlighted in the 2026 Stanford-Harvard State of Clinical AI Report demonstrated that an AI model trained on continuous wearable vital signs predicted patient deterioration 8 to 24 hours before standard hospital alerts fired, identifying patients at risk for ICU transfer, cardiac arrest, or death while intervention was still possible. Separately, a systematic review in ScienceDirect found AI-driven wearable sensors achieved a 30% ICU reduction via predictive analytics and detected sepsis 2–4 hours earlier in surgical patients.",
-      "result": "Deterioration predicted 8–24 hrs early; 30% ICU reduction in systematic review",
+      "snippet": "A hospital-based study published in Nature Communications and highlighted in Stanford's 2026 State of Clinical AI Report found that a model trained on continuous wearable vital signs predicted patient deterioration up to 8–24 hours before standard hospital alert systems, identifying patients at risk for ICU transfer, cardiac arrest, or death while intervention was still possible. The result exemplifies a category of AI where clinical benefit is clearest: prediction at scale in time-sensitive inpatient environments.",
+      "result": "Patient deterioration flagged 8–24 hours before standard alerts in deployed hospital study",
       "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
+    },
+    {
+      "title": "AI-INFOCARE RCT: AI Pre-Consultation Summaries Shortened Neurosurgery Visits and Improved Patient-Rated Communication in 300-Patient Trial",
+      "source": "LQV Healthcare AI Strategic Roundup (Oct–Nov 2026)",
+      "category": "AI & Machine Learning",
+      "snippet": "The AI-INFOCARE randomized trial, highlighted in a November 2026 strategic roundup covering the period October 15 – November 15, 2026, found that quality-checked AI-generated summaries provided before neurosurgical outpatient consultations improved patient-reported interaction quality and shortened consultation times across 300 patients. The trial also surfaces a downstream cost tension: separately evaluated AI-generated care recommendations across 200 clinical notes averaged $314 per visit in suggested testing versus $97 for physician-documented plans.",
+      "result": "Shorter consultations and better patient-rated communication in 300-patient neurosurgery RCT",
+      "url": "https://lqventures.com/healthcare-ai-market-strategic-roundup-nov-2026"
     }
   ],
-  "generated_at": "2026-11-18T15:13:45.649402+00:00"
+  "generated_at": "2026-11-19T15:21:41.880963+00:00"
 }
