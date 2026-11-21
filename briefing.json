@@ -1,120 +1,120 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "feature": {
-    "title": "Robotics, Wearables & AI Diagnostics Surge: A Historic Week for FDA-Cleared MedTech Deployments",
-    "summary": "The week ending November 20, 2026 marks one of the most consequential stretches of FDA clearances and real-world medtech deployments in recent memory. Medtronic's Hugo surgical robot gained expanded general surgery clearance covering an estimated 3.5 million U.S. annual procedures, while MiniMed and Tandem both won tubeless insulin pump approvals within days of each other. Simultaneously, breakthrough wearable biosensors — including a microneedle troponin patch and new smartphone-based tremor monitoring — are moving from laboratory validation to commercial pathways. AI is proving its value in real clinical pipelines, with Fujitsu and Paradigm's Japan study cutting manual patient review by 89% in cancer trial screening, reinforcing the week's dominant theme: medtech results, not just promises.",
+    "title": "Tubeless Insulin Pump War, Brain Monitoring Breakthroughs & AI-Driven Trial Screening: MedTech's Week of Real-World Results",
+    "summary": "The week of November 17–21, 2026 delivered a surge of concrete medtech milestones: MiniMed and Tandem both secured FDA clearances for 7-day tubeless automated insulin delivery systems, fundamentally reshaping the diabetes device market. Meanwhile, real-world deployments advanced across neurology, GI surgery, and oncology, with TECELRA's final SPEARHEAD-1 Phase 2 data presented at CTOS and the first U.S. RefluxStop GERD procedures completed at USC. AI's move from pilot to production continued, highlighted by Fujitsu and Paradigm's verified 89% reduction in manual clinical trial screening at Japan's National Cancer Center Hospital East. Collectively, the week underscored a decisive shift from regulatory authorization to measurable patient-level outcomes.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Medtronic's Hugo robotic surgery system received FDA clearance for general surgery — covering cholecystectomy, bowel resections, hernia repair, and appendectomy — covering an estimated 3.5 million U.S. annual soft-tissue procedures."
+        "text": "FDA cleared both MiniMed Fit and Tandem Mobi as tubeless automated insulin delivery systems with 7-day wear in a single week, triggering an unprecedented three-way race for the patch pump market."
       },
       {
         "label": "Key trend",
-        "text": "Two tubeless insulin pumps (MiniMed Fit and Tandem Mobi) cleared FDA within days of each other, signaling a coming competitive shakeup against Insulet's Omnipod in automated diabetes management."
+        "text": "AI is delivering verified, quantified workflow gains in clinical settings—from 89% reductions in trial-screening labor to zero safety stops in a Lancet-published primary care study of 98 patients."
       },
       {
         "label": "To watch",
-        "text": "McMaster University's wearable microneedle troponin patch, published in Science Advances, could transform post-surgical cardiac monitoring for the 300 million people undergoing non-cardiac surgery annually."
+        "text": "TECELRA's final SPEARHEAD-1 all-cohort data, presented live at CTOS 2026, will determine whether a 43.8% ORR in solid-tumor T-cell therapy can sustain commercial momentum and spur competitor programs."
       }
     ]
   },
   "articles": [
     {
-      "title": "Medtronic's Hugo Robot Gains FDA Clearance for General Surgery",
-      "source": "Mass Device / Medtronic Press Release",
-      "category": "Robotics & Surgery",
-      "snippet": "The FDA cleared Medtronic's Hugo robotic-assisted surgery (RAS) system for general surgery on November 17, 2026, expanding its U.S. label beyond urology to include cholecystectomies, bowel resections, gastric bypass, hernia repair, and appendectomies. Procedure growth on the platform is running at more than twice the robotic surgery market globally, and is on track to surpass 50,000 procedures by fiscal year-end.",
-      "result": "~3.5 million U.S. annual soft-tissue procedures now addressable",
-      "url": "https://www.massdevice.com/medtronic-hugo-robot-fda-general-surgery-clearance/"
-    },
-    {
-      "title": "FDA Clears MiniMed Fit™ — World's First Tubeless Insulin Pump with Seven-Day Wear",
-      "source": "Medscape / MedTech Dive",
+      "title": "FDA Clears MiniMed Fit™ — World's First Tubeless Insulin Pump with 7-Day Wear and Zero Interruptions",
+      "source": "MassDevice / Medscape",
       "category": "Drug Delivery & Therapeutics",
-      "snippet": "MiniMed received FDA 510(k) clearance on November 16, 2026 for the MiniMed Fit, its first tubeless insulin pump, designed for patients aged 7 and older with Type 1 or Type 2 diabetes. The device offers 7-day wear, a 300-unit insulin capacity — 50% more than competing tubeless pumps — and SmartGuard automated insulin delivery with correction doses every five minutes.",
-      "result": "7-day wear, 300-unit capacity; U.S. spring 2027 rollout planned",
-      "url": "https://www.medscape.com/viewarticle/fda-clears-third-tubing-free-insulin-pump-minimed-fit-2026a10018n9"
+      "snippet": "MiniMed received FDA 510(k) clearance on November 16, 2026 for its first tubeless insulin pump, the MiniMed Fit, offering up to 7 days of wear, a 300-unit insulin capacity, and SmartGuard automated correction dosing every 5 minutes. Cleared for patients aged 7 and older with Type 1 or Type 2 diabetes, the device delivers up to twice the wear time and 50% more insulin capacity than competing tubeless systems, with a phased U.S. commercial launch planned for spring 2027.",
+      "result": "7-day tubeless wear; 300-unit capacity; FDA cleared Nov 16",
+      "url": "https://www.massdevice.com/minimed-fit-claims-quick-fda-clearance-patch-pump/"
     },
     {
-      "title": "Wearable Microneedle Patch Enables Continuous Troponin Monitoring After Surgery",
-      "source": "HospiMedica / McMaster University (Science Advances)",
-      "category": "Wearables & Monitoring",
-      "snippet": "Researchers at McMaster University published findings in Science Advances on November 18, 2026, demonstrating a wearable microneedle patch that continuously tracks cardiac troponin — a marker of heart injury — by sampling interstitial fluid beneath the skin without reaching nerves or blood vessels. The technology targets myocardial injury after noncardiac surgery (MINS), which is silent in approximately 90% of cases and currently requires blood draws that are impractical once patients are discharged.",
-      "result": "Continuous troponin tracking validated; commercialization via Aptec Health underway",
-      "url": "https://www.hospimedica.com/critical-care/articles/294814986/wearable-patch-enables-continuous-troponin-monitoring-for-postoperative-cardiac-injury.html"
+      "title": "Tandem Mobi Wins FDA Clearance for Tubeless Automated Insulin Delivery — First 7-Day Infusion Set",
+      "source": "MedTech Dive",
+      "category": "Drug Delivery & Therapeutics",
+      "snippet": "Tandem Diabetes Care secured FDA 510(k) clearance on November 12, 2026 for a tubeless cartridge and infusion set converting its Mobi pump into a fully tubeless automated insulin delivery system, the first cleared for up to 7 days of infusion-set wear. The system uses Control-IQ+ technology to predict glucose 30 minutes ahead and adjust insulin every five minutes, and notably requires no hardware replacement for existing in-warranty Mobi owners.",
+      "result": "7-day tubeless infusion set; Control-IQ+ AID; FDA cleared Nov 12",
+      "url": "https://www.medtechdive.com/news/tandem-wins-fda-clearance-for-tubeless-automated-insulin-delivery-system/874718/"
     },
     {
-      "title": "Fujitsu & Paradigm AI Cuts Clinical Trial Patient Review Pool by 89% at Japan Cancer Center",
-      "source": "TechNode Global / IBTimes Japan",
+      "title": "Fujitsu & Paradigm AI Cuts Clinical Trial Patient Screening Work by 89% at Japan's National Cancer Center",
+      "source": "TechNode Global / Fujitsu Newsroom",
       "category": "AI & Machine Learning",
-      "snippet": "Fujitsu Japan, the National Cancer Center Hospital East, and U.S.-based Paradigm Health completed a retrospective verification study from June–October 2026, applying a large language model to 22,334 patient records in respiratory medicine. For a simulated EGFR-mutation lung cancer trial, the AI processed 3,027 patients, identified 540 with the target mutation, and narrowed the pool to 57 priority candidates — 51 of which physicians confirmed as promising — reducing records requiring manual review by approximately 89%.",
-      "result": "Manual review burden cut 89%; 51/57 AI candidates physician-confirmed",
+      "snippet": "A five-month retrospective study at Japan's National Cancer Center Hospital East showed that an LLM-powered AI system combined with Paradigm's clinical trial matching platform reduced records requiring manual review by approximately 89%, processing 22,334 patient records and surfacing 57 priority candidates from a lung-cancer cohort of 3,027. Physicians subsequently confirmed 51 of those as promising, validating the system's standardized, expertise-independent eligibility assessment across scattered medical records and genomic data.",
+      "result": "89% reduction in manual review; 51/57 candidates confirmed by physicians",
       "url": "https://technode.global/2026/11/20/fujitsu-paradigm-clinical-trials/"
     },
     {
-      "title": "Masimo smartSedLine Receives FDA Clearance for Next-Gen Brain Monitoring Under Anesthesia",
-      "source": "Medical Device Network / OCBJ",
+      "title": "Masimo smartSedLine™ Receives FDA 510(k) Clearance — Faster Brain Monitoring Under Anesthesia",
+      "source": "Medical Device Network / BioSpace",
       "category": "Diagnostics & Imaging",
-      "snippet": "Masimo received FDA 510(k) clearance on November 18, 2026 for smartSedLine, an updated brain function monitoring system featuring a faster Patient State Index (PSi) algorithm for more responsive sedation depth assessment during anesthesia induction and improved stability under low-power EEG signals. This marks Masimo's seventh FDA clearance in 2026, and the system directly challenges Medtronic's Bispectral Index (BIS) dominance in the intraoperative brain monitoring market.",
-      "result": "Faster PSi induction response; 7th Masimo FDA clearance of 2026",
+      "snippet": "Masimo secured its seventh FDA clearance of 2026 for smartSedLine, a next-generation brain function monitoring system that delivers a faster Patient State Index (PSi) induction response and increased measurement stability under low-power EEG conditions. The updated algorithm processes bilateral EEG power and patterns to give clinicians earlier, more consistent insight into sedation depth, particularly for high-risk patients and those with vulnerable brains during the full perioperative period.",
+      "result": "Faster PSi induction response; stable under low EEG power; Masimo's 7th FDA clearance of 2026",
       "url": "https://www.medicaldevice-network.com/news/fda-masimos-smartsedline-brain-monitor/"
     },
     {
-      "title": "Sine Health Wins FDA Clearance for First Smartphone-Only Essential Tremor Monitor",
-      "source": "PR Newswire / Securities.io",
-      "category": "Wearables & Monitoring",
-      "snippet": "Sweden-based Sine Health (formerly Nordic Kinetics) received FDA 510(k) clearance (K261026) on November 15, 2026 for Sine, the first FDA-cleared essential tremor monitoring system requiring only a smartphone. The app passively tracks tremor using the phone's built-in sensors throughout the patient's day — analogous to a step counter — giving clinicians objective longitudinal data between clinic visits for the estimated 7 million Americans affected by essential tremor.",
-      "result": "First FDA-cleared smartphone-only tremor monitor; passive continuous tracking",
-      "url": "https://www.prnewswire.com/news-releases/sine-health-receives-fda-510k-clearance-for-the-first-smartphone-essential-tremor-monitoring-device-302942052.html"
+      "title": "TECELRA® (Afamitresgene Autoleucel) Final SPEARHEAD-1 Phase 2 Results Presented at CTOS 2026",
+      "source": "OncLive / US WorldMeds Press Release",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "US WorldMeds presented the complete SPEARHEAD-1 dataset — covering all three cohorts and 137 patients — in a late-breaking oral session at the 2026 Connective Tissue Oncology Society annual meeting. The fully approved T-cell therapy for synovial sarcoma demonstrated an objective response rate of 43.8%, with 31.9% of responders maintaining responses for 24 months or longer, and a post-hoc analysis confirmed MAGE-A4 expression level as an independent predictor of response and progression-free survival.",
+      "result": "43.8% ORR across 137 patients; 31.9% sustained response ≥24 months",
+      "url": "https://www.onclive.com/view/afami-cel-outcomes-are-tied-to-mage-a4-expression-tumor-burden-in-synovial-sarcoma"
     },
     {
-      "title": "BURL Concepts FOQUS Ultrasound System Wins FDA Clearance for Automated PFO Stroke Screening",
-      "source": "PR Newswire / BURL Concepts",
-      "category": "Diagnostics & Imaging",
-      "snippet": "BURL Concepts received FDA 510(k) clearance in November 2026 for FOQUS, a portable automated transcranial ultrasound system that scans the entire brain for emboli in 40 seconds to screen for patent foramen ovale (PFO) — a heart defect present in 40–50% of cryptogenic stroke patients. The clearance follows CE Mark approval and successful first-human-use studies in the Netherlands and UK, where the system identified PFOs in 30 patients and can be performed by a single nurse without specialized ultrasound skills.",
-      "result": "PFO identified in 30 patients in EU; whole-brain scan in 40 seconds",
-      "url": "https://www.prnewswire.com/news-releases/burl-concepts-announces-fda-510k-clearance-for-foqus-ultrasound-system-for-rapid-automated-patent-foramen-ovale-pfo-screening-302944716.html"
-    },
-    {
-      "title": "Implantica RefluxStop GERD Implant Completes First U.S. Procedures at USC",
+      "title": "RefluxStop® GERD Implant Debuts in U.S. with First Commercial Procedures at USC",
       "source": "HospiMedica / Implantica Press Release",
       "category": "Robotics & Surgery",
-      "snippet": "Implantica's FDA-approved RefluxStop implant for GERD was successfully used in its first U.S. commercial procedures on November 4, 2026 at the University of Southern California by anti-reflux surgeon Dr. John Lipham. At the concurrent European Foregut Society meeting, two comparative studies were presented showing outcomes significantly superior to fundoplication, the current standard of care; European sales also grew 105% year-on-year in Q3 2026.",
-      "result": "First U.S. patients treated; EU sales up 105% YOY Q3 2026",
+      "snippet": "The first commercial RefluxStop procedures in the United States were successfully completed on November 4, 2026 at the University of Southern California by Dr. John Lipham, marking the FDA-approved GERD implant's entry into the world's largest medical device market. European comparative studies presented at the mid-November Foregut Society meeting showed outcomes significantly superior to fundoplication, and 5-year published peer-reviewed data support clinically meaningful results in a majority of patients, including those with swallowing difficulties who lack other effective options.",
+      "result": "First U.S. procedures completed Nov 4; European data shows superiority over fundoplication",
       "url": "https://www.hospimedica.com/surgical-techniques/articles/294814496/first-us-procedures-successfully-completed-with-new-gerd-implant.html"
     },
     {
-      "title": "Beth Israel Lancet Study: 98 Primary Care AI Conversations, Zero Safety Stops",
-      "source": "Shattered.io / The Lancet",
+      "title": "Sine Health Wins FDA Clearance for First Smartphone-Only Essential Tremor Monitoring Device",
+      "source": "PR Newswire / Securities.io",
+      "category": "Wearables & Monitoring",
+      "snippet": "Sine Health (formerly Nordic Kinetics) received FDA 510(k) clearance on November 15, 2026 for Sine, the first FDA-cleared essential tremor monitoring system requiring only a patient's own smartphone — no additional hardware. The app passively captures tremor data through built-in phone sensors throughout daily activities, giving clinicians an objective, continuous view of symptom changes between visits and addressing the critical monitoring gap for the estimated 7 million Americans with essential tremor.",
+      "result": "First smartphone-only FDA-cleared tremor monitor; passive continuous tracking validated",
+      "url": "https://www.prnewswire.com/news-releases/sine-health-receives-fda-510k-clearance-for-the-first-smartphone-essential-tremor-monitoring-device-302942052.html"
+    },
+    {
+      "title": "BURL Concepts FOQUS™ Ultrasound System Receives FDA Clearance for Automated PFO Stroke Screening",
+      "source": "24x7 Magazine / PR Newswire",
+      "category": "Diagnostics & Imaging",
+      "snippet": "BURL Concepts received FDA 510(k) clearance for its FOQUS automated transcranial ultrasound system, which scans the entire brain for emboli in 40 seconds without requiring specialized operator skills. The clearance follows CE Mark approval and confirmed real-world first human uses in the Netherlands and UK — where the system successfully identified PFOs in 30 patients — establishing clinical proof of performance ahead of a planned U.S. commercial launch in early 2027.",
+      "result": "PFOs identified in 30 patients (Netherlands/UK); 40-second whole-brain scan by single nurse",
+      "url": "https://24x7mag.com/standards/fda-updates/clearances/fda-clears-automated-ultrasound-system-brain-emboli-detection/"
+    },
+    {
+      "title": "Lancet-Published Primary Care AI Study: 98 Patients, Zero Safety Stops in Real-World Deployment",
+      "source": "Shattered.io / The Lancet (via BIDMC)",
       "category": "AI & Machine Learning",
-      "snippet": "A prospective real-world study published in The Lancet on October 24, 2026 by Beth Israel Deaconess Medical Center enrolled 114 patients in a conversational AI primary care system (Google's AMIE), with 98 completing full interactions — none of which triggered a predefined safety stop. Clinician evaluators and patients rated conversations favorably, and patient attitudes toward AI improved after the interaction and remained elevated post-physician visit; only one hallucination was noted across all sessions.",
-      "result": "98/98 completed conversations; zero safety stops; 1 hallucination noted",
+      "snippet": "A prospective real-world study at Beth Israel Deaconess Medical Center, published in The Lancet on October 24, 2026, deployed a conversational AI system (AMIE) in primary care with 98 patients completing full interactions — none of which triggered a predefined safety stop, and only one hallucination was recorded. Clinician evaluators and patients both rated the AI conversations favorably, and patient attitudes toward AI improved after the interaction and remained elevated post-physician-visit.",
+      "result": "0/98 conversations triggered safety stop; 1 hallucination; patient satisfaction improved",
       "url": "https://shattered.io/patient-facing-ai-primary-care-real-world-study-98-patients-2026/"
     },
     {
-      "title": "FDA Classifies AI-Based Digital Cervical Cytology Imaging System and MCI Prognostic Software as Class II",
-      "source": "Alston Health Care Week in Review",
-      "category": "AI & Machine Learning",
-      "snippet": "On November 4, 2026, the FDA issued final classification orders establishing Class II status for two AI-enabled diagnostic devices: a Digital Cervical Cytology Slide Imaging System with AI Algorithm for cancer screening, and Prognostic Assessment Software for Mild Cognitive Impairment. Both classifications include special controls as a condition of market clearance, formalizing the regulatory pathway for AI-assisted diagnostic software in oncology and neurology.",
-      "result": "Two new AI diagnostic device categories formalized at Class II",
+      "title": "Wearable AI Predicts ICU Transfer and Cardiac Arrest 8–24 Hours Before Standard Hospital Alerts",
+      "source": "Stanford Medicine / Nature Communications (via Stanford-Harvard State of Clinical AI Report)",
+      "category": "Wearables & Monitoring",
+      "snippet": "A hospital-based study cited in the 2026 Stanford-Harvard State of Clinical AI Report demonstrated that a model trained on continuous wearable vital signs predicted patient deterioration — including ICU transfer, cardiac arrest, or death — up to 8 to 24 hours before standard hospital alert systems, with enough lead time to intervene. The finding reinforces the clinical case for real-time wearable integration into inpatient monitoring workflows, moving beyond retrospective analysis to actionable early warning.",
+      "result": "Patient deterioration predicted 8–24 hours before standard hospital alerts",
+      "url": "https://medicine.stanford.edu/news/stories/2026/01/clinical-ai-has-boomed.html"
+    },
+    {
+      "title": "FDA Classifies AI-Powered Digital Cervical Cytology Imaging System and MCI Prognostic Software as Class II Devices",
+      "source": "Alston & Bird Health Care Week in Review",
+      "category": "Diagnostics & Imaging",
+      "snippet": "On November 4, 2026, the FDA issued final classification orders establishing Class II status for both a digital cervical cytology slide imaging system with an AI algorithm and a prognostic assessment software for mild cognitive impairment, confirming special controls sufficient to ensure safety and effectiveness. The dual classification signals the FDA's growing regulatory maturity around AI-powered diagnostic software, clearing a path for manufacturers to access the 510(k) substantial equivalence pathway for similar devices.",
+      "result": "Two AI diagnostic systems classified Class II; regulatory pathway to 510(k) established",
       "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     },
     {
-      "title": "Medtronic Hugo RAS System on Track to Surpass 50,000 Global Procedures; General Surgery Leads Growth Outside U.S.",
-      "source": "HospiMedica",
+      "title": "Robot-Assisted Rehabilitation After Knee Surgery Shows Higher Functional Scores vs. Conventional Care",
+      "source": "Technology and Health Care (SAGE Journals)",
       "category": "Robotics & Surgery",
-      "snippet": "Ahead of its U.S. general surgery clearance, Medtronic reported that Hugo RAS procedure growth is running at more than twice the overall robotic surgery market globally, with general surgery already surpassing urology and gynecology as the highest-growth area outside the United States. The modular platform's independent robotic arms allow surgical teams to configure the system per procedure and patient anatomy, a design that institutional adopters cite as a key operational advantage.",
-      "result": "On track for 50,000+ procedures by fiscal year-end; 2x market growth rate",
-      "url": "https://www.hospimedica.com/surgical-techniques/articles/294814950/modular-robotic-surgery-system-cleared-for-general-surgery-procedures.html"
-    },
-    {
-      "title": "AI-Supported Clinical Trials Report: Early Adopters See 72.9% Timeline Improvement and 67.5% Protocol Deviation Reduction",
-      "source": "Medidata (Dassault Systèmes)",
-      "category": "AI & Machine Learning",
-      "snippet": "Medidata's 2026 State of AI in Clinical Trials report, drawing on data across 500+ AI-supported studies, found that organizations with 18 or more months of AI adoption experience report trial timeline improvements in 72.9% of cases and protocol deviation reductions in 67.5% of cases. With 92% of respondents increasing AI investment and 86.5% seeing gains in high-volume rules-based workflows, the report concludes the industry has moved decisively past the era of speculation.",
-      "result": "72.9% timeline improvement; 67.5% protocol deviation reduction among early adopters",
-      "url": "https://www.medidata.com/en/ai-report-2nd-edition/"
+      "snippet": "A narrative review published November 20, 2026, encompassing 36 RCTs and 2,084 adults found that robot-assisted rehabilitation following total knee arthroplasty was associated with improvements in Hospital for Special Surgery scores, Berg Balance Scale scores, shorter sit-to-stand times, and longer 6-minute walk test distances compared with conventional rehabilitation. Wearable and sensor-based interventions also showed within-group reductions in cervical repositioning error and fear-avoidance beliefs across musculoskeletal pain populations.",
+      "result": "36 RCTs, 2,084 adults: robot rehab outperforms conventional on 4 functional outcome measures",
+      "url": "https://journals.sagepub.com/doi/10.1177/09287329261508374"
     }
   ],
-  "generated_at": "2026-11-20T14:59:23.873110+00:00"
+  "generated_at": "2026-11-21T14:19:22.391627+00:00"
 }
