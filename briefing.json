@@ -1,112 +1,120 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "feature": {
-    "title": "Surgical Robotics Wars Ignite as Medtronic and J&J Make Simultaneous US Deployment Moves in November 2026",
-    "summary": "November 2026 is shaping up as one of the most consequential months in modern medtech history, with two major surgical robotics milestones landing within 48 hours of each other: Medtronic's Hugo system earning expanded FDA clearance for general surgery and Johnson & Johnson completing the first US hospital installation of its OTTAVA platform. These robotics moves are bookended by a wave of clinical trial readouts and FDA clearances spanning AI diagnostics, wearables, drug delivery, and pediatric therapeutics. Across all categories, the common thread is implementation: results from actual patients, deployed systems, and cleared devices — not theoretical pipelines. The robotics surge in particular reflects a maturing competitive landscape where Intuitive Surgical's da Vinci monopoly is being challenged on multiple fronts simultaneously.",
+    "title": "Surgical Robots Go Mainstream, AI Earns Its Clinical Stripes: November 2026's MedTech Watershed",
+    "summary": "November 2026 marks a decisive shift from MedTech experimentation to real-world deployment, with two major surgical robot milestones landing in the same week: Medtronic's Hugo receiving broad FDA clearance for general surgery and J&J installing its first OTTAVA unit in a U.S. hospital. Meanwhile, landmark randomized trial data — from the MASAI mammography study to Google's AMIE primary care deployment at Beth Israel — is delivering measurable proof that clinical AI improves outcomes rather than just workflows. Across diagnostics, digital health, and drug delivery, the November FDA clearance wave brought 55 novel drugs and multiple device clearances in a single month, signaling an accelerating regulatory tempo. The common thread: results, not promises — 81% glycemic control rates, 29% more breast cancers detected, 18 rare diseases diagnosed in previously unsolvable cases.",
     "highlights": [
       {
         "label": "Biggest story",
-        "text": "Medtronic's Hugo robot gained FDA clearance for ~3.5 million annual US general surgery procedures on Nov 17, while J&J installed the first commercial OTTAVA unit at Memorial Hermann-Texas Medical Center on Nov 19 — a simultaneous dual strike at the surgical robotics market."
+        "text": "J&J installed its first commercial OTTAVA surgical robot at Memorial Hermann-Texas Medical Center on Nov. 19, while Medtronic's Hugo simultaneously won expanded FDA clearance covering 3.5 million U.S. general surgery procedures annually — the most consequential week in surgical robotics competition since da Vinci's launch."
       },
       {
         "label": "Key trend",
-        "text": "AI is moving from benchmarks to bedside: Google's AMIE chatbot completed 98 real primary care visits with zero safety stops (The Lancet), while autonomous AI retinopathy screening hit 99% imageability and 100% sensitivity for severe cases across 1,200+ patients."
+        "text": "FDA-cleared AI platforms are now posting head-turning real-world numbers: UpDoc's LLM-driven insulin titration hit 81% glycemic control vs. 25% for standard care at Cleveland Clinic and UCSF, while Epic's AI at The Christ Hospital pushed lung cancer early detection to 69% versus the 46% national average."
       },
       {
         "label": "To watch",
-        "text": "Tandem Diabetes Care's newly FDA-cleared tubeless Mobi AID system — the world's first tubeless automated insulin delivery device with 7-day wear — sets up a three-way commercial battle with Insulet and MiniMed launching in 2027."
+        "text": "Tandem Diabetes Care's newly cleared tubeless Mobi AID system — the world's first to offer both tubed and tubeless wear with 7-day wear time — sets up a three-way race with Insulet and MiniMed when it commercially launches in H1 2027."
       }
     ]
   },
   "articles": [
     {
-      "title": "Medtronic's Hugo Robot Gains Long-Awaited FDA Clearance for General Surgery",
-      "source": "MassDevice / Medtronic Press Release",
+      "title": "J&J Installs First Commercial OTTAVA Surgical Robot at Memorial Hermann-Texas Medical Center",
+      "source": "Johnson & Johnson / Business Wire",
       "category": "Robotics & Surgery",
-      "snippet": "The FDA cleared Medtronic's Hugo robotic-assisted surgery (RAS) system on November 17, 2026 for all upper abdominal general surgical procedures including cholecystectomy, Roux-en-Y gastric bypass, ventral hernia repair, small bowel resection, and appendectomy. The clearance covers approximately 3.5 million US surgeries annually and comes less than a year after Hugo's initial December 2025 FDA clearance for urology, with a hernia study reporting 100% surgical success against an 85% prespecified performance goal.",
-      "result": "100% surgical success rate; ~3.5M annual US procedures now addressable",
-      "url": "https://www.massdevice.com/medtronic-hugo-robot-fda-general-surgery-clearance/"
-    },
-    {
-      "title": "Johnson & Johnson Completes First US Commercial Installation of OTTAVA Robotic Surgical System at Memorial Hermann",
-      "source": "Johnson & Johnson / MedTech Dive",
-      "category": "Robotics & Surgery",
-      "snippet": "Johnson & Johnson MedTech announced on November 19, 2026 that Memorial Hermann-Texas Medical Center in Houston became the first US hospital to install the OTTAVA robotic surgical system under its early access commercial program. OTTAVA is the world's first FDA-authorized table-integrated soft-tissue robotic surgical system, cleared for ten general surgery procedures including Roux-en-Y gastric bypass, gastrectomy, and cholecystectomy, with Memorial Hermann having also served as an IDE clinical trial site.",
-      "result": "First US commercial deployment; FDA-authorized for 10 procedures",
+      "snippet": "Johnson & Johnson announced on November 19, 2026 that Memorial Hermann-Texas Medical Center in Houston became the first U.S. hospital to install the OTTAVA Robotic Surgical System — the world's first FDA-authorized table-integrated soft-tissue robotic platform. OTTAVA, which received FDA De Novo authorization in July 2026, integrates four robotic arms into a standard surgical table and is cleared for ten general surgery procedures including Roux-en-Y gastric bypass, gastrectomy, cholecystectomy, and hiatal hernia repair.",
+      "result": "First U.S. hospital installation; cleared for 10 surgery types",
       "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-first-commercial-installation-of-the-ottava-robotic-surgical-system-at-memorial-hermann-health-system"
     },
     {
-      "title": "Google DeepMind's AMIE Logs Zero Safety Stops Across 98 Real Primary Care Patients in Landmark Lancet Study",
-      "source": "The Lancet / Shattered.io",
-      "category": "AI & Machine Learning",
-      "snippet": "A prospective feasibility study published in The Lancet tested Google's AMIE conversational diagnostic AI with 114 enrolled patients before urgent primary care visits at Beth Israel Deaconess Medical Center — none of the 98 completed conversations triggered a predefined safety stop. The final physician diagnosis appeared in AMIE's top seven differential possibilities 90% of the time, clinicians found AMIE helpful for visit preparation in 33 of 44 surveyed cases, and patient attitudes toward AI improved after the interaction.",
-      "result": "0 safety stops in 98 real patient encounters; 90% diagnostic concordance",
-      "url": "https://shattered.io/patient-facing-ai-primary-care-real-world-study-98-patients-2026/"
+      "title": "Medtronic's Hugo Robot Wins Expanded FDA Clearance for U.S. General Surgery — Covering 3.5 Million Annual Procedures",
+      "source": "Mass Device / Surgical Robotics Technology",
+      "category": "Robotics & Surgery",
+      "snippet": "On November 17, 2026, the FDA cleared Medtronic's Hugo RAS system for all upper and lower abdominal general surgery procedures — including cholecystectomy, gastric bypass, small bowel resection, appendectomy, and hernia repair — less than a year after its December 2025 urology clearance. The sweeping 510(k) green light covers procedures that Medtronic estimates account for approximately 3.5 million U.S. surgeries annually, making Hugo competitive across the full soft-tissue robotics market.",
+      "result": "Cleared for ~3.5 million U.S. general surgery procedures/year",
+      "url": "https://www.massdevice.com/medtronic-hugo-robot-fda-general-surgery-clearance/"
     },
     {
-      "title": "Tandem Mobi Becomes World's First Tubeless Automated Insulin Delivery System With FDA 510(k) Clearance",
-      "source": "MedTech Dive / BusinessWire",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "Tandem Diabetes Care received FDA 510(k) clearance on November 12, 2026 for a tubeless cartridge and infusion set converting the existing Mobi pump into the world's first and only tubeless automated insulin delivery system with up to seven days of wear. The Mobi is now uniquely the only insulin pump cleared for both tubed and tubeless delivery options, with Control-IQ+ technology predicting glucose 30 minutes ahead and adjusting insulin automatically; commercial launch is planned for the first half of 2027.",
-      "result": "World's first tubeless AID system; 7-day wear; dual tubed/tubeless cleared",
+      "title": "MASAI RCT Final Results: AI Mammography Detects 29% More Cancers, Cuts Radiologist Workload 44%",
+      "source": "The Lancet / ASCO Post",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Final results from the MASAI trial — the first-ever randomized controlled trial of AI in population breast cancer screening, enrolling over 105,000 women — confirmed a 29% increase in cancer detection rate with AI-supported screening versus standard double reading, without increasing false positives. The AI group also showed a 12% lower interval cancer rate and 27% fewer aggressive (non-luminal A) cancers, while simultaneously reducing radiologist screen-reading workload by 44%.",
+      "result": "29% more cancers detected; 44% less radiologist workload",
+      "url": "https://ascopost.com/news/february-2026/randomized-trial-shows-ai-supported-mammography-improves-sensitivity-and-lowers-interval-cancer-rate/"
+    },
+    {
+      "title": "Google AMIE AI Chatbot Passes First Real-World Primary Care Test: 98 Patients, Zero Safety Stops, 90% Diagnostic Accuracy",
+      "source": "The Lancet / Medical Daily",
+      "category": "AI & Machine Learning",
+      "snippet": "A prospective feasibility study published in The Lancet on October 8, 2026, tested Google's AMIE conversational AI with 98 patients before urgent primary care appointments at Beth Israel Deaconess Medical Center — with supervising physicians stopping zero conversations under predefined safety criteria. AMIE's differential diagnosis list included the final clinical diagnosis in 90% of cases, and clinicians said AI-generated summaries influenced their approach in more than half of cases reviewed, marking Google's first publication in The Lancet's main journal.",
+      "result": "Zero safety stops; correct diagnosis included in 90% of cases",
+      "url": "https://www.medicaldaily.com/google-amie-ai-chatbot-lancet-study-safety-479837"
+    },
+    {
+      "title": "UpDoc FDA-Cleared AI Insulin Titration Achieves 81% Glycemic Control vs. 25% Standard Care at Cleveland Clinic, UCSF",
+      "source": "Medium / Cathay Innovation / HC Innovation Group",
+      "category": "AI & Machine Learning",
+      "snippet": "UpDoc's FDA-cleared agentic clinical AI platform — the first Software as a Medical Device built on patient-facing large language models — reported real-world deployment data showing 81% of Type 2 diabetes patients achieved HbA1c glycemic control targets within 8 weeks, compared to 25% under traditional care, a 3.2x improvement. The platform, which follows a Stanford Medicine RCT published in JAMA Network Open, is now live at Cleveland Clinic, UCSF Health, Stanford Health Care, and Allegheny Health Network.",
+      "result": "81% glycemic control vs. 25% standard care; 3.2x improvement",
+      "url": "https://medium.com/cathay-innovation/updoc-the-future-of-autonomous-clinical-care-253345bc5c57"
+    },
+    {
+      "title": "Tandem Diabetes Care Wins FDA Clearance for World's First Tubeless Automated Insulin Delivery System With 7-Day Wear",
+      "source": "MedTech Dive / Healio",
+      "category": "Wearables & Monitoring",
+      "snippet": "On November 13, 2026, Tandem Diabetes Care received FDA 510(k) clearance for a tubeless cartridge and infusion set that converts its Mobi pump into the world's first tubeless automated insulin delivery system with up to 7 days of on-body wear. The Mobi running Control-IQ+ technology now becomes the only AID system cleared for both tubed and tubeless wear — a clinically significant flexibility milestone — with a full commercial launch planned for H1 2027.",
+      "result": "First tubeless AID cleared; 7-day wear; dual tubed/tubeless option",
       "url": "https://www.medtechdive.com/news/tandem-wins-fda-clearance-for-tubeless-automated-insulin-delivery-system/874718/"
     },
     {
-      "title": "AEYE-DS Autonomous AI Achieves 99% Imageability and 100% Sensitivity for Severe Diabetic Retinopathy Across 1,200+ Patients",
-      "source": "Frontiers in Digital Health / PR Newswire",
+      "title": "OpenAI + Boston Children's Hospital: AI Unlocks 18 Rare Disease Diagnoses in 376 Previously Unsolvable Pediatric Cases",
+      "source": "NEJM AI / NBC News / Becker's Hospital Review",
+      "category": "Genomics & Precision Medicine",
+      "snippet": "Published June 18, 2026 in NEJM AI, researchers from Boston Children's Hospital, Harvard, and OpenAI used the o3 Deep Research model to reanalyze 376 unresolved rare-disease genomes, surfacing leads that were expert-confirmed as 18 new clinical diagnoses — including 10 neurodevelopmental, 4 neuromuscular, and 2 sudden pediatric death cases. Every AI output was reviewed and confirmed by geneticists under ACMG/AMP criteria in CLIA-certified labs; Boston Children's broader AI integration has also saved 60,000 hours of work and $7 million in labor costs.",
+      "result": "18 new diagnoses from 376 previously unsolvable rare-disease cases",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/boston-childrens-openai-identify-18-rare-disease-diagnoses/"
+    },
+    {
+      "title": "Werfen ROTEM Sigma Wins FDA Clearance for Trauma Coagulation Testing — Enabling Point-of-Care Bleeding Management",
+      "source": "CAP Today / LabMedica International",
       "category": "Diagnostics & Imaging",
-      "snippet": "Published pivotal trial results from three prospective controlled studies validated AEYE-DS, the FDA-cleared fully autonomous AI diabetic retinopathy screening system, across both portable handheld and desktop cameras in over 1,200 patients. The system achieved 99% imageability, sensitivity of 92–93% for more-than-mild DR using the portable camera and 93% for the tabletop, and critically 100% sensitivity for all severe ETDRS ≥43 cases across all three trials — the 2026 ADA Standards of Care (Recommendation 12.6) now explicitly name AEYE-DS as a validated evidence-based screening strategy.",
-      "result": "99% imageability; 100% sensitivity for severe DR; ADA-endorsed standard",
-      "url": "https://www.prnewswire.com/news-releases/aeye-ds-clinical-trials-published-first-fully-autonomous-diabetic-retinopathy-screening-technology-across-portable-and-tabletop-devices-demonstrates-99-imageability-one-image-per-eye-workflow-and-best-in-class-diagnostic-effic-302873861.html"
+      "snippet": "On November 17, 2026, Werfen received FDA 510(k) clearance expanding the ROTEM Sigma Complete cartridge from cardiovascular surgery and liver transplantation into trauma care — covering perioperative hemorrhage and thrombosis assessment at the point of care for adult trauma patients. The fully automated viscoelastic testing system delivers results within 15 minutes, aligning with current trauma management guidelines recommending viscoelastic testing as part of goal-directed bleeding management.",
+      "result": "Trauma coagulation results in <15 minutes at point of care",
+      "url": "https://www.captodayonline.com/fda-clears-rotem-sigma-cartridge-for-use-in-trauma/"
     },
     {
-      "title": "Masimo smartSedLine Receives FDA Clearance With Faster PSi Algorithm for Brain Monitoring Under Anesthesia",
-      "source": "Orange County Business Journal / Medical Device Network",
-      "category": "Wearables & Monitoring",
-      "snippet": "Masimo (a Danaher company) received FDA 510(k) clearance on November 18, 2026 for smartSedLine, a next-generation brain function monitoring solution featuring an updated Patient State Index algorithm that delivers faster assessments of sedation depth during anesthesia induction and maintains stability when EEG signals are weak. This marks Masimo's seventh FDA clearance in 2026, with the system designed to improve individualized patient care and potentially improve hemodynamic stability in high-risk patients.",
-      "result": "7th FDA clearance for Masimo in 2026; faster PSi induction response validated",
-      "url": "https://www.ocbj.com/healthcare/masimo-wins-fda-clearance-for-brain-monitoring-tech/"
-    },
-    {
-      "title": "Novo Nordisk Sogroya Wins FDA Approval for Turner Syndrome Children Based on REAL8 Trial Non-Inferiority Data",
-      "source": "Pharmacy Times / Novo Nordisk Press Release",
-      "category": "Drug Delivery & Therapeutics",
-      "snippet": "The FDA approved Novo Nordisk's once-weekly Sogroya (somapacitan-beco) on November 20, 2026 for children aged 2.5 years and older with growth failure associated with Turner Syndrome — making it the first and only once-weekly long-acting growth hormone for this condition. The approval was based on the Phase III REAL8 trial of 105 pediatric TS patients over 52 weeks, in which children on weekly Sogroya achieved comparable growth rates to those receiving daily growth hormone injections.",
-      "result": "REAL8 trial: 105 patients; weekly dosing non-inferior to daily injections at 52 weeks",
-      "url": "https://www.pharmacytimes.com/view/fda-approves-weekly-somapacitan-for-children-with-turner-syndrome"
-    },
-    {
-      "title": "Sine Health FDA Clears First Smartphone-Only Essential Tremor Monitoring Device for 7 Million Americans",
+      "title": "Sine Health Wins FDA Clearance for World's First Smartphone-Only Essential Tremor Monitoring Device",
       "source": "PR Newswire / Securities.io",
       "category": "Wearables & Monitoring",
-      "snippet": "Sine Health received FDA 510(k) clearance (K261026) on November 15, 2026 for Sine, the first FDA-cleared device to monitor essential tremor using only a smartphone's built-in sensors — no additional hardware required. The app passively captures tremor data as patients go about their daily lives, giving clinicians continuous objective measurements between clinic visits; this is the company's second FDA clearance in 2026, following Apple Watch-based Parkinson's disease monitoring cleared in June.",
-      "result": "First FDA-cleared smartphone-only tremor monitor; passive continuous data capture",
-      "url": "https://www.securities.io/smartphone-only-essential-tremor-tracking-secures-fda-510-k-clearance/"
+      "snippet": "On November 17, 2026, Sine Health (formerly Nordic Kinetics AB) received FDA 510(k) clearance (K261026) for its Sine Monitoring Essential Tremor Smartphone (SMETSP) — the first FDA-cleared way to monitor essential tremor using only a patient's existing smartphone, working passively in the background without additional hardware. The clearance targets the approximately 7 million Americans with essential tremor who are frequently under-optimized on therapy because clinicians rely on brief, intermittent clinic observations, and follows Sine's June 2026 Apple Watch-based Parkinson's monitoring clearance.",
+      "result": "First smartphone-only tremor monitor cleared; targets 7M U.S. patients",
+      "url": "https://www.prnewswire.com/news-releases/sine-health-receives-fda-510k-clearance-for-the-first-smartphone-essential-tremor-monitoring-device-302942052.html"
     },
     {
-      "title": "UpDoc AI Titration Achieves 3.2x Improvement in Glycemic Control vs. Standard Care in Cleveland Clinic and UCSF Pilot",
-      "source": "Medical AI Pipeline / Substack",
+      "title": "Epic AI at The Christ Hospital Pushes Lung Cancer Early Detection to 69% vs. 46% National Average",
+      "source": "Fierce Healthcare / HIMSS26 Reports",
       "category": "AI & Machine Learning",
-      "snippet": "Real-world deployment data from post-clearance pilots at Cleveland Clinic and UCSF Health showed that UpDoc's autonomous AI insulin titration system achieved glycemic control (HbA1c targets) in 81% of Type 2 diabetes patients within 8 weeks, compared to 25% under traditional care — a 3.2x improvement on the primary endpoint. The result carries significant payor cost implications and represents one of the strongest documented real-world AI clinical outcomes published in 2026.",
-      "result": "81% vs 25% glycemic control at 8 weeks — 3.2x improvement over standard care",
-      "url": "https://medicalaipipeline.substack.com/p/the-medical-ai-pipeline-july-2026"
+      "snippet": "Data presented at HIMSS26 showed Epic's AI agent 'Art' — deployed at The Christ Hospital — extracting incidental findings from radiology results and driving follow-up, achieving a 69% early lung cancer detection rate versus the 46% national average. Additional health system results showed clinicians completing discharge summaries 20–30% faster, Summit Health cutting prior authorization submission time by 42% with 92% of AI responses accepted without edits.",
+      "result": "69% early lung cancer detection vs. 46% national average",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/himss26-epic-expands-ai-roadmap-previews-factory-build-and-orchestrate-ai"
     },
     {
-      "title": "Continuous Wearable Vital-Sign Monitoring on Surgical Wards Cuts Manual Spot Checks by 62.7%, Saving 10 Minutes Per Patient Per Day",
+      "title": "PARAMOUNT Trial: AI Coronary Plaque Quantification Outperforms Standard Care in 530-Patient RCT at AHA 2026",
+      "source": "HCPLive / AI News Roundup Nov 2026",
+      "category": "Diagnostics & Imaging",
+      "snippet": "Preliminary data from the PARAMOUNT trial, presented at the American Heart Association 2026 Scientific Sessions, showed that AI-enabled quantitative plaque assessment from coronary CT angiography significantly improved diagnostic certainty for suspected coronary artery disease versus standard care. The prospective randomized trial enrolled 530 symptomatic patients across 21 sites between January 2025 and February 2026, reporting a favorable win ratio for the AI group at 180-day follow-up.",
+      "result": "Favorable 180-day win ratio for AI group across 21 sites",
+      "url": "https://riorundown.substack.com/p/ai-news-nov-08-2026-agentic-ai-infrastructure"
+    },
+    {
+      "title": "Wearable Vital-Sign Monitoring on Surgical Wards: 102-Patient Prospective Study Reports 4.05/5 Acceptance Score",
       "source": "PLOS ONE / PMC",
       "category": "Wearables & Monitoring",
-      "snippet": "A prospective mixed-methods survey study published November 23, 2026 in PLOS ONE evaluated 102 patients on surgical wards using continuous wearable vital-sign monitoring, finding mean overall acceptance of 4.05/5 and mean satisfaction of 8.21/10. Linked implementation data from the same institution's REQUEST study showed that deploying the wearable system reduced manual nursing spot checks by 62.7%, corresponding to an estimated time saving of 10.1 minutes per patient per day.",
-      "result": "62.7% reduction in manual spot checks; 10.1 min/patient/day nursing time saved",
+      "snippet": "A prospective mixed-methods study published November 23, 2026 in PLOS ONE evaluated continuous wearable vital-sign monitoring across 102 post-surgical ward patients using Healthdot and viQtor devices, finding high patient acceptance (mean 4.05 ± 0.54 on a 1–5 scale) and strong satisfaction (mean 8.21 ± 1.39 on a 1–10 scale). The study supports feasibility of continuous wearable monitoring outside the ICU, with the Healthdot device scoring significantly higher acceptance (4.20) than the viQtor (3.80, p<0.001).",
+      "result": "4.05/5 acceptance score; 8.21/10 satisfaction across 102 patients",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13792430/"
-    },
-    {
-      "title": "FDA Classifies AI-Powered Digital Cervical Cytology Slide Imaging System as Class II, Paving Deployment Path",
-      "source": "Alston & Bird Health Care Week in Review",
-      "category": "Diagnostics & Imaging",
-      "snippet": "On November 4, 2026, the FDA issued a final order classifying the Digital Cervical Cytology Slide Imaging System with Artificial Intelligence Algorithm into Class II (special controls), establishing a formal regulatory pathway for AI-assisted cervical cancer screening devices. The same regulatory action week also saw Class II classifications granted for Prognostic Assessment Software of Mild Cognitive Impairment and a Wearable Vibration Device for Orthopedic Use, reflecting an accelerating pace of AI and digital device codification.",
-      "result": "Class II pathway established for AI cervical cytology; 3 device types classified in one week",
-      "url": "https://www.alston.com/en/insights/publications/2026/11/health-care-week-in-review-november-6-2026"
     }
   ],
-  "generated_at": "2026-11-27T16:16:42.895208+00:00"
+  "generated_at": "2026-11-28T15:10:12.176839+00:00"
 }
